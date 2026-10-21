@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T21:21:56.313827+00:00",
+ "updated": "2026-10-21T21:58:15.172151+00:00",
  "window_hours": 48,
  "headlines": 122,
  "feeds_ok": [
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
+   "pos": 5,
    "neg": 4,
-   "count": 29,
+   "count": 28,
    "items": [
     {
      "title": "Tesla–SpaceX merger talks could put 30,221 Bitcoin under one roof",
