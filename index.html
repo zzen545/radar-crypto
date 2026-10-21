@@ -70,6 +70,12 @@ svg text { fill: var(--muted); font: 10px var(--mono); }
 .notes b { width: 14px; flex: none; text-align: center; font-family: var(--mono); }
 .empty { color: var(--muted); padding: 24px 16px; }
 .detail h3 { margin: 0; font-size: 14px; font-weight: 600; }
+.news { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; font-size: 13px; }
+.news li { display: grid; grid-template-columns: 14px minmax(0, 1fr); column-gap: 8px; }
+.news li b { font-family: var(--mono); text-align: center; grid-row: span 2; }
+.news a { color: var(--fg); text-decoration: none; } .news a:hover { text-decoration: underline; color: var(--accent); }
+.news small { grid-column: 2; color: var(--muted); font-size: 11px; }
+.news li.x { display: block; }
 td small.brk { display: block; font-size: 10px; color: var(--muted); letter-spacing: .02em; }
 .plan { display: grid; gap: 10px; border-top: 1px solid var(--line); padding-top: 12px; }
 .plan-head { display: flex; align-items: center; gap: 10px; }
@@ -134,7 +140,7 @@ footer { color: var(--muted); font-size: 12px; }
 
   <footer>
     Data dari Binance, otomatis pindah ke Bitget jika koin tidak ada atau datanya kurang di Binance. Awali dengan <code>bitget:</code> untuk memaksa Bitget.
-    Skor total = teknikal (T) + volume (V) + transaksi real-time (X). Candle yang belum selesai tidak dihitung. Diperbarui otomatis tiap 5 menit. Ini analisa teknikal otomatis, bukan saran investasi.
+    Skor total = teknikal (T) + volume (V) + transaksi real-time (X) + berita (B). Candle yang belum selesai tidak dihitung. Diperbarui otomatis tiap 5 menit. Ini analisa teknikal otomatis, bukan saran investasi.
   </footer>
 </div>
 <div id="tip" hidden></div>
@@ -418,6 +424,36 @@ async function flowAnalysis(sym, source, market) {
   return { score, notes };
 }
 
+// ---------- Analisa berita ----------
+// news.json dibuat GitHub Actions tiap 30 menit dari RSS CoinDesk, Cointelegraph, Decrypt, dll.
+async function loadNews() {
+  for (const url of ["news.json", "https://raw.githubusercontent.com/zzen545/radar-crypto/main/news.json"]) {
+    try { const r = await fetch(url + "?t=" + Date.now()); if (r.ok) return await r.json(); } catch (e) { /* coba sumber berikutnya */ }
+  }
+  return null;
+}
+async function loadFearGreed() {
+  try { const r = await getJSON("https://api.alternative.me/fng/?limit=1"); return r.ok ? r.body.data[0] : null; } catch (e) { return null; }
+}
+function newsAnalysis(sym, news, fng) {
+  const notes = []; let score = 0;
+  const vote = (pts, note) => { score += pts; notes.push([pts, note]); };
+  const c = news && news.coins ? news.coins[sym.replace(/USDT$/, "")] : null;
+  if (!news) notes.push([0, "Data berita belum tersedia"]);
+  else if (!c || !c.count) notes.push([0, `Tidak ada berita tentang koin ini dalam ${news.window_hours} jam terakhir`]);
+  else {
+    const net = c.pos - c.neg;
+    vote(net >= 2 ? 1 : net <= -2 ? -1 : 0, `${c.count} berita ${news.window_hours} jam terakhir: ${c.pos} bernada positif, ${c.neg} negatif` +
+      (net >= 2 ? " (sentimen positif)" : net <= -2 ? " (sentimen negatif)" : " (netral)"));
+  }
+  if (fng) {
+    const v = +fng.value;
+    vote(0, `Fear & Greed Index pasar crypto: ${v} (${fng.value_classification})` +
+      (v >= 75 ? ": pasar euforia, rawan koreksi" : v <= 25 ? ": pasar ketakutan, sering jadi area beli jangka panjang" : ""));
+  }
+  return { score, notes, items: c ? c.items : [], updated: news && news.updated };
+}
+
 // ---------- Rencana posisi ----------
 // Bukan ramalan harga: level dihitung dari volatilitas (ATR) dan swing high/low terakhir.
 function levels(ind, look = 150, k = 3) {
@@ -499,7 +535,7 @@ function renderTable() {
       tr.append(el("td", {}, s.rsi.toFixed(1)));
       const sg = x => (x > 0 ? "+" : "") + x;
       const sc = el("td", { class: s.score > 0 ? "pos" : s.score < 0 ? "neg" : "" }, sg(s.score));
-      sc.append(el("small", { class: "brk" }, `T${sg(s.tech)} V${sg(r.vol.score)} X${sg(r.flow.score)}`));
+      sc.append(el("small", { class: "brk" }, `T${sg(s.tech)} V${sg(r.vol.score)} X${sg(r.flow.score)} B${sg(r.news.score)}`));
       tr.append(sc);
       const td = el("td"); td.append(el("span", { class: "chip " + s.trend }, ICON[s.trend] + " " + s.trend)); tr.append(td);
       tr.append(el("td", { class: "side " + r.plan.side }, r.plan.side));
@@ -533,8 +569,21 @@ function renderDetail() {
   box.replaceChildren(h, legend, chartBox, renderPlan(r),
     ...group(`Teknikal (${sg(r.res.tech)})`, r.res.notes),
     ...group(`Volume (${sg(r.vol.score)})`, r.vol.notes),
-    ...group(`Transaksi real-time (${sg(r.flow.score)})`, r.flow.notes));
+    ...group(`Transaksi real-time (${sg(r.flow.score)})`, r.flow.notes),
+    ...group(`Berita (${sg(r.news.score)})`, r.news.notes), newsList(r.news));
   drawChart(chartBox, r);
+}
+
+function newsList(n) {
+  const ul = el("ul", { class: "news" });
+  for (const it of n.items.slice(0, 6)) {
+    const li = el("li"), a = el("a", { href: it.link, target: "_blank", rel: "noopener" }, it.title);
+    const ago = Math.max(1, Math.round((Date.now() - Date.parse(it.time)) / 3600000));
+    li.append(el("b", { class: it.s > 0 ? "pos" : it.s < 0 ? "neg" : "" }, it.s > 0 ? "+" : it.s < 0 ? "−" : "·"), a, el("small", {}, `${it.source} · ${ago} jam lalu`));
+    ul.append(li);
+  }
+  if (n.updated) ul.append(el("li", { class: "x" }, `Berita diperbarui ${new Date(n.updated).toLocaleTimeString("id-ID", { hour: "2-digit", minute: "2-digit" })}. Nada berita dinilai dari kata kunci di judul, jadi bisa meleset.`));
+  return ul;
 }
 
 let account = { modal: 1000, risk: 1 };
@@ -669,17 +718,19 @@ async function run() {
   const btn = $("run"), interval = $("interval").value;
   const inputs = $("symbols").value.split(/[\s,]+/).filter(Boolean);
   btn.disabled = true; $("status").textContent = `Mengambil data ${inputs.length} koin…`;
+  const [news, fng] = await Promise.all([loadNews(), loadFearGreed()]);
   results = await Promise.all(inputs.map(async input => {
     try {
       const d = await fetchAuto(input, interval);
       if (d.rows.length < MIN_CANDLES) return { input, sym: d.sym, source: d.source, rows: d.rows, error: `Data terlalu sedikit (${d.rows.length} candle). Coba timeframe lebih kecil.` };
       const ind = indicators(d.rows);
       const res = analyze(ind), vol = volumeAnalysis(d.rows, ind), flow = await flowAnalysis(d.sym, d.source, d.market);
-      // Skor total = teknikal + volume + transaksi; tren ditentukan dari skor total
+      const nws = newsAnalysis(d.sym, news, fng);
+      // Skor total = teknikal + volume + transaksi + berita; tren ditentukan dari skor total
       res.tech = res.score;
-      res.score = res.tech + vol.score + flow.score;
+      res.score = res.tech + vol.score + flow.score + nws.score;
       res.trend = res.score >= 3 ? "BULLISH" : res.score <= -3 ? "BEARISH" : "SIDEWAYS";
-      return { input, sym: d.sym, source: d.source, rows: d.rows, ind, interval, res, vol, flow, plan: plan(ind, res) };
+      return { input, sym: d.sym, source: d.source, rows: d.rows, ind, interval, res, vol, flow, news: nws, plan: plan(ind, res) };
     } catch (e) {
       return { input, sym: normalize(input.split(":").pop()), error: "Gagal: " + e.message };
     }
