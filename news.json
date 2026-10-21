@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T20:19:47.336430+00:00",
+ "updated": "2026-10-21T20:56:58.648849+00:00",
  "window_hours": 48,
- "headlines": 116,
+ "headlines": 115,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,9 @@
  },
  "coins": {
   "BTC": {
-   "pos": 7,
+   "pos": 6,
    "neg": 4,
-   "count": 30,
+   "count": 29,
    "items": [
     {
      "title": "Declining a Bitcoin loan may not spare a cash purchase from futures rules, CFTC says",
@@ -103,11 +103,11 @@
      "s": -1
     },
     {
-     "title": "Live updates: Bitcoin rises to $84,000, but rally cut short by Middle East worry",
+     "title": "Live updates: Bitcoin holds above $84,000 as Middle East worries resurface",
      "link": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
      "source": "CoinDesk",
      "time": "2026-10-21T10:30:40+00:00",
-     "s": 1
+     "s": 0
     },
     {
      "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
@@ -218,7 +218,7 @@
   "XRP": {
    "pos": 1,
    "neg": 1,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "XRP flashes a potential bottom signal, but $15.7 billion in exchange supply threatens recovery",
@@ -233,13 +233,6 @@
      "source": "CoinDesk",
      "time": "2026-10-21T05:25:57+00:00",
      "s": -1
-    },
-    {
-     "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
-     "link": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
-     "source": "Decrypt",
-     "time": "2026-10-19T20:46:05+00:00",
-     "s": 0
     }
    ]
   },
