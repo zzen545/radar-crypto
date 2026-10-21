@@ -150,6 +150,7 @@ class Trade:
     r: float
     tp1: bool
     outcome: str
+    stop_pct: float = 0.0  # jarak stop loss dari entry (%), untuk menghitung ukuran posisi
 
 
 def simulate(df: pd.DataFrame, plan: dict, start: int) -> tuple[int, int, float, bool, str] | None:
@@ -267,7 +268,8 @@ def backtest(symbol: str, use_volume: bool = True, min_adx: float = 0, mtf: bool
             continue
         fill, exit_i, r, tp1, outcome = out
         trades.append(Trade(sym, side, str(df.index[t].date()), str(df.index[fill].date()), str(df.index[exit_i].date()),
-                            exit_i - fill + 1, score, round(r, 3), tp1, outcome))
+                            exit_i - fill + 1, score, round(r, 3), tp1, outcome,
+                            round(plan["risk"] / plan["entry"] * 100, 2)))
         t = exit_i + 1  # satu posisi per koin
     t0 = max(60, int(np.searchsorted(df.index, pd.Timestamp(start, tz="UTC")))) if start else WARMUP
     info = {"symbol": sym, "source": source, "start": str(df.index[t0].date()), "end": str(df.index[-1].date()),
