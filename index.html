@@ -69,6 +69,25 @@ svg text { fill: var(--muted); font: 10px var(--mono); }
 .notes li { display: flex; gap: 8px; }
 .notes b { width: 14px; flex: none; text-align: center; font-family: var(--mono); }
 .empty { color: var(--muted); padding: 24px 16px; }
+.detail h3 { margin: 0; font-size: 14px; font-weight: 600; }
+.plan { display: grid; gap: 10px; border-top: 1px solid var(--line); padding-top: 12px; }
+.plan-head { display: flex; align-items: center; gap: 10px; }
+.plan-intro, .plan p { margin: 0; }
+.side-chip, td.side { font-weight: 600; font-family: var(--mono); }
+.side-chip { padding: 2px 10px; border-radius: 999px; font-size: 12px; }
+.side-chip.LONG { background: var(--up-soft); color: var(--up); } .side-chip.SHORT { background: var(--down-soft); color: var(--down); } .side-chip.TUNGGU { background: var(--flat-soft); color: var(--flat); }
+td.side.LONG { color: var(--up); } td.side.SHORT { color: var(--down); } td.side.TUNGGU { color: var(--flat); }
+.scen { border: 1px solid var(--line); border-radius: 8px; padding: 10px 12px; display: grid; gap: 6px; }
+.scen-title { font-weight: 600; } .scen-title.LONG { color: var(--up); } .scen-title.SHORT { color: var(--down); }
+table.lv { width: auto; } table.lv th, table.lv td { border: 0; padding: 3px 12px 3px 0; text-align: left; text-transform: none; letter-spacing: 0; font-size: 13px; }
+table.lv th { color: var(--muted); font-weight: 400; font-family: var(--sans); }
+table.lv td.x, .x { color: var(--muted); font-size: 12px; }
+.plan-meta { display: flex; flex-wrap: wrap; gap: 6px 16px; font: 12px var(--mono); color: var(--muted); }
+.warn { background: var(--flat-soft); border-radius: 6px; padding: 6px 10px; font-size: 13px; }
+.calc { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: end; }
+.fld { display: grid; gap: 2px; } .fld label { font-size: 12px; color: var(--muted); } .fld input { width: 140px; font-family: var(--mono); }
+.calc p { flex-basis: 100%; margin: 0; }
+svg text.lvl { font-weight: 500; }
 .alert { background: var(--down-soft); color: var(--fg); border: 1px solid var(--down); border-radius: 10px; padding: 12px 16px; line-height: 1.6; }
 .alert b { color: var(--down); display: block; }
 footer { color: var(--muted); font-size: 12px; }
@@ -105,7 +124,7 @@ footer { color: var(--muted); font-size: 12px; }
   <div class="main">
     <div class="card table-wrap">
       <table>
-        <thead><tr><th>Koin</th><th>Harga</th><th>Ubah 7</th><th>RSI</th><th>Skor</th><th>Tren</th></tr></thead>
+        <thead><tr><th>Koin</th><th>Harga</th><th>Ubah 7</th><th>RSI</th><th>Skor</th><th>Tren</th><th>Posisi</th></tr></thead>
         <tbody id="rows"></tbody>
       </table>
     </div>
@@ -234,6 +253,16 @@ function stdev(x, n) {
   }
   return out;
 }
+function atr(rows, n = 14) {
+  const out = new Array(rows.length).fill(NaN); let a = 0;
+  for (let i = 0; i < rows.length; i++) {
+    const r = rows[i], pc = i ? rows[i - 1].c : r.c;
+    const tr = Math.max(r.h - r.l, Math.abs(r.h - pc), Math.abs(r.l - pc));
+    a = i === 0 ? tr : a + (tr - a) / n;
+    if (i >= n - 1) out[i] = a;
+  }
+  return out;
+}
 function indicators(rows) {
   const c = rows.map(r => r.c), v = rows.map(r => r.v);
   const e26 = ema(c, 26), e12 = ema(c, 12);
@@ -243,7 +272,7 @@ function indicators(rows) {
     close: c, vol: v, sma20: mid, sma50: sma(c, 50), sma200: sma(c, 200), rsi: rsi(c),
     macd: line, signal: sig, hist: line.map((m, i) => m - sig[i]),
     bbMid: mid, bbUp: mid.map((m, i) => m + 2 * sd[i]), bbLo: mid.map((m, i) => m - 2 * sd[i]),
-    volSma: sma(v, 20),
+    volSma: sma(v, 20), high: rows.map(r => r.h), low: rows.map(r => r.l), atr: atr(rows),
   };
 }
 
@@ -260,9 +289,11 @@ function fmt(x) {
 function fmtPrice(x) {
   const a = Math.abs(x);
   if (a >= 1000) return x.toLocaleString("en-US", { maximumFractionDigits: 2 });
+  if (a >= 10) return x.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 });
   if (a >= 1) return x.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 4 });
   return String(Number(x.toPrecision(4)));
 }
+function usdt(x) { return x.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + " USDT"; }
 function analyze(ind, lookback = 7) {
   const n = ind.close.length, i = n - 1, p = n - 2;
   const close = ind.close[i]; let score = 0; const notes = [];
@@ -296,6 +327,57 @@ function analyze(ind, lookback = 7) {
   return { price: close, change: ref ? (close / ref - 1) * 100 : 0, score, trend, rsi: r, notes };
 }
 
+// ---------- Rencana posisi ----------
+// Bukan ramalan harga: level dihitung dari volatilitas (ATR) dan swing high/low terakhir.
+function levels(ind, look = 150, k = 3) {
+  const n = ind.close.length, close = ind.close[n - 1];
+  const sup = [], resi = [];
+  for (let i = Math.max(k, n - look); i < n - k; i++) {
+    const win = j => [...Array(2 * k + 1).keys()].map(d => j - k + d);
+    if (win(i).every(j => ind.high[j] <= ind.high[i])) resi.push(ind.high[i]);
+    if (win(i).every(j => ind.low[j] >= ind.low[i])) sup.push(ind.low[i]);
+  }
+  const below = sup.filter(x => x < close), above = resi.filter(x => x > close);
+  const recent = ind.close.slice(-60).map((_, j) => n - 60 + j).filter(j => j >= 0);
+  return {
+    support: below.length ? Math.max(...below) : Math.min(...recent.map(j => ind.low[j])),
+    resistance: above.length ? Math.min(...above) : Math.max(...recent.map(j => ind.high[j])),
+  };
+}
+function scenario(label, side, entry, entryLo, entryHi, a, guard) {
+  const dir = side === "LONG" ? 1 : -1;
+  // Stop di balik support/resistance terdekat (+0,5 ATR); kalau terlalu dekat/jauh pakai 1,5 ATR
+  let stop = guard - dir * 0.5 * a;
+  const dist = dir * (entry - stop);
+  if (!(dist >= 0.75 * a && dist <= 3 * a)) stop = entry - dir * 1.5 * a;
+  const risk = dir * (entry - stop);
+  return { label, side, entry, entryLo, entryHi, stop, risk, tp1: entry + dir * 1.5 * risk, tp2: entry + dir * 3 * risk };
+}
+function plan(ind, res) {
+  const n = ind.close.length, close = ind.close[n - 1], a = ind.atr[n - 1];
+  const { support, resistance } = levels(ind);
+  const out = { support, resistance, atr: a, warnings: [], scenarios: [] };
+  if (res.trend === "BULLISH") {
+    out.side = "LONG";
+    out.scenarios.push(scenario("Buy di area harga sekarang", "LONG", close - 0.25 * a, close - 0.5 * a, close, a, support));
+    if (res.rsi >= 70) out.warnings.push(`RSI ${res.rsi.toFixed(1)} sudah overbought. Lebih aman menunggu pullback ke MA20 (${fmt(ind.sma20[n - 1])}).`);
+  } else if (res.trend === "BEARISH") {
+    out.side = "SHORT";
+    out.scenarios.push(scenario("Sell di area harga sekarang", "SHORT", close + 0.25 * a, close, close + 0.5 * a, a, resistance));
+    if (res.rsi <= 30) out.warnings.push(`RSI ${res.rsi.toFixed(1)} sudah oversold. Rawan pantulan, lebih aman menunggu pantulan ke MA20 (${fmt(ind.sma20[n - 1])}).`);
+  } else {
+    out.side = "TUNGGU";
+    const up = resistance + 0.1 * a, dn = support - 0.1 * a;
+    out.scenarios.push(scenario(`Long jika candle close di atas ${fmt(resistance)}`, "LONG", up, up, up, a, resistance));
+    out.scenarios.push(scenario(`Short jika candle close di bawah ${fmt(support)}`, "SHORT", dn, dn, dn, a, support));
+  }
+  for (const sc of out.scenarios) {
+    const hit = sc.side === "LONG" ? resistance > sc.entry && resistance < sc.tp1 : support < sc.entry && support > sc.tp1;
+    if (out.side !== "TUNGGU" && hit) out.warnings.push(`Ada ${sc.side === "LONG" ? "resistance" : "support"} di ${fmt(sc.side === "LONG" ? resistance : support)} sebelum TP1. Harga bisa tertahan di sana.`);
+  }
+  return out;
+}
+
 // ---------- Tampilan ----------
 const $ = id => document.getElementById(id);
 const ICON = { BULLISH: "▲", BEARISH: "▼", SIDEWAYS: "►" };
@@ -318,7 +400,7 @@ function renderTable() {
     sym.append(el("small", {}, r.source ? `${r.source} · ${r.rows.length} candle` : ""));
     tr.append(sym);
     if (!r.res) {
-      const td = el("td", { class: "err", colspan: "5" }, r.error); tr.append(td);
+      const td = el("td", { class: "err", colspan: "6" }, r.error); tr.append(td);
     } else {
       const s = r.res;
       tr.append(el("td", {}, fmtPrice(s.price)));
@@ -326,6 +408,7 @@ function renderTable() {
       tr.append(el("td", {}, s.rsi.toFixed(1)));
       tr.append(el("td", { class: s.score > 0 ? "pos" : s.score < 0 ? "neg" : "" }, (s.score > 0 ? "+" : "") + s.score));
       const td = el("td"); td.append(el("span", { class: "chip " + s.trend }, ICON[s.trend] + " " + s.trend)); tr.append(td);
+      tr.append(el("td", { class: "side " + r.plan.side }, r.plan.side));
     }
     const pick = () => { selected = r.input; renderTable(); renderDetail(); };
     tr.addEventListener("click", pick);
@@ -351,8 +434,61 @@ function renderDetail() {
   for (const [pts, note] of r.res.notes) {
     const li = el("li"); li.append(el("b", { class: pts > 0 ? "pos" : pts < 0 ? "neg" : "" }, pts > 0 ? "+" : pts < 0 ? "−" : "·"), el("span", {}, note)); notes.append(li);
   }
-  box.replaceChildren(h, legend, chartBox, notes);
+  box.replaceChildren(h, legend, chartBox, renderPlan(r), el("h3", {}, "Alasan sinyal"), notes);
   drawChart(chartBox, r);
+}
+
+let account = { modal: 1000, risk: 1 };
+try { Object.assign(account, JSON.parse(localStorage.getItem("radar-akun") || "{}")); } catch (e) { /* abaikan */ }
+
+function pct(a, b) { return ((a / b - 1) * 100).toFixed(1) + "%"; }
+
+function renderPlan(r) {
+  const p = r.plan, wrap = el("section", { class: "plan" });
+  const head = el("div", { class: "plan-head" });
+  head.append(el("h3", {}, "Rencana posisi"), el("span", { class: "side-chip " + p.side }, p.side));
+  wrap.append(head);
+  const intro = p.side === "TUNGGU"
+    ? "Tren belum jelas. Jangan masuk dulu, tunggu harga keluar dari range support–resistance:"
+    : `Tren ${r.res.trend.toLowerCase()} (skor ${r.res.score > 0 ? "+" : ""}${r.res.score}), jadi arah yang searah tren adalah ${p.side}.`;
+  wrap.append(el("p", { class: "plan-intro" }, intro));
+
+  for (const sc of p.scenarios) {
+    const t = el("table", { class: "lv" });
+    const row = (k, v, extra, cls) => { const tr = el("tr"); tr.append(el("th", {}, k), el("td", { class: cls || "" }, v), el("td", { class: "x" }, extra || "")); t.append(tr); };
+    const entryTxt = sc.entryLo === sc.entryHi ? fmtPrice(sc.entry) : `${fmtPrice(sc.entryLo)} – ${fmtPrice(sc.entryHi)}`;
+    row("Entry", entryTxt, sc.entryLo === sc.entryHi ? "" : "rata-rata " + fmtPrice(sc.entry));
+    row("Stop loss", fmtPrice(sc.stop), pct(sc.stop, sc.entry), "neg");
+    row("TP1 (1,5R)", fmtPrice(sc.tp1), pct(sc.tp1, sc.entry), "pos");
+    row("TP2 (3R)", fmtPrice(sc.tp2), pct(sc.tp2, sc.entry), "pos");
+    const size = (account.modal * account.risk / 100) / sc.risk, nominal = size * sc.entry, lev = nominal / account.modal;
+    row("Ukuran posisi", `${fmt(size)} ${r.sym.replace(/USDT$/, "")}`, `≈ ${usdt(nominal)}${lev > 1 ? ` · leverage ${lev.toFixed(1)}x` : ""}`);
+    const box = el("div", { class: "scen" });
+    box.append(el("div", { class: "scen-title " + sc.side }, (sc.side === "LONG" ? "▲ " : "▼ ") + sc.label), t);
+    wrap.append(box);
+  }
+
+  const lv = el("div", { class: "plan-meta" });
+  lv.append(el("span", {}, `Support ${fmtPrice(p.support)}`), el("span", {}, `Resistance ${fmtPrice(p.resistance)}`), el("span", {}, `ATR 14 ${fmt(p.atr)} (${(p.atr / r.res.price * 100).toFixed(1)}%)`));
+  wrap.append(lv);
+  for (const w of p.warnings) wrap.append(el("p", { class: "warn" }, "⚠ " + w));
+
+  const calc = el("div", { class: "calc" });
+  const field = (id, label, val, step) => {
+    const l = el("label", { for: id }, label); const i = el("input", { id, type: "number", min: "0", step, value: String(val), inputmode: "decimal" });
+    i.addEventListener("change", () => {
+      const v = Number(i.value); if (!(v > 0)) return;
+      account[id === "modal" ? "modal" : "risk"] = v;
+      try { localStorage.setItem("radar-akun", JSON.stringify(account)); } catch (e) { /* abaikan */ }
+      renderDetail();
+    });
+    const f = el("div", { class: "fld" }); f.append(l, i); return f;
+  };
+  calc.append(field("modal", "Modal (USDT)", account.modal, "any"), field("risk", "Risiko per posisi (%)", account.risk, "0.1"));
+  calc.append(el("p", { class: "x" }, `Kalau kena stop loss, kerugian maksimal ≈ ${usdt(account.modal * account.risk / 100)}.`));
+  wrap.append(calc);
+  wrap.append(el("p", { class: "x" }, "Level dihitung otomatis dari ATR dan swing high/low, bukan ramalan pasti. Selalu pasang stop loss. Bukan saran investasi."));
+  return wrap;
 }
 
 const NS = "http://www.w3.org/2000/svg";
@@ -374,13 +510,22 @@ function drawChart(box, r, bars = 150) {
 
   // Harga + MA + Bollinger
   const p0 = panels[0];
-  const s0 = scale(idx.flatMap(i => [ind.close[i], ind.bbUp[i], ind.bbLo[i], ind.sma200[i]]), p0);
+  const sc0 = r.plan.scenarios[0];
+  const lvls = r.plan.side === "TUNGGU"
+    ? [["Resistance", r.plan.resistance, "var(--up)"], ["Support", r.plan.support, "var(--down)"]]
+    : [["Entry", sc0.entry, "var(--accent)"], ["SL", sc0.stop, "var(--down)"], ["TP1", sc0.tp1, "var(--up)"], ["TP2", sc0.tp2, "var(--up)"]];
+  const s0 = scale(idx.flatMap(i => [ind.close[i], ind.bbUp[i], ind.bbLo[i], ind.sma200[i]]).concat(lvls.map(l => l[1])), p0);
   grid(s0, p0, [0, .25, .5, .75, 1].map(f => s0.lo + (s0.hi - s0.lo) * f));
   let band = "", back = "";
   for (const i of idx) if (isFinite(ind.bbUp[i])) { band += (band ? "L" : "M") + x(i).toFixed(1) + "," + s0.y(ind.bbUp[i]).toFixed(1); back = "L" + x(i).toFixed(1) + "," + s0.y(ind.bbLo[i]).toFixed(1) + back; }
   if (band) svg.append(svgEl("path", { d: band + back + "Z", fill: "var(--band)", stroke: "none" }));
   for (const [k, c] of [["sma200", "var(--ma200)"], ["sma50", "var(--ma50)"], ["sma20", "var(--ma20)"]]) svg.append(svgEl("path", { d: path(ind[k], s0), fill: "none", stroke: c, "stroke-width": 1.2 }));
   svg.append(svgEl("path", { d: path(ind.close, s0), fill: "none", stroke: "var(--fg)", "stroke-width": 1.6 }));
+  for (const [name, v, color] of lvls) {
+    const yy = s0.y(v), x0 = x(idx[Math.floor(idx.length * .6)]);
+    svg.append(svgEl("line", { x1: x0, x2: W - padR, y1: yy, y2: yy, stroke: color, "stroke-dasharray": "5 3", "stroke-width": 1.2 }));
+    const t = svgEl("text", { x: x0, y: yy - 3, class: "lvl" }); t.textContent = `${name} ${fmt(v)}`; t.style.fill = color; svg.append(t);
+  }
   const last = idx[idx.length - 1];
   svg.append(svgEl("circle", { cx: x(last), cy: s0.y(ind.close[last]), r: 3, fill: "var(--fg)" }));
 
@@ -430,7 +575,8 @@ async function run() {
       const d = await fetchAuto(input, interval);
       if (d.rows.length < MIN_CANDLES) return { input, sym: d.sym, source: d.source, rows: d.rows, error: `Data terlalu sedikit (${d.rows.length} candle). Coba timeframe lebih kecil.` };
       const ind = indicators(d.rows);
-      return { input, sym: d.sym, source: d.source, rows: d.rows, ind, interval, res: analyze(ind) };
+      const res = analyze(ind);
+      return { input, sym: d.sym, source: d.source, rows: d.rows, ind, interval, res, plan: plan(ind, res) };
     } catch (e) {
       return { input, sym: normalize(input.split(":").pop()), error: "Gagal: " + e.message };
     }
