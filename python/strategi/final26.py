@@ -20,3 +20,10 @@ for yr in (2025, 2026):
         lng = sum(t["side"] == 1 for t in tt)
         print(f"{sym[:-4]:6} n{len(tt):3} (L{lng}) win {ww:2} | 5%: {e5:6.0f} dd {d5*100:3.0f}% | 2%: {e2:6.0f} dd {d2*100:3.0f}% | best {best:+.1f}R")
     print("TOTAL", n, w, {k: round(v) for k, v in tot.items()})
+for yr in (2022, 2023, 2024):
+    tot=k=0; dds=[]
+    for sym,tr in res.items():
+        tt=[t for t in tr if t["time"].year==yr]
+        if not tt: continue
+        e,d=m.compound(tt,0.02); tot+=e; k+=1; dds.append(d)
+    print(yr, k, round((tot/k/1000-1)*100), "dd med", round(np.median(dds)*100))
