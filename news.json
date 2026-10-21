@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T21:58:15.172151+00:00",
+ "updated": "2026-10-21T22:23:46.053897+00:00",
  "window_hours": 48,
  "headlines": 122,
  "feeds_ok": [
@@ -238,8 +238,15 @@
   "XRP": {
    "pos": 1,
    "neg": 1,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Why earning XRP yield through this wallet could actually cost you money",
+     "link": "https://cryptoslate.com/xaman-xrp-yield-fees/",
+     "source": "CryptoSlate",
+     "time": "2026-10-21T22:00:04+00:00",
+     "s": 0
+    },
     {
      "title": "XRP flashes a potential bottom signal, but $15.7 billion in exchange supply threatens recovery",
      "link": "https://cryptoslate.com/xrp-flashes-a-potential-bottom-signal-but-15-7-billion-in-exchange-supply-threatens-recovery/",
