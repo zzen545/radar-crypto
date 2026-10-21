@@ -1,17 +1,16 @@
 {
- "updated": "2026-10-21T18:25:32.295818+00:00",
+ "updated": "2026-10-21T19:08:21.611715+00:00",
  "window_hours": 48,
- "headlines": 117,
+ "headlines": 125,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "The read operation timed out"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
    "pos": 7,
@@ -128,7 +127,7 @@
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 5,
+   "count": 7,
    "items": [
     {
      "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
@@ -164,13 +163,27 @@
      "source": "The Block",
      "time": "2026-10-20T16:31:24+00:00",
      "s": 0
+    },
+    {
+     "title": "Hyperliquid Trader Reopens Huge Ethereum Short After $469,000 Hit",
+     "link": "https://bitcoinist.com/hyperliquid-trader-reopens-huge-ethereum-short-after-469-000-hit/",
+     "source": "Bitcoinist",
+     "time": "2026-10-20T14:55:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "Tron Outpaces Ethereum And Solana In One Measure Of Network Revenue",
+     "link": "https://bitcoinist.com/tron-outpaces-ethereum-and-solana-in-one-measure-of-network-revenue/",
+     "source": "Bitcoinist",
+     "time": "2026-10-20T14:05:00+00:00",
+     "s": 0
     }
    ]
   },
   "SOL": {
    "pos": 2,
    "neg": 0,
-   "count": 5,
+   "count": 6,
    "items": [
     {
      "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
@@ -205,6 +218,13 @@
      "link": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
      "source": "The Block",
      "time": "2026-10-20T16:31:24+00:00",
+     "s": 0
+    },
+    {
+     "title": "Tron Outpaces Ethereum And Solana In One Measure Of Network Revenue",
+     "link": "https://bitcoinist.com/tron-outpaces-ethereum-and-solana-in-one-measure-of-network-revenue/",
+     "source": "Bitcoinist",
+     "time": "2026-10-20T14:05:00+00:00",
      "s": 0
     }
    ]
@@ -280,7 +300,7 @@
   "HYPE": {
    "pos": 0,
    "neg": 1,
-   "count": 1,
+   "count": 2,
    "items": [
     {
      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
@@ -288,6 +308,13 @@
      "source": "Cointelegraph",
      "time": "2026-10-20T20:38:00+00:00",
      "s": -1
+    },
+    {
+     "title": "Hyperliquid Trader Reopens Huge Ethereum Short After $469,000 Hit",
+     "link": "https://bitcoinist.com/hyperliquid-trader-reopens-huge-ethereum-short-after-469-000-hit/",
+     "source": "Bitcoinist",
+     "time": "2026-10-20T14:55:00+00:00",
+     "s": 0
     }
    ]
   },
