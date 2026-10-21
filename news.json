@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T11:02:31.680438+00:00",
+ "updated": "2026-10-21T11:58:34.760906+00:00",
  "window_hours": 48,
- "headlines": 123,
+ "headlines": 124,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,30 @@
  "coins": {
   "BTC": {
    "pos": 13,
-   "neg": 6,
-   "count": 35,
+   "neg": 8,
+   "count": 37,
    "items": [
+    {
+     "title": "Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms",
+     "link": "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524",
+     "source": "The Block",
+     "time": "2026-10-21T11:55:08+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin is back near $83,000. Here’s how to assess its support",
+     "link": "https://cryptoslate.com/bitcoin-is-back-near-83000-heres-how-to-assess-its-support/",
+     "source": "CryptoSlate",
+     "time": "2026-10-21T11:20:29+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+     "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
+     "source": "CoinDesk",
+     "time": "2026-10-21T11:15:00+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
      "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -74,13 +95,6 @@
      "s": 0
     },
     {
-     "title": "JPMorgan models Bitcoin reaching $385,000 in 10-year bull case despite CEO Jamie Dimon’s criticism",
-     "link": "https://cryptoslate.com/jpmorgan-models-bitcoin-reaching-385000-in-10-year-bull-case-despite-ceo-jamie-dimons-criticism/",
-     "source": "CryptoSlate",
-     "time": "2026-10-20T20:30:10+00:00",
-     "s": 0
-    },
-    {
      "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
      "link": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
      "source": "Decrypt",
@@ -106,20 +120,6 @@
      "link": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
      "source": "Decrypt",
      "time": "2026-10-20T17:45:04+00:00",
-     "s": 0
-    },
-    {
-     "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
-     "link": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-20T17:40:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation",
-     "link": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
-     "source": "The Block",
-     "time": "2026-10-20T17:11:47+00:00",
      "s": 0
     }
    ]
