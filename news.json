@@ -1,0 +1,333 @@
+{
+ "updated": "2026-10-21T11:02:31.680438+00:00",
+ "window_hours": 48,
+ "headlines": 123,
+ "feeds_ok": [
+  "CoinDesk",
+  "Cointelegraph",
+  "Decrypt",
+  "CryptoSlate",
+  "The Block",
+  "Bitcoinist"
+ ],
+ "feeds_failed": {},
+ "coins": {
+  "BTC": {
+   "pos": 13,
+   "neg": 6,
+   "count": 35,
+   "items": [
+    {
+     "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
+     "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-21T10:39:13+00:00",
+     "s": -1
+    },
+    {
+     "title": "Live updates: Bitcoin clings to $82,500 as SpaceX results lift stock futures",
+     "link": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
+     "source": "CoinDesk",
+     "time": "2026-10-21T10:30:40+00:00",
+     "s": 0
+    },
+    {
+     "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
+     "link": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
+     "source": "CoinDesk",
+     "time": "2026-10-21T09:23:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "Quantum-proof Bitcoin signatures would clog network nodes with 10x larger data",
+     "link": "https://cryptoslate.com/quantum-proof-bitcoin-signatures-would-clog-network-nodes-with-10x-larger-data/",
+     "source": "CryptoSlate",
+     "time": "2026-10-21T08:30:07+00:00",
+     "s": 0
+    },
+    {
+     "title": "Germany’s main savings bank network launches Bitcoin trading",
+     "link": "https://cryptoslate.com/germanys-main-savings-bank-network-launches-bitcoin-trading/",
+     "source": "CryptoSlate",
+     "time": "2026-10-21T07:10:17+00:00",
+     "s": 1
+    },
+    {
+     "title": "Switzerland approves landmark Bitcoin ETF after ruling trading volume sufficient",
+     "link": "https://cryptoslate.com/switzerland-approves-landmark-bitcoin-etf-after-ruling-trading-volume-sufficient/",
+     "source": "CryptoSlate",
+     "time": "2026-10-21T04:40:25+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+     "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+     "source": "CoinDesk",
+     "time": "2026-10-21T04:07:07+00:00",
+     "s": 1
+    },
+    {
+     "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+     "link": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+     "source": "Decrypt",
+     "time": "2026-10-20T21:16:04+00:00",
+     "s": 0
+    },
+    {
+     "title": "JPMorgan models Bitcoin reaching $385,000 in 10-year bull case despite CEO Jamie Dimon’s criticism",
+     "link": "https://cryptoslate.com/jpmorgan-models-bitcoin-reaching-385000-in-10-year-bull-case-despite-ceo-jamie-dimons-criticism/",
+     "source": "CryptoSlate",
+     "time": "2026-10-20T20:30:10+00:00",
+     "s": 0
+    },
+    {
+     "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
+     "link": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
+     "source": "Decrypt",
+     "time": "2026-10-20T19:31:04+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
+     "link": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
+     "source": "Decrypt",
+     "time": "2026-10-20T18:31:04+00:00",
+     "s": 1
+    },
+    {
+     "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+     "link": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
+     "source": "The Block",
+     "time": "2026-10-20T18:14:28+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin's Next Move: Here's What to Watch",
+     "link": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
+     "source": "Decrypt",
+     "time": "2026-10-20T17:45:04+00:00",
+     "s": 0
+    },
+    {
+     "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+     "link": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-20T17:40:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation",
+     "link": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
+     "source": "The Block",
+     "time": "2026-10-20T17:11:47+00:00",
+     "s": 0
+    }
+   ]
+  },
+  "ETH": {
+   "pos": 1,
+   "neg": 1,
+   "count": 9,
+   "items": [
+    {
+     "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
+     "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-21T10:13:52+00:00",
+     "s": 0
+    },
+    {
+     "title": "Ether ETF outflows continue, pass $1B in October so far",
+     "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-21T08:11:50+00:00",
+     "s": 0
+    },
+    {
+     "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+     "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+     "source": "Decrypt",
+     "time": "2026-10-20T20:46:04+00:00",
+     "s": -1
+    },
+    {
+     "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
+     "link": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
+     "source": "The Block",
+     "time": "2026-10-20T16:31:24+00:00",
+     "s": 0
+    },
+    {
+     "title": "Hyperliquid Trader Reopens Huge Ethereum Short After $469,000 Hit",
+     "link": "https://bitcoinist.com/hyperliquid-trader-reopens-huge-ethereum-short-after-469-000-hit/",
+     "source": "Bitcoinist",
+     "time": "2026-10-20T14:55:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "Tron Outpaces Ethereum And Solana In One Measure Of Network Revenue",
+     "link": "https://bitcoinist.com/tron-outpaces-ethereum-and-solana-in-one-measure-of-network-revenue/",
+     "source": "Bitcoinist",
+     "time": "2026-10-20T14:05:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
+     "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-20T12:38:28+00:00",
+     "s": 0
+    },
+    {
+     "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+     "link": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
+     "source": "Decrypt",
+     "time": "2026-10-19T17:31:04+00:00",
+     "s": 0
+    },
+    {
+     "title": "Tom Lee’s Bitmine Adds $30 Million in Ethereum as Buying Nears Its Finish Line",
+     "link": "https://decrypt.co/381311/tom-lee-bitmine-adds-30-million-ethereum-buying-nears-finish-line",
+     "source": "Decrypt",
+     "time": "2026-10-19T15:13:42+00:00",
+     "s": 1
+    }
+   ]
+  },
+  "SOL": {
+   "pos": 0,
+   "neg": 0,
+   "count": 3,
+   "items": [
+    {
+     "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+     "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+     "source": "CoinDesk",
+     "time": "2026-10-21T04:35:52+00:00",
+     "s": 0
+    },
+    {
+     "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
+     "link": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
+     "source": "The Block",
+     "time": "2026-10-20T16:31:24+00:00",
+     "s": 0
+    },
+    {
+     "title": "Tron Outpaces Ethereum And Solana In One Measure Of Network Revenue",
+     "link": "https://bitcoinist.com/tron-outpaces-ethereum-and-solana-in-one-measure-of-network-revenue/",
+     "source": "Bitcoinist",
+     "time": "2026-10-20T14:05:00+00:00",
+     "s": 0
+    }
+   ]
+  },
+  "BNB": {
+   "pos": 0,
+   "neg": 0,
+   "count": 1,
+   "items": [
+    {
+     "title": "BNB Chain burns $1.2B in October tokens, leaving real supply impact hidden",
+     "link": "https://cryptoslate.com/bnb-chain-burns-1-2b-in-october-tokens-leaving-real-supply-impact-hidden/",
+     "source": "CryptoSlate",
+     "time": "2026-10-20T22:50:17+00:00",
+     "s": 0
+    }
+   ]
+  },
+  "XRP": {
+   "pos": 1,
+   "neg": 1,
+   "count": 3,
+   "items": [
+    {
+     "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+     "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
+     "source": "CoinDesk",
+     "time": "2026-10-21T05:25:57+00:00",
+     "s": -1
+    },
+    {
+     "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
+     "link": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-20T10:20:58+00:00",
+     "s": 1
+    },
+    {
+     "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+     "link": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
+     "source": "Decrypt",
+     "time": "2026-10-19T20:46:05+00:00",
+     "s": 0
+    }
+   ]
+  },
+  "DOGE": {
+   "pos": 0,
+   "neg": 0,
+   "count": 0,
+   "items": []
+  },
+  "TAO": {
+   "pos": 0,
+   "neg": 0,
+   "count": 0,
+   "items": []
+  },
+  "HYPE": {
+   "pos": 0,
+   "neg": 1,
+   "count": 2,
+   "items": [
+    {
+     "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+     "link": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-20T20:38:00+00:00",
+     "s": -1
+    },
+    {
+     "title": "Hyperliquid Trader Reopens Huge Ethereum Short After $469,000 Hit",
+     "link": "https://bitcoinist.com/hyperliquid-trader-reopens-huge-ethereum-short-after-469-000-hit/",
+     "source": "Bitcoinist",
+     "time": "2026-10-20T14:55:00+00:00",
+     "s": 0
+    }
+   ]
+  },
+  "ASTER": {
+   "pos": 0,
+   "neg": 0,
+   "count": 0,
+   "items": []
+  },
+  "XPL": {
+   "pos": 0,
+   "neg": 0,
+   "count": 0,
+   "items": []
+  },
+  "LIT": {
+   "pos": 0,
+   "neg": 0,
+   "count": 0,
+   "items": []
+  },
+  "XAU": {
+   "pos": 0,
+   "neg": 0,
+   "count": 1,
+   "items": [
+    {
+     "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+     "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
+     "source": "CoinDesk",
+     "time": "2026-10-20T11:10:40+00:00",
+     "s": 0
+    }
+   ]
+  }
+ }
+}
