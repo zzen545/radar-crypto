@@ -27,3 +27,11 @@ for yr in (2022, 2023, 2024):
         if not tt: continue
         e,d=m.compound(tt,0.02); tot+=e; k+=1; dds.append(d)
     print(yr, k, round((tot/k/1000-1)*100), "dd med", round(np.median(dds)*100))
+print("5% per year")
+for yr in range(2022, 2027):
+    tot=k=0
+    for sym,tr in res.items():
+        tt=[t for t in tr if t["time"].year==yr]
+        if not tt: continue
+        e,d=m.compound(tt,0.05); tot+=e; k+=1
+    print(yr, round((tot/k/1000-1)*100))
