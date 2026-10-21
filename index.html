@@ -70,6 +70,7 @@ svg text { fill: var(--muted); font: 10px var(--mono); }
 .notes b { width: 14px; flex: none; text-align: center; font-family: var(--mono); }
 .empty { color: var(--muted); padding: 24px 16px; }
 .detail h3 { margin: 0; font-size: 14px; font-weight: 600; }
+td small.brk { display: block; font-size: 10px; color: var(--muted); letter-spacing: .02em; }
 .plan { display: grid; gap: 10px; border-top: 1px solid var(--line); padding-top: 12px; }
 .plan-head { display: flex; align-items: center; gap: 10px; }
 .plan-intro, .plan p { margin: 0; }
@@ -133,7 +134,7 @@ footer { color: var(--muted); font-size: 12px; }
 
   <footer>
     Data dari Binance, otomatis pindah ke Bitget jika koin tidak ada atau datanya kurang di Binance. Awali dengan <code>bitget:</code> untuk memaksa Bitget.
-    Candle yang belum selesai tidak dihitung. Diperbarui otomatis tiap 5 menit. Ini analisa teknikal otomatis, bukan saran investasi.
+    Skor total = teknikal (T) + volume (V) + transaksi real-time (X). Candle yang belum selesai tidak dihitung. Diperbarui otomatis tiap 5 menit. Ini analisa teknikal otomatis, bukan saran investasi.
   </footer>
 </div>
 <div id="tip" hidden></div>
@@ -154,7 +155,8 @@ function normalize(sym) {
 function toRows(raw) {
   // raw: [[time, open, high, low, close, volume, ...]] -> objek urut waktu, tanpa duplikat
   const seen = new Map();
-  for (const r of raw) seen.set(Number(r[0]), { t: Number(r[0]), o: +r[1], h: +r[2], l: +r[3], c: +r[4], v: +r[5] });
+  // Kolom 9 Binance = volume dari pembeli agresif (taker buy); Bitget tidak menyediakannya
+  for (const r of raw) seen.set(Number(r[0]), { t: Number(r[0]), o: +r[1], h: +r[2], l: +r[3], c: +r[4], v: +r[5], tb: r.length >= 11 ? +r[9] : NaN });
   return [...seen.values()].sort((a, b) => a.t - b.t);
 }
 
@@ -203,7 +205,9 @@ async function fetchBitget(sym, interval) {
       raw = older.concat(raw);
     }
     const now = Date.now();
-    return toRows(raw).filter(k => k.t + STEP_MS[interval] <= now).slice(-LIMIT);
+    const rows = toRows(raw).filter(k => k.t + STEP_MS[interval] <= now).slice(-LIMIT);
+    rows.market = path.includes("/mix/") ? "futures" : "spot";
+    return rows;
   }
   throw new Error("Bitget: " + errors.join("; "));
 }
@@ -217,8 +221,9 @@ async function fetchAuto(input, interval) {
   for (const [name, fn] of order) {
     try {
       const rows = await fn(sym, interval);
-      if (rows.length >= MIN_CANDLES) return { sym, source: name, rows };
-      if (!best || rows.length > best.rows.length) best = { sym, source: name, rows };
+      const d = { sym, source: name, market: rows.market || "spot", rows };
+      if (rows.length >= MIN_CANDLES) return d;
+      if (!best || rows.length > best.rows.length) best = d;
     } catch (e) { errors.push(e.message); }
   }
   if (best) return best;
@@ -327,6 +332,92 @@ function analyze(ind, lookback = 7) {
   return { price: close, change: ref ? (close / ref - 1) * 100 : 0, score, trend, rsi: r, notes };
 }
 
+// ---------- Analisa volume ----------
+const sum = a => a.reduce((x, y) => x + y, 0);
+function volumeAnalysis(rows, ind) {
+  const n = rows.length, notes = []; let score = 0;
+  const vote = (pts, note) => { score += pts; notes.push([pts, note]); };
+  // On-Balance Volume: volume dijumlah saat harga naik, dikurangi saat turun
+  const obv = []; let o = 0;
+  rows.forEach((r, i) => { if (i) o += r.c > rows[i - 1].c ? r.v : r.c < rows[i - 1].c ? -r.v : 0; obv.push(o); });
+  const obvSma = sma(obv, 20), last = obv[n - 1], prev = obv[n - 11];
+  if (last > obvSma[n - 1] && last > prev) vote(1, "OBV naik dan di atas rata-ratanya: uang mengalir masuk (akumulasi)");
+  else if (last < obvSma[n - 1] && last < prev) vote(-1, "OBV turun dan di bawah rata-ratanya: uang mengalir keluar (distribusi)");
+  else vote(0, "OBV datar: belum ada akumulasi atau distribusi yang jelas");
+  const r7 = rows.slice(-7);
+  if (r7.every(r => isFinite(r.tb))) {
+    const share = sum(r7.map(r => r.tb)) / sum(r7.map(r => r.v)) * 100;
+    vote(share > 55 ? 1 : share < 45 ? -1 : 0, `Pembeli agresif ${share.toFixed(1)}% dari volume 7 candle terakhir ` + (share > 55 ? "(dominan beli)" : share < 45 ? "(dominan jual)" : "(seimbang)"));
+  } else {
+    const r20 = rows.slice(-20), share = sum(r20.filter(r => r.c >= r.o).map(r => r.v)) / sum(r20.map(r => r.v)) * 100;
+    vote(share > 60 ? 1 : share < 40 ? -1 : 0, `Volume di candle naik ${share.toFixed(1)}% dari total 20 candle terakhir ` + (share > 60 ? "(dominan beli)" : share < 40 ? "(dominan jual)" : "(seimbang)"));
+  }
+  const ratio = sum(rows.slice(-5).map(r => r.v)) / 5 / ind.volSma[n - 1];
+  vote(0, `Volume 5 candle terakhir ${ratio.toFixed(2)}x rata-rata 20 candle` + (ratio < 0.7 ? ": pasar sepi, sinyal kurang meyakinkan" : ratio > 1.3 ? ": aktivitas meningkat" : ""));
+  return { score, notes };
+}
+
+// ---------- Analisa transaksi (real-time) ----------
+async function binanceGet(path) {
+  for (const base of ["https://api.binance.com", "https://data-api.binance.vision"]) {
+    const r = await getJSON(base + path).catch(() => null);
+    if (r && r.ok) return r.body;
+  }
+  throw new Error("Binance tidak merespons");
+}
+async function bitgetGet(path) {
+  const r = await getJSON("https://api.bitget.com" + path);
+  if (!(r.ok && r.body && r.body.code === "00000" && r.body.data)) throw new Error((r.body && r.body.msg) || "HTTP " + r.status);
+  return r.body.data;
+}
+async function getBook(sym, source, market) {
+  const d = source === "binance" ? await binanceGet(`/api/v3/depth?symbol=${sym}&limit=1000`)
+    : market === "futures" ? await bitgetGet(`/api/v2/mix/market/merge-depth?symbol=${sym}&productType=USDT-FUTURES&limit=max`)
+    : await bitgetGet(`/api/v2/spot/market/orderbook?symbol=${sym}&limit=150`);
+  return { bids: d.bids.map(x => [+x[0], +x[1]]), asks: d.asks.map(x => [+x[0], +x[1]]) };
+}
+async function getTrades(sym, source, market) {
+  if (source === "binance") return (await binanceGet(`/api/v3/aggTrades?symbol=${sym}&limit=1000`)).map(t => ({ v: +t.p * +t.q, buy: !t.m, t: t.T }));
+  const d = market === "futures" ? await bitgetGet(`/api/v2/mix/market/fills?symbol=${sym}&productType=USDT-FUTURES&limit=100`)
+    : await bitgetGet(`/api/v2/spot/market/fills?symbol=${sym}&limit=500`);
+  return d.map(t => ({ v: +t.price * +t.size, buy: t.side === "buy", t: +t.ts }));
+}
+async function flowAnalysis(sym, source, market) {
+  const notes = []; let score = 0;
+  const vote = (pts, note) => { score += pts; notes.push([pts, note]); };
+  const [book, trades, fund, ls] = await Promise.all([
+    getBook(sym, source, market).catch(() => null),
+    getTrades(sym, source, market).catch(() => null),
+    bitgetGet(`/api/v2/mix/market/current-fund-rate?symbol=${sym}&productType=USDT-FUTURES`).catch(() => null),
+    bitgetGet(`/api/v2/mix/market/account-long-short?symbol=${sym}&period=1h`).catch(() => null),
+  ]);
+  if (book && book.bids.length && book.asks.length) {
+    const mid = (book.bids[0][0] + book.asks[0][0]) / 2;
+    const bid = sum(book.bids.filter(b => b[0] >= mid * 0.99).map(b => b[0] * b[1]));
+    const ask = sum(book.asks.filter(a => a[0] <= mid * 1.01).map(a => a[0] * a[1]));
+    const ratio = bid / ask;
+    vote(ratio > 1.3 ? 1 : ratio < 0.77 ? -1 : 0, `Order book ±1%: antrean beli ${usdt(bid)} vs jual ${usdt(ask)} (${ratio.toFixed(2)}x)` +
+      (ratio > 1.3 ? ", pembeli lebih tebal" : ratio < 0.77 ? ", penjual lebih tebal" : ", seimbang"));
+  }
+  if (trades && trades.length) {
+    const buy = sum(trades.filter(t => t.buy).map(t => t.v)), all = sum(trades.map(t => t.v)), share = buy / all * 100;
+    const mins = Math.max(1, Math.round((Math.max(...trades.map(t => t.t)) - Math.min(...trades.map(t => t.t))) / 60000));
+    vote(share > 58 ? 1 : share < 42 ? -1 : 0, `${trades.length} transaksi terakhir (±${mins} menit): ${share.toFixed(0)}% nilai transaksi dari pembeli agresif` +
+      (share > 58 ? ", tekanan beli" : share < 42 ? ", tekanan jual" : ", seimbang"));
+  }
+  if (fund && fund[0]) {
+    const fr = +fund[0].fundingRate * 100, iv = fund[0].fundingRateInterval;
+    const msg = fr > 0.05 ? ": tinggi, posisi long terlalu ramai (rawan long squeeze)" : fr < -0.03 ? ": negatif, posisi short terlalu ramai (rawan short squeeze)" : ": normal";
+    vote(0, `Funding rate futures ${fr.toFixed(4)}% per ${iv} jam` + msg);
+  }
+  if (ls && ls.length) {
+    const x = ls[ls.length - 1], lr = +x.longAccountRatio * 100;
+    vote(0, `${lr.toFixed(0)}% akun trader futures sedang long` + (lr > 70 ? ": sangat ramai, sering jadi tanda harga rawan turun" : lr < 35 ? ": mayoritas short, rawan short squeeze" : ""));
+  }
+  if (!notes.length) notes.push([0, "Data transaksi tidak tersedia untuk koin ini"]);
+  return { score, notes };
+}
+
 // ---------- Rencana posisi ----------
 // Bukan ramalan harga: level dihitung dari volatilitas (ATR) dan swing high/low terakhir.
 function levels(ind, look = 150, k = 3) {
@@ -406,7 +497,10 @@ function renderTable() {
       tr.append(el("td", {}, fmtPrice(s.price)));
       tr.append(el("td", { class: s.change >= 0 ? "pos" : "neg" }, (s.change >= 0 ? "+" : "") + s.change.toFixed(1) + "%"));
       tr.append(el("td", {}, s.rsi.toFixed(1)));
-      tr.append(el("td", { class: s.score > 0 ? "pos" : s.score < 0 ? "neg" : "" }, (s.score > 0 ? "+" : "") + s.score));
+      const sg = x => (x > 0 ? "+" : "") + x;
+      const sc = el("td", { class: s.score > 0 ? "pos" : s.score < 0 ? "neg" : "" }, sg(s.score));
+      sc.append(el("small", { class: "brk" }, `T${sg(s.tech)} V${sg(r.vol.score)} X${sg(r.flow.score)}`));
+      tr.append(sc);
       const td = el("td"); td.append(el("span", { class: "chip " + s.trend }, ICON[s.trend] + " " + s.trend)); tr.append(td);
       tr.append(el("td", { class: "side " + r.plan.side }, r.plan.side));
     }
@@ -430,11 +524,16 @@ function renderDetail() {
     const s = el("span"); const i = el("i"); i.style.background = color; s.append(i, name); legend.append(s);
   }
   const chartBox = el("div");
-  const notes = el("ul", { class: "notes" });
-  for (const [pts, note] of r.res.notes) {
-    const li = el("li"); li.append(el("b", { class: pts > 0 ? "pos" : pts < 0 ? "neg" : "" }, pts > 0 ? "+" : pts < 0 ? "−" : "·"), el("span", {}, note)); notes.append(li);
-  }
-  box.replaceChildren(h, legend, chartBox, renderPlan(r), el("h3", {}, "Alasan sinyal"), notes);
+  const group = (title, list) => {
+    const ul = el("ul", { class: "notes" });
+    for (const [pts, note] of list) { const li = el("li"); li.append(el("b", { class: pts > 0 ? "pos" : pts < 0 ? "neg" : "" }, pts > 0 ? "+" : pts < 0 ? "−" : "·"), el("span", {}, note)); ul.append(li); }
+    return [el("h3", {}, title), ul];
+  };
+  const sg = x => (x > 0 ? "+" : "") + x;
+  box.replaceChildren(h, legend, chartBox, renderPlan(r),
+    ...group(`Teknikal (${sg(r.res.tech)})`, r.res.notes),
+    ...group(`Volume (${sg(r.vol.score)})`, r.vol.notes),
+    ...group(`Transaksi real-time (${sg(r.flow.score)})`, r.flow.notes));
   drawChart(chartBox, r);
 }
 
@@ -575,8 +674,12 @@ async function run() {
       const d = await fetchAuto(input, interval);
       if (d.rows.length < MIN_CANDLES) return { input, sym: d.sym, source: d.source, rows: d.rows, error: `Data terlalu sedikit (${d.rows.length} candle). Coba timeframe lebih kecil.` };
       const ind = indicators(d.rows);
-      const res = analyze(ind);
-      return { input, sym: d.sym, source: d.source, rows: d.rows, ind, interval, res, plan: plan(ind, res) };
+      const res = analyze(ind), vol = volumeAnalysis(d.rows, ind), flow = await flowAnalysis(d.sym, d.source, d.market);
+      // Skor total = teknikal + volume + transaksi; tren ditentukan dari skor total
+      res.tech = res.score;
+      res.score = res.tech + vol.score + flow.score;
+      res.trend = res.score >= 3 ? "BULLISH" : res.score <= -3 ? "BEARISH" : "SIDEWAYS";
+      return { input, sym: d.sym, source: d.source, rows: d.rows, ind, interval, res, vol, flow, plan: plan(ind, res) };
     } catch (e) {
       return { input, sym: normalize(input.split(":").pop()), error: "Gagal: " + e.message };
     }
