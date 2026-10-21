@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T14:23:56.982693+00:00",
+ "updated": "2026-10-21T14:59:10.901247+00:00",
  "window_hours": 48,
- "headlines": 122,
+ "headlines": 123,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 10,
    "neg": 7,
-   "count": 34,
+   "count": 33,
    "items": [
     {
      "title": "5 alternatives to Ledger to store your Bitcoin",
@@ -60,11 +60,11 @@
      "s": -1
     },
     {
-     "title": "Live updates: Bitcoin makes push for $84,000 as SpaceX leads markets higher",
+     "title": "Live updates: Bitcoin rises to $84,000 as SpaceX leads markets higher",
      "link": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
      "source": "CoinDesk",
      "time": "2026-10-21T10:30:40+00:00",
-     "s": 0
+     "s": 1
     },
     {
      "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
@@ -125,10 +125,17 @@
    ]
   },
   "ETH": {
-   "pos": 1,
+   "pos": 2,
    "neg": 1,
-   "count": 9,
+   "count": 10,
    "items": [
+    {
+     "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+     "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+     "source": "Decrypt",
+     "time": "2026-10-21T14:24:25+00:00",
+     "s": 1
+    },
     {
      "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
      "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -195,10 +202,24 @@
    ]
   },
   "SOL": {
-   "pos": 1,
+   "pos": 2,
    "neg": 0,
-   "count": 4,
+   "count": 6,
    "items": [
+    {
+     "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
+     "link": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
+     "source": "The Block",
+     "time": "2026-10-21T14:24:39+00:00",
+     "s": 0
+    },
+    {
+     "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+     "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+     "source": "Decrypt",
+     "time": "2026-10-21T14:24:25+00:00",
+     "s": 1
+    },
     {
      "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
      "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
