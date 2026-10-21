@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T11:58:34.760906+00:00",
+ "updated": "2026-10-21T12:30:54.336188+00:00",
  "window_hours": 48,
- "headlines": 124,
+ "headlines": 123,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 13,
-   "neg": 8,
-   "count": 37,
+   "neg": 7,
+   "count": 35,
    "items": [
+    {
+     "title": "Morning Minute: Bitcoin Tops JPMorgan’s Ten-Year Forecast for All Assets",
+     "link": "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets",
+     "source": "Decrypt",
+     "time": "2026-10-21T12:16:38+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms",
      "link": "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524",
@@ -46,11 +53,11 @@
      "s": -1
     },
     {
-     "title": "Live updates: Bitcoin clings to $82,500 as SpaceX results lift stock futures",
+     "title": "Live updates: Bitcoin rises above $83,000 as SpaceX results, possible Tesla merger, lift markets",
      "link": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
      "source": "CoinDesk",
      "time": "2026-10-21T10:30:40+00:00",
-     "s": 0
+     "s": 1
     },
     {
      "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
@@ -113,13 +120,6 @@
      "link": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
      "source": "The Block",
      "time": "2026-10-20T18:14:28+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin's Next Move: Here's What to Watch",
-     "link": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
-     "source": "Decrypt",
-     "time": "2026-10-20T17:45:04+00:00",
      "s": 0
     }
    ]
@@ -265,10 +265,25 @@
    ]
   },
   "DOGE": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 2,
+   "items": [
+    {
+     "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
+     "link": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
+     "source": "CoinDesk",
+     "time": "2026-10-21T12:00:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand",
+     "link": "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469",
+     "source": "The Block",
+     "time": "2026-10-21T12:00:00+00:00",
+     "s": 1
+    }
+   ]
   },
   "TAO": {
    "pos": 0,
