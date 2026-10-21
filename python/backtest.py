@@ -223,7 +223,8 @@ def rs_signal(df: pd.DataFrame) -> pd.Series:
 
 
 def backtest(symbol: str, use_volume: bool = True, min_adx: float = 0, mtf: bool = False, rs: str = "",
-             btc_regime: bool = False, short_bear: bool = False, no_short: bool = False) -> tuple[list[Trade], dict]:
+             btc_regime: bool = False, short_bear: bool = False, no_short: bool = False,
+             start: str | None = None) -> tuple[list[Trade], dict]:
     sym, source, raw = load(symbol)
     df = indicators.add_all(raw)
     df = df.join(btc_context(df))
@@ -236,6 +237,8 @@ def backtest(symbol: str, use_volume: bool = True, min_adx: float = 0, mtf: bool
     obv_sma = obv.rolling(20).mean()
     trades: list[Trade] = []
     t = WARMUP
+    if start:  # mulai di tanggal tertentu; koin baru cukup 60 candle (MA200 belum ada = tidak dihitung)
+        t = max(60, int(np.searchsorted(df.index, pd.Timestamp(start, tz="UTC"))))
     while t < len(df) - 1:
         res = signals.analyze(sym, df.iloc[:t + 1])
         score = res.score + (volume_score(df, obv, obv_sma, t) if use_volume else 0)
@@ -266,8 +269,10 @@ def backtest(symbol: str, use_volume: bool = True, min_adx: float = 0, mtf: bool
         trades.append(Trade(sym, side, str(df.index[t].date()), str(df.index[fill].date()), str(df.index[exit_i].date()),
                             exit_i - fill + 1, score, round(r, 3), tp1, outcome))
         t = exit_i + 1  # satu posisi per koin
-    info = {"symbol": sym, "source": source, "start": str(df.index[WARMUP].date()), "end": str(df.index[-1].date()),
-            "days": len(df) - WARMUP, "hold_pct": round((df["close"].iloc[-1] / df["close"].iloc[WARMUP] - 1) * 100, 1)}
+    t0 = max(60, int(np.searchsorted(df.index, pd.Timestamp(start, tz="UTC")))) if start else WARMUP
+    info = {"symbol": sym, "source": source, "start": str(df.index[t0].date()), "end": str(df.index[-1].date()),
+            "days": len(df) - t0, "hold_pct": round((df["close"].iloc[-1] / df["close"].iloc[t0] - 1) * 100, 1),
+            "listed": str(df.index[0].date())}
     return trades, info
 
 
@@ -302,6 +307,7 @@ def main() -> None:
     p.add_argument("--btc-ma", type=int, default=50, help="panjang MA BTC untuk --btc-regime")
     p.add_argument("--short-bear", action="store_true", help="short hanya bila harga di bawah MA200")
     p.add_argument("--no-short", action="store_true", help="hanya LONG")
+    p.add_argument("--start", help="mulai backtest dari tanggal ini, mis. 2026-01-01")
     p.add_argument("--json", help="simpan hasil lengkap ke file JSON")
     args = p.parse_args()
     global BTC_MA
@@ -311,7 +317,8 @@ def main() -> None:
     for s in args.symbols:
         try:
             trades, info = backtest(s, use_volume=not args.no_volume, min_adx=args.adx, mtf=args.mtf, rs=args.rs,
-                                   btc_regime=args.btc_regime, short_bear=args.short_bear, no_short=args.no_short)
+                                   btc_regime=args.btc_regime, short_bear=args.short_bear, no_short=args.no_short,
+                                   start=args.start)
         except Exception as exc:
             print(f"[!] {s}: {exc}")
             continue
