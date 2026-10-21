@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T16:06:23.288487+00:00",
+ "updated": "2026-10-21T16:59:53.423716+00:00",
  "window_hours": 48,
- "headlines": 123,
+ "headlines": 125,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
-   "neg": 5,
+   "pos": 8,
+   "neg": 4,
    "count": 31,
    "items": [
+    {
+     "title": "Bitcoin Lightning developers sound alarm over security flaws as second patch lands in five days",
+     "link": "https://cryptoslate.com/bitcoin-lightning-developers-sound-alarm-over-security-flaws-as-second-patch-lands-in-five-days/",
+     "source": "CryptoSlate",
+     "time": "2026-10-21T16:30:34+00:00",
+     "s": 0
+    },
+    {
+     "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
+     "link": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
+     "source": "Decrypt",
+     "time": "2026-10-21T16:16:05+00:00",
+     "s": 0
+    },
     {
      "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
      "link": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
@@ -102,25 +116,11 @@
      "s": 1
     },
     {
-     "title": "Switzerland approves landmark Bitcoin ETF after ruling trading volume sufficient",
-     "link": "https://cryptoslate.com/switzerland-approves-landmark-bitcoin-etf-after-ruling-trading-volume-sufficient/",
-     "source": "CryptoSlate",
-     "time": "2026-10-21T04:40:25+00:00",
-     "s": 1
-    },
-    {
      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
      "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
      "source": "CoinDesk",
      "time": "2026-10-21T04:07:07+00:00",
      "s": 1
-    },
-    {
-     "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
-     "link": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
-     "source": "Decrypt",
-     "time": "2026-10-20T21:16:04+00:00",
-     "s": 0
     }
    ]
   },
@@ -280,8 +280,15 @@
   "DOGE": {
    "pos": 1,
    "neg": 0,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
+     "link": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
+     "source": "Decrypt",
+     "time": "2026-10-21T16:46:04+00:00",
+     "s": 0
+    },
     {
      "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
      "link": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
