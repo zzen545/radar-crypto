@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T16:59:53.423716+00:00",
+ "updated": "2026-10-21T17:27:36.594932+00:00",
  "window_hours": 48,
  "headlines": 125,
  "feeds_ok": [
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 7,
    "neg": 4,
-   "count": 31,
+   "count": 30,
    "items": [
     {
      "title": "Bitcoin Lightning developers sound alarm over security flaws as second patch lands in five days",
@@ -109,25 +109,25 @@
      "s": 0
     },
     {
-     "title": "Germany’s main savings bank network launches Bitcoin trading",
-     "link": "https://cryptoslate.com/germanys-main-savings-bank-network-launches-bitcoin-trading/",
-     "source": "CryptoSlate",
-     "time": "2026-10-21T07:10:17+00:00",
-     "s": 1
-    },
-    {
      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
      "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
      "source": "CoinDesk",
      "time": "2026-10-21T04:07:07+00:00",
      "s": 1
+    },
+    {
+     "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+     "link": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+     "source": "Decrypt",
+     "time": "2026-10-20T21:16:04+00:00",
+     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 9,
+   "count": 8,
    "items": [
     {
      "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
@@ -176,13 +176,6 @@
      "link": "https://bitcoinist.com/tron-outpaces-ethereum-and-solana-in-one-measure-of-network-revenue/",
      "source": "Bitcoinist",
      "time": "2026-10-20T14:05:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
-     "link": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-20T12:38:28+00:00",
      "s": 0
     },
     {
