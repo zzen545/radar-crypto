@@ -111,11 +111,6 @@ footer { color: var(--muted); font-size: 12px; }
     <div class="controls">
       <label for="symbols">Koin</label>
       <input id="symbols" value="HYPE ASTER XPL SOL BTC TAO XRP ETH DOGE bitget:LIT BNB XAU" spellcheck="false">
-      <label for="mode">Strategi</label>
-      <select id="mode">
-        <option value="harian">Harian: pullback EMA20 (win rate tinggi)</option>
-        <option value="futures">Futures 4 jam: EMA 20/50 cross</option>
-      </select>
       <label for="interval">Timeframe</label>
       <select id="interval">
         <option value="15m">15 menit</option><option value="1h">1 jam</option>
@@ -525,39 +520,6 @@ function plan(ind, res) {
   return out;
 }
 
-// Strategi futures 4 jam (lolos backtest 2022-2026): EMA20 potong EMA50 = masuk, potong balik = keluar.
-// Stop 2 ATR dari harga masuk, tanpa target profit supaya tren besar diikuti sampai habis.
-function planFutures(ind, rows) {
-  const n = rows.length, c = ind.close, a = ind.atr, e20 = ema(c, 20), e50 = ema(c, 50);
-  const { support, resistance } = levels(ind);
-  const out = { support, resistance, atr: a[n - 1], ema20: e20[n - 1], ema50: e50[n - 1], warnings: [], scenarios: [], futures: true };
-  const sgn = i => Math.sign(e20[i] - e50[i]);
-  let k = -1;
-  for (let i = n - 1; i > 50; i--) if (sgn(i) !== sgn(i - 1)) { k = i; break; }
-  const d = sgn(n - 1), side = d > 0 ? "LONG" : "SHORT", when = t => new Date(t).toLocaleString("id-ID", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
-  const exitTxt = `Tutup posisi saat candle 4 jam close dengan EMA20 memotong balik EMA50 (sekarang EMA20 ${fmt(e20[n - 1])}, EMA50 ${fmt(e50[n - 1])}).`;
-  if (k < 0) { out.side = "TUNGGU"; out.intro = "Belum ada persilangan EMA20/EMA50 di data yang dimuat."; return out; }
-  if (k === n - 1) {
-    out.side = side; out.fresh = true;
-    out.intro = `SINYAL BARU: EMA20 baru memotong ${d > 0 ? "ke atas" : "ke bawah"} EMA50 di candle yang baru close. Masuk ${side} di harga pasar sekarang. ${exitTxt}`;
-    out.scenarios.push({ label: `Market ${d > 0 ? "buy" : "sell"} sekarang`, side, entry: c[n - 1], entryLo: c[n - 1], entryHi: c[n - 1], stop: c[n - 1] - d * 2 * a[n - 1], risk: 2 * a[n - 1] });
-    return out;
-  }
-  const entry = rows[k + 1].o, stop = entry - d * 2 * a[k];
-  const hit = rows.slice(k + 1).findIndex(r => d * ((d > 0 ? r.l : r.h) - stop) <= 0);
-  if (hit >= 0) {
-    out.side = "TUNGGU";
-    out.intro = `Posisi ${side} dari persilangan ${when(rows[k].t)} sudah kena stop loss ${when(rows[k + 1 + hit].t)}. Tunggu persilangan EMA berikutnya.`;
-    return out;
-  }
-  const r = d * (c[n - 1] - entry) / (2 * a[k]);
-  out.side = side;
-  out.intro = `Posisi ${side} berjalan sejak ${when(rows[k + 1].t)} (${n - 1 - k} candle lalu), sekarang ${r >= 0 ? "+" : ""}${r.toFixed(1)}R. ${exitTxt}`;
-  out.scenarios.push({ label: `${side} aktif sejak ${when(rows[k + 1].t)}`, side, entry, entryLo: entry, entryHi: entry, stop, risk: 2 * a[k] });
-  if (n - 1 - k > 3) out.warnings.push("Kalau belum punya posisi, lebih aman tunggu persilangan berikutnya. Masuk terlambat tidak termasuk yang diuji di backtest.");
-  return out;
-}
-
 // ---------- Tampilan ----------
 const $ = id => document.getElementById(id);
 const ICON = { BULLISH: "▲", BEARISH: "▼", SIDEWAYS: "►" };
@@ -591,7 +553,7 @@ function renderTable() {
       sc.append(el("small", { class: "brk" }, `T${sg(s.tech)} V${sg(r.vol.score)} X${sg(r.flow.score)} B${sg(r.news.score)}`));
       tr.append(sc);
       const td = el("td"); td.append(el("span", { class: "chip " + s.trend }, ICON[s.trend] + " " + s.trend)); tr.append(td);
-      tr.append(el("td", { class: "side " + r.plan.side }, r.plan.side + (r.plan.fresh ? " ★ baru" : "")));
+      tr.append(el("td", { class: "side " + r.plan.side }, r.plan.side));
     }
     const pick = () => { selected = r.input; renderTable(); renderDetail(); };
     tr.addEventListener("click", pick);
@@ -601,7 +563,7 @@ function renderTable() {
   const counts = { BULLISH: 0, SIDEWAYS: 0, BEARISH: 0 };
   ok.forEach(r => counts[r.res.trend]++);
   $("summary").replaceChildren(...Object.entries(counts).map(([t, n]) => el("span", { class: "chip " + t }, `${ICON[t]} ${n} ${t}`)));
-  if (btcRegime && $("mode").value !== "futures") $("summary").append(el("span", { class: "chip " + (btcRegime.above ? "BULLISH" : "BEARISH") },
+  if (btcRegime) $("summary").append(el("span", { class: "chip " + (btcRegime.above ? "BULLISH" : "BEARISH") },
     `BTC ${btcRegime.above ? "di atas" : "di bawah"} MA50: ${btcRegime.above ? "hanya LONG" : "hanya SHORT"}`));
 }
 
@@ -662,10 +624,8 @@ function renderPlan(r) {
     const entryTxt = sc.entryLo === sc.entryHi ? fmtPrice(sc.entry) : `${fmtPrice(sc.entryLo)} – ${fmtPrice(sc.entryHi)}`;
     row("Entry", entryTxt, sc.entryLo === sc.entryHi ? "" : "rata-rata " + fmtPrice(sc.entry));
     row("Stop loss", fmtPrice(sc.stop), pct(sc.stop, sc.entry), "neg");
-    if (sc.tp1) {
-      row("TP1 (1R)", fmtPrice(sc.tp1), pct(sc.tp1, sc.entry), "pos");
-      row("TP2 (2R)", fmtPrice(sc.tp2), pct(sc.tp2, sc.entry), "pos");
-    } else row("Take profit", "saat EMA cross balik", "tanpa target tetap");
+    row("TP1 (1R)", fmtPrice(sc.tp1), pct(sc.tp1, sc.entry), "pos");
+    row("TP2 (2R)", fmtPrice(sc.tp2), pct(sc.tp2, sc.entry), "pos");
     const size = (account.modal * account.risk / 100) / sc.risk, nominal = size * sc.entry, lev = nominal / account.modal;
     row("Ukuran posisi", `${fmt(size)} ${r.sym.replace(/USDT$/, "")}`, `≈ ${usdt(nominal)}${lev > 1 ? ` · leverage ${lev.toFixed(1)}x` : ""}`);
     const box = el("div", { class: "scen" });
@@ -692,8 +652,7 @@ function renderPlan(r) {
   calc.append(field("modal", "Modal (USDT)", account.modal, "any"), field("risk", "Risiko per posisi (%)", account.risk, "0.1"));
   calc.append(el("p", { class: "x" }, `Kalau kena stop loss, kerugian maksimal ≈ ${usdt(account.modal * account.risk / 100)}.`));
   wrap.append(calc);
-  if (p.futures) wrap.append(el("p", { class: "x" }, "Backtest 4 jam 2022–2026 di watchlist: win rate cuma 23–30%, jadi kalah beruntun itu normal; untung datang dari sedikit tren besar. Risiko 5%: +374% di 2022–2024, +14% di 2025, +17% di 2026, tapi turun terdalam bisa 50% atau lebih. Risiko 1–2% jauh lebih aman. Bukan saran investasi."));
-  else wrap.append(el("p", { class: "x" }, "Cara kelola: di TP1 tutup setengah posisi lalu geser stop loss ke harga entry; sisanya ke TP2, atau tutup manual setelah 30 hari. Backtest 2019–2026 di 12 koin: win rate sekitar 60–67%, untung tiap tahun 2022–2026. Tetap bukan ramalan pasti dan bukan saran investasi."));
+  wrap.append(el("p", { class: "x" }, "Cara kelola: di TP1 tutup setengah posisi lalu geser stop loss ke harga entry; sisanya ke TP2, atau tutup manual setelah 30 hari. Backtest 2019–2026 di 12 koin: win rate sekitar 60–67%, untung tiap tahun 2022–2026. Tetap bukan ramalan pasti dan bukan saran investasi."));
   return wrap;
 }
 
@@ -719,7 +678,7 @@ function drawChart(box, r, bars = 150) {
   const sc0 = r.plan.scenarios[0];
   const lvls = r.plan.side === "TUNGGU"
     ? [["Resistance", r.plan.resistance, "var(--up)"], ["Support", r.plan.support, "var(--down)"]]
-    : [["Entry", sc0.entry, "var(--accent)"], ["SL", sc0.stop, "var(--down)"], ["TP1", sc0.tp1, "var(--up)"], ["TP2", sc0.tp2, "var(--up)"]].filter(l => isFinite(l[1]));
+    : [["Entry", sc0.entry, "var(--accent)"], ["SL", sc0.stop, "var(--down)"], ["TP1", sc0.tp1, "var(--up)"], ["TP2", sc0.tp2, "var(--up)"]];
   const s0 = scale(idx.flatMap(i => [ind.close[i], ind.bbUp[i], ind.bbLo[i], ind.sma200[i]]).concat(lvls.map(l => l[1])), p0);
   grid(s0, p0, [0, .25, .5, .75, 1].map(f => s0.lo + (s0.hi - s0.lo) * f));
   let band = "", back = "";
@@ -773,9 +732,6 @@ function drawChart(box, r, bars = 150) {
 }
 
 async function run() {
-  const futures = $("mode").value === "futures";
-  if (futures) $("interval").value = "4h";
-  $("interval").disabled = futures;
   const btn = $("run"), interval = $("interval").value;
   const inputs = $("symbols").value.split(/[\s,]+/).filter(Boolean);
   btn.disabled = true; $("status").textContent = `Mengambil data ${inputs.length} koin…`;
@@ -796,7 +752,7 @@ async function run() {
       res.tech = res.score;
       res.score = res.tech + vol.score + flow.score + nws.score;
       res.trend = res.score >= 3 ? "BULLISH" : res.score <= -3 ? "BEARISH" : "SIDEWAYS";
-      return { input, sym: d.sym, source: d.source, rows: d.rows, ind, interval, res, vol, flow, news: nws, plan: futures ? planFutures(ind, d.rows) : plan(ind, res) };
+      return { input, sym: d.sym, source: d.source, rows: d.rows, ind, interval, res, vol, flow, news: nws, plan: plan(ind, res) };
     } catch (e) {
       return { input, sym: normalize(input.split(":").pop()), error: "Gagal: " + e.message };
     }
@@ -807,22 +763,21 @@ async function run() {
   }
   renderTable(); renderDetail();
   const label = $("interval").selectedOptions[0].textContent;
-  $("status").textContent = `${futures ? "Strategi futures EMA 20/50 · " : ""}Timeframe ${label.toLowerCase()} · diperbarui ${new Date().toLocaleTimeString("id-ID", { hour: "2-digit", minute: "2-digit" })} · perubahan dihitung 7 candle terakhir`;
+  $("status").textContent = `Timeframe ${label.toLowerCase()} · diperbarui ${new Date().toLocaleTimeString("id-ID", { hour: "2-digit", minute: "2-digit" })} · perubahan dihitung 7 candle terakhir`;
   // Semua koin gagal karena jaringan: biasanya file dibuka di pratinjau aplikasi yang memblokir internet
   const offline = results.length && results.every(r => !r.res && /Failed to fetch|NetworkError|Load failed/i.test(r.error || ""));
   $("offline").hidden = !offline;
   btn.disabled = false;
-  try { localStorage.setItem("radar", JSON.stringify({ symbols: $("symbols").value, interval, mode: $("mode").value })); } catch (e) { /* abaikan */ }
+  try { localStorage.setItem("radar", JSON.stringify({ symbols: $("symbols").value, interval })); } catch (e) { /* abaikan */ }
 }
 
 try {
   const saved = JSON.parse(localStorage.getItem("radar") || "null");
-  if (saved) { $("symbols").value = saved.symbols; $("interval").value = saved.interval; if (saved.mode) $("mode").value = saved.mode; }
+  if (saved) { $("symbols").value = saved.symbols; $("interval").value = saved.interval; }
 } catch (e) { /* abaikan */ }
 $("run").addEventListener("click", run);
 $("symbols").addEventListener("keydown", e => { if (e.key === "Enter") run(); });
 $("interval").addEventListener("change", run);
-$("mode").addEventListener("change", () => { if ($("mode").value === "harian") $("interval").value = "1d"; run(); });
 let resizeT; window.addEventListener("resize", () => { clearTimeout(resizeT); resizeT = setTimeout(renderDetail, 150); });
 run();
 timer = setInterval(run, 5 * 60 * 1000);
