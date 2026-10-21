@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T22:54:50.770089+00:00",
+ "updated": "2026-10-21T23:15:47.747392+00:00",
  "window_hours": 48,
  "headlines": 122,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 5,
    "neg": 4,
-   "count": 28,
+   "count": 29,
    "items": [
+    {
+     "title": "Irish drug lord’s lost Bitcoin fortune comes back to life as $41 million moves to Coinbase",
+     "link": "https://cryptoslate.com/irish-drug-lords-lost-bitcoin-fortune-comes-back-to-life-as-41-million-moves-to-coinbase/",
+     "source": "CryptoSlate",
+     "time": "2026-10-21T23:10:19+00:00",
+     "s": 0
+    },
     {
      "title": "Tesla–SpaceX merger talks could put 30,221 Bitcoin under one roof",
      "link": "https://cryptoslate.com/tesla-spacex-merger-talks-bitcoin/",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-10-21T09:23:00+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-     "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
-     "source": "CoinDesk",
-     "time": "2026-10-21T04:07:07+00:00",
-     "s": 1
     }
    ]
   },
