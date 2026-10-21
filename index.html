@@ -1,0 +1,464 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Radar Tren Crypto</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: toolbar, lalu tabel watchlist di kiri dan panel detail koin di kanan (bertumpuk di layar sempit) */
+:root {
+  --bg: #f5f6f8; --panel: #ffffff; --fg: #17202b; --muted: #637083; --line: #dfe3ea;
+  --accent: #2f5fd0; --up: #13875a; --down: #c8402f; --flat: #7c8594;
+  --up-soft: #e3f4ec; --down-soft: #fbe8e5; --flat-soft: #eceef2;
+  --ma20: #2f5fd0; --ma50: #d58a12; --ma200: #8a4fc4; --band: rgba(47, 95, 208, .10);
+  --sans: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f141b; --panel: #161d27; --fg: #e4e9f0; --muted: #8b97a8; --line: #263142;
+    --accent: #6f97f5; --up: #3ccf8e; --down: #ff6b5a; --flat: #8b97a8;
+    --up-soft: #12352a; --down-soft: #3a1c1a; --flat-soft: #1f2733;
+    --ma20: #6f97f5; --ma50: #f0b04a; --ma200: #b88cf0; --band: rgba(111, 151, 245, .12);
+    color-scheme: dark;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 14px/1.5 var(--sans); }
+.wrap { max-width: 1280px; margin: 0 auto; padding: 20px max(16px, env(safe-area-inset-left, 0px)) 40px max(16px, env(safe-area-inset-right, 0px)); display: grid; gap: 16px; }
+header { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 12px; }
+h1 { margin: 0; font-size: 22px; font-weight: 600; letter-spacing: -.01em; }
+.sub { color: var(--muted); font-size: 13px; }
+.controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.controls label { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
+input, select, button { font: inherit; color: var(--fg); background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px; }
+input#symbols { min-width: 0; width: min(420px, 100%); font-family: var(--mono); font-size: 13px; }
+button { cursor: pointer; background: var(--accent); color: #fff; border-color: var(--accent); font-weight: 500; }
+button:disabled { opacity: .6; cursor: progress; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.summary { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: 999px; font-size: 13px; font-weight: 500; }
+.chip.BULLISH { background: var(--up-soft); color: var(--up); }
+.chip.BEARISH { background: var(--down-soft); color: var(--down); }
+.chip.SIDEWAYS { background: var(--flat-soft); color: var(--flat); }
+.main { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 16px; align-items: start; }
+@media (max-width: 900px) { .main { grid-template-columns: minmax(0, 1fr); } }
+@media (max-width: 520px) { th, td { padding: 8px 7px; } td.sym small { display: none; } }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; min-width: 0; }
+.table-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+th { text-align: right; font-size: 11px; font-weight: 500; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; padding: 10px 12px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+td { text-align: right; padding: 9px 12px; border-bottom: 1px solid var(--line); font-family: var(--mono); font-size: 13px; white-space: nowrap; }
+th:first-child, td:first-child { text-align: left; }
+tbody tr { cursor: pointer; }
+tbody tr:hover { background: var(--flat-soft); }
+tbody tr.sel { background: var(--flat-soft); box-shadow: inset 3px 0 0 var(--accent); }
+td.sym { font-family: var(--sans); font-weight: 600; }
+td.sym small { display: block; font-weight: 400; color: var(--muted); font-size: 11px; }
+.pos { color: var(--up); } .neg { color: var(--down); }
+td.err { text-align: left; color: var(--down); font-family: var(--sans); white-space: normal; }
+.detail { padding: 16px; display: grid; gap: 12px; }
+.detail h2 { margin: 0; font-size: 18px; font-weight: 600; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.legend { display: flex; flex-wrap: wrap; gap: 12px; font-size: 12px; color: var(--muted); }
+.legend i { display: inline-block; width: 14px; height: 3px; border-radius: 2px; vertical-align: middle; margin-right: 4px; }
+svg text { fill: var(--muted); font: 10px var(--mono); }
+.notes { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; font-size: 13px; }
+.notes li { display: flex; gap: 8px; }
+.notes b { width: 14px; flex: none; text-align: center; font-family: var(--mono); }
+.empty { color: var(--muted); padding: 24px 16px; }
+.alert { background: var(--down-soft); color: var(--fg); border: 1px solid var(--down); border-radius: 10px; padding: 12px 16px; line-height: 1.6; }
+.alert b { color: var(--down); display: block; }
+footer { color: var(--muted); font-size: 12px; }
+#tip { position: fixed; pointer-events: none; background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 6px 8px; font: 12px var(--mono); box-shadow: 0 4px 14px rgba(0,0,0,.12); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Radar Tren Crypto</h1>
+      <div class="sub" id="status">Memuat data…</div>
+    </div>
+    <div class="controls">
+      <label for="symbols">Koin</label>
+      <input id="symbols" value="HYPE ASTER XPL SOL BTC TAO XRP ETH DOGE bitget:LIT BNB XAU" spellcheck="false">
+      <label for="interval">Timeframe</label>
+      <select id="interval">
+        <option value="15m">15 menit</option><option value="1h">1 jam</option>
+        <option value="4h">4 jam</option><option value="1d" selected>Harian</option><option value="1w">Mingguan</option>
+      </select>
+      <button id="run" type="button">Analisa</button>
+    </div>
+  </header>
+
+  <div class="alert" id="offline" hidden>
+    <b>Dashboard tidak bisa terhubung ke Binance maupun Bitget.</b>
+    Kalau file ini dibuka di pratinjau aplikasi (Claude, WhatsApp, Google Drive, dan sejenisnya), akses internetnya diblokir.
+    Download dulu <code>dashboard.html</code> ke komputer, lalu buka dengan dobel-klik di Chrome atau Edge.
+    Kalau sudah dibuka di Chrome dan masih gagal, coba matikan ad-blocker atau VPN, atau coba jaringan lain.
+  </div>
+  <div class="summary" id="summary"></div>
+
+  <div class="main">
+    <div class="card table-wrap">
+      <table>
+        <thead><tr><th>Koin</th><th>Harga</th><th>Ubah 7</th><th>RSI</th><th>Skor</th><th>Tren</th></tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <div class="card detail" id="detail"><div class="empty">Pilih koin di tabel untuk melihat grafik dan alasan sinyalnya.</div></div>
+  </div>
+
+  <footer>
+    Data dari Binance, otomatis pindah ke Bitget jika koin tidak ada atau datanya kurang di Binance. Awali dengan <code>bitget:</code> untuk memaksa Bitget.
+    Candle yang belum selesai tidak dihitung. Diperbarui otomatis tiap 5 menit. Ini analisa teknikal otomatis, bukan saran investasi.
+  </footer>
+</div>
+<div id="tip" hidden></div>
+
+<script>
+"use strict";
+// ---------- Sumber data (sama dengan analyzer/data_sources.py) ----------
+const MIN_CANDLES = 60, LIMIT = 400;
+const STEP_MS = { "15m": 9e5, "1h": 36e5, "4h": 144e5, "1d": 864e5, "1w": 6048e5 };
+const BITGET_GRAN = { "15m": ["15min", "15m"], "1h": ["1h", "1H"], "4h": ["4h", "4H"], "1d": ["1day", "1D"], "1w": ["1week", "1W"] };
+
+function normalize(sym) {
+  sym = sym.toUpperCase().replace(/[\/-]/g, "");
+  const quotes = ["USDT", "FDUSD", "BTC", "ETH", "IDR"];
+  return quotes.some(q => sym.endsWith(q) && sym.length > q.length) ? sym : sym + "USDT";
+}
+
+function toRows(raw) {
+  // raw: [[time, open, high, low, close, volume, ...]] -> objek urut waktu, tanpa duplikat
+  const seen = new Map();
+  for (const r of raw) seen.set(Number(r[0]), { t: Number(r[0]), o: +r[1], h: +r[2], l: +r[3], c: +r[4], v: +r[5] });
+  return [...seen.values()].sort((a, b) => a.t - b.t);
+}
+
+async function getJSON(url) {
+  const resp = await fetch(url);
+  let body = null;
+  try { body = await resp.json(); } catch (e) { /* bukan JSON */ }
+  return { ok: resp.ok, status: resp.status, body };
+}
+
+async function fetchBinance(sym, interval) {
+  const q = `/api/v3/klines?symbol=${sym}&interval=${interval}&limit=${LIMIT}`;
+  const errors = [];
+  for (const base of ["https://api.binance.com", "https://data-api.binance.vision"]) {
+    try {
+      const r = await getJSON(base + q);
+      if (r.status === 451) throw new Error("lokasi diblokir (451)");
+      if (!r.ok) throw new Error((r.body && r.body.msg) || "HTTP " + r.status);
+      const now = Date.now();
+      return toRows(r.body.filter(k => Number(k[6]) < now));
+    } catch (e) { errors.push(e.message); }
+  }
+  throw new Error("Binance: " + errors.join("; "));
+}
+
+async function fetchBitget(sym, interval) {
+  const [spotGran, futGran] = BITGET_GRAN[interval];
+  const markets = [
+    ["/api/v2/spot/market/", `symbol=${sym}&granularity=${spotGran}`],
+    ["/api/v2/mix/market/", `symbol=${sym}&productType=USDT-FUTURES&granularity=${futGran}`],
+  ];
+  const errors = [];
+  for (const [path, params] of markets) {
+    const r = await getJSON(`https://api.bitget.com${path}candles?${params}&limit=1000`).catch(e => ({ body: { msg: e.message } }));
+    if (!(r.ok && r.body && r.body.code === "00000" && r.body.data && r.body.data.length)) {
+      errors.push((r.body && r.body.msg) || "HTTP " + r.status);
+      continue;
+    }
+    let raw = r.body.data;
+    // Satu request hanya 90-300 candle: ambil data lama secara bertahap
+    while (raw.length < LIMIT) {
+      const oldest = Math.min(...raw.map(x => Number(x[0])));
+      const h = await getJSON(`https://api.bitget.com${path}history-candles?${params}&endTime=${oldest}&limit=200`).catch(() => null);
+      const older = h && h.body && h.body.data ? h.body.data.filter(x => Number(x[0]) < oldest) : [];
+      if (!older.length) break;
+      raw = older.concat(raw);
+    }
+    const now = Date.now();
+    return toRows(raw).filter(k => k.t + STEP_MS[interval] <= now).slice(-LIMIT);
+  }
+  throw new Error("Bitget: " + errors.join("; "));
+}
+
+async function fetchAuto(input, interval) {
+  const [prefix, rest] = input.includes(":") ? input.split(":", 2) : [null, input];
+  const sym = normalize(rest);
+  const order = prefix === "bitget" ? [["bitget", fetchBitget]] : prefix === "binance" ? [["binance", fetchBinance]]
+    : [["binance", fetchBinance], ["bitget", fetchBitget]];
+  const errors = []; let best = null;
+  for (const [name, fn] of order) {
+    try {
+      const rows = await fn(sym, interval);
+      if (rows.length >= MIN_CANDLES) return { sym, source: name, rows };
+      if (!best || rows.length > best.rows.length) best = { sym, source: name, rows };
+    } catch (e) { errors.push(e.message); }
+  }
+  if (best) return best;
+  throw new Error(errors.join(" · "));
+}
+
+// ---------- Indikator (sama dengan analyzer/indicators.py) ----------
+function sma(x, n) {
+  const out = new Array(x.length).fill(NaN); let s = 0;
+  for (let i = 0; i < x.length; i++) { s += x[i]; if (i >= n) s -= x[i - n]; if (i >= n - 1) out[i] = s / n; }
+  return out;
+}
+function ema(x, n) {
+  const a = 2 / (n + 1), out = []; let prev;
+  for (let i = 0; i < x.length; i++) { prev = i === 0 ? x[0] : a * x[i] + (1 - a) * prev; out.push(prev); }
+  return out;
+}
+function rsi(c, n = 14) {
+  const out = new Array(c.length).fill(NaN); let g = 0, l = 0;
+  for (let i = 1; i < c.length; i++) {
+    const d = c[i] - c[i - 1], up = Math.max(d, 0), dn = Math.max(-d, 0);
+    if (i === 1) { g = up; l = dn; } else { g = g + (up - g) / n; l = l + (dn - l) / n; }
+    if (i >= n) out[i] = l === 0 ? 100 : 100 - 100 / (1 + g / l);
+  }
+  return out;
+}
+function stdev(x, n) {
+  const out = new Array(x.length).fill(NaN);
+  for (let i = n - 1; i < x.length; i++) {
+    const w = x.slice(i - n + 1, i + 1), m = w.reduce((a, b) => a + b, 0) / n;
+    out[i] = Math.sqrt(w.reduce((a, b) => a + (b - m) ** 2, 0) / n);
+  }
+  return out;
+}
+function indicators(rows) {
+  const c = rows.map(r => r.c), v = rows.map(r => r.v);
+  const e26 = ema(c, 26), e12 = ema(c, 12);
+  const line = e12.map((e, i) => e - e26[i]), sig = ema(line, 9);
+  const mid = sma(c, 20), sd = stdev(c, 20);
+  return {
+    close: c, vol: v, sma20: mid, sma50: sma(c, 50), sma200: sma(c, 200), rsi: rsi(c),
+    macd: line, signal: sig, hist: line.map((m, i) => m - sig[i]),
+    bbMid: mid, bbUp: mid.map((m, i) => m + 2 * sd[i]), bbLo: mid.map((m, i) => m - 2 * sd[i]),
+    volSma: sma(v, 20),
+  };
+}
+
+// ---------- Sinyal (sama dengan analyzer/signals.py) ----------
+function fmt(x) {
+  if (!isFinite(x)) return "—";
+  if (x === 0) return "0";
+  const a = Math.abs(x);
+  if (a >= 1000) return x.toLocaleString("en-US", { maximumFractionDigits: 0 });
+  if (a >= 1) return Number(x.toPrecision(4)).toLocaleString("en-US", { maximumFractionDigits: 4 });
+  if (a >= 1e-4) return String(Number(x.toPrecision(4)));
+  return x.toFixed(8).replace(/0+$/, "");
+}
+function fmtPrice(x) {
+  const a = Math.abs(x);
+  if (a >= 1000) return x.toLocaleString("en-US", { maximumFractionDigits: 2 });
+  if (a >= 1) return x.toLocaleString("en-US", { minimumFractionDigits: 2, maximumFractionDigits: 4 });
+  return String(Number(x.toPrecision(4)));
+}
+function analyze(ind, lookback = 7) {
+  const n = ind.close.length, i = n - 1, p = n - 2;
+  const close = ind.close[i]; let score = 0; const notes = [];
+  const vote = (pts, note) => { score += pts; notes.push([pts, note]); };
+  for (const [k, label] of [["sma20", "MA20"], ["sma50", "MA50"], ["sma200", "MA200"]]) {
+    const m = ind[k][i];
+    if (isFinite(m)) close > m ? vote(1, `Harga di atas ${label} (${fmt(m)})`) : vote(-1, `Harga di bawah ${label} (${fmt(m)})`);
+  }
+  if (isFinite(ind.sma50[i]) && isFinite(ind.sma200[i]))
+    ind.sma50[i] > ind.sma200[i] ? vote(1, "MA50 di atas MA200 (tren besar naik)") : vote(-1, "MA50 di bawah MA200 (tren besar turun)");
+  if (ind.macd[i] > ind.signal[i]) vote(1, "MACD di atas signal" + (ind.macd[p] <= ind.signal[p] ? " (baru cross naik)" : ""));
+  else vote(-1, "MACD di bawah signal" + (ind.macd[p] >= ind.signal[p] ? " (baru cross turun)" : ""));
+  const r = ind.rsi[i];
+  if (r >= 70) vote(0, `RSI ${r.toFixed(1)}: overbought, rawan koreksi`);
+  else if (r <= 30) vote(0, `RSI ${r.toFixed(1)}: oversold, rawan pantulan`);
+  else if (r > 55) vote(1, `RSI ${r.toFixed(1)}: momentum positif`);
+  else if (r < 45) vote(-1, `RSI ${r.toFixed(1)}: momentum negatif`);
+  else vote(0, `RSI ${r.toFixed(1)}: netral`);
+  if (isFinite(ind.bbUp[i])) {
+    const width = (ind.bbUp[i] - ind.bbLo[i]) / ind.bbMid[i] * 100;
+    if (close > ind.bbUp[i]) vote(0, "Harga menembus Bollinger atas (kuat tapi overextended)");
+    else if (close < ind.bbLo[i]) vote(0, "Harga menembus Bollinger bawah (lemah tapi overextended)");
+    if (width < 5) vote(0, `Bollinger menyempit (${width.toFixed(1)}%): potensi pergerakan besar`);
+  }
+  if (isFinite(ind.volSma[i]) && ind.vol[i] > 1.5 * ind.volSma[i]) {
+    const up = close > ind.close[p];
+    vote(up ? 1 : -1, `Volume tinggi (${(ind.vol[i] / ind.volSma[i]).toFixed(1)}x rata-rata) saat harga ${up ? "naik" : "turun"}`);
+  }
+  const trend = score >= 3 ? "BULLISH" : score <= -3 ? "BEARISH" : "SIDEWAYS";
+  const ref = n > lookback ? ind.close[n - 1 - lookback] : ind.close[0];
+  return { price: close, change: ref ? (close / ref - 1) * 100 : 0, score, trend, rsi: r, notes };
+}
+
+// ---------- Tampilan ----------
+const $ = id => document.getElementById(id);
+const ICON = { BULLISH: "▲", BEARISH: "▼", SIDEWAYS: "►" };
+let results = [], selected = null, timer = null;
+
+function el(tag, attrs = {}, text) {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, v);
+  if (text !== undefined) e.textContent = text;
+  return e;
+}
+
+function renderTable() {
+  const body = $("rows"); body.replaceChildren();
+  const ok = results.filter(r => r.res).sort((a, b) => a.res.score - b.res.score);
+  for (const r of ok.concat(results.filter(r => !r.res))) {
+    const tr = el("tr", { tabindex: "0" });
+    if (r.input === selected) tr.className = "sel";
+    const sym = el("td", { class: "sym" }, r.sym.replace(/USDT$/, ""));
+    sym.append(el("small", {}, r.source ? `${r.source} · ${r.rows.length} candle` : ""));
+    tr.append(sym);
+    if (!r.res) {
+      const td = el("td", { class: "err", colspan: "5" }, r.error); tr.append(td);
+    } else {
+      const s = r.res;
+      tr.append(el("td", {}, fmtPrice(s.price)));
+      tr.append(el("td", { class: s.change >= 0 ? "pos" : "neg" }, (s.change >= 0 ? "+" : "") + s.change.toFixed(1) + "%"));
+      tr.append(el("td", {}, s.rsi.toFixed(1)));
+      tr.append(el("td", { class: s.score > 0 ? "pos" : s.score < 0 ? "neg" : "" }, (s.score > 0 ? "+" : "") + s.score));
+      const td = el("td"); td.append(el("span", { class: "chip " + s.trend }, ICON[s.trend] + " " + s.trend)); tr.append(td);
+    }
+    const pick = () => { selected = r.input; renderTable(); renderDetail(); };
+    tr.addEventListener("click", pick);
+    tr.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); pick(); } });
+    body.append(tr);
+  }
+  const counts = { BULLISH: 0, SIDEWAYS: 0, BEARISH: 0 };
+  ok.forEach(r => counts[r.res.trend]++);
+  $("summary").replaceChildren(...Object.entries(counts).map(([t, n]) => el("span", { class: "chip " + t }, `${ICON[t]} ${n} ${t}`)));
+}
+
+function renderDetail() {
+  const box = $("detail"), r = results.find(x => x.input === selected && x.res);
+  if (!r) { box.replaceChildren(el("div", { class: "empty" }, "Pilih koin di tabel untuk melihat grafik dan alasan sinyalnya.")); return; }
+  const h = el("h2", {}, r.sym);
+  h.append(el("span", { class: "chip " + r.res.trend }, `${ICON[r.res.trend]} ${r.res.trend} (${r.res.score > 0 ? "+" : ""}${r.res.score})`));
+  const legend = el("div", { class: "legend" });
+  for (const [name, color] of [["Harga", "var(--fg)"], ["MA20", "var(--ma20)"], ["MA50", "var(--ma50)"], ["MA200", "var(--ma200)"], ["Bollinger", "var(--band)"]]) {
+    const s = el("span"); const i = el("i"); i.style.background = color; s.append(i, name); legend.append(s);
+  }
+  const chartBox = el("div");
+  const notes = el("ul", { class: "notes" });
+  for (const [pts, note] of r.res.notes) {
+    const li = el("li"); li.append(el("b", { class: pts > 0 ? "pos" : pts < 0 ? "neg" : "" }, pts > 0 ? "+" : pts < 0 ? "−" : "·"), el("span", {}, note)); notes.append(li);
+  }
+  box.replaceChildren(h, legend, chartBox, notes);
+  drawChart(chartBox, r);
+}
+
+const NS = "http://www.w3.org/2000/svg";
+function svgEl(tag, attrs) { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); return e; }
+
+function drawChart(box, r, bars = 150) {
+  const W = Math.max(box.clientWidth || 600, 300), H = 420, padL = 8, padR = 62;
+  const start = Math.max(0, r.rows.length - bars), idx = [...Array(r.rows.length - start).keys()].map(k => k + start);
+  const ind = r.ind, x = i => padL + (i - start) / Math.max(idx.length - 1, 1) * (W - padL - padR);
+  const panels = [{ top: 8, h: 230 }, { top: 252, h: 70 }, { top: 336, h: 76 }];
+  const svg = svgEl("svg", { width: "100%", viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": `Grafik ${r.sym}` });
+  const scale = (vals, p) => {
+    const f = vals.filter(isFinite); let lo = Math.min(...f), hi = Math.max(...f); if (lo === hi) { lo -= 1; hi += 1; }
+    const pad = (hi - lo) * .05; lo -= pad; hi += pad;
+    return { y: v => p.top + (hi - v) / (hi - lo) * p.h, lo, hi };
+  };
+  const path = (arr, s) => { let d = "", pen = false; for (const i of idx) { const v = arr[i]; if (!isFinite(v)) { pen = false; continue; } d += (pen ? "L" : "M") + x(i).toFixed(1) + "," + s.y(v).toFixed(1); pen = true; } return d; };
+  const grid = (s, p, ticks) => { for (const t of ticks) { const yy = s.y(t); svg.append(svgEl("line", { x1: padL, x2: W - padR, y1: yy, y2: yy, stroke: "var(--line)" })); const tx = svgEl("text", { x: W - padR + 6, y: yy + 3 }); tx.textContent = fmt(t); svg.append(tx); } };
+
+  // Harga + MA + Bollinger
+  const p0 = panels[0];
+  const s0 = scale(idx.flatMap(i => [ind.close[i], ind.bbUp[i], ind.bbLo[i], ind.sma200[i]]), p0);
+  grid(s0, p0, [0, .25, .5, .75, 1].map(f => s0.lo + (s0.hi - s0.lo) * f));
+  let band = "", back = "";
+  for (const i of idx) if (isFinite(ind.bbUp[i])) { band += (band ? "L" : "M") + x(i).toFixed(1) + "," + s0.y(ind.bbUp[i]).toFixed(1); back = "L" + x(i).toFixed(1) + "," + s0.y(ind.bbLo[i]).toFixed(1) + back; }
+  if (band) svg.append(svgEl("path", { d: band + back + "Z", fill: "var(--band)", stroke: "none" }));
+  for (const [k, c] of [["sma200", "var(--ma200)"], ["sma50", "var(--ma50)"], ["sma20", "var(--ma20)"]]) svg.append(svgEl("path", { d: path(ind[k], s0), fill: "none", stroke: c, "stroke-width": 1.2 }));
+  svg.append(svgEl("path", { d: path(ind.close, s0), fill: "none", stroke: "var(--fg)", "stroke-width": 1.6 }));
+  const last = idx[idx.length - 1];
+  svg.append(svgEl("circle", { cx: x(last), cy: s0.y(ind.close[last]), r: 3, fill: "var(--fg)" }));
+
+  // RSI
+  const p1 = panels[1], s1 = { y: v => p1.top + (100 - v) / 100 * p1.h, lo: 0, hi: 100 };
+  svg.append(svgEl("rect", { x: padL, y: s1.y(70), width: W - padL - padR, height: s1.y(30) - s1.y(70), fill: "var(--flat-soft)" }));
+  grid(s1, p1, [30, 50, 70]);
+  svg.append(svgEl("path", { d: path(ind.rsi, s1), fill: "none", stroke: "var(--ma200)", "stroke-width": 1.2 }));
+  const lr = svgEl("text", { x: padL + 2, y: p1.top + 10 }); lr.textContent = "RSI 14"; svg.append(lr);
+
+  // MACD
+  const p2 = panels[2];
+  const s2 = scale(idx.flatMap(i => [ind.macd[i], ind.signal[i], ind.hist[i], 0]), p2);
+  grid(s2, p2, [0]);
+  const bw = Math.max((W - padL - padR) / idx.length * .7, 1);
+  for (const i of idx) { const hv = ind.hist[i]; svg.append(svgEl("rect", { x: x(i) - bw / 2, y: Math.min(s2.y(hv), s2.y(0)), width: bw, height: Math.abs(s2.y(hv) - s2.y(0)), fill: hv >= 0 ? "var(--up)" : "var(--down)", opacity: .55 })); }
+  svg.append(svgEl("path", { d: path(ind.macd, s2), fill: "none", stroke: "var(--ma20)", "stroke-width": 1.2 }));
+  svg.append(svgEl("path", { d: path(ind.signal, s2), fill: "none", stroke: "var(--ma50)", "stroke-width": 1.2 }));
+  const lm = svgEl("text", { x: padL + 2, y: p2.top + 10 }); lm.textContent = "MACD 12/26/9"; svg.append(lm);
+
+  // Tooltip
+  const cursor = svgEl("line", { y1: 8, y2: H - 8, stroke: "var(--muted)", "stroke-dasharray": "3 3", visibility: "hidden" });
+  svg.append(cursor);
+  const tip = $("tip");
+  svg.addEventListener("pointermove", e => {
+    const rect = svg.getBoundingClientRect(), px = (e.clientX - rect.left) / rect.width * W;
+    const k = Math.round((px - padL) / (W - padL - padR) * (idx.length - 1));
+    const i = idx[Math.min(Math.max(k, 0), idx.length - 1)];
+    cursor.setAttribute("x1", x(i)); cursor.setAttribute("x2", x(i)); cursor.setAttribute("visibility", "visible");
+    const d = new Date(r.rows[i].t);
+    tip.textContent = `${d.toLocaleDateString("id-ID", { day: "numeric", month: "short", year: "numeric" })}${r.interval === "1d" || r.interval === "1w" ? "" : " " + d.toLocaleTimeString("id-ID", { hour: "2-digit", minute: "2-digit" })}  ·  ${fmt(ind.close[i])}  ·  RSI ${isFinite(ind.rsi[i]) ? ind.rsi[i].toFixed(1) : "—"}`;
+    tip.hidden = false;
+    const tw = tip.offsetWidth;
+    tip.style.left = Math.min(e.clientX + 12, window.innerWidth - tw - 8) + "px";
+    tip.style.top = (e.clientY + 14) + "px";
+  });
+  svg.addEventListener("pointerleave", () => { tip.hidden = true; cursor.setAttribute("visibility", "hidden"); });
+  box.append(svg);
+}
+
+async function run() {
+  const btn = $("run"), interval = $("interval").value;
+  const inputs = $("symbols").value.split(/[\s,]+/).filter(Boolean);
+  btn.disabled = true; $("status").textContent = `Mengambil data ${inputs.length} koin…`;
+  results = await Promise.all(inputs.map(async input => {
+    try {
+      const d = await fetchAuto(input, interval);
+      if (d.rows.length < MIN_CANDLES) return { input, sym: d.sym, source: d.source, rows: d.rows, error: `Data terlalu sedikit (${d.rows.length} candle). Coba timeframe lebih kecil.` };
+      const ind = indicators(d.rows);
+      return { input, sym: d.sym, source: d.source, rows: d.rows, ind, interval, res: analyze(ind) };
+    } catch (e) {
+      return { input, sym: normalize(input.split(":").pop()), error: "Gagal: " + e.message };
+    }
+  }));
+  if (!results.some(r => r.input === selected && r.res)) {
+    const first = results.filter(r => r.res).sort((a, b) => a.res.score - b.res.score)[0];
+    selected = first ? first.input : null;
+  }
+  renderTable(); renderDetail();
+  const label = $("interval").selectedOptions[0].textContent;
+  $("status").textContent = `Timeframe ${label.toLowerCase()} · diperbarui ${new Date().toLocaleTimeString("id-ID", { hour: "2-digit", minute: "2-digit" })} · perubahan dihitung 7 candle terakhir`;
+  // Semua koin gagal karena jaringan: biasanya file dibuka di pratinjau aplikasi yang memblokir internet
+  const offline = results.length && results.every(r => !r.res && /Failed to fetch|NetworkError|Load failed/i.test(r.error || ""));
+  $("offline").hidden = !offline;
+  btn.disabled = false;
+  try { localStorage.setItem("radar", JSON.stringify({ symbols: $("symbols").value, interval })); } catch (e) { /* abaikan */ }
+}
+
+try {
+  const saved = JSON.parse(localStorage.getItem("radar") || "null");
+  if (saved) { $("symbols").value = saved.symbols; $("interval").value = saved.interval; }
+} catch (e) { /* abaikan */ }
+$("run").addEventListener("click", run);
+$("symbols").addEventListener("keydown", e => { if (e.key === "Enter") run(); });
+$("interval").addEventListener("change", run);
+let resizeT; window.addEventListener("resize", () => { clearTimeout(resizeT); resizeT = setTimeout(renderDetail, 150); });
+run();
+timer = setInterval(run, 5 * 60 * 1000);
+</script>
+</body>
+</html>
