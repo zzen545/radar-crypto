@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T17:27:36.594932+00:00",
+ "updated": "2026-10-21T17:57:56.771040+00:00",
  "window_hours": 48,
  "headlines": 125,
  "feeds_ok": [
@@ -17,6 +17,20 @@
    "neg": 4,
    "count": 30,
    "items": [
+    {
+     "title": "Declining a Bitcoin loan may not spare a cash purchase from futures rules, CFTC says",
+     "link": "https://cryptoslate.com/declining-a-bitcoin-loan-may-not-spare-a-cash-purchase-from-futures-rules-cftc-says/",
+     "source": "CryptoSlate",
+     "time": "2026-10-21T17:40:18+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
+     "link": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
+     "source": "Decrypt",
+     "time": "2026-10-21T17:31:03+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin Lightning developers sound alarm over security flaws as second patch lands in five days",
      "link": "https://cryptoslate.com/bitcoin-lightning-developers-sound-alarm-over-security-flaws-as-second-patch-lands-in-five-days/",
@@ -102,32 +116,18 @@
      "s": 0
     },
     {
-     "title": "Quantum-proof Bitcoin signatures would clog network nodes with 10x larger data",
-     "link": "https://cryptoslate.com/quantum-proof-bitcoin-signatures-would-clog-network-nodes-with-10x-larger-data/",
-     "source": "CryptoSlate",
-     "time": "2026-10-21T08:30:07+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
      "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
      "source": "CoinDesk",
      "time": "2026-10-21T04:07:07+00:00",
      "s": 1
-    },
-    {
-     "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
-     "link": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
-     "source": "Decrypt",
-     "time": "2026-10-20T21:16:04+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 8,
+   "count": 7,
    "items": [
     {
      "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
@@ -176,13 +176,6 @@
      "link": "https://bitcoinist.com/tron-outpaces-ethereum-and-solana-in-one-measure-of-network-revenue/",
      "source": "Bitcoinist",
      "time": "2026-10-20T14:05:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
-     "link": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
-     "source": "Decrypt",
-     "time": "2026-10-19T17:31:04+00:00",
      "s": 0
     }
    ]
