@@ -8,9 +8,13 @@ import sys
 import numpy as np
 import pandas as pd
 
+import os
+
 import data4h
 import mesin as m
 
+IV = os.environ.get("IV", "4h")
+HOLD = {"4h": 1, "1h": 4, "1d": 1}[IV]
 IS_START, SPLIT = pd.Timestamp("2022-01-01", tz="UTC"), pd.Timestamp("2025-01-01", tz="UTC")
 
 
@@ -100,10 +104,10 @@ def apply_filter(df, sig, f):
 
 
 def main():
-    _, btc = data4h.load("BTC")
+    _, btc = data4h.load("BTC", IV)
     data = {}
     for s in data4h.WATCHLIST:
-        sym, df = data4h.load(s)
+        sym, df = data4h.load(s, IV)
         data[sym] = m.prep(df, btc)
     results = {}
     trades_all = {}
@@ -113,7 +117,7 @@ def main():
             for xn, (t1, t2, tr, mh) in exits.items():
                 for f in FILTERS:
                     key = f"{name} | {xn} | {f}"
-                    tr_ = m.simulate(df, apply_filter(df, sig, f), sd, exs, t1, t2, tr, mh, line)
+                    tr_ = m.simulate(df, apply_filter(df, sig, f), sd, exs, t1, t2, tr, mh * HOLD, line)
                     trades_all.setdefault(key, []).extend({**t, "sym": sym} for t in tr_)
     rows = []
     for key, tr in trades_all.items():
@@ -121,8 +125,8 @@ def main():
         oos = [t for t in tr if t["time"] >= SPLIT]
         y26 = [t for t in tr if t["time"].year == 2026]
         rows.append({"key": key, "in": m.summary(ins), "out": m.summary(oos), "2026": m.summary(y26)})
-    pd.to_pickle(trades_all, "../hasil/cache4h/trades.pkl")
-    json.dump(rows, open("../hasil/uji4h.json", "w"), indent=0, default=str)
+    pd.to_pickle(trades_all, f"../hasil/cache4h/trades_{IV}.pkl")
+    json.dump(rows, open("../hasil/uji4h.json" if IV == "4h" else f"../hasil/uji_{IV}.json", "w"), indent=0, default=str)
     score = lambda r: r["in"]["avg"] * np.sqrt(r["in"]["n"]) if r["in"]["n"] >= 100 else -9
     rows.sort(key=score, reverse=True)
     print(f"{'strategi':45} {'IN n':>5} {'win':>5} {'avg':>6} {'pf':>5} | {'OUT n':>5} {'win':>5} {'avg':>6} {'pf':>5} | 2026 n  avg")
