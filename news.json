@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T12:30:54.336188+00:00",
+ "updated": "2026-10-21T13:31:27.134488+00:00",
  "window_hours": 48,
- "headlines": 123,
+ "headlines": 122,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 13,
+   "pos": 11,
    "neg": 7,
-   "count": 35,
+   "count": 33,
    "items": [
     {
      "title": "Morning Minute: Bitcoin Tops JPMorgan’s Ten-Year Forecast for All Assets",
@@ -225,16 +225,8 @@
   "BNB": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "BNB Chain burns $1.2B in October tokens, leaving real supply impact hidden",
-     "link": "https://cryptoslate.com/bnb-chain-burns-1-2b-in-october-tokens-leaving-real-supply-impact-hidden/",
-     "source": "CryptoSlate",
-     "time": "2026-10-20T22:50:17+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "XRP": {
    "pos": 1,
