@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T15:29:36.417731+00:00",
+ "updated": "2026-10-21T16:06:23.288487+00:00",
  "window_hours": 48,
- "headlines": 122,
+ "headlines": 123,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 9,
-   "neg": 6,
+   "neg": 5,
    "count": 31,
    "items": [
+    {
+     "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
+     "link": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
+     "source": "Decrypt",
+     "time": "2026-10-21T15:43:32+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
      "link": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -114,13 +121,6 @@
      "source": "Decrypt",
      "time": "2026-10-20T21:16:04+00:00",
      "s": 0
-    },
-    {
-     "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
-     "link": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
-     "source": "Decrypt",
-     "time": "2026-10-20T19:31:04+00:00",
-     "s": 1
     }
    ]
   },
