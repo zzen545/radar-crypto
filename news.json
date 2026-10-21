@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T13:31:27.134488+00:00",
+ "updated": "2026-10-21T14:23:56.982693+00:00",
  "window_hours": 48,
  "headlines": 122,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 11,
+   "pos": 10,
    "neg": 7,
-   "count": 33,
+   "count": 34,
    "items": [
+    {
+     "title": "5 alternatives to Ledger to store your Bitcoin",
+     "link": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-21T13:30:00+00:00",
+     "s": 0
+    },
     {
      "title": "Morning Minute: Bitcoin Tops JPMorgan’s Ten-Year Forecast for All Assets",
      "link": "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets",
@@ -53,11 +60,11 @@
      "s": -1
     },
     {
-     "title": "Live updates: Bitcoin rises above $83,000 as SpaceX results, possible Tesla merger, lift markets",
+     "title": "Live updates: Bitcoin makes push for $84,000 as SpaceX leads markets higher",
      "link": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
      "source": "CoinDesk",
      "time": "2026-10-21T10:30:40+00:00",
-     "s": 1
+     "s": 0
     },
     {
      "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
@@ -114,13 +121,6 @@
      "source": "Decrypt",
      "time": "2026-10-20T18:31:04+00:00",
      "s": 1
-    },
-    {
-     "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
-     "link": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
-     "source": "The Block",
-     "time": "2026-10-20T18:14:28+00:00",
-     "s": 0
     }
    ]
   },
@@ -195,10 +195,17 @@
    ]
   },
   "SOL": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
+     "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-21T13:57:14+00:00",
+     "s": 1
+    },
     {
      "title": "Solana’s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
      "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
@@ -229,9 +236,9 @@
    "items": []
   },
   "XRP": {
-   "pos": 1,
+   "pos": 0,
    "neg": 1,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
@@ -239,13 +246,6 @@
      "source": "CoinDesk",
      "time": "2026-10-21T05:25:57+00:00",
      "s": -1
-    },
-    {
-     "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
-     "link": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-20T10:20:58+00:00",
-     "s": 1
     },
     {
      "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
