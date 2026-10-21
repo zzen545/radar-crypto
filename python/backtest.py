@@ -17,6 +17,7 @@ Contoh:
 from __future__ import annotations
 
 import argparse
+import functools
 import json
 from dataclasses import asdict, dataclass
 
@@ -68,6 +69,7 @@ def fetch_binance(sym: str, pages: int = 3) -> pd.DataFrame:
     return df.set_index("time").astype(float)
 
 
+@functools.lru_cache(maxsize=None)
 def load(symbol: str) -> tuple[str, str, pd.DataFrame]:
     forced, _, rest = symbol.rpartition(":")
     sym = BitgetSource().normalize_symbol(rest)
@@ -198,9 +200,34 @@ def weekly_trend(df: pd.DataFrame) -> pd.Series:
     return trend.shift(1).reindex(df.index, method="ffill").fillna(0)
 
 
-def backtest(symbol: str, use_volume: bool = True, min_adx: float = 0, mtf: bool = False) -> tuple[list[Trade], dict]:
+BTC_MA = 50
+
+
+def btc_context(df: pd.DataFrame) -> pd.DataFrame:
+    """Data BTC yang sudah diketahui saat candle koin ini close (tanpa melihat masa depan)."""
+    _, _, btc = load("BTC")
+    b = pd.DataFrame({"btc": btc["close"], "btc_sma50": btc["close"].rolling(BTC_MA).mean()})
+    b.index = b.index + pd.Timedelta(days=1)  # waktu close candle BTC
+    out = b.reindex(df.index + pd.Timedelta(days=1), method="ffill")
+    out.index = df.index
+    return out
+
+
+def rs_signal(df: pd.DataFrame) -> pd.Series:
+    """+1 bila koin lebih kuat dari BTC (rasio di atas SMA50 dan naik 20 hari), -1 bila lebih lemah."""
+    ratio = df["close"] / df["btc"]
+    sma = ratio.rolling(50).mean()
+    up = (ratio > sma) & (ratio > ratio.shift(20))
+    down = (ratio < sma) & (ratio < ratio.shift(20))
+    return pd.Series(np.where(up, 1, np.where(down, -1, 0)), index=df.index)
+
+
+def backtest(symbol: str, use_volume: bool = True, min_adx: float = 0, mtf: bool = False, rs: str = "",
+             btc_regime: bool = False, short_bear: bool = False, no_short: bool = False) -> tuple[list[Trade], dict]:
     sym, source, raw = load(symbol)
     df = indicators.add_all(raw)
+    df = df.join(btc_context(df))
+    df["rs"] = rs_signal(df) if sym != "BTCUSDT" else 0
     df["atr"] = atr(df)
     df["adx"] = adx(df)
     df["wtrend"] = weekly_trend(df)
@@ -212,7 +239,16 @@ def backtest(symbol: str, use_volume: bool = True, min_adx: float = 0, mtf: bool
     while t < len(df) - 1:
         res = signals.analyze(sym, df.iloc[:t + 1])
         score = res.score + (volume_score(df, obv, obv_sma, t) if use_volume else 0)
+        if rs == "score":
+            score += int(df["rs"].iloc[t])
         side = "LONG" if score >= 3 else "SHORT" if score <= -3 else None
+        d = 1 if side == "LONG" else -1
+        if side and rs == "filter" and sym != "BTCUSDT" and df["rs"].iloc[t] == -d:
+            side = None
+        if side and btc_regime and np.sign(df["btc"].iloc[t] - df["btc_sma50"].iloc[t]) == -d:
+            side = None
+        if side == "SHORT" and (no_short or (short_bear and df["close"].iloc[t] > df["sma200"].iloc[t])):
+            side = None
         if side and min_adx and df["adx"].iloc[t] < min_adx:
             side = None
         if side and mtf and df["wtrend"].iloc[t] != (1 if side == "LONG" else -1):
@@ -261,13 +297,21 @@ def main() -> None:
     p.add_argument("--no-volume", action="store_true", help="skor teknikal saja")
     p.add_argument("--adx", type=float, default=0, help="hanya masuk bila ADX >= nilai ini (mis. 20)")
     p.add_argument("--mtf", action="store_true", help="hanya masuk searah tren mingguan")
+    p.add_argument("--rs", choices=["filter", "score"], default="", help="kekuatan relatif vs BTC: filter atau tambahan skor")
+    p.add_argument("--btc-regime", action="store_true", help="long hanya saat BTC di atas MA50, short hanya saat di bawah")
+    p.add_argument("--btc-ma", type=int, default=50, help="panjang MA BTC untuk --btc-regime")
+    p.add_argument("--short-bear", action="store_true", help="short hanya bila harga di bawah MA200")
+    p.add_argument("--no-short", action="store_true", help="hanya LONG")
     p.add_argument("--json", help="simpan hasil lengkap ke file JSON")
     args = p.parse_args()
+    global BTC_MA
+    BTC_MA = args.btc_ma
 
     all_trades, per_coin = [], []
     for s in args.symbols:
         try:
-            trades, info = backtest(s, use_volume=not args.no_volume, min_adx=args.adx, mtf=args.mtf)
+            trades, info = backtest(s, use_volume=not args.no_volume, min_adx=args.adx, mtf=args.mtf, rs=args.rs,
+                                   btc_regime=args.btc_regime, short_bear=args.short_bear, no_short=args.no_short)
         except Exception as exc:
             print(f"[!] {s}: {exc}")
             continue

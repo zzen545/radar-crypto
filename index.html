@@ -480,15 +480,19 @@ function scenario(label, side, entry, entryLo, entryHi, a, guard) {
   const risk = dir * (entry - stop);
   return { label, side, entry, entryLo, entryHi, stop, risk, tp1: entry + dir * 1.5 * risk, tp2: entry + dir * 3 * risk };
 }
+// Filter kondisi BTC (lolos backtest): long hanya saat BTC di atas MA50, short hanya saat di bawah
+let btcRegime = null;
 function plan(ind, res) {
   const n = ind.close.length, close = ind.close[n - 1], a = ind.atr[n - 1];
   const { support, resistance } = levels(ind);
   const out = { support, resistance, atr: a, warnings: [], scenarios: [] };
-  if (res.trend === "BULLISH") {
+  const blocked = btcRegime && ((res.trend === "BULLISH" && !btcRegime.above) || (res.trend === "BEARISH" && btcRegime.above));
+  if (blocked) out.warnings.push(`Sinyal ${res.trend === "BULLISH" ? "LONG" : "SHORT"} ditunda karena BTC sedang ${btcRegime.above ? "di atas" : "di bawah"} MA50 (${fmt(btcRegime.sma50)}). Di backtest, melawan arah BTC menurunkan hasil.`);
+  if (res.trend === "BULLISH" && !blocked) {
     out.side = "LONG";
     out.scenarios.push(scenario("Buy di area harga sekarang", "LONG", close - 0.25 * a, close - 0.5 * a, close, a, support));
     if (res.rsi >= 70) out.warnings.push(`RSI ${res.rsi.toFixed(1)} sudah overbought. Lebih aman menunggu pullback ke MA20 (${fmt(ind.sma20[n - 1])}).`);
-  } else if (res.trend === "BEARISH") {
+  } else if (res.trend === "BEARISH" && !blocked) {
     out.side = "SHORT";
     out.scenarios.push(scenario("Sell di area harga sekarang", "SHORT", close + 0.25 * a, close, close + 0.5 * a, a, resistance));
     if (res.rsi <= 30) out.warnings.push(`RSI ${res.rsi.toFixed(1)} sudah oversold. Rawan pantulan, lebih aman menunggu pantulan ke MA20 (${fmt(ind.sma20[n - 1])}).`);
@@ -548,6 +552,8 @@ function renderTable() {
   const counts = { BULLISH: 0, SIDEWAYS: 0, BEARISH: 0 };
   ok.forEach(r => counts[r.res.trend]++);
   $("summary").replaceChildren(...Object.entries(counts).map(([t, n]) => el("span", { class: "chip " + t }, `${ICON[t]} ${n} ${t}`)));
+  if (btcRegime) $("summary").append(el("span", { class: "chip " + (btcRegime.above ? "BULLISH" : "BEARISH") },
+    `BTC ${btcRegime.above ? "di atas" : "di bawah"} MA50: ${btcRegime.above ? "hanya LONG" : "hanya SHORT"}`));
 }
 
 function renderDetail() {
@@ -718,7 +724,12 @@ async function run() {
   const btn = $("run"), interval = $("interval").value;
   const inputs = $("symbols").value.split(/[\s,]+/).filter(Boolean);
   btn.disabled = true; $("status").textContent = `Mengambil data ${inputs.length} koin…`;
-  const [news, fng] = await Promise.all([loadNews(), loadFearGreed()]);
+  const [news, fng, btc] = await Promise.all([loadNews(), loadFearGreed(), fetchAuto("BTC", interval).catch(() => null)]);
+  btcRegime = null;
+  if (btc && btc.rows.length >= 50) {
+    const c = btc.rows.map(r => r.c), m = sma(c, 50);
+    btcRegime = { above: c[c.length - 1] > m[m.length - 1], close: c[c.length - 1], sma50: m[m.length - 1] };
+  }
   results = await Promise.all(inputs.map(async input => {
     try {
       const d = await fetchAuto(input, interval);
