@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T16:59:34.215956+00:00",
+ "updated": "2026-10-22T17:26:58.258227+00:00",
  "window_hours": 48,
- "headlines": 123,
+ "headlines": 122,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 9,
    "neg": 9,
    "count": 30,
    "items": [
+    {
+     "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
+     "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-22T16:50:51+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
      "link": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
@@ -114,13 +121,6 @@
      "source": "CryptoSlate",
      "time": "2026-10-22T07:10:36+00:00",
      "s": 0
-    },
-    {
-     "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-     "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
-     "source": "CoinDesk",
-     "time": "2026-10-22T06:24:10+00:00",
-     "s": -1
     }
    ]
   },
