@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T22:55:36.971281+00:00",
+ "updated": "2026-10-22T23:19:17.658798+00:00",
  "window_hours": 48,
  "headlines": 121,
  "feeds_ok": [
@@ -188,9 +188,9 @@
    ]
   },
   "SOL": {
-   "pos": 2,
+   "pos": 1,
    "neg": 0,
-   "count": 5,
+   "count": 4,
    "items": [
     {
      "title": "Solana bot turns just $12,000 into $1.4 billion in trading volume as fake liquidity floods Raydium",
@@ -218,13 +218,6 @@
      "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
      "source": "Decrypt",
      "time": "2026-10-21T14:24:25+00:00",
-     "s": 1
-    },
-    {
-     "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
-     "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-21T13:57:14+00:00",
      "s": 1
     }
    ]
