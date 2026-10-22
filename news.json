@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T12:33:26.545459+00:00",
+ "updated": "2026-10-22T13:34:29.124583+00:00",
  "window_hours": 48,
- "headlines": 122,
+ "headlines": 121,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 5,
+   "pos": 6,
    "neg": 9,
-   "count": 32,
+   "count": 33,
    "items": [
+    {
+     "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+     "link": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-22T13:00:00+00:00",
+     "s": 1
+    },
     {
      "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
      "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
@@ -114,20 +121,13 @@
      "source": "CryptoSlate",
      "time": "2026-10-21T23:10:19+00:00",
      "s": 0
-    },
-    {
-     "title": "Tesla–SpaceX merger talks could put 30,221 Bitcoin under one roof",
-     "link": "https://cryptoslate.com/tesla-spacex-merger-talks-bitcoin/",
-     "source": "CryptoSlate",
-     "time": "2026-10-21T21:00:13+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 2,
-   "count": 9,
+   "count": 7,
    "items": [
     {
      "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
@@ -156,20 +156,6 @@
      "source": "Decrypt",
      "time": "2026-10-21T14:24:25+00:00",
      "s": 1
-    },
-    {
-     "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
-     "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-21T10:13:52+00:00",
-     "s": 0
-    },
-    {
-     "title": "Ether ETF outflows continue, pass $1B in October so far",
-     "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-21T08:11:50+00:00",
-     "s": 0
     },
     {
      "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
