@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T11:59:10.538173+00:00",
+ "updated": "2026-10-22T12:33:26.545459+00:00",
  "window_hours": 48,
- "headlines": 123,
+ "headlines": 122,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 5,
-   "neg": 8,
-   "count": 33,
+   "neg": 9,
+   "count": 32,
    "items": [
     {
      "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
@@ -53,11 +53,11 @@
      "s": -1
     },
     {
-     "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
+     "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
      "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
      "source": "CoinDesk",
      "time": "2026-10-22T09:54:26+00:00",
-     "s": 0
+     "s": -1
     },
     {
      "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
@@ -127,8 +127,15 @@
   "ETH": {
    "pos": 1,
    "neg": 2,
-   "count": 8,
+   "count": 9,
    "items": [
+    {
+     "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+     "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+     "source": "CoinDesk",
+     "time": "2026-10-22T12:14:29+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
      "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
