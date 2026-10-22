@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T05:28:57.009171+00:00",
+ "updated": "2026-10-22T06:01:20.879383+00:00",
  "window_hours": 48,
  "headlines": 122,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 6,
    "neg": 3,
-   "count": 29,
+   "count": 28,
    "items": [
     {
      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
@@ -181,16 +181,16 @@
    ]
   },
   "SOL": {
-   "pos": 3,
+   "pos": 2,
    "neg": 0,
    "count": 7,
    "items": [
     {
-     "title": "Solana completes Alpenglow upgrade. Here’s what it means for users",
+     "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
      "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
      "source": "CoinDesk",
      "time": "2026-10-22T05:24:58+00:00",
-     "s": 1
+     "s": 0
     },
     {
      "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
