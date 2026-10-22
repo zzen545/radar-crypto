@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T13:34:29.124583+00:00",
+ "updated": "2026-10-22T14:25:15.846156+00:00",
  "window_hours": 48,
- "headlines": 121,
+ "headlines": 120,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
+   "pos": 7,
    "neg": 9,
    "count": 33,
    "items": [
+    {
+     "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
+     "link": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-22T13:42:34+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
      "link": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -114,21 +121,28 @@
      "source": "CoinDesk",
      "time": "2026-10-22T03:51:34+00:00",
      "s": 0
-    },
-    {
-     "title": "Irish drug lord’s lost Bitcoin fortune comes back to life as $41 million moves to Coinbase",
-     "link": "https://cryptoslate.com/irish-drug-lords-lost-bitcoin-fortune-comes-back-to-life-as-41-million-moves-to-coinbase/",
-     "source": "CryptoSlate",
-     "time": "2026-10-21T23:10:19+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 2,
-   "count": 7,
+   "count": 8,
    "items": [
+    {
+     "title": "A Midnight privacy-vault demo needs outside signers to release Ethereum tokens",
+     "link": "https://cryptoslate.com/a-midnight-privacy-vault-demo-needs-outside-signers-to-release-ethereum-tokens/",
+     "source": "CryptoSlate",
+     "time": "2026-10-22T14:00:42+00:00",
+     "s": 0
+    },
+    {
+     "title": "Uniswap’s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
+     "link": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+     "source": "The Block",
+     "time": "2026-10-22T13:55:03+00:00",
+     "s": 0
+    },
     {
      "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
      "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
@@ -170,20 +184,13 @@
      "source": "Bitcoinist",
      "time": "2026-10-20T14:55:00+00:00",
      "s": 0
-    },
-    {
-     "title": "Tron Outpaces Ethereum And Solana In One Measure Of Network Revenue",
-     "link": "https://bitcoinist.com/tron-outpaces-ethereum-and-solana-in-one-measure-of-network-revenue/",
-     "source": "Bitcoinist",
-     "time": "2026-10-20T14:05:00+00:00",
-     "s": 0
     }
    ]
   },
   "SOL": {
    "pos": 2,
    "neg": 0,
-   "count": 6,
+   "count": 5,
    "items": [
     {
      "title": "Solana targets faster finality, while Wall Street cuts the cash that must move",
@@ -219,13 +226,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-21T13:57:14+00:00",
      "s": 1
-    },
-    {
-     "title": "Tron Outpaces Ethereum And Solana In One Measure Of Network Revenue",
-     "link": "https://bitcoinist.com/tron-outpaces-ethereum-and-solana-in-one-measure-of-network-revenue/",
-     "source": "Bitcoinist",
-     "time": "2026-10-20T14:05:00+00:00",
-     "s": 0
     }
    ]
   },
