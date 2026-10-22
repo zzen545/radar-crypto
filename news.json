@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T08:06:47.019577+00:00",
+ "updated": "2026-10-22T09:04:53.744480+00:00",
  "window_hours": 48,
  "headlines": 122,
  "feeds_ok": [
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
-   "neg": 4,
-   "count": 31,
+   "pos": 7,
+   "neg": 5,
+   "count": 32,
    "items": [
+    {
+     "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+     "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+     "source": "CoinDesk",
+     "time": "2026-10-22T08:49:08+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin’s $80,000 floor faces Friday inflation test as ETF inflows lose momentum",
+     "link": "https://cryptoslate.com/bitcoins-80000-floor-faces-friday-inflation-test-as-etf-inflows-lose-momentum/",
+     "source": "CryptoSlate",
+     "time": "2026-10-22T08:40:20+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
      "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -81,13 +95,6 @@
      "s": 1
     },
     {
-     "title": "Bitcoin Lightning developers sound alarm over security flaws as second patch lands in five days",
-     "link": "https://cryptoslate.com/bitcoin-lightning-developers-sound-alarm-over-security-flaws-as-second-patch-lands-in-five-days/",
-     "source": "CryptoSlate",
-     "time": "2026-10-21T16:30:34+00:00",
-     "s": 0
-    },
-    {
      "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
      "link": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
      "source": "Decrypt",
@@ -113,13 +120,6 @@
      "link": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-10-21T13:30:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Morning Minute: Bitcoin Tops JPMorgan’s Ten-Year Forecast for All Assets",
-     "link": "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets",
-     "source": "Decrypt",
-     "time": "2026-10-21T12:16:38+00:00",
      "s": 0
     }
    ]
