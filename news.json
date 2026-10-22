@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T07:17:00.984406+00:00",
+ "updated": "2026-10-22T08:06:47.019577+00:00",
  "window_hours": 48,
  "headlines": 122,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 6,
    "neg": 4,
-   "count": 30,
+   "count": 31,
    "items": [
+    {
+     "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+     "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-22T07:37:32+00:00",
+     "s": 0
+    },
     {
      "title": "SideSwap reopens Bitcoin swaps while Liquid reserves stay locked",
      "link": "https://cryptoslate.com/sideswap-reopens-bitcoin-swaps-while-liquid-reserves-stay-locked/",
@@ -114,13 +121,6 @@
      "source": "Decrypt",
      "time": "2026-10-21T12:16:38+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms",
-     "link": "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524",
-     "source": "The Block",
-     "time": "2026-10-21T11:55:08+00:00",
-     "s": -1
     }
    ]
   },
