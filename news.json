@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T14:25:15.846156+00:00",
+ "updated": "2026-10-22T15:00:06.143912+00:00",
  "window_hours": 48,
- "headlines": 120,
+ "headlines": 123,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -151,6 +151,13 @@
      "s": 0
     },
     {
+     "title": "Fhenix Brings Encrypted Smart Contract Computing To Ethereum And Arbitrum",
+     "link": "https://bitcoinist.com/fhenix-brings-encrypted-smart-contract-computing-to-ethereum-and-arbitrum/",
+     "source": "Bitcoinist",
+     "time": "2026-10-22T12:00:00+00:00",
+     "s": 0
+    },
+    {
      "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
      "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
      "source": "The Block",
@@ -177,13 +184,6 @@
      "source": "Decrypt",
      "time": "2026-10-20T20:46:04+00:00",
      "s": -1
-    },
-    {
-     "title": "Hyperliquid Trader Reopens Huge Ethereum Short After $469,000 Hit",
-     "link": "https://bitcoinist.com/hyperliquid-trader-reopens-huge-ethereum-short-after-469-000-hit/",
-     "source": "Bitcoinist",
-     "time": "2026-10-20T14:55:00+00:00",
-     "s": 0
     }
    ]
   },
@@ -293,16 +293,8 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Hyperliquid Trader Reopens Huge Ethereum Short After $469,000 Hit",
-     "link": "https://bitcoinist.com/hyperliquid-trader-reopens-huge-ethereum-short-after-469-000-hit/",
-     "source": "Bitcoinist",
-     "time": "2026-10-20T14:55:00+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "ASTER": {
    "pos": 0,
