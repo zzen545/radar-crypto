@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T06:01:20.879383+00:00",
+ "updated": "2026-10-22T07:17:00.984406+00:00",
  "window_hours": 48,
  "headlines": 122,
  "feeds_ok": [
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 3,
-   "count": 28,
+   "neg": 4,
+   "count": 30,
    "items": [
+    {
+     "title": "SideSwap reopens Bitcoin swaps while Liquid reserves stay locked",
+     "link": "https://cryptoslate.com/sideswap-reopens-bitcoin-swaps-while-liquid-reserves-stay-locked/",
+     "source": "CryptoSlate",
+     "time": "2026-10-22T07:10:36+00:00",
+     "s": 0
+    },
+    {
+     "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+     "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+     "source": "CoinDesk",
+     "time": "2026-10-22T06:24:10+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
@@ -106,20 +120,6 @@
      "link": "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524",
      "source": "The Block",
      "time": "2026-10-21T11:55:08+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-     "link": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
-     "source": "CoinDesk",
-     "time": "2026-10-21T11:15:00+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
-     "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-21T10:39:13+00:00",
      "s": -1
     }
    ]
@@ -243,9 +243,9 @@
    "items": []
   },
   "XRP": {
-   "pos": 1,
+   "pos": 0,
    "neg": 1,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
@@ -260,13 +260,6 @@
      "source": "CryptoSlate",
      "time": "2026-10-21T22:00:04+00:00",
      "s": 0
-    },
-    {
-     "title": "XRP flashes a potential bottom signal, but $15.7 billion in exchange supply threatens recovery",
-     "link": "https://cryptoslate.com/xrp-flashes-a-potential-bottom-signal-but-15-7-billion-in-exchange-supply-threatens-recovery/",
-     "source": "CryptoSlate",
-     "time": "2026-10-21T15:10:57+00:00",
-     "s": 1
     },
     {
      "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
