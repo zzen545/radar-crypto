@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T17:56:13.170937+00:00",
+ "updated": "2026-10-22T18:21:21.813135+00:00",
  "window_hours": 48,
- "headlines": 122,
+ "headlines": 123,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 9,
    "neg": 9,
-   "count": 29,
+   "count": 30,
    "items": [
+    {
+     "title": "Bitcoin Core 32 can stall multisig signing on older nodes as fix slips to next patch",
+     "link": "https://cryptoslate.com/bitcoin-core-32s-wallet-change-can-break-co-signing-with-older-nodes/",
+     "source": "CryptoSlate",
+     "time": "2026-10-22T18:00:57+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
      "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -88,7 +95,7 @@
      "s": -1
     },
     {
-     "title": "Live updates: Bitcoin slumps below $82,000 as risk off mood returns",
+     "title": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack",
      "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
      "source": "CoinDesk",
      "time": "2026-10-22T09:54:26+00:00",
@@ -113,13 +120,6 @@
      "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-10-22T07:37:32+00:00",
-     "s": 0
-    },
-    {
-     "title": "SideSwap reopens Bitcoin swaps while Liquid reserves stay locked",
-     "link": "https://cryptoslate.com/sideswap-reopens-bitcoin-swaps-while-liquid-reserves-stay-locked/",
-     "source": "CryptoSlate",
-     "time": "2026-10-22T07:10:36+00:00",
      "s": 0
     }
    ]
