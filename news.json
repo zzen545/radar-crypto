@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T09:04:53.744480+00:00",
+ "updated": "2026-10-22T10:01:28.106199+00:00",
  "window_hours": 48,
  "headlines": 122,
  "feeds_ok": [
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
-   "neg": 5,
-   "count": 32,
+   "pos": 5,
+   "neg": 6,
+   "count": 31,
    "items": [
+    {
+     "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
+     "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
+     "source": "The Block",
+     "time": "2026-10-22T09:56:16+00:00",
+     "s": -1
+    },
+    {
+     "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
+     "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+     "source": "CoinDesk",
+     "time": "2026-10-22T09:54:26+00:00",
+     "s": 0
+    },
     {
      "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
      "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
@@ -107,28 +121,28 @@
      "source": "Decrypt",
      "time": "2026-10-21T15:43:32+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
-     "link": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-21T15:13:17+00:00",
-     "s": 0
-    },
-    {
-     "title": "5 alternatives to Ledger to store your Bitcoin",
-     "link": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-21T13:30:00+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
-   "neg": 1,
-   "count": 7,
+   "neg": 2,
+   "count": 8,
    "items": [
+    {
+     "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
+     "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
+     "source": "The Block",
+     "time": "2026-10-22T09:56:16+00:00",
+     "s": -1
+    },
+    {
+     "title": "Starknet voters back research into life beyond Ethereum",
+     "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-22T09:37:54+00:00",
+     "s": 0
+    },
     {
      "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
      "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
@@ -158,13 +172,6 @@
      "s": -1
     },
     {
-     "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
-     "link": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
-     "source": "The Block",
-     "time": "2026-10-20T16:31:24+00:00",
-     "s": 0
-    },
-    {
      "title": "Hyperliquid Trader Reopens Huge Ethereum Short After $469,000 Hit",
      "link": "https://bitcoinist.com/hyperliquid-trader-reopens-huge-ethereum-short-after-469-000-hit/",
      "source": "Bitcoinist",
@@ -183,7 +190,7 @@
   "SOL": {
    "pos": 2,
    "neg": 0,
-   "count": 7,
+   "count": 6,
    "items": [
     {
      "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
@@ -218,13 +225,6 @@
      "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
      "source": "CoinDesk",
      "time": "2026-10-21T04:35:52+00:00",
-     "s": 0
-    },
-    {
-     "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
-     "link": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
-     "source": "The Block",
-     "time": "2026-10-20T16:31:24+00:00",
      "s": 0
     },
     {
@@ -306,16 +306,9 @@
   },
   "HYPE": {
    "pos": 0,
-   "neg": 1,
-   "count": 2,
+   "neg": 0,
+   "count": 1,
    "items": [
-    {
-     "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
-     "link": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-20T20:38:00+00:00",
-     "s": -1
-    },
     {
      "title": "Hyperliquid Trader Reopens Huge Ethereum Short After $469,000 Hit",
      "link": "https://bitcoinist.com/hyperliquid-trader-reopens-huge-ethereum-short-after-469-000-hit/",
