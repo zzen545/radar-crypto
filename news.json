@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T10:58:31.503535+00:00",
+ "updated": "2026-10-22T11:26:43.958456+00:00",
  "window_hours": 48,
  "headlines": 123,
  "feeds_ok": [
@@ -17,6 +17,13 @@
    "neg": 8,
    "count": 33,
    "items": [
+    {
+     "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+     "link": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+     "source": "CoinDesk",
+     "time": "2026-10-22T11:20:04+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
@@ -114,13 +121,6 @@
      "source": "CryptoSlate",
      "time": "2026-10-21T21:00:13+00:00",
      "s": 0
-    },
-    {
-     "title": "Declining a Bitcoin loan may not spare a cash purchase from futures rules, CFTC says",
-     "link": "https://cryptoslate.com/declining-a-bitcoin-loan-may-not-spare-a-cash-purchase-from-futures-rules-cftc-says/",
-     "source": "CryptoSlate",
-     "time": "2026-10-21T17:40:18+00:00",
-     "s": 0
     }
    ]
   },
@@ -190,8 +190,15 @@
   "SOL": {
    "pos": 2,
    "neg": 0,
-   "count": 5,
+   "count": 6,
    "items": [
+    {
+     "title": "Solana targets faster finality, while Wall Street cuts the cash that must move",
+     "link": "https://cryptoslate.com/solana-targets-faster-finality-while-wall-street-cuts-the-cash-that-must-move/",
+     "source": "CryptoSlate",
+     "time": "2026-10-22T11:00:54+00:00",
+     "s": 0
+    },
     {
      "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
      "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
@@ -237,8 +244,8 @@
   },
   "XRP": {
    "pos": 0,
-   "neg": 1,
-   "count": 3,
+   "neg": 0,
+   "count": 2,
    "items": [
     {
      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
@@ -253,13 +260,6 @@
      "source": "CryptoSlate",
      "time": "2026-10-21T22:00:04+00:00",
      "s": 0
-    },
-    {
-     "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-     "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
-     "source": "CoinDesk",
-     "time": "2026-10-21T05:25:57+00:00",
-     "s": -1
     }
    ]
   },
