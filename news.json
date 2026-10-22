@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T04:01:30.876669+00:00",
+ "updated": "2026-10-22T05:00:03.746409+00:00",
  "window_hours": 48,
  "headlines": 122,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 5,
-   "neg": 4,
+   "pos": 6,
+   "neg": 3,
    "count": 30,
    "items": [
+    {
+     "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+     "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+     "source": "CoinDesk",
+     "time": "2026-10-22T04:41:59+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
@@ -114,13 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-21T10:39:13+00:00",
      "s": -1
-    },
-    {
-     "title": "Live updates: Bitcoin holds above $84,000 as Middle East worries resurface",
-     "link": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
-     "source": "CoinDesk",
-     "time": "2026-10-21T10:30:40+00:00",
-     "s": 0
     }
    ]
   },
@@ -238,8 +238,15 @@
   "XRP": {
    "pos": 1,
    "neg": 1,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+     "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+     "source": "CoinDesk",
+     "time": "2026-10-22T04:36:20+00:00",
+     "s": 0
+    },
     {
      "title": "Why earning XRP yield through this wallet could actually cost you money",
      "link": "https://cryptoslate.com/xaman-xrp-yield-fees/",
