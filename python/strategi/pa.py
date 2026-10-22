@@ -25,7 +25,18 @@ def swings(h: np.ndarray, l: np.ndarray, k: int):
     return sh, sl
 
 
+_SCACHE: dict = {}
+_CC: dict = {}
+
+
 def structure(df: pd.DataFrame, k: int) -> pd.DataFrame:
+    key = (id(df), len(df), k)
+    if key not in _SCACHE:
+        _SCACHE[key] = _structure(df, k)
+    return _SCACHE[key]
+
+
+def _structure(df: pd.DataFrame, k: int) -> pd.DataFrame:
     """Per candle t (yang sudah close): swing high/low terakhir yang sudah terkonfirmasi, sebelumnya,
     dan arah struktur (+1 setelah close menembus swing high / BOS naik, -1 setelah menembus swing low)."""
     h, l, c = (df[x].to_numpy() for x in ("high", "low", "close"))
@@ -252,4 +263,72 @@ def smc_orders(df: pd.DataFrame, k: int = 3, sweep_look: int = 12, need_major=Tr
                 if discount and np.isfinite(opp) and bot < ext - 0.5 * (ext - opp):
                     continue
                 orders.append((t, -1, bot, ext + 0.1 * a[t], opp, valid))
+    return orders
+
+
+def combo_orders(df: pd.DataFrame, k: int = 3, k_small: int = 2, trend: str = "struct", fib=(0.5, 0.786),
+                 look: int = 6, need_sweep: bool = True, need_pattern: bool = True, tp_mode: str = "struct"):
+    """Setup gabungan (long; short kebalikannya):
+    1. Tren searah: 'struct' = tren mayor harian & minor 4 jam naik; 'ema' = EMA20 > EMA50 (4 jam);
+       'major' = hanya tren mayor harian; 'both' = struct dan ema.
+    2. Kaki impuls terakhir (swing low -> swing high, fraktal k) dan harga pullback ke zona Fibonacci.
+    3. Liquidity sweep: dalam `look` candle terakhir ada candle yang menembus swing low kecil (fraktal k_small)
+       lalu close kembali di atasnya, tanpa menembus awal kaki impuls.
+    4. Candle konfirmasi (bullish engulfing / pin bar) di candle sinyal.
+    Masuk market di open berikutnya, stop di bawah low terendah sejak sweep, target puncak kaki (struct),
+    ekstensi -0.272 (ext), atau -0.618 (ext618)."""
+    o, h, l, c = (df[x].to_numpy() for x in ("open", "high", "low", "close"))
+    a = df["atr"].to_numpy()
+    big = structure(df, k)
+    sm = structure(df, k_small)
+    shp, slp, shi, sli, minor = (big[x].to_numpy() for x in ("sh", "sl", "shi", "sli", "trend"))
+    ssh, ssl = sm["sh"].to_numpy(), sm["sl"].to_numpy()
+    major = df["major"].to_numpy()
+    emad = np.sign(df["close"].ewm(span=20, adjust=False).mean() - df["close"].ewm(span=50, adjust=False).mean()).to_numpy()
+    if id(df) not in _CC:
+        _CC[id(df)] = candles(df)
+    bull_c, bear_c = _CC[id(df)]
+    n = len(c)
+    # sweep kecil per candle
+    sw_l = np.isfinite(ssl) & (l < ssl) & (c > ssl)
+    sw_h = np.isfinite(ssh) & (h > ssh) & (c < ssh)
+    orders = []
+    for t in range(60, n - 1):
+        for d in (1, -1):
+            if trend in ("struct", "both") and not (major[t] == d and minor[t] == d):
+                continue
+            if trend == "major" and major[t] != d:
+                continue
+            if trend in ("ema", "both") and emad[t] != d:
+                continue
+            if need_pattern and not (bull_c[t] if d == 1 else bear_c[t]):
+                continue
+            if not (np.isfinite(shp[t]) and np.isfinite(slp[t])):
+                continue
+            if (d == 1 and not sli[t] < shi[t]) or (d == -1 and not shi[t] < sli[t]):
+                continue
+            lo, hi = slp[t], shp[t]
+            leg = hi - lo
+            if leg < 2 * a[t]:
+                continue
+            s0 = max(t - look, 0)
+            if d == 1:
+                zt, zb = hi - fib[0] * leg, hi - fib[1] * leg
+                seg_low = l[s0:t + 1].min()
+                if not (seg_low <= zt and c[t] >= zb and seg_low > lo):
+                    continue
+                if need_sweep and not sw_l[s0:t + 1].any():
+                    continue
+                stop = seg_low - 0.2 * a[t]
+                target = {"struct": hi, "ext": hi + 0.272 * leg, "ext618": hi + 0.618 * leg}[tp_mode]
+            else:
+                zb, zt = lo + fib[0] * leg, lo + fib[1] * leg
+                seg_high = h[s0:t + 1].max()
+                if not (seg_high >= zb and c[t] <= zt and seg_high < hi):
+                    continue
+                if need_sweep and not sw_h[s0:t + 1].any():
+                    continue
+                stop = seg_high + 0.2 * a[t]
+                target = {"struct": lo, "ext": lo - 0.272 * leg, "ext618": lo - 0.618 * leg}[tp_mode]
+            orders.append((t, d, None, stop, target, 1))
     return orders
