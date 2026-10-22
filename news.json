@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T19:07:15.917001+00:00",
+ "updated": "2026-10-22T19:58:26.323681+00:00",
  "window_hours": 48,
  "headlines": 124,
  "feeds_ok": [
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
-   "neg": 9,
-   "count": 29,
+   "pos": 7,
+   "neg": 8,
+   "count": 26,
    "items": [
     {
      "title": "Bitcoin Core 32 can stall multisig signing on older nodes as fix slips to next patch",
