@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T20:23:39.046137+00:00",
+ "updated": "2026-10-22T20:58:19.653925+00:00",
  "window_hours": 48,
  "headlines": 123,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 6,
    "neg": 8,
-   "count": 25,
+   "count": 24,
    "items": [
     {
      "title": "Bitcoin Core 32 can stall multisig signing on older nodes as fix slips to next patch",
@@ -126,8 +126,8 @@
   },
   "ETH": {
    "pos": 1,
-   "neg": 2,
-   "count": 9,
+   "neg": 1,
+   "count": 8,
    "items": [
     {
      "title": "Robinhood generates $51 million in blockchain fees while Ethereum settlement costs total just $69,000",
@@ -184,13 +184,6 @@
      "source": "Decrypt",
      "time": "2026-10-21T14:24:25+00:00",
      "s": 1
-    },
-    {
-     "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-     "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
-     "source": "Decrypt",
-     "time": "2026-10-20T20:46:04+00:00",
-     "s": -1
     }
    ]
   },
