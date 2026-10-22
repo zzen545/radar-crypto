@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T22:21:35.172745+00:00",
+ "updated": "2026-10-22T22:55:36.971281+00:00",
  "window_hours": 48,
- "headlines": 120,
+ "headlines": 121,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 8,
-   "count": 23,
+   "neg": 9,
+   "count": 24,
    "items": [
+    {
+     "title": "Bitcoin ETFs sold through 7 of 8 crashes even as Wall Street makes BTC selloffs less violent",
+     "link": "https://cryptoslate.com/bitcoin-etfs-sold-through-7-of-8-crashes-even-as-wall-street-makes-btc-selloffs-less-violent/",
+     "source": "CryptoSlate",
+     "time": "2026-10-22T22:30:38+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin Core 32 can stall multisig signing on older nodes as fix slips to next patch",
      "link": "https://cryptoslate.com/bitcoin-core-32s-wallet-change-can-break-co-signing-with-older-nodes/",
@@ -114,13 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-22T07:37:32+00:00",
      "s": 0
-    },
-    {
-     "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-     "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
-     "source": "CoinDesk",
-     "time": "2026-10-22T06:24:10+00:00",
-     "s": -1
     }
    ]
   },
@@ -190,20 +190,13 @@
   "SOL": {
    "pos": 2,
    "neg": 0,
-   "count": 6,
+   "count": 5,
    "items": [
     {
      "title": "Solana bot turns just $12,000 into $1.4 billion in trading volume as fake liquidity floods Raydium",
      "link": "https://cryptoslate.com/solana-bot-turns-just-12000-into-1-4-billion-in-trading-volume-as-fake-liquidity-floods-raydium/",
      "source": "CryptoSlate",
      "time": "2026-10-22T16:20:56+00:00",
-     "s": 0
-    },
-    {
-     "title": "Solana targets faster finality, while Wall Street cuts the cash that must move",
-     "link": "https://cryptoslate.com/solana-targets-faster-finality-while-wall-street-cuts-the-cash-that-must-move/",
-     "source": "CryptoSlate",
-     "time": "2026-10-22T11:00:54+00:00",
      "s": 0
     },
     {
