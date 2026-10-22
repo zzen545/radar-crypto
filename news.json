@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22T15:00:06.143912+00:00",
+ "updated": "2026-10-22T15:32:59.393249+00:00",
  "window_hours": 48,
- "headlines": 123,
+ "headlines": 124,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 7,
    "neg": 9,
-   "count": 33,
+   "count": 32,
    "items": [
     {
      "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
@@ -127,8 +127,15 @@
   "ETH": {
    "pos": 1,
    "neg": 2,
-   "count": 8,
+   "count": 9,
    "items": [
+    {
+     "title": "Robinhood generates $51 million in blockchain fees while Ethereum settlement costs total just $69,000",
+     "link": "https://cryptoslate.com/robinhood-generates-51-million-in-blockchain-fees-while-ethereum-settlement-costs-total-just-69000/",
+     "source": "CryptoSlate",
+     "time": "2026-10-22T15:00:14+00:00",
+     "s": 0
+    },
     {
      "title": "A Midnight privacy-vault demo needs outside signers to release Ethereum tokens",
      "link": "https://cryptoslate.com/a-midnight-privacy-vault-demo-needs-outside-signers-to-release-ethereum-tokens/",
@@ -238,20 +245,13 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
      "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
      "source": "CoinDesk",
      "time": "2026-10-22T04:36:20+00:00",
-     "s": 0
-    },
-    {
-     "title": "Why earning XRP yield through this wallet could actually cost you money",
-     "link": "https://cryptoslate.com/xaman-xrp-yield-fees/",
-     "source": "CryptoSlate",
-     "time": "2026-10-21T22:00:04+00:00",
      "s": 0
     }
    ]
