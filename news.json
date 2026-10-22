@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T17:26:58.258227+00:00",
+ "updated": "2026-10-22T17:56:13.170937+00:00",
  "window_hours": 48,
  "headlines": 122,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 9,
    "neg": 9,
-   "count": 30,
+   "count": 29,
    "items": [
     {
      "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
