@@ -1,23 +1,29 @@
 {
- "updated": "2026-10-23T04:28:34.680462+00:00",
+ "updated": "2026-10-23T05:01:30.561120+00:00",
  "window_hours": 48,
- "headlines": 114,
+ "headlines": 122,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
    "pos": 7,
    "neg": 9,
-   "count": 25,
+   "count": 26,
    "items": [
+    {
+     "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+     "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-23T04:34:14+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
      "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
@@ -115,21 +121,21 @@
      "source": "Decrypt",
      "time": "2026-10-22T10:09:42+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
-     "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
-     "source": "The Block",
-     "time": "2026-10-22T09:56:16+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 1,
-   "neg": 1,
-   "count": 6,
+   "neg": 2,
+   "count": 8,
    "items": [
+    {
+     "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+     "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+     "source": "CoinDesk",
+     "time": "2026-10-23T04:59:34+00:00",
+     "s": -1
+    },
     {
      "title": "Ethereum’s long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",
      "link": "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
@@ -149,6 +155,13 @@
      "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
      "source": "CoinDesk",
      "time": "2026-10-22T12:14:29+00:00",
+     "s": 0
+    },
+    {
+     "title": "Fhenix Brings Encrypted Smart Contract Computing To Ethereum And Arbitrum",
+     "link": "https://bitcoinist.com/fhenix-brings-encrypted-smart-contract-computing-to-ethereum-and-arbitrum/",
+     "source": "Bitcoinist",
+     "time": "2026-10-22T12:00:00+00:00",
      "s": 0
     },
     {
@@ -232,20 +245,13 @@
   "DOGE": {
    "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
      "link": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
      "source": "Decrypt",
      "time": "2026-10-21T16:46:04+00:00",
-     "s": 0
-    },
-    {
-     "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
-     "link": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
-     "source": "CoinDesk",
-     "time": "2026-10-21T12:00:00+00:00",
      "s": 0
     }
    ]
