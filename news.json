@@ -1,16 +1,17 @@
 {
- "updated": "2026-10-23T03:59:42.538993+00:00",
+ "updated": "2026-10-23T04:28:34.680462+00:00",
  "window_hours": 48,
- "headlines": 121,
+ "headlines": 114,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
    "pos": 7,
@@ -127,20 +128,13 @@
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 8,
+   "count": 6,
    "items": [
     {
      "title": "Ethereum’s long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",
      "link": "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
      "source": "CryptoSlate",
      "time": "2026-10-23T00:40:37+00:00",
-     "s": 0
-    },
-    {
-     "title": "Robinhood generates $51 million in blockchain fees while Ethereum settlement costs total just $69,000",
-     "link": "https://cryptoslate.com/robinhood-generates-51-million-in-blockchain-fees-while-ethereum-settlement-costs-total-just-69000/",
-     "source": "CryptoSlate",
-     "time": "2026-10-22T15:00:14+00:00",
      "s": 0
     },
     {
@@ -155,13 +149,6 @@
      "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
      "source": "CoinDesk",
      "time": "2026-10-22T12:14:29+00:00",
-     "s": 0
-    },
-    {
-     "title": "Fhenix Brings Encrypted Smart Contract Computing To Ethereum And Arbitrum",
-     "link": "https://bitcoinist.com/fhenix-brings-encrypted-smart-contract-computing-to-ethereum-and-arbitrum/",
-     "source": "Bitcoinist",
-     "time": "2026-10-22T12:00:00+00:00",
      "s": 0
     },
     {
