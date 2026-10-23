@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T07:16:55.632449+00:00",
+ "updated": "2026-10-23T08:02:54.742471+00:00",
  "window_hours": 48,
  "headlines": 122,
  "feeds_ok": [
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 7,
-   "neg": 9,
-   "count": 26,
+   "neg": 10,
+   "count": 27,
    "items": [
+    {
+     "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+     "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-23T07:09:39+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
      "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -114,13 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-22T10:38:51+00:00",
      "s": -1
-    },
-    {
-     "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
-     "link": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
-     "source": "Decrypt",
-     "time": "2026-10-22T10:09:42+00:00",
-     "s": 0
     }
    ]
   },
