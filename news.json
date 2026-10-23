@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T03:02:01.029815+00:00",
+ "updated": "2026-10-23T03:59:42.538993+00:00",
  "window_hours": 48,
  "headlines": 121,
  "feeds_ok": [
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 7,
-   "neg": 10,
+   "neg": 9,
    "count": 25,
    "items": [
+    {
+     "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+     "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+     "source": "CoinDesk",
+     "time": "2026-10-23T03:13:01+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
      "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
@@ -114,20 +121,13 @@
      "source": "The Block",
      "time": "2026-10-22T09:56:16+00:00",
      "s": -1
-    },
-    {
-     "title": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack",
-     "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-     "source": "CoinDesk",
-     "time": "2026-10-22T09:54:26+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 9,
+   "count": 8,
    "items": [
     {
      "title": "Ethereum’s long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",
@@ -141,13 +141,6 @@
      "link": "https://cryptoslate.com/robinhood-generates-51-million-in-blockchain-fees-while-ethereum-settlement-costs-total-just-69000/",
      "source": "CryptoSlate",
      "time": "2026-10-22T15:00:14+00:00",
-     "s": 0
-    },
-    {
-     "title": "A Midnight privacy-vault demo needs outside signers to release Ethereum tokens",
-     "link": "https://cryptoslate.com/a-midnight-privacy-vault-demo-needs-outside-signers-to-release-ethereum-tokens/",
-     "source": "CryptoSlate",
-     "time": "2026-10-22T14:00:42+00:00",
      "s": 0
     },
     {
@@ -303,8 +296,16 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+     "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+     "source": "CoinDesk",
+     "time": "2026-10-23T03:13:01+00:00",
+     "s": 0
+    }
+   ]
   }
  }
 }
