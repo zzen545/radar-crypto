@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T14:04:16.052598+00:00",
+ "updated": "2026-10-23T15:02:58.435056+00:00",
  "window_hours": 48,
- "headlines": 122,
+ "headlines": 121,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,7 +14,7 @@
  "coins": {
   "BTC": {
    "pos": 10,
-   "neg": 11,
+   "neg": 10,
    "count": 32,
    "items": [
     {
@@ -39,6 +39,13 @@
      "s": -1
     },
     {
+     "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+     "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
+     "source": "CoinDesk",
+     "time": "2026-10-23T12:03:53+00:00",
+     "s": 0
+    },
+    {
      "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
      "link": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
      "source": "The Block",
@@ -53,7 +60,7 @@
      "s": 0
     },
     {
-     "title": "Live updates: Bitcoin holds above $81,000 as markets calm, oil continues to gain",
+     "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
      "link": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
      "source": "CoinDesk",
      "time": "2026-10-23T11:13:01+00:00",
@@ -114,20 +121,13 @@
      "source": "CoinDesk",
      "time": "2026-10-23T03:13:01+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
-     "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
-     "source": "The Block",
-     "time": "2026-10-23T02:21:30+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
-   "pos": 1,
+   "pos": 0,
    "neg": 2,
-   "count": 9,
+   "count": 7,
    "items": [
     {
      "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
@@ -149,13 +149,6 @@
      "source": "CoinDesk",
      "time": "2026-10-23T04:59:34+00:00",
      "s": -1
-    },
-    {
-     "title": "Ethereum’s long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",
-     "link": "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
-     "source": "CryptoSlate",
-     "time": "2026-10-23T00:40:37+00:00",
-     "s": 0
     },
     {
      "title": "Uniswap’s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
@@ -184,29 +177,14 @@
      "source": "The Block",
      "time": "2026-10-22T09:56:16+00:00",
      "s": -1
-    },
-    {
-     "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-     "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-     "source": "Decrypt",
-     "time": "2026-10-21T14:24:25+00:00",
-     "s": 1
     }
    ]
   },
   "SOL": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-     "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
-     "source": "Decrypt",
-     "time": "2026-10-21T14:24:25+00:00",
-     "s": 1
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "BNB": {
    "pos": 0,
