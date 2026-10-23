@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T12:22:36.855856+00:00",
+ "updated": "2026-10-23T13:09:01.105806+00:00",
  "window_hours": 48,
  "headlines": 121,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 8,
    "neg": 11,
-   "count": 31,
+   "count": 30,
    "items": [
+    {
+     "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
+     "link": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-23T12:23:58+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
      "link": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
@@ -107,13 +114,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-23T00:59:35+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin ETFs sold through 7 of 8 crashes even as Wall Street makes BTC selloffs less violent",
-     "link": "https://cryptoslate.com/bitcoin-etfs-sold-through-7-of-8-crashes-even-as-wall-street-makes-btc-selloffs-less-violent/",
-     "source": "CryptoSlate",
-     "time": "2026-10-22T22:30:38+00:00",
-     "s": -1
     },
     {
      "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
@@ -231,8 +231,16 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
+     "link": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
+     "source": "The Block",
+     "time": "2026-10-23T12:55:26+00:00",
+     "s": 0
+    }
+   ]
   },
   "DOGE": {
    "pos": 0,
