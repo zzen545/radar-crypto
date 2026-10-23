@@ -1,22 +1,21 @@
 {
- "updated": "2026-10-23T19:05:45.337521+00:00",
+ "updated": "2026-10-23T19:53:31.310747+00:00",
  "window_hours": 48,
- "headlines": 110,
+ "headlines": 119,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
    "pos": 8,
-   "neg": 9,
-   "count": 31,
+   "neg": 8,
+   "count": 30,
    "items": [
     {
      "title": "Bitcoin ETFs shed $635 million as BTC tests their holdings’ estimated $81,500 cost basis",
@@ -117,18 +116,18 @@
      "s": 0
     },
     {
-     "title": "Bitcoin’s usual lifeline is failing as a bond market warning puts $80,000 at risk",
-     "link": "https://cryptoslate.com/bitcoins-usual-lifeline-is-failing-as-a-bond-market-warning-puts-80000-at-risk/",
-     "source": "CryptoSlate",
-     "time": "2026-10-23T09:30:45+00:00",
-     "s": -1
+     "title": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
+     "link": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
+     "source": "Decrypt",
+     "time": "2026-10-23T08:55:35+00:00",
+     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 0,
    "neg": 2,
-   "count": 6,
+   "count": 7,
    "items": [
     {
      "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
@@ -163,6 +162,13 @@
      "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
      "source": "CoinDesk",
      "time": "2026-10-22T12:14:29+00:00",
+     "s": 0
+    },
+    {
+     "title": "Fhenix Brings Encrypted Smart Contract Computing To Ethereum And Arbitrum",
+     "link": "https://bitcoinist.com/fhenix-brings-encrypted-smart-contract-computing-to-ethereum-and-arbitrum/",
+     "source": "Bitcoinist",
+     "time": "2026-10-22T12:00:00+00:00",
      "s": 0
     },
     {
