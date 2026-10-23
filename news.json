@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T06:28:00.195613+00:00",
+ "updated": "2026-10-23T07:16:55.632449+00:00",
  "window_hours": 48,
  "headlines": 122,
  "feeds_ok": [
@@ -197,15 +197,8 @@
   "SOL": {
    "pos": 1,
    "neg": 0,
-   "count": 4,
+   "count": 3,
    "items": [
-    {
-     "title": "Solana bot turns just $12,000 into $1.4 billion in trading volume as fake liquidity floods Raydium",
-     "link": "https://cryptoslate.com/solana-bot-turns-just-12000-into-1-4-billion-in-trading-volume-as-fake-liquidity-floods-raydium/",
-     "source": "CryptoSlate",
-     "time": "2026-10-22T16:20:56+00:00",
-     "s": 0
-    },
     {
      "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
      "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
