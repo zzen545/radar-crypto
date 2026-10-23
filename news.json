@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T15:02:58.435056+00:00",
+ "updated": "2026-10-23T16:03:04.727400+00:00",
  "window_hours": 48,
- "headlines": 121,
+ "headlines": 119,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 10,
-   "neg": 10,
+   "neg": 9,
    "count": 32,
    "items": [
+    {
+     "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+     "link": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+     "source": "Decrypt",
+     "time": "2026-10-23T15:50:41+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
+     "link": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-23T15:39:17+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin’s $80,000 recovery faces liquidity questions as Binance’s Tether flows swing $14 billion",
      "link": "https://cryptoslate.com/bitcoins-80000-recovery-faces-liquidity-questions-as-binances-tether-flows-swing-14-billion/",
@@ -107,20 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-23T07:09:39+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
-     "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-23T04:34:14+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-     "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
-     "source": "CoinDesk",
-     "time": "2026-10-23T03:13:01+00:00",
-     "s": 0
     }
    ]
   },
@@ -193,10 +193,17 @@
    "items": []
   },
   "XRP": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Evernorth’s $132 million funding option could buy more XRP while reducing XRP per share",
+     "link": "https://cryptoslate.com/evernorths-132-million-funding-option-could-buy-more-xrp-while-reducing-xrp-per-share/",
+     "source": "CryptoSlate",
+     "time": "2026-10-23T15:50:06+00:00",
+     "s": 1
+    },
     {
      "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
      "link": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
