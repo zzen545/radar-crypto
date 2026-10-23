@@ -1,21 +1,22 @@
 {
- "updated": "2026-10-23T18:22:18.915466+00:00",
+ "updated": "2026-10-23T19:05:45.337521+00:00",
  "window_hours": 48,
- "headlines": 118,
+ "headlines": 110,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
-   "pos": 9,
+   "pos": 8,
    "neg": 9,
-   "count": 32,
+   "count": 31,
    "items": [
     {
      "title": "Bitcoin ETFs shed $635 million as BTC tests their holdings’ estimated $81,500 cost basis",
@@ -127,7 +128,7 @@
   "ETH": {
    "pos": 0,
    "neg": 2,
-   "count": 7,
+   "count": 6,
    "items": [
     {
      "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
@@ -162,13 +163,6 @@
      "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
      "source": "CoinDesk",
      "time": "2026-10-22T12:14:29+00:00",
-     "s": 0
-    },
-    {
-     "title": "Fhenix Brings Encrypted Smart Contract Computing To Ethereum And Arbitrum",
-     "link": "https://bitcoinist.com/fhenix-brings-encrypted-smart-contract-computing-to-ethereum-and-arbitrum/",
-     "source": "Bitcoinist",
-     "time": "2026-10-22T12:00:00+00:00",
      "s": 0
     },
     {
