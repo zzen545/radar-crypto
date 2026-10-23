@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T11:57:20.662176+00:00",
+ "updated": "2026-10-23T12:22:36.855856+00:00",
  "window_hours": 48,
- "headlines": 122,
+ "headlines": 121,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 8,
    "neg": 11,
-   "count": 32,
+   "count": 31,
    "items": [
     {
      "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
@@ -32,7 +32,7 @@
      "s": 0
     },
     {
-     "title": "Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs",
+     "title": "Live updates: Bitcoin holds above $81,000 as markets calm, oil continues to gain",
      "link": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
      "source": "CoinDesk",
      "time": "2026-10-23T11:13:01+00:00",
