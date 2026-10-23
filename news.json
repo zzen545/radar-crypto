@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T17:27:59.792776+00:00",
+ "updated": "2026-10-23T17:56:57.381895+00:00",
  "window_hours": 48,
  "headlines": 119,
  "feeds_ok": [
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 10,
+   "pos": 9,
    "neg": 9,
-   "count": 32,
+   "count": 31,
    "items": [
     {
      "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
