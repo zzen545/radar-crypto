@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T13:09:01.105806+00:00",
+ "updated": "2026-10-23T14:04:16.052598+00:00",
  "window_hours": 48,
- "headlines": 121,
+ "headlines": 122,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 10,
    "neg": 11,
-   "count": 30,
+   "count": 32,
    "items": [
+    {
+     "title": "Bitcoin’s $80,000 recovery faces liquidity questions as Binance’s Tether flows swing $14 billion",
+     "link": "https://cryptoslate.com/bitcoins-80000-recovery-faces-liquidity-questions-as-binances-tether-flows-swing-14-billion/",
+     "source": "CryptoSlate",
+     "time": "2026-10-23T14:00:15+00:00",
+     "s": 1
+    },
+    {
+     "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+     "link": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
+     "source": "CoinDesk",
+     "time": "2026-10-23T13:58:56+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
      "link": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -107,27 +121,13 @@
      "source": "The Block",
      "time": "2026-10-23T02:21:30+00:00",
      "s": -1
-    },
-    {
-     "title": "Switzerland’s first retail spot Bitcoin ETF targets November launch",
-     "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-23T00:59:35+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
-     "link": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-22T16:50:51+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 2,
-   "count": 10,
+   "count": 9,
    "items": [
     {
      "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
@@ -186,13 +186,6 @@
      "s": -1
     },
     {
-     "title": "Starknet voters back research into life beyond Ethereum",
-     "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-22T09:37:54+00:00",
-     "s": 0
-    },
-    {
      "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
      "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
      "source": "Decrypt",
@@ -204,15 +197,8 @@
   "SOL": {
    "pos": 1,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
-    {
-     "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
-     "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
-     "source": "CoinDesk",
-     "time": "2026-10-22T05:24:58+00:00",
-     "s": 0
-    },
     {
      "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
      "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
@@ -287,10 +273,17 @@
    "items": []
   },
   "XAU": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+     "link": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
+     "source": "CoinDesk",
+     "time": "2026-10-23T13:58:56+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
      "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
