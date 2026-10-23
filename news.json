@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T23:51:33.730519+00:00",
+ "updated": "2026-10-23T00:18:06.692972+00:00",
  "window_hours": 48,
  "headlines": 121,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 6,
    "neg": 9,
-   "count": 24,
+   "count": 23,
    "items": [
     {
      "title": "Bitcoin ETFs sold through 7 of 8 crashes even as Wall Street makes BTC selloffs less violent",
