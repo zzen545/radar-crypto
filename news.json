@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:18:06.692972+00:00",
+ "updated": "2026-10-23T01:12:45.398226+00:00",
  "window_hours": 48,
  "headlines": 121,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
+   "pos": 7,
    "neg": 9,
-   "count": 23,
+   "count": 24,
    "items": [
+    {
+     "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+     "link": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-23T00:59:35+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin ETFs sold through 7 of 8 crashes even as Wall Street makes BTC selloffs less violent",
      "link": "https://cryptoslate.com/bitcoin-etfs-sold-through-7-of-8-crashes-even-as-wall-street-makes-btc-selloffs-less-violent/",
@@ -114,21 +121,21 @@
      "source": "CoinDesk",
      "time": "2026-10-22T08:49:08+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
-     "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-22T07:37:32+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 8,
+   "count": 9,
    "items": [
+    {
+     "title": "Ethereum’s long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",
+     "link": "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
+     "source": "CryptoSlate",
+     "time": "2026-10-23T00:40:37+00:00",
+     "s": 0
+    },
     {
      "title": "Robinhood generates $51 million in blockchain fees while Ethereum settlement costs total just $69,000",
      "link": "https://cryptoslate.com/robinhood-generates-51-million-in-blockchain-fees-while-ethereum-settlement-costs-total-just-69000/",
