@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T17:00:02.432309+00:00",
+ "updated": "2026-10-23T17:27:59.792776+00:00",
  "window_hours": 48,
- "headlines": 118,
+ "headlines": 119,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 10,
    "neg": 9,
-   "count": 31,
+   "count": 32,
    "items": [
+    {
+     "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+     "link": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
+     "source": "Decrypt",
+     "time": "2026-10-23T17:16:03+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
      "link": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
@@ -114,13 +121,6 @@
      "source": "Decrypt",
      "time": "2026-10-23T08:55:35+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
-     "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-23T07:09:39+00:00",
-     "s": -1
     }
    ]
   },
