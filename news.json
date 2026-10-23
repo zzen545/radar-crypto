@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T08:02:54.742471+00:00",
+ "updated": "2026-10-23T09:01:34.213710+00:00",
  "window_hours": 48,
- "headlines": 122,
+ "headlines": 123,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -17,6 +17,13 @@
    "neg": 10,
    "count": 27,
    "items": [
+    {
+     "title": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
+     "link": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
+     "source": "Decrypt",
+     "time": "2026-10-23T08:55:35+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
      "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -58,13 +65,6 @@
      "source": "CryptoSlate",
      "time": "2026-10-22T22:30:38+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin Core 32 can stall multisig signing on older nodes as fix slips to next patch",
-     "link": "https://cryptoslate.com/bitcoin-core-32s-wallet-change-can-break-co-signing-with-older-nodes/",
-     "source": "CryptoSlate",
-     "time": "2026-10-22T18:00:57+00:00",
-     "s": 0
     },
     {
      "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
