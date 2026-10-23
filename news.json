@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T17:56:57.381895+00:00",
+ "updated": "2026-10-23T18:22:18.915466+00:00",
  "window_hours": 48,
- "headlines": 119,
+ "headlines": 118,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 9,
    "neg": 9,
-   "count": 31,
+   "count": 32,
    "items": [
+    {
+     "title": "Bitcoin ETFs shed $635 million as BTC tests their holdings’ estimated $81,500 cost basis",
+     "link": "https://cryptoslate.com/bitcoin-etf-outflows-holdings-cost-basis/",
+     "source": "CryptoSlate",
+     "time": "2026-10-23T18:10:49+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
      "link": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
@@ -114,13 +121,6 @@
      "source": "CryptoSlate",
      "time": "2026-10-23T09:30:45+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
-     "link": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
-     "source": "Decrypt",
-     "time": "2026-10-23T08:55:35+00:00",
-     "s": 0
     }
    ]
   },
