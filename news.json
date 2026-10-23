@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23T16:03:04.727400+00:00",
+ "updated": "2026-10-23T17:00:02.432309+00:00",
  "window_hours": 48,
- "headlines": 119,
+ "headlines": 118,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 10,
    "neg": 9,
-   "count": 32,
+   "count": 31,
    "items": [
     {
      "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
@@ -216,16 +216,8 @@
   "DOGE": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
-     "link": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
-     "source": "Decrypt",
-     "time": "2026-10-21T16:46:04+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "TAO": {
    "pos": 0,
