@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T09:01:34.213710+00:00",
+ "updated": "2026-10-23T09:58:59.971602+00:00",
  "window_hours": 48,
  "headlines": 123,
  "feeds_ok": [
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 7,
-   "neg": 10,
-   "count": 27,
+   "neg": 11,
+   "count": 28,
    "items": [
+    {
+     "title": "Bitcoin’s usual lifeline is failing as a bond market warning puts $80,000 at risk",
+     "link": "https://cryptoslate.com/bitcoins-usual-lifeline-is-failing-as-a-bond-market-warning-puts-80000-at-risk/",
+     "source": "CryptoSlate",
+     "time": "2026-10-23T09:30:45+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
      "link": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-10-22T10:50:04+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
-     "link": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-22T10:38:51+00:00",
-     "s": -1
     }
    ]
   },
@@ -197,20 +197,13 @@
   "SOL": {
    "pos": 1,
    "neg": 0,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
      "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
      "source": "CoinDesk",
      "time": "2026-10-22T05:24:58+00:00",
-     "s": 0
-    },
-    {
-     "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
-     "link": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
-     "source": "The Block",
-     "time": "2026-10-21T14:24:39+00:00",
      "s": 0
     },
     {
