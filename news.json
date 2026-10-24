@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T09:18:50.879673+00:00",
+ "updated": "2026-10-24T09:54:58.022139+00:00",
  "window_hours": 48,
- "headlines": 118,
+ "headlines": 116,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 7,
-   "neg": 7,
-   "count": 28,
+   "neg": 6,
+   "count": 27,
    "items": [
     {
      "title": "Bitcoin ETFs shed $635 million as BTC tests their holdings’ estimated $81,500 cost basis",
