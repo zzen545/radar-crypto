@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T14:14:59.393806+00:00",
+ "updated": "2026-10-24T14:52:08.293019+00:00",
  "window_hours": 48,
- "headlines": 100,
+ "headlines": 98,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 6,
    "neg": 4,
-   "count": 22,
+   "count": 23,
    "items": [
+    {
+     "title": "Bitcoin Core speeds up security fixes as 44% of surveyed nodes run unsupported versions",
+     "link": "https://cryptoslate.com/bitcoin-core-speeds-up-security-fixes-as-44-of-surveyed-nodes-run-unsupported-versions/",
+     "source": "CryptoSlate",
+     "time": "2026-10-24T14:45:04+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
      "link": "https://www.coindesk.com/",
@@ -114,13 +121,6 @@
      "source": "Decrypt",
      "time": "2026-10-23T08:55:35+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
-     "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-23T07:09:39+00:00",
-     "s": -1
     }
    ]
   },
