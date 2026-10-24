@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T01:59:05.364785+00:00",
+ "updated": "2026-10-24T02:24:07.535675+00:00",
  "window_hours": 48,
  "headlines": 119,
  "feeds_ok": [
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 7,
    "neg": 8,
-   "count": 30,
+   "count": 29,
    "items": [
     {
      "title": "Bitcoin ETFs shed $635 million as BTC tests their holdings’ estimated $81,500 cost basis",
@@ -44,13 +44,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-23T15:39:17+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin’s $80,000 recovery faces liquidity questions as Binance’s Tether flows swing $14 billion",
-     "link": "https://cryptoslate.com/bitcoins-80000-recovery-faces-liquidity-questions-as-binances-tether-flows-swing-14-billion/",
-     "source": "CryptoSlate",
-     "time": "2026-10-23T14:00:15+00:00",
-     "s": 1
     },
     {
      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
@@ -121,6 +114,13 @@
      "source": "Decrypt",
      "time": "2026-10-23T08:55:35+00:00",
      "s": 0
+    },
+    {
+     "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+     "link": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-23T07:09:39+00:00",
+     "s": -1
     }
    ]
   },
