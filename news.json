@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T06:18:12.246233+00:00",
+ "updated": "2026-10-24T07:08:59.310741+00:00",
  "window_hours": 48,
  "headlines": 119,
  "feeds_ok": [
@@ -127,8 +127,15 @@
   "ETH": {
    "pos": 0,
    "neg": 2,
-   "count": 7,
+   "count": 8,
    "items": [
+    {
+     "title": "Ethereum staking yield is losing to cash rates, so why are investors still lining up?",
+     "link": "https://cryptoslate.com/ethereum-staking-yield-is-losing-to-cash-rates-so-why-are-investors-still-lining-up/",
+     "source": "CryptoSlate",
+     "time": "2026-10-24T07:00:27+00:00",
+     "s": 0
+    },
     {
      "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
      "link": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
@@ -193,9 +200,9 @@
    "items": []
   },
   "XRP": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
@@ -203,13 +210,6 @@
      "source": "CoinDesk",
      "time": "2026-10-24T04:45:43+00:00",
      "s": 0
-    },
-    {
-     "title": "Evernorth’s $132 million funding option could buy more XRP while reducing XRP per share",
-     "link": "https://cryptoslate.com/evernorths-132-million-funding-option-could-buy-more-xrp-while-reducing-xrp-per-share/",
-     "source": "CryptoSlate",
-     "time": "2026-10-23T15:50:06+00:00",
-     "s": 1
     },
     {
      "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
