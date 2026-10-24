@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T11:53:49.449535+00:00",
+ "updated": "2026-10-24T12:16:43.440638+00:00",
  "window_hours": 48,
- "headlines": 108,
+ "headlines": 104,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,15 +15,8 @@
   "BTC": {
    "pos": 7,
    "neg": 4,
-   "count": 23,
+   "count": 22,
    "items": [
-    {
-     "title": "Bitcoin ETFs shed $635 million as BTC tests their holdings’ estimated $81,500 cost basis",
-     "link": "https://cryptoslate.com/bitcoin-etf-outflows-holdings-cost-basis/",
-     "source": "CryptoSlate",
-     "time": "2026-10-23T18:10:49+00:00",
-     "s": 0
-    },
     {
      "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
      "link": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
@@ -121,13 +114,20 @@
      "source": "Cointelegraph",
      "time": "2026-10-23T07:09:39+00:00",
      "s": -1
+    },
+    {
+     "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+     "link": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-23T04:34:14+00:00",
+     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 0,
    "neg": 1,
-   "count": 7,
+   "count": 5,
    "items": [
     {
      "title": "Ethereum staking yield is losing to cash rates, so why are investors still lining up?",
@@ -162,20 +162,6 @@
      "link": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
      "source": "The Block",
      "time": "2026-10-22T13:55:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
-     "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
-     "source": "CoinDesk",
-     "time": "2026-10-22T12:14:29+00:00",
-     "s": 0
-    },
-    {
-     "title": "Fhenix Brings Encrypted Smart Contract Computing To Ethereum And Arbitrum",
-     "link": "https://bitcoinist.com/fhenix-brings-encrypted-smart-contract-computing-to-ethereum-and-arbitrum/",
-     "source": "Bitcoinist",
-     "time": "2026-10-22T12:00:00+00:00",
      "s": 0
     }
    ]
