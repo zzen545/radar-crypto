@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T20:50:07.690354+00:00",
+ "updated": "2026-10-24T21:13:25.149791+00:00",
  "window_hours": 48,
  "headlines": 86,
  "feeds_ok": [
@@ -127,20 +127,13 @@
   "ETH": {
    "pos": 0,
    "neg": 1,
-   "count": 5,
+   "count": 4,
    "items": [
     {
      "title": "Ethereum sees biggest exchange withdrawal in four months as October ETF losses top $1 billion",
      "link": "https://cryptoslate.com/ethereum-sees-biggest-exchange-withdrawal-in-four-months-as-october-etf-losses-top-1-billion/",
      "source": "CryptoSlate",
      "time": "2026-10-24T13:30:53+00:00",
-     "s": 0
-    },
-    {
-     "title": "Ethereum staking yield is losing to cash rates, so why are investors still lining up?",
-     "link": "https://cryptoslate.com/ethereum-staking-yield-is-losing-to-cash-rates-so-why-are-investors-still-lining-up/",
-     "source": "CryptoSlate",
-     "time": "2026-10-24T07:00:27+00:00",
      "s": 0
     },
     {
@@ -169,8 +162,16 @@
   "SOL": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Firedancer makes bounty hunters burn 1 SOL even for duplicate bug reports",
+     "link": "https://cryptoslate.com/firedancer-makes-bounty-hunters-burn-1-sol-even-for-duplicate-bug-reports/",
+     "source": "CryptoSlate",
+     "time": "2026-10-24T21:00:59+00:00",
+     "s": 0
+    }
+   ]
   },
   "BNB": {
    "pos": 0,
