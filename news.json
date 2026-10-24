@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T14:52:08.293019+00:00",
+ "updated": "2026-10-24T15:14:57.821883+00:00",
  "window_hours": 48,
- "headlines": 98,
+ "headlines": 100,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 4,
-   "count": 23,
+   "neg": 5,
+   "count": 24,
    "items": [
+    {
+     "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+     "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+     "source": "CoinDesk",
+     "time": "2026-10-24T15:11:24+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin Core speeds up security fixes as 44% of surveyed nodes run unsupported versions",
      "link": "https://cryptoslate.com/bitcoin-core-speeds-up-security-fixes-as-44-of-surveyed-nodes-run-unsupported-versions/",
@@ -113,13 +120,6 @@
      "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
      "source": "CoinDesk",
      "time": "2026-10-23T10:53:09+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin in 'Wait and See Mode'—And That Might Be a Good Thing",
-     "link": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
-     "source": "Decrypt",
-     "time": "2026-10-23T08:55:35+00:00",
      "s": 0
     }
    ]
