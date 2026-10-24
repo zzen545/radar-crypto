@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T04:21:52.223738+00:00",
+ "updated": "2026-10-24T04:55:23.905014+00:00",
  "window_hours": 48,
  "headlines": 119,
  "feeds_ok": [
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 7,
-   "neg": 8,
-   "count": 29,
+   "neg": 7,
+   "count": 28,
    "items": [
     {
      "title": "Bitcoin ETFs shed $635 million as BTC tests their holdings’ estimated $81,500 cost basis",
@@ -195,8 +195,15 @@
   "XRP": {
    "pos": 1,
    "neg": 0,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+     "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+     "source": "CoinDesk",
+     "time": "2026-10-24T04:45:43+00:00",
+     "s": 0
+    },
     {
      "title": "Evernorth’s $132 million funding option could buy more XRP while reducing XRP per share",
      "link": "https://cryptoslate.com/evernorths-132-million-funding-option-could-buy-more-xrp-while-reducing-xrp-per-share/",
