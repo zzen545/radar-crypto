@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T15:52:45.068911+00:00",
+ "updated": "2026-10-24T16:15:40.488617+00:00",
  "window_hours": 48,
- "headlines": 98,
+ "headlines": 100,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
+   "pos": 7,
    "neg": 5,
-   "count": 24,
+   "count": 25,
    "items": [
+    {
+     "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+     "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+     "source": "CoinDesk",
+     "time": "2026-10-24T16:00:00+00:00",
+     "s": 1
+    },
     {
      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
      "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
@@ -113,13 +120,6 @@
      "link": "https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank",
      "source": "Decrypt",
      "time": "2026-10-23T10:54:35+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
-     "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
-     "source": "CoinDesk",
-     "time": "2026-10-23T10:53:09+00:00",
      "s": 0
     }
    ]
