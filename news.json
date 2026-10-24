@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-24T16:15:40.488617+00:00",
+ "updated": "2026-10-24T16:54:13.475553+00:00",
  "window_hours": 48,
- "headlines": 100,
+ "headlines": 97,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
-   "neg": 5,
-   "count": 25,
+   "pos": 5,
+   "neg": 4,
+   "count": 22,
    "items": [
     {
      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
