@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T16:54:29.988647+00:00",
+ "updated": "2026-10-25T17:16:21.350829+00:00",
  "window_hours": 48,
- "headlines": 45,
+ "headlines": 43,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 1,
    "neg": 2,
-   "count": 7,
+   "count": 6,
    "items": [
     {
      "title": "Evernorth takes a page from Michael Saylor’s Bitcoin playbook with new $80 million XRP funding plan",
@@ -57,13 +57,6 @@
      "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
      "source": "CoinDesk",
      "time": "2026-10-24T14:00:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
-     "link": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
-     "source": "Decrypt",
-     "time": "2026-10-23T17:16:03+00:00",
      "s": 0
     }
    ]
