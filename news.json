@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T14:15:25.136194+00:00",
+ "updated": "2026-10-25T14:52:56.438430+00:00",
  "window_hours": 48,
  "headlines": 45,
  "feeds_ok": [
@@ -17,6 +17,13 @@
    "neg": 2,
    "count": 9,
    "items": [
+    {
+     "title": "Evernorth takes a page from Michael Saylor’s Bitcoin playbook with new $80 million XRP funding plan",
+     "link": "https://cryptoslate.com/evernorth-takes-a-page-from-michael-saylors-bitcoin-playbook-with-new-80-million-xrp-funding-plan/",
+     "source": "CryptoSlate",
+     "time": "2026-10-25T14:30:16+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
      "link": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
@@ -44,13 +51,6 @@
      "source": "CoinDesk",
      "time": "2026-10-24T15:11:24+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin Core speeds up security fixes as 44% of surveyed nodes run unsupported versions",
-     "link": "https://cryptoslate.com/bitcoin-core-speeds-up-security-fixes-as-44-of-surveyed-nodes-run-unsupported-versions/",
-     "source": "CryptoSlate",
-     "time": "2026-10-24T14:45:04+00:00",
-     "s": 0
     },
     {
      "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
@@ -111,8 +111,15 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Evernorth takes a page from Michael Saylor’s Bitcoin playbook with new $80 million XRP funding plan",
+     "link": "https://cryptoslate.com/evernorth-takes-a-page-from-michael-saylors-bitcoin-playbook-with-new-80-million-xrp-funding-plan/",
+     "source": "CryptoSlate",
+     "time": "2026-10-25T14:30:16+00:00",
+     "s": 0
+    },
     {
      "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
      "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
