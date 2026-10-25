@@ -1,17 +1,16 @@
 {
- "updated": "2026-10-24T23:44:45.467046+00:00",
+ "updated": "2026-10-25T00:12:01.108453+00:00",
  "window_hours": 48,
- "headlines": 82,
+ "headlines": 81,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
    "pos": 5,
