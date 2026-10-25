@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T11:52:09.928879+00:00",
+ "updated": "2026-10-25T12:16:23.613301+00:00",
  "window_hours": 48,
- "headlines": 53,
+ "headlines": 52,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 2,
    "neg": 2,
-   "count": 11,
+   "count": 10,
    "items": [
     {
      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
@@ -86,13 +86,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-23T12:23:58+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
-     "link": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
-     "source": "CoinDesk",
-     "time": "2026-10-23T12:03:53+00:00",
-     "s": 0
     }
    ]
   },
