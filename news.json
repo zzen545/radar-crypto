@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T13:53:15.620305+00:00",
+ "updated": "2026-10-25T14:15:25.136194+00:00",
  "window_hours": 48,
  "headlines": 45,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 2,
-   "neg": 1,
+   "pos": 1,
+   "neg": 2,
    "count": 9,
    "items": [
+    {
+     "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
+     "link": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
+     "source": "Decrypt",
+     "time": "2026-10-25T14:01:03+00:00",
+     "s": -1
+    },
     {
      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
      "link": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
@@ -72,13 +79,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-23T15:39:17+00:00",
      "s": 0
-    },
-    {
-     "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-     "link": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
-     "source": "CoinDesk",
-     "time": "2026-10-23T13:58:56+00:00",
-     "s": 1
     }
    ]
   },
@@ -159,18 +159,10 @@
    "items": []
   },
   "XAU": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-     "link": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
-     "source": "CoinDesk",
-     "time": "2026-10-23T13:58:56+00:00",
-     "s": 1
-    }
-   ]
+   "count": 0,
+   "items": []
   }
  }
 }
