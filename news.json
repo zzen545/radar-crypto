@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T04:59:13.199948+00:00",
+ "updated": "2026-10-25T05:24:39.851158+00:00",
  "window_hours": 48,
- "headlines": 74,
+ "headlines": 71,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -126,8 +126,8 @@
   },
   "ETH": {
    "pos": 0,
-   "neg": 1,
-   "count": 4,
+   "neg": 0,
+   "count": 2,
    "items": [
     {
      "title": "Ethereum sees biggest exchange withdrawal in four months as October ETF losses top $1 billion",
@@ -142,20 +142,6 @@
      "source": "Decrypt",
      "time": "2026-10-23T11:49:37+00:00",
      "s": 0
-    },
-    {
-     "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-     "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-23T05:09:41+00:00",
-     "s": 0
-    },
-    {
-     "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-     "link": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-     "source": "CoinDesk",
-     "time": "2026-10-23T04:59:34+00:00",
-     "s": -1
     }
    ]
   },
