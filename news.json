@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T22:48:10.249018+00:00",
+ "updated": "2026-10-25T23:12:25.551126+00:00",
  "window_hours": 48,
- "headlines": 33,
+ "headlines": 34,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 1,
    "neg": 2,
-   "count": 7,
+   "count": 8,
    "items": [
+    {
+     "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+     "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-25T22:48:40+00:00",
+     "s": 0
+    },
     {
      "title": "Paolo Ardoino wants AI to run Bitcoin mines. Who gets permission to act?",
      "link": "https://cryptoslate.com/paolo-ardoino-wants-ai-to-run-bitcoin-mines-who-gets-permission-to-act/",
@@ -71,8 +78,16 @@
   "ETH": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+     "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-25T22:48:40+00:00",
+     "s": 0
+    }
+   ]
   },
   "SOL": {
    "pos": 0,
