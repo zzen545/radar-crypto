@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T02:57:29.545264+00:00",
+ "updated": "2026-10-25T03:21:35.696041+00:00",
  "window_hours": 48,
- "headlines": 78,
+ "headlines": 77,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 4,
    "neg": 3,
-   "count": 21,
+   "count": 20,
    "items": [
     {
      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
@@ -239,7 +239,7 @@
   "XAU": {
    "pos": 1,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
@@ -247,13 +247,6 @@
      "source": "CoinDesk",
      "time": "2026-10-23T13:58:56+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-     "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
-     "source": "CoinDesk",
-     "time": "2026-10-23T03:13:01+00:00",
-     "s": 0
     }
    ]
   }
