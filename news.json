@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T10:53:11.795929+00:00",
+ "updated": "2026-10-25T11:15:05.210172+00:00",
  "window_hours": 48,
- "headlines": 59,
+ "headlines": 56,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 4,
+   "pos": 2,
    "neg": 2,
-   "count": 16,
+   "count": 13,
    "items": [
     {
      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
@@ -107,20 +107,6 @@
      "source": "CoinDesk",
      "time": "2026-10-23T11:22:33+00:00",
      "s": 0
-    },
-    {
-     "title": "Live updates: Bitcoin holds above $81,000 as oil prices hit six-month high",
-     "link": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
-     "source": "CoinDesk",
-     "time": "2026-10-23T11:13:01+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
-     "link": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
-     "source": "CoinDesk",
-     "time": "2026-10-23T10:54:41+00:00",
-     "s": 1
     }
    ]
   },
