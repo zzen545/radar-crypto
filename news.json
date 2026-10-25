@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T21:14:02.964370+00:00",
+ "updated": "2026-10-25T21:50:56.911988+00:00",
  "window_hours": 48,
- "headlines": 35,
+ "headlines": 33,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 1,
    "neg": 2,
-   "count": 6,
+   "count": 7,
    "items": [
+    {
+     "title": "Paolo Ardoino wants AI to run Bitcoin mines. Who gets permission to act?",
+     "link": "https://cryptoslate.com/paolo-ardoino-wants-ai-to-run-bitcoin-mines-who-gets-permission-to-act/",
+     "source": "CryptoSlate",
+     "time": "2026-10-25T21:30:07+00:00",
+     "s": 0
+    },
     {
      "title": "Evernorth takes a page from Michael Saylor’s Bitcoin playbook with new $80 million XRP funding plan",
      "link": "https://cryptoslate.com/evernorth-takes-a-page-from-michael-saylors-bitcoin-playbook-with-new-80-million-xrp-funding-plan/",
