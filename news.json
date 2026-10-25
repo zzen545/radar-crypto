@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T11:15:05.210172+00:00",
+ "updated": "2026-10-25T11:52:09.928879+00:00",
  "window_hours": 48,
- "headlines": 56,
+ "headlines": 53,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 2,
    "neg": 2,
-   "count": 13,
+   "count": 11,
    "items": [
     {
      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
@@ -93,40 +93,19 @@
      "source": "CoinDesk",
      "time": "2026-10-23T12:03:53+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day’s inflows",
-     "link": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
-     "source": "The Block",
-     "time": "2026-10-23T11:39:45+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
-     "link": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
-     "source": "CoinDesk",
-     "time": "2026-10-23T11:22:33+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "Ethereum sees biggest exchange withdrawal in four months as October ETF losses top $1 billion",
      "link": "https://cryptoslate.com/ethereum-sees-biggest-exchange-withdrawal-in-four-months-as-october-etf-losses-top-1-billion/",
      "source": "CryptoSlate",
      "time": "2026-10-24T13:30:53+00:00",
-     "s": 0
-    },
-    {
-     "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
-     "link": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
-     "source": "Decrypt",
-     "time": "2026-10-23T11:49:37+00:00",
      "s": 0
     }
    ]
