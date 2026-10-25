@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T00:12:01.108453+00:00",
+ "updated": "2026-10-25T01:05:13.855417+00:00",
  "window_hours": 48,
- "headlines": 81,
+ "headlines": 80,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 5,
+   "pos": 4,
    "neg": 4,
-   "count": 23,
+   "count": 22,
    "items": [
     {
      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
