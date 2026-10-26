@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T17:09:05.353051+00:00",
+ "updated": "2026-10-26T18:00:34.229855+00:00",
  "window_hours": 48,
- "headlines": 75,
+ "headlines": 77,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -17,6 +17,13 @@
    "neg": 8,
    "count": 26,
    "items": [
+    {
+     "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
+     "link": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
+     "source": "Decrypt",
+     "time": "2026-10-26T17:41:21+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin ETFs Face Roughest Run Since April as Banks Stay Shut",
      "link": "https://bitcoinist.com/bitcoin-etfs-face-roughest-run-since-april-as-banks-stay-shut/",
@@ -114,13 +121,6 @@
      "source": "CryptoSlate",
      "time": "2026-10-26T12:00:11+00:00",
      "s": 0
-    },
-    {
-     "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
-     "link": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
-     "source": "CoinDesk",
-     "time": "2026-10-26T11:53:07+00:00",
-     "s": 1
     }
    ]
   },
