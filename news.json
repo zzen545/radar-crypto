@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T18:00:34.229855+00:00",
+ "updated": "2026-10-26T19:13:49.978216+00:00",
  "window_hours": 48,
- "headlines": 77,
+ "headlines": 81,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
+   "pos": 7,
    "neg": 8,
-   "count": 26,
+   "count": 27,
    "items": [
+    {
+     "title": "Strategy makes record $205 million STRC buyback as Strive spends $511 million on Bitcoin",
+     "link": "https://cryptoslate.com/strategy-makes-record-205-million-strc-buyback-as-strive-spends-511-million-on-bitcoin/",
+     "source": "CryptoSlate",
+     "time": "2026-10-26T18:40:26+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
      "link": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
@@ -114,13 +121,6 @@
      "source": "Bitcoinist",
      "time": "2026-10-26T12:04:58+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin’s next Fed test comes with a hidden problem in America’s inflation data",
-     "link": "https://cryptoslate.com/bitcoins-next-fed-test-comes-with-a-hidden-problem-in-americas-inflation-data/",
-     "source": "CryptoSlate",
-     "time": "2026-10-26T12:00:11+00:00",
-     "s": 0
     }
    ]
   },
@@ -222,8 +222,16 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer",
+     "link": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787",
+     "source": "The Block",
+     "time": "2026-10-26T18:21:17+00:00",
+     "s": 0
+    }
+   ]
   },
   "ASTER": {
    "pos": 0,
