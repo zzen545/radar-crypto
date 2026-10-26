@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T07:41:25.432821+00:00",
+ "updated": "2026-10-26T08:33:52.186290+00:00",
  "window_hours": 48,
- "headlines": 43,
+ "headlines": 44,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 1,
-   "neg": 2,
-   "count": 11,
+   "neg": 3,
+   "count": 12,
    "items": [
+    {
+     "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+     "link": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-26T08:20:49+00:00",
+     "s": -1
+    },
     {
      "title": "Over 11 million bitcoin has no known owner. Here's what it means",
      "link": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
