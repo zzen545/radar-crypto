@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T06:38:12.196183+00:00",
+ "updated": "2026-10-26T07:41:25.432821+00:00",
  "window_hours": 48,
- "headlines": 42,
+ "headlines": 43,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 1,
    "neg": 2,
-   "count": 10,
+   "count": 11,
    "items": [
+    {
+     "title": "Over 11 million bitcoin has no known owner. Here's what it means",
+     "link": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
+     "source": "CoinDesk",
+     "time": "2026-10-26T07:18:24+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
      "link": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
