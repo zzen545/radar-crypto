@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T00:17:11.272708+00:00",
+ "updated": "2026-10-26T01:20:00.597300+00:00",
  "window_hours": 48,
- "headlines": 34,
+ "headlines": 35,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -78,8 +78,15 @@
   "ETH": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Lido opens larger Ethereum validators with a 32 ETH operator bond",
+     "link": "https://cryptoslate.com/lido-opens-larger-ethereum-validators-with-a-32-eth-operator-bond/",
+     "source": "CryptoSlate",
+     "time": "2026-10-26T01:00:15+00:00",
+     "s": 0
+    },
     {
      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
      "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
