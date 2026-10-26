@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T03:01:35.968615+00:00",
+ "updated": "2026-10-26T04:02:29.183673+00:00",
  "window_hours": 48,
- "headlines": 36,
+ "headlines": 38,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -99,8 +99,15 @@
   "SOL": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+     "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-26T03:21:26+00:00",
+     "s": 0
+    },
     {
      "title": "Firedancer makes bounty hunters burn 1 SOL even for duplicate bug reports",
      "link": "https://cryptoslate.com/firedancer-makes-bounty-hunters-burn-1-sol-even-for-duplicate-bug-reports/",
