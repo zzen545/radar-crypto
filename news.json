@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T15:27:15.641345+00:00",
+ "updated": "2026-10-26T16:21:45.818664+00:00",
  "window_hours": 48,
- "headlines": 66,
+ "headlines": 73,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
-   "neg": 7,
-   "count": 25,
+   "pos": 6,
+   "neg": 8,
+   "count": 26,
    "items": [
+    {
+     "title": "Bitcoin ETFs Face Roughest Run Since April as Banks Stay Shut",
+     "link": "https://bitcoinist.com/bitcoin-etfs-face-roughest-run-since-april-as-banks-stay-shut/",
+     "source": "Bitcoinist",
+     "time": "2026-10-26T16:14:39+00:00",
+     "s": 0
+    },
+    {
+     "title": "BTC Defends $80K While Inflation And AI Stock Sell-Off Rattle Crypto Markets",
+     "link": "https://bitcoinist.com/btc-defends-80k-while-inflation-and-ai-stock-sell-off-rattle-crypto-markets/",
+     "source": "Bitcoinist",
+     "time": "2026-10-26T16:14:07+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin faces an inflation warning beneath steady US consumer sentiment",
      "link": "https://cryptoslate.com/bitcoin-faces-an-inflation-warning-beneath-steady-us-consumer-sentiment/",
@@ -107,28 +121,28 @@
      "source": "CoinDesk",
      "time": "2026-10-26T11:53:07+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin holds near $80,000 as oil retreats and the Fed decision looms",
-     "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-holds-near-usd80-000-as-oil-retreats-and-the-fed-decision-looms",
-     "source": "CoinDesk",
-     "time": "2026-10-26T11:24:33+00:00",
-     "s": 0
-    },
-    {
-     "title": "Live news: Bitcoin sits near $80,000 as tech rallies following Anthropic IPO filing",
-     "link": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
-     "source": "CoinDesk",
-     "time": "2026-10-26T11:05:31+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+     "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+     "source": "CoinDesk",
+     "time": "2026-10-26T16:05:12+00:00",
+     "s": 0
+    },
+    {
+     "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
+     "link": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
+     "source": "Decrypt",
+     "time": "2026-10-26T15:36:03+00:00",
+     "s": 1
+    },
     {
      "title": "Circle gives its Bitcoin-backed token one balance across Ethereum and Arc",
      "link": "https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/",
@@ -141,13 +155,6 @@
      "link": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
      "source": "The Block",
      "time": "2026-10-26T14:12:59+00:00",
-     "s": 0
-    },
-    {
-     "title": "Lido opens larger Ethereum validators with a 32 ETH operator bond",
-     "link": "https://cryptoslate.com/lido-opens-larger-ethereum-validators-with-a-32-eth-operator-bond/",
-     "source": "CryptoSlate",
-     "time": "2026-10-26T01:00:15+00:00",
      "s": 0
     },
     {
