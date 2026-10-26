@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T05:03:36.437817+00:00",
+ "updated": "2026-10-26T05:59:44.772757+00:00",
  "window_hours": 48,
- "headlines": 38,
+ "headlines": 42,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 1,
    "neg": 2,
-   "count": 9,
+   "count": 10,
    "items": [
+    {
+     "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+     "link": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+     "source": "CoinDesk",
+     "time": "2026-10-26T05:15:20+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
      "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
