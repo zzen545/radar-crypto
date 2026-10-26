@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T19:13:49.978216+00:00",
+ "updated": "2026-10-26T19:59:49.100273+00:00",
  "window_hours": 48,
- "headlines": 81,
+ "headlines": 84,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -183,14 +183,29 @@
   "BNB": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell",
+     "link": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790",
+     "source": "The Block",
+     "time": "2026-10-26T19:43:47+00:00",
+     "s": 0
+    }
+   ]
   },
   "XRP": {
    "pos": 2,
    "neg": 0,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Ripple connects XRP Ledger to a £22 billion investment giant while chasing the next wave of corporate money",
+     "link": "https://cryptoslate.com/ripple-connects-xrp-ledger-to-a-22-billion-investment-giant-while-chasing-the-next-wave-of-corporate-money/",
+     "source": "CryptoSlate",
+     "time": "2026-10-26T19:50:14+00:00",
+     "s": 0
+    },
     {
      "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
      "link": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
