@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T23:25:17.677462+00:00",
+ "updated": "2026-10-26T23:54:13.885376+00:00",
  "window_hours": 48,
  "headlines": 91,
  "feeds_ok": [
@@ -17,6 +17,13 @@
    "neg": 8,
    "count": 26,
    "items": [
+    {
+     "title": "3 payment rules control Aave’s native Bitcoin market, but only WBTC settles them",
+     "link": "https://cryptoslate.com/3-payment-rules-control-aaves-native-bitcoin-market-but-only-wbtc-settles-them/",
+     "source": "CryptoSlate",
+     "time": "2026-10-26T23:50:22+00:00",
+     "s": 0
+    },
     {
      "title": "Strategy makes record $205 million STRC buyback as Strive spends $511 million on Bitcoin",
      "link": "https://cryptoslate.com/strategy-makes-record-205-million-strc-buyback-as-strive-spends-511-million-on-bitcoin/",
@@ -113,13 +120,6 @@
      "link": "https://decrypt.co/381797/morning-minute-bitcoin-breaks-below-80000-as-iran-fears-hit-the-weekend",
      "source": "Decrypt",
      "time": "2026-10-26T12:16:12+00:00",
-     "s": -1
-    },
-    {
-     "title": "Early Bitcoin Tech Investor Turns Bearish, Warns BTC Could Be Hacked To Zero",
-     "link": "https://bitcoinist.com/early-bitcoin-tech-investor-turns-bearish-warns-btc-could-be-hacked-to-zero/",
-     "source": "Bitcoinist",
-     "time": "2026-10-26T12:04:58+00:00",
      "s": -1
     }
    ]
