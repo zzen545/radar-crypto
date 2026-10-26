@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-26T21:02:40.960913+00:00",
+ "updated": "2026-10-26T21:57:19.868865+00:00",
  "window_hours": 48,
- "headlines": 86,
+ "headlines": 90,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 7,
    "neg": 8,
-   "count": 27,
+   "count": 26,
    "items": [
     {
      "title": "Strategy makes record $205 million STRC buyback as Strive spends $511 million on Bitcoin",
