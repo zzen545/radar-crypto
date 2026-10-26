@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T04:02:29.183673+00:00",
+ "updated": "2026-10-26T05:03:36.437817+00:00",
  "window_hours": 48,
  "headlines": 38,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 1,
    "neg": 2,
-   "count": 8,
+   "count": 9,
    "items": [
+    {
+     "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+     "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+     "source": "CoinDesk",
+     "time": "2026-10-26T04:37:02+00:00",
+     "s": 0
+    },
     {
      "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
      "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -99,20 +106,13 @@
   "SOL": {
    "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
      "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-10-26T03:21:26+00:00",
-     "s": 0
-    },
-    {
-     "title": "Firedancer makes bounty hunters burn 1 SOL even for duplicate bug reports",
-     "link": "https://cryptoslate.com/firedancer-makes-bounty-hunters-burn-1-sol-even-for-duplicate-bug-reports/",
-     "source": "CryptoSlate",
-     "time": "2026-10-24T21:00:59+00:00",
      "s": 0
     }
    ]
@@ -126,20 +126,13 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "Evernorth takes a page from Michael Saylor’s Bitcoin playbook with new $80 million XRP funding plan",
      "link": "https://cryptoslate.com/evernorth-takes-a-page-from-michael-saylors-bitcoin-playbook-with-new-80-million-xrp-funding-plan/",
      "source": "CryptoSlate",
      "time": "2026-10-25T14:30:16+00:00",
-     "s": 0
-    },
-    {
-     "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-     "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-     "source": "CoinDesk",
-     "time": "2026-10-24T04:45:43+00:00",
      "s": 0
     }
    ]
