@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T00:18:55.870365+00:00",
+ "updated": "2026-10-27T01:14:35.358425+00:00",
  "window_hours": 48,
- "headlines": 91,
+ "headlines": 93,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -195,10 +195,17 @@
    ]
   },
   "XRP": {
-   "pos": 2,
+   "pos": 3,
    "neg": 0,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "Ripple wins final US approval for national trust bank",
+     "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-27T00:06:41+00:00",
+     "s": 1
+    },
     {
      "title": "Ripple connects XRP Ledger to a £22 billion investment giant while chasing the next wave of corporate money",
      "link": "https://cryptoslate.com/ripple-connects-xrp-ledger-to-a-22-billion-investment-giant-while-chasing-the-next-wave-of-corporate-money/",
