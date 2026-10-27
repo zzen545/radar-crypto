@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T17:36:25.739109+00:00",
+ "updated": "2026-10-27T18:30:03.377669+00:00",
  "window_hours": 48,
- "headlines": 120,
+ "headlines": 122,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 11,
+   "pos": 10,
    "neg": 4,
    "count": 32,
    "items": [
+    {
+     "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
+     "link": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
+     "source": "Decrypt",
+     "time": "2026-10-27T18:16:02+00:00",
+     "s": 0
+    },
+    {
+     "title": "Iran-linked Bitcoin activity fell about 80%, then rebounded during the blackout",
+     "link": "https://cryptoslate.com/iran-linked-bitcoin-activity-fell-about-80-then-rebounded-during-the-blackout/",
+     "source": "CryptoSlate",
+     "time": "2026-10-27T18:00:28+00:00",
+     "s": 0
+    },
     {
      "title": "Kraken opens Bitcoin and Ethereum options to eligible European traders",
      "link": "https://cryptoslate.com/kraken-opens-bitcoin-and-ether-options-to-eligible-european-traders/",
@@ -107,20 +121,6 @@
      "source": "Decrypt",
      "time": "2026-10-27T11:46:51+00:00",
      "s": 0
-    },
-    {
-     "title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
-     "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
-     "source": "CoinDesk",
-     "time": "2026-10-27T11:40:50+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
-     "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
-     "source": "CoinDesk",
-     "time": "2026-10-27T11:32:45+00:00",
-     "s": 0
     }
    ]
   },
@@ -190,7 +190,7 @@
   "SOL": {
    "pos": 0,
    "neg": 1,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "Solana’s Firedancer Now Charges 1 SOL Per Bug Report",
@@ -212,13 +212,6 @@
      "source": "CryptoSlate",
      "time": "2026-10-27T04:20:34+00:00",
      "s": 0
-    },
-    {
-     "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
-     "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-26T03:21:26+00:00",
-     "s": 0
     }
    ]
   },
@@ -237,10 +230,17 @@
    ]
   },
   "XRP": {
-   "pos": 8,
+   "pos": 7,
    "neg": 0,
    "count": 9,
    "items": [
+    {
+     "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+     "link": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+     "source": "CoinDesk",
+     "time": "2026-10-27T16:35:29+00:00",
+     "s": 0
+    },
     {
      "title": "Aviva Investors Tokenizes $29B Sterling Fund on XRP Ledger",
      "link": "https://bitcoinist.com/aviva-investors-tokenizes-29b-sterling-fund-on-xrp-ledger/",
@@ -253,13 +253,6 @@
      "link": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
      "source": "The Block",
      "time": "2026-10-27T15:01:12+00:00",
-     "s": 1
-    },
-    {
-     "title": "Ripple Wins Final US Banking Approval, But XRP Price Fails to Rally",
-     "link": "https://bitcoinist.com/ripple-wins-final-us-banking-approval-but-xrp-price-fails-to-rally/",
-     "source": "Bitcoinist",
-     "time": "2026-10-27T14:21:08+00:00",
      "s": 1
     },
     {
