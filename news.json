@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T11:59:16.508221+00:00",
+ "updated": "2026-10-27T12:36:45.235204+00:00",
  "window_hours": 48,
- "headlines": 111,
+ "headlines": 114,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
+   "pos": 12,
    "neg": 6,
-   "count": 31,
+   "count": 33,
    "items": [
+    {
+     "title": "Over 11 Million Bitcoin Remain Unattributed Despite Wall Street Buying",
+     "link": "https://bitcoinist.com/over-11-million-bitcoin-remain-unattributed-despite-wall-street-buying/",
+     "source": "Bitcoinist",
+     "time": "2026-10-27T12:26:32+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-27T12:18:24+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
+     "link": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+     "source": "CoinDesk",
+     "time": "2026-10-27T12:00:39+00:00",
+     "s": 1
+    },
     {
      "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
      "link": "https://decrypt.co/381906/why-this-team-of-ninjas-is-tripling-down-on-mining-bitcoin",
@@ -100,27 +121,6 @@
      "source": "Bitcoinist",
      "time": "2026-10-26T16:14:39+00:00",
      "s": 0
-    },
-    {
-     "title": "BTC Defends $80K While Inflation And AI Stock Sell-Off Rattle Crypto Markets",
-     "link": "https://bitcoinist.com/btc-defends-80k-while-inflation-and-ai-stock-sell-off-rattle-crypto-markets/",
-     "source": "Bitcoinist",
-     "time": "2026-10-26T16:14:07+00:00",
-     "s": -1
-    },
-    {
-     "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-     "link": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-26T13:27:38+00:00",
-     "s": 0
-    },
-    {
-     "title": "Strategy Pauses Bitcoin Buying, Spends $205M Buying Back STRC",
-     "link": "https://decrypt.co/381811/strategy-pauses-bitcoin-buying-spends-205m-buying-back-strc",
-     "source": "Decrypt",
-     "time": "2026-10-26T13:24:38+00:00",
-     "s": 1
     }
    ]
   },
@@ -209,10 +209,17 @@
    ]
   },
   "XRP": {
-   "pos": 6,
+   "pos": 7,
    "neg": 0,
-   "count": 7,
+   "count": 8,
    "items": [
+    {
+     "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
+     "link": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+     "source": "CoinDesk",
+     "time": "2026-10-27T12:00:39+00:00",
+     "s": 1
+    },
     {
      "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
      "link": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
