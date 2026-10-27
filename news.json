@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T09:07:09.990330+00:00",
+ "updated": "2026-10-27T10:05:54.418986+00:00",
  "window_hours": 48,
- "headlines": 105,
+ "headlines": 107,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
+   "pos": 8,
    "neg": 6,
-   "count": 26,
+   "count": 27,
    "items": [
+    {
+     "title": "Now is the time to accumulate bitcoin, Galaxy says",
+     "link": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
+     "source": "CoinDesk",
+     "time": "2026-10-27T09:42:46+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin ETFs claw back $110M after $774M exit",
      "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -114,20 +121,13 @@
      "source": "The Block",
      "time": "2026-10-26T13:00:00+00:00",
      "s": 1
-    },
-    {
-     "title": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
-     "link": "https://decrypt.co/381797/morning-minute-bitcoin-breaks-below-80000-as-iran-fears-hit-the-weekend",
-     "source": "Decrypt",
-     "time": "2026-10-26T12:16:12+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 0,
-   "count": 6,
+   "count": 5,
    "items": [
     {
      "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
@@ -149,13 +149,6 @@
      "source": "Decrypt",
      "time": "2026-10-26T15:36:03+00:00",
      "s": 1
-    },
-    {
-     "title": "Circle gives its Bitcoin-backed token one balance across Ethereum and Arc",
-     "link": "https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/",
-     "source": "CryptoSlate",
-     "time": "2026-10-26T15:00:40+00:00",
-     "s": 0
     },
     {
      "title": "Tom Lee insists ‘crypto bull market is underway’ as Bitmine adds 10,452 ETH",
