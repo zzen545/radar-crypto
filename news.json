@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T02:02:45.595264+00:00",
+ "updated": "2026-10-27T03:00:47.376528+00:00",
  "window_hours": 48,
- "headlines": 93,
+ "headlines": 95,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -195,10 +195,17 @@
    ]
   },
   "XRP": {
-   "pos": 3,
+   "pos": 4,
    "neg": 0,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
+     "link": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
+     "source": "The Block",
+     "time": "2026-10-27T02:28:18+00:00",
+     "s": 1
+    },
     {
      "title": "Ripple wins final US approval for national trust bank",
      "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
