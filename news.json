@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T06:03:08.964792+00:00",
+ "updated": "2026-10-27T07:17:24.396353+00:00",
  "window_hours": 48,
- "headlines": 98,
+ "headlines": 101,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -127,8 +127,15 @@
   "ETH": {
    "pos": 1,
    "neg": 0,
-   "count": 5,
+   "count": 6,
    "items": [
+    {
+     "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+     "link": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+     "source": "CoinDesk",
+     "time": "2026-10-27T07:09:56+00:00",
+     "s": 0
+    },
     {
      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
      "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
