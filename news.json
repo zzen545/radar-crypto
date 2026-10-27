@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T14:37:43.566544+00:00",
+ "updated": "2026-10-27T15:36:05.335423+00:00",
  "window_hours": 48,
  "headlines": 119,
  "feeds_ok": [
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 12,
-   "neg": 6,
-   "count": 36,
+   "pos": 13,
+   "neg": 5,
+   "count": 37,
    "items": [
+    {
+     "title": "Strategy Halts Bitcoin Purchases, Spends $205 Million Buying Back STRC Shares Instead",
+     "link": "https://bitcoinist.com/strategy-halts-bitcoin-purchases-spends-205-million-buying-back-strc-shares-instead/",
+     "source": "Bitcoinist",
+     "time": "2026-10-27T15:14:41+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin’s next rally could trigger selling from holders of 874,000 BTC",
+     "link": "https://cryptoslate.com/bitcoins-next-rally-could-trigger-selling-from-holders-of-874000-btc/",
+     "source": "CryptoSlate",
+     "time": "2026-10-27T15:00:26+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin And Ethereum Face Further Downside As Ansem Warns Of AI Stock Market Risks",
      "link": "https://bitcoinist.com/bitcoin-and-ethereum-face-further-downside-as-ansem-warns-of-ai-stock-market-risks/",
@@ -95,7 +109,7 @@
      "s": 0
     },
     {
-     "title": "Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital",
+     "title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
      "link": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
      "source": "CoinDesk",
      "time": "2026-10-27T11:40:50+00:00",
@@ -107,28 +121,21 @@
      "source": "CoinDesk",
      "time": "2026-10-27T11:32:45+00:00",
      "s": 0
-    },
-    {
-     "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
-     "link": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
-     "source": "CoinDesk",
-     "time": "2026-10-27T10:57:51+00:00",
-     "s": 0
-    },
-    {
-     "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower",
-     "link": "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838",
-     "source": "The Block",
-     "time": "2026-10-27T10:57:34+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 5,
+   "count": 6,
    "items": [
+    {
+     "title": "Ethereum Developers Fix Critical Glamsterdam Bug That Threatened Staking Deposits",
+     "link": "https://bitcoinist.com/ethereum-developers-fix-critical-glamsterdam-bug-that-threatened-staking-deposits/",
+     "source": "Bitcoinist",
+     "time": "2026-10-27T14:48:20+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin And Ethereum Face Further Downside As Ansem Warns Of AI Stock Market Risks",
      "link": "https://bitcoinist.com/bitcoin-and-ethereum-face-further-downside-as-ansem-warns-of-ai-stock-market-risks/",
@@ -214,6 +221,13 @@
    "count": 8,
    "items": [
     {
+     "title": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
+     "link": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
+     "source": "The Block",
+     "time": "2026-10-27T15:01:12+00:00",
+     "s": 1
+    },
+    {
      "title": "Ripple Wins Final US Banking Approval, But XRP Price Fails to Rally",
      "link": "https://bitcoinist.com/ripple-wins-final-us-banking-approval-but-xrp-price-fails-to-rally/",
      "source": "Bitcoinist",
@@ -260,13 +274,6 @@
      "link": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-10-26T11:39:27+00:00",
-     "s": 1
-    },
-    {
-     "title": "Aviva Investors, Ripple launch tokenized share class of $29 billion sterling fund on XRP Ledger",
-     "link": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
-     "source": "The Block",
-     "time": "2026-10-26T11:34:12+00:00",
      "s": 1
     }
    ]
