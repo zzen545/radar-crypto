@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T10:05:54.418986+00:00",
+ "updated": "2026-10-27T11:03:08.531853+00:00",
  "window_hours": 48,
- "headlines": 107,
+ "headlines": 111,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 9,
    "neg": 6,
-   "count": 27,
+   "count": 29,
    "items": [
+    {
+     "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
+     "link": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
+     "source": "CoinDesk",
+     "time": "2026-10-27T10:57:51+00:00",
+     "s": 0
+    },
+    {
+     "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower",
+     "link": "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838",
+     "source": "The Block",
+     "time": "2026-10-27T10:57:34+00:00",
+     "s": 1
+    },
     {
      "title": "Now is the time to accumulate bitcoin, Galaxy says",
      "link": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
@@ -107,20 +121,6 @@
      "source": "Decrypt",
      "time": "2026-10-26T13:02:43+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
-     "link": "https://decrypt.co/381786/bitcoin-bear-market-is-over-galaxy-research-says",
-     "source": "Decrypt",
-     "time": "2026-10-26T13:01:02+00:00",
-     "s": 1
-    },
-    {
-     "title": "Galaxy says bitcoin bear market is over; now is the time to buy and hold",
-     "link": "https://www.theblock.co/news/markets/2026-10-26-galaxy-says-bitcoin-bear-market-is-over-now-is-the-time-to-buy-and-hold-431720",
-     "source": "The Block",
-     "time": "2026-10-26T13:00:00+00:00",
-     "s": 1
     }
    ]
   },
@@ -209,10 +209,17 @@
    ]
   },
   "XRP": {
-   "pos": 5,
+   "pos": 6,
    "neg": 0,
-   "count": 6,
+   "count": 7,
    "items": [
+    {
+     "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
+     "link": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
+     "source": "Decrypt",
+     "time": "2026-10-27T10:16:46+00:00",
+     "s": 1
+    },
     {
      "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
      "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
