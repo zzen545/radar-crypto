@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T20:00:01.974092+00:00",
+ "updated": "2026-10-27T20:33:05.217195+00:00",
  "window_hours": 48,
- "headlines": 125,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
-   "neg": 4,
-   "count": 31,
+   "pos": 9,
+   "neg": 3,
+   "count": 30,
    "items": [
     {
      "title": "Lightning tightens invoice rules after reported attack made Bitcoin withdrawals look unpaid",
@@ -223,10 +223,31 @@
    ]
   },
   "XRP": {
-   "pos": 7,
+   "pos": 9,
    "neg": 0,
-   "count": 9,
+   "count": 12,
    "items": [
+    {
+     "title": "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
+     "link": "https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans",
+     "source": "Decrypt",
+     "time": "2026-10-27T20:16:02+00:00",
+     "s": 0
+    },
+    {
+     "title": "Ripple gets final US trust bank approval. What does XRP gain?",
+     "link": "https://cryptoslate.com/ripple-gets-final-us-trust-bank-approval-what-does-xrp-gain/",
+     "source": "CryptoSlate",
+     "time": "2026-10-27T20:00:02+00:00",
+     "s": 1
+    },
+    {
+     "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+     "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-27T19:54:05+00:00",
+     "s": 1
+    },
     {
      "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
      "link": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
