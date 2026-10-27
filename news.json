@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T16:36:51.268295+00:00",
+ "updated": "2026-10-27T17:36:25.739109+00:00",
  "window_hours": 48,
- "headlines": 118,
+ "headlines": 120,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 13,
+   "pos": 11,
    "neg": 4,
-   "count": 36,
+   "count": 32,
    "items": [
+    {
+     "title": "Kraken opens Bitcoin and Ethereum options to eligible European traders",
+     "link": "https://cryptoslate.com/kraken-opens-bitcoin-and-ether-options-to-eligible-european-traders/",
+     "source": "CryptoSlate",
+     "time": "2026-10-27T17:00:57+00:00",
+     "s": 0
+    },
     {
      "title": "Strategy Halts Bitcoin Purchases, Spends $205 Million Buying Back STRC Shares Instead",
      "link": "https://bitcoinist.com/strategy-halts-bitcoin-purchases-spends-205-million-buying-back-strc-shares-instead/",
@@ -81,13 +88,6 @@
      "s": 0
     },
     {
-     "title": "Over 11 Million Bitcoin Remain Unattributed Despite Wall Street Buying",
-     "link": "https://bitcoinist.com/over-11-million-bitcoin-remain-unattributed-despite-wall-street-buying/",
-     "source": "Bitcoinist",
-     "time": "2026-10-27T12:26:32+00:00",
-     "s": 1
-    },
-    {
      "title": "Bitcoin price analysis sees ‘strong rally’ as old coins become dormant",
      "link": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -127,8 +127,22 @@
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 6,
+   "count": 8,
    "items": [
+    {
+     "title": "Kraken opens Bitcoin and Ethereum options to eligible European traders",
+     "link": "https://cryptoslate.com/kraken-opens-bitcoin-and-ether-options-to-eligible-european-traders/",
+     "source": "CryptoSlate",
+     "time": "2026-10-27T17:00:57+00:00",
+     "s": 0
+    },
+    {
+     "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+     "link": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
+     "source": "Decrypt",
+     "time": "2026-10-27T16:53:13+00:00",
+     "s": 0
+    },
     {
      "title": "Ethereum Developers Fix Critical Glamsterdam Bug That Threatened Staking Deposits",
      "link": "https://bitcoinist.com/ethereum-developers-fix-critical-glamsterdam-bug-that-threatened-staking-deposits/",
