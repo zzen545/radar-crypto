@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T21:22:52.214443+00:00",
+ "updated": "2026-10-27T21:59:10.480182+00:00",
  "window_hours": 48,
  "headlines": 128,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
-   "neg": 4,
+   "pos": 10,
+   "neg": 3,
    "count": 32,
    "items": [
+    {
+     "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
+     "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-27T21:28:22+00:00",
+     "s": 1
+    },
     {
      "title": "OpenAI claims a cryptography breakthrough. Does that threaten Bitcoin?",
      "link": "https://cryptoslate.com/openai-claims-a-math-breakthrough-does-that-threaten-bitcoin/",
@@ -114,13 +121,6 @@
      "source": "Decrypt",
      "time": "2026-10-27T13:01:08+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin moves over $5 billion in value but miners collect just $185,000 in transaction fees",
-     "link": "https://cryptoslate.com/bitcoin-moves-over-5-billion-in-value-but-miners-collect-just-185000-in-transaction-fees/",
-     "source": "CryptoSlate",
-     "time": "2026-10-27T12:40:41+00:00",
-     "s": 0
     }
    ]
   },
@@ -216,9 +216,9 @@
    ]
   },
   "XRP": {
-   "pos": 9,
+   "pos": 8,
    "neg": 0,
-   "count": 12,
+   "count": 11,
    "items": [
     {
      "title": "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
@@ -295,13 +295,6 @@
      "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-10-27T00:06:41+00:00",
-     "s": 1
-    },
-    {
-     "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
-     "link": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-26T11:39:27+00:00",
      "s": 1
     }
    ]
