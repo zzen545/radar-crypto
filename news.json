@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T12:36:45.235204+00:00",
+ "updated": "2026-10-27T13:40:33.761074+00:00",
  "window_hours": 48,
- "headlines": 114,
+ "headlines": 117,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 12,
+   "pos": 11,
    "neg": 6,
-   "count": 33,
+   "count": 34,
    "items": [
+    {
+     "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
+     "link": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
+     "source": "CoinDesk",
+     "time": "2026-10-27T13:13:50+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
+     "link": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute",
+     "source": "Decrypt",
+     "time": "2026-10-27T13:01:08+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin moves over $5 billion in value but miners collect just $185,000 in transaction fees",
+     "link": "https://cryptoslate.com/bitcoin-moves-over-5-billion-in-value-but-miners-collect-just-185000-in-transaction-fees/",
+     "source": "CryptoSlate",
+     "time": "2026-10-27T12:40:41+00:00",
+     "s": 0
+    },
     {
      "title": "Over 11 Million Bitcoin Remain Unattributed Despite Wall Street Buying",
      "link": "https://bitcoinist.com/over-11-million-bitcoin-remain-unattributed-despite-wall-street-buying/",
@@ -100,34 +121,13 @@
      "source": "CryptoSlate",
      "time": "2026-10-26T23:50:22+00:00",
      "s": 0
-    },
-    {
-     "title": "Strategy makes record $205 million STRC buyback as Strive spends $511 million on Bitcoin",
-     "link": "https://cryptoslate.com/strategy-makes-record-205-million-strc-buyback-as-strive-spends-511-million-on-bitcoin/",
-     "source": "CryptoSlate",
-     "time": "2026-10-26T18:40:26+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
-     "link": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
-     "source": "Decrypt",
-     "time": "2026-10-26T17:41:21+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin ETFs Face Roughest Run Since April as Banks Stay Shut",
-     "link": "https://bitcoinist.com/bitcoin-etfs-face-roughest-run-since-april-as-banks-stay-shut/",
-     "source": "Bitcoinist",
-     "time": "2026-10-26T16:14:39+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 0,
-   "count": 5,
+   "count": 4,
    "items": [
     {
      "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
@@ -155,13 +155,6 @@
      "link": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
      "source": "The Block",
      "time": "2026-10-26T14:12:59+00:00",
-     "s": 0
-    },
-    {
-     "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
-     "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-25T22:48:40+00:00",
      "s": 0
     }
    ]
