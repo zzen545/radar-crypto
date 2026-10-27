@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T18:30:03.377669+00:00",
+ "updated": "2026-10-27T19:19:07.308437+00:00",
  "window_hours": 48,
- "headlines": 122,
+ "headlines": 124,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 10,
+   "pos": 8,
    "neg": 4,
-   "count": 32,
+   "count": 31,
    "items": [
+    {
+     "title": "Lightning tightens invoice rules after reported attack made Bitcoin withdrawals look unpaid",
+     "link": "https://cryptoslate.com/lightning-tightens-invoice-rules-after-reported-attack-made-bitcoin-withdrawals-look-unpaid/",
+     "source": "CryptoSlate",
+     "time": "2026-10-27T19:00:10+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
      "link": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-10-27T12:00:39+00:00",
      "s": 1
-    },
-    {
-     "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
-     "link": "https://decrypt.co/381906/why-this-team-of-ninjas-is-tripling-down-on-mining-bitcoin",
-     "source": "Decrypt",
-     "time": "2026-10-27T11:46:51+00:00",
-     "s": 0
     }
    ]
   },
@@ -190,7 +190,7 @@
   "SOL": {
    "pos": 0,
    "neg": 1,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "Solana’s Firedancer Now Charges 1 SOL Per Bug Report",
@@ -204,13 +204,6 @@
      "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
      "source": "CoinDesk",
      "time": "2026-10-27T07:44:04+00:00",
-     "s": 0
-    },
-    {
-     "title": "Faster Solana slots fail to stop memecoin bot snipers",
-     "link": "https://cryptoslate.com/solana-study-finds-rapid-pump-fun-buying-persisted-as-blocks-sped-up/",
-     "source": "CryptoSlate",
-     "time": "2026-10-27T04:20:34+00:00",
      "s": 0
     }
    ]
