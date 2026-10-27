@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T15:36:05.335423+00:00",
+ "updated": "2026-10-27T16:36:51.268295+00:00",
  "window_hours": 48,
- "headlines": 119,
+ "headlines": 118,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 13,
-   "neg": 5,
-   "count": 37,
+   "neg": 4,
+   "count": 36,
    "items": [
     {
      "title": "Strategy Halts Bitcoin Purchases, Spends $205 Million Buying Back STRC Shares Instead",
@@ -175,9 +175,16 @@
   },
   "SOL": {
    "pos": 0,
-   "neg": 0,
-   "count": 3,
+   "neg": 1,
+   "count": 4,
    "items": [
+    {
+     "title": "Solana’s Firedancer Now Charges 1 SOL Per Bug Report",
+     "link": "https://bitcoinist.com/solanas-firedancer-now-charges-1-sol-per-bug-report/",
+     "source": "Bitcoinist",
+     "time": "2026-10-27T16:00:31+00:00",
+     "s": -1
+    },
     {
      "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
      "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
@@ -218,8 +225,15 @@
   "XRP": {
    "pos": 8,
    "neg": 0,
-   "count": 8,
+   "count": 9,
    "items": [
+    {
+     "title": "Aviva Investors Tokenizes $29B Sterling Fund on XRP Ledger",
+     "link": "https://bitcoinist.com/aviva-investors-tokenizes-29b-sterling-fund-on-xrp-ledger/",
+     "source": "Bitcoinist",
+     "time": "2026-10-27T15:40:04+00:00",
+     "s": 0
+    },
     {
      "title": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
      "link": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
