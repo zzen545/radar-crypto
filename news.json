@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:14:35.358425+00:00",
+ "updated": "2026-10-27T02:02:45.595264+00:00",
  "window_hours": 48,
  "headlines": 93,
  "feeds_ok": [
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 7,
-   "neg": 8,
-   "count": 26,
+   "neg": 7,
+   "count": 25,
    "items": [
     {
      "title": "3 payment rules control Aave’s native Bitcoin market, but only WBTC settles them",
@@ -109,17 +109,17 @@
      "s": 1
     },
     {
-     "title": "Bitcoin hacking challenge finally falls as researcher proves critical PHP flaw is exploitable",
-     "link": "https://cryptoslate.com/bitcoin-hacking-challenge-finally-falls-as-researcher-proves-critical-php-flaw-is-exploitable/",
-     "source": "CryptoSlate",
-     "time": "2026-10-26T12:30:03+00:00",
-     "s": -1
-    },
-    {
      "title": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
      "link": "https://decrypt.co/381797/morning-minute-bitcoin-breaks-below-80000-as-iran-fears-hit-the-weekend",
      "source": "Decrypt",
      "time": "2026-10-26T12:16:12+00:00",
+     "s": -1
+    },
+    {
+     "title": "Early Bitcoin Tech Investor Turns Bearish, Warns BTC Could Be Hacked To Zero",
+     "link": "https://bitcoinist.com/early-bitcoin-tech-investor-turns-bearish-warns-btc-could-be-hacked-to-zero/",
+     "source": "Bitcoinist",
+     "time": "2026-10-26T12:04:58+00:00",
      "s": -1
     }
    ]
