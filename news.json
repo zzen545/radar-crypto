@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T04:00:19.140737+00:00",
+ "updated": "2026-10-27T04:59:34.936245+00:00",
  "window_hours": 48,
- "headlines": 96,
+ "headlines": 98,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -169,8 +169,15 @@
   "SOL": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Faster Solana slots fail to stop memecoin bot snipers",
+     "link": "https://cryptoslate.com/solana-study-finds-rapid-pump-fun-buying-persisted-as-blocks-sped-up/",
+     "source": "CryptoSlate",
+     "time": "2026-10-27T04:20:34+00:00",
+     "s": 0
+    },
     {
      "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
      "link": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -195,10 +202,17 @@
    ]
   },
   "XRP": {
-   "pos": 4,
+   "pos": 5,
    "neg": 0,
-   "count": 5,
+   "count": 6,
    "items": [
+    {
+     "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+     "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+     "source": "CoinDesk",
+     "time": "2026-10-27T04:28:49+00:00",
+     "s": 1
+    },
     {
      "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
      "link": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
