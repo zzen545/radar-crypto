@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T18:07:29.677972+00:00",
+ "updated": "2026-10-28T19:19:54.841018+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
+   "pos": 8,
    "neg": 4,
-   "count": 27,
+   "count": 28,
    "items": [
+    {
+     "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
+     "link": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
+     "source": "Decrypt",
+     "time": "2026-10-28T18:25:18+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Nears $82K as Wall Street Sees Correction Fading",
      "link": "https://bitcoinist.com/bitcoin-nears-82k-as-wall-street-sees-correction-fading/",
@@ -88,11 +95,11 @@
      "s": 1
     },
     {
-     "title": "Live updates: Bitcoin sheds early gains; Strategy's STRC moves to daily dividends",
+     "title": "Live updates: Bitcoin trading just above $80,000 as Fed delivers hold on rates",
      "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
      "source": "CoinDesk",
      "time": "2026-10-28T11:23:34+00:00",
-     "s": 1
+     "s": 0
     },
     {
      "title": "Bitcoin beats the S&P 500 on most trading days but still loses the month",
@@ -113,13 +120,6 @@
      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
      "source": "CoinDesk",
      "time": "2026-10-28T09:15:22+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
-     "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-28T07:57:18+00:00",
      "s": 1
     }
    ]
@@ -175,7 +175,7 @@
   "XRP": {
    "pos": 5,
    "neg": 0,
-   "count": 11,
+   "count": 9,
    "items": [
     {
      "title": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
@@ -213,13 +213,6 @@
      "s": 0
     },
     {
-     "title": "Robinhood links 29 million app users to Ripple’s XRP Ledger",
-     "link": "https://cryptoslate.com/robinhood-links-29-million-app-users-to-ripples-xrp-ledger/",
-     "source": "CryptoSlate",
-     "time": "2026-10-28T08:40:08+00:00",
-     "s": 0
-    },
-    {
      "title": "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
      "link": "https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans",
      "source": "Decrypt",
@@ -232,13 +225,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-27T19:54:05+00:00",
      "s": 1
-    },
-    {
-     "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
-     "link": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
-     "source": "CoinDesk",
-     "time": "2026-10-27T16:35:29+00:00",
-     "s": 0
     },
     {
      "title": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
