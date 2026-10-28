@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T21:07:00.951830+00:00",
+ "updated": "2026-10-28T22:04:28.132442+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 8,
    "neg": 4,
-   "count": 27,
+   "count": 28,
    "items": [
+    {
+     "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
+     "link": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
+     "source": "Decrypt",
+     "time": "2026-10-28T21:46:02+00:00",
+     "s": 0
+    },
     {
      "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
      "link": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
@@ -113,13 +120,6 @@
      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
      "source": "CoinDesk",
      "time": "2026-10-28T09:15:22+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
-     "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-28T07:57:18+00:00",
      "s": 1
     }
    ]
