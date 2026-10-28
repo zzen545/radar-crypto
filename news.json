@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T14:21:20.964759+00:00",
+ "updated": "2026-10-28T15:16:22.634456+00:00",
  "window_hours": 48,
  "headlines": 128,
  "feeds_ok": [
@@ -15,8 +15,22 @@
   "BTC": {
    "pos": 9,
    "neg": 6,
-   "count": 27,
+   "count": 28,
    "items": [
+    {
+     "title": "Bitcoin Faces Another Red October as Price Drops 4.2%",
+     "link": "https://bitcoinist.com/bitcoin-faces-another-red-october-as-price-drops-4-2/",
+     "source": "Bitcoinist",
+     "time": "2026-10-28T15:10:00+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin option buyers face a Fed-week premium that can fade after the decision",
+     "link": "https://cryptoslate.com/bitcoin-option-buyers-face-a-fed-week-premium-that-can-fade-after-the-decision/",
+     "source": "CryptoSlate",
+     "time": "2026-10-28T14:40:38+00:00",
+     "s": 0
+    },
     {
      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
      "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -32,7 +46,7 @@
      "s": 1
     },
     {
-     "title": "Live updates: Bitcoin sheds early gains, with Fed decision looming",
+     "title": "Live updates: Bitcoin sheds early gains; Strategy's STRC moves to daily dividends",
      "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
      "source": "CoinDesk",
      "time": "2026-10-28T11:23:34+00:00",
@@ -107,20 +121,6 @@
      "source": "The Block",
      "time": "2026-10-28T03:00:33+00:00",
      "s": 0
-    },
-    {
-     "title": "Polymarket reforms Bitcoin contracts and Binance trading spikes immediately drop",
-     "link": "https://cryptoslate.com/polymarket-reforms-bitcoin-contracts-and-binance-trading-spikes-immediately-drop/",
-     "source": "CryptoSlate",
-     "time": "2026-10-27T23:40:55+00:00",
-     "s": -1
-    },
-    {
-     "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
-     "link": "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-27T21:28:22+00:00",
-     "s": 1
     }
    ]
   },
@@ -169,16 +169,8 @@
   "BNB": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell",
-     "link": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790",
-     "source": "The Block",
-     "time": "2026-10-26T19:43:47+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "XRP": {
    "pos": 6,
@@ -284,16 +276,16 @@
    "items": []
   },
   "HYPE": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
    "count": 1,
    "items": [
     {
-     "title": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer",
-     "link": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787",
+     "title": "Avail launches ShieldTX privacy tool targeting copy-trading bots on Hyperliquid",
+     "link": "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977",
      "source": "The Block",
-     "time": "2026-10-26T18:21:17+00:00",
-     "s": 0
+     "time": "2026-10-28T15:00:02+00:00",
+     "s": 1
     }
    ]
   },
