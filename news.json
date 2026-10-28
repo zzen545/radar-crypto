@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T19:19:54.841018+00:00",
+ "updated": "2026-10-28T20:07:56.504373+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -95,7 +95,7 @@
      "s": 1
     },
     {
-     "title": "Live updates: Bitcoin trading just above $80,000 as Fed delivers hold on rates",
+     "title": "Live updates: Bitcoin trading just above $81,000 as Fed delivers hold on rates",
      "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
      "source": "CoinDesk",
      "time": "2026-10-28T11:23:34+00:00",
@@ -127,20 +127,13 @@
   "ETH": {
    "pos": 0,
    "neg": 0,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "Ethereum client security fixes leave binary users with a separate Java check",
      "link": "https://cryptoslate.com/ethereum-client-security-fixes-leave-binary-users-with-a-separate-java-check/",
      "source": "CryptoSlate",
      "time": "2026-10-28T15:40:51+00:00",
-     "s": 0
-    },
-    {
-     "title": "Ethereum’s $3 billion blockspace bet hinges on who gets to produce the next block",
-     "link": "https://cryptoslate.com/ethereums-3-billion-blockspace-bet-hinges-on-who-gets-to-produce-the-next-block/",
-     "source": "CryptoSlate",
-     "time": "2026-10-28T09:40:42+00:00",
      "s": 0
     },
     {
