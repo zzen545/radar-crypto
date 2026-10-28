@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T07:30:08.678035+00:00",
+ "updated": "2026-10-28T08:36:53.326183+00:00",
  "window_hours": 48,
  "headlines": 128,
  "feeds_ok": [
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 10,
+   "pos": 11,
    "neg": 6,
-   "count": 33,
+   "count": 34,
    "items": [
+    {
+     "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+     "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-28T07:57:18+00:00",
+     "s": 1
+    },
+    {
+     "title": "Datavault AI Stock Plunges 50% Amid Bitcoin Access Issues",
+     "link": "https://bitcoinist.com/datavault-ai-stock-plunges-50-amid-bitcoin-access-issues/",
+     "source": "Bitcoinist",
+     "time": "2026-10-28T07:52:46+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin apps risk massive fee drain, and 2 library bugs are blamed",
      "link": "https://cryptoslate.com/bitcoin-apps-risk-massive-fee-drain-and-2-library-bugs-are-blamed/",
@@ -107,27 +121,13 @@
      "source": "Bitcoinist",
      "time": "2026-10-27T15:14:41+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin And Ethereum Face Further Downside As Ansem Warns Of AI Stock Market Risks",
-     "link": "https://bitcoinist.com/bitcoin-and-ethereum-face-further-downside-as-ansem-warns-of-ai-stock-market-risks/",
-     "source": "Bitcoinist",
-     "time": "2026-10-27T14:33:34+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-     "link": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
-     "source": "The Block",
-     "time": "2026-10-27T14:32:08+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
-   "neg": 1,
-   "count": 6,
+   "neg": 0,
+   "count": 5,
    "items": [
     {
      "title": "Kraken opens Bitcoin and Ethereum options to eligible European traders",
@@ -149,13 +149,6 @@
      "source": "Bitcoinist",
      "time": "2026-10-27T14:48:20+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin And Ethereum Face Further Downside As Ansem Warns Of AI Stock Market Risks",
-     "link": "https://bitcoinist.com/bitcoin-and-ethereum-face-further-downside-as-ansem-warns-of-ai-stock-market-risks/",
-     "source": "Bitcoinist",
-     "time": "2026-10-27T14:33:34+00:00",
-     "s": -1
     },
     {
      "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
