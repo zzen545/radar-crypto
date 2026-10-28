@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T09:33:43.820449+00:00",
+ "updated": "2026-10-28T10:32:03.768563+00:00",
  "window_hours": 48,
  "headlines": 128,
  "feeds_ok": [
@@ -15,10 +15,17 @@
   "BTC": {
    "pos": 12,
    "neg": 6,
-   "count": 34,
+   "count": 33,
    "items": [
     {
-     "title": "Bitcoin has soared 50% on average after midterms. The S&P 500 has gained 15%.",
+     "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-28T09:55:29+00:00",
+     "s": 0
+    },
+    {
+     "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
      "source": "CoinDesk",
      "time": "2026-10-28T09:15:22+00:00",
@@ -109,17 +116,10 @@
      "s": 0
     },
     {
-     "title": "Iran-linked Bitcoin activity fell about 80%, then rebounded during the blackout",
-     "link": "https://cryptoslate.com/iran-linked-bitcoin-activity-fell-about-80-then-rebounded-during-the-blackout/",
-     "source": "CryptoSlate",
-     "time": "2026-10-27T18:00:28+00:00",
-     "s": 0
-    },
-    {
-     "title": "Strategy Halts Bitcoin Purchases, Spends $205 Million Buying Back STRC Shares Instead",
-     "link": "https://bitcoinist.com/strategy-halts-bitcoin-purchases-spends-205-million-buying-back-strc-shares-instead/",
-     "source": "Bitcoinist",
-     "time": "2026-10-27T15:14:41+00:00",
+     "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
+     "link": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
+     "source": "The Block",
+     "time": "2026-10-27T14:32:08+00:00",
      "s": 0
     }
    ]
@@ -130,17 +130,17 @@
    "count": 3,
    "items": [
     {
+     "title": "Ethereum’s $3 billion blockspace bet hinges on who gets to produce the next block",
+     "link": "https://cryptoslate.com/ethereums-3-billion-blockspace-bet-hinges-on-who-gets-to-produce-the-next-block/",
+     "source": "CryptoSlate",
+     "time": "2026-10-28T09:40:42+00:00",
+     "s": 0
+    },
+    {
      "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
      "link": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
      "source": "Decrypt",
      "time": "2026-10-27T16:53:13+00:00",
-     "s": 0
-    },
-    {
-     "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
-     "link": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
-     "source": "CoinDesk",
-     "time": "2026-10-27T07:09:56+00:00",
      "s": 0
     },
     {
@@ -155,7 +155,7 @@
   "SOL": {
    "pos": 0,
    "neg": 1,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "Solana’s Firedancer Now Charges 1 SOL Per Bug Report",
@@ -163,13 +163,6 @@
      "source": "Bitcoinist",
      "time": "2026-10-27T16:00:31+00:00",
      "s": -1
-    },
-    {
-     "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
-     "link": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
-     "source": "CoinDesk",
-     "time": "2026-10-27T07:44:04+00:00",
-     "s": 0
     }
    ]
   },
