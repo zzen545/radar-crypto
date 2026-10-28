@@ -1,29 +1,42 @@
 {
- "updated": "2026-10-28T11:28:34.230189+00:00",
+ "updated": "2026-10-28T12:11:05.083752+00:00",
  "window_hours": 48,
- "headlines": 120,
+ "headlines": 128,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
    "pos": 12,
-   "neg": 4,
-   "count": 30,
+   "neg": 6,
+   "count": 31,
    "items": [
+    {
+     "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+     "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+     "source": "CoinDesk",
+     "time": "2026-10-28T11:32:31+00:00",
+     "s": 1
+    },
     {
      "title": "Live updates: Bitcoin climbs above $81,000 as majors rally ahead of Fed decision",
      "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
      "source": "CoinDesk",
      "time": "2026-10-28T11:23:34+00:00",
      "s": 1
+    },
+    {
+     "title": "Bitcoin Slips Below $80,000 as $404 Million in Crypto Longs Are Liquidated",
+     "link": "https://bitcoinist.com/bitcoin-slips-below-80000-as-404-million-in-crypto-longs-are-liquidated/",
+     "source": "Bitcoinist",
+     "time": "2026-10-28T11:02:32+00:00",
+     "s": -1
     },
     {
      "title": "Bitcoin beats the S&P 500 on most trading days but still loses the month",
@@ -52,6 +65,13 @@
      "source": "Cointelegraph",
      "time": "2026-10-28T07:57:18+00:00",
      "s": 1
+    },
+    {
+     "title": "Datavault AI Stock Plunges 50% Amid Bitcoin Access Issues",
+     "link": "https://bitcoinist.com/datavault-ai-stock-plunges-50-amid-bitcoin-access-issues/",
+     "source": "Bitcoinist",
+     "time": "2026-10-28T07:52:46+00:00",
+     "s": -1
     },
     {
      "title": "Bitcoin apps risk massive fee drain, and 2 library bugs are blamed",
@@ -100,27 +120,6 @@
      "link": "https://cryptoslate.com/openai-claims-a-math-breakthrough-does-that-threaten-bitcoin/",
      "source": "CryptoSlate",
      "time": "2026-10-27T21:00:20+00:00",
-     "s": 0
-    },
-    {
-     "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
-     "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-27T20:33:19+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
-     "link": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
-     "source": "Decrypt",
-     "time": "2026-10-27T18:16:02+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-     "link": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
-     "source": "The Block",
-     "time": "2026-10-27T14:32:08+00:00",
      "s": 0
     }
    ]
@@ -182,10 +181,17 @@
    ]
   },
   "XRP": {
-   "pos": 7,
+   "pos": 6,
    "neg": 0,
    "count": 12,
    "items": [
+    {
+     "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+     "link": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
+     "source": "CoinDesk",
+     "time": "2026-10-28T11:52:14+00:00",
+     "s": 0
+    },
     {
      "title": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
      "link": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
@@ -213,13 +219,6 @@
      "source": "Decrypt",
      "time": "2026-10-27T20:16:02+00:00",
      "s": 0
-    },
-    {
-     "title": "Ripple gets final US trust bank approval. What does XRP gain?",
-     "link": "https://cryptoslate.com/ripple-gets-final-us-trust-bank-approval-what-does-xrp-gain/",
-     "source": "CryptoSlate",
-     "time": "2026-10-27T20:00:02+00:00",
-     "s": 1
     },
     {
      "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
