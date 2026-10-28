@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T08:36:53.326183+00:00",
+ "updated": "2026-10-28T09:33:43.820449+00:00",
  "window_hours": 48,
  "headlines": 128,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 11,
+   "pos": 12,
    "neg": 6,
    "count": 34,
    "items": [
+    {
+     "title": "Bitcoin has soared 50% on average after midterms. The S&P 500 has gained 15%.",
+     "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
+     "source": "CoinDesk",
+     "time": "2026-10-28T09:15:22+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
      "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -109,13 +116,6 @@
      "s": 0
     },
     {
-     "title": "Kraken opens Bitcoin and Ethereum options to eligible European traders",
-     "link": "https://cryptoslate.com/kraken-opens-bitcoin-and-ether-options-to-eligible-european-traders/",
-     "source": "CryptoSlate",
-     "time": "2026-10-27T17:00:57+00:00",
-     "s": 0
-    },
-    {
      "title": "Strategy Halts Bitcoin Purchases, Spends $205 Million Buying Back STRC Shares Instead",
      "link": "https://bitcoinist.com/strategy-halts-bitcoin-purchases-spends-205-million-buying-back-strc-shares-instead/",
      "source": "Bitcoinist",
@@ -127,27 +127,13 @@
   "ETH": {
    "pos": 1,
    "neg": 0,
-   "count": 5,
+   "count": 3,
    "items": [
-    {
-     "title": "Kraken opens Bitcoin and Ethereum options to eligible European traders",
-     "link": "https://cryptoslate.com/kraken-opens-bitcoin-and-ether-options-to-eligible-european-traders/",
-     "source": "CryptoSlate",
-     "time": "2026-10-27T17:00:57+00:00",
-     "s": 0
-    },
     {
      "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
      "link": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
      "source": "Decrypt",
      "time": "2026-10-27T16:53:13+00:00",
-     "s": 0
-    },
-    {
-     "title": "Ethereum Developers Fix Critical Glamsterdam Bug That Threatened Staking Deposits",
-     "link": "https://bitcoinist.com/ethereum-developers-fix-critical-glamsterdam-bug-that-threatened-staking-deposits/",
-     "source": "Bitcoinist",
-     "time": "2026-10-27T14:48:20+00:00",
      "s": 0
     },
     {
@@ -202,10 +188,24 @@
    ]
   },
   "XRP": {
-   "pos": 8,
+   "pos": 7,
    "neg": 0,
-   "count": 12,
+   "count": 13,
    "items": [
+    {
+     "title": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
+     "link": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
+     "source": "The Block",
+     "time": "2026-10-28T09:15:20+00:00",
+     "s": 0
+    },
+    {
+     "title": "Robinhood links 29 million app users to Ripple’s XRP Ledger",
+     "link": "https://cryptoslate.com/robinhood-links-29-million-app-users-to-ripples-xrp-ledger/",
+     "source": "CryptoSlate",
+     "time": "2026-10-28T08:40:08+00:00",
+     "s": 0
+    },
     {
      "title": "BNY offers XRP custody, but only 1 rollout type exists",
      "link": "https://cryptoslate.com/bny-offers-xrp-custody-but-only-1-rollout-type-exists/",
@@ -267,13 +267,6 @@
      "link": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
      "source": "Decrypt",
      "time": "2026-10-27T10:16:46+00:00",
-     "s": 1
-    },
-    {
-     "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
-     "link": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
-     "source": "CoinDesk",
-     "time": "2026-10-27T04:28:49+00:00",
      "s": 1
     },
     {
