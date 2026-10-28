@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T03:08:53.374682+00:00",
+ "updated": "2026-10-28T04:11:03.530078+00:00",
  "window_hours": 48,
  "headlines": 128,
  "feeds_ok": [
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 10,
+   "pos": 9,
    "neg": 4,
-   "count": 31,
+   "count": 30,
    "items": [
     {
      "title": "Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal",
@@ -88,13 +88,6 @@
      "s": 0
     },
     {
-     "title": "Bitcoin’s next rally could trigger selling from holders of 874,000 BTC",
-     "link": "https://cryptoslate.com/bitcoins-next-rally-could-trigger-selling-from-holders-of-874000-btc/",
-     "source": "CryptoSlate",
-     "time": "2026-10-27T15:00:26+00:00",
-     "s": 1
-    },
-    {
      "title": "Bitcoin And Ethereum Face Further Downside As Ansem Warns Of AI Stock Market Risks",
      "link": "https://bitcoinist.com/bitcoin-and-ethereum-face-further-downside-as-ansem-warns-of-ai-stock-market-risks/",
      "source": "Bitcoinist",
@@ -120,6 +113,13 @@
      "link": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
      "source": "CoinDesk",
      "time": "2026-10-27T13:13:50+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
+     "link": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute",
+     "source": "Decrypt",
+     "time": "2026-10-27T13:01:08+00:00",
      "s": 0
     }
    ]
@@ -218,8 +218,15 @@
   "XRP": {
    "pos": 8,
    "neg": 0,
-   "count": 11,
+   "count": 12,
    "items": [
+    {
+     "title": "BNY offers XRP custody, but only 1 rollout type exists",
+     "link": "https://cryptoslate.com/bny-offers-xrp-custody-but-only-1-rollout-type-exists/",
+     "source": "CryptoSlate",
+     "time": "2026-10-28T03:40:09+00:00",
+     "s": 0
+    },
     {
      "title": "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
      "link": "https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans",
