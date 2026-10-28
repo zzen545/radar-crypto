@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-28T16:15:52.296651+00:00",
+ "updated": "2026-10-28T17:15:06.606359+00:00",
  "window_hours": 48,
- "headlines": 127,
+ "headlines": 128,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,30 @@
  "coins": {
   "BTC": {
    "pos": 9,
-   "neg": 5,
+   "neg": 6,
    "count": 29,
    "items": [
+    {
+     "title": "Bitcoin Nears $82K as Wall Street Sees Correction Fading",
+     "link": "https://bitcoinist.com/bitcoin-nears-82k-as-wall-street-sees-correction-fading/",
+     "source": "Bitcoinist",
+     "time": "2026-10-28T17:02:52+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
+     "link": "https://cointelegraph.com/markets/market-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-28T16:53:26+00:00",
+     "s": -1
+    },
+    {
+     "title": "Wall Street’s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
+     "link": "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds",
+     "source": "Decrypt",
+     "time": "2026-10-28T16:15:02+00:00",
+     "s": 0
+    },
     {
      "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
      "link": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010",
@@ -100,27 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-10-28T09:15:22+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
-     "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-28T07:57:18+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin apps risk massive fee drain, and 2 library bugs are blamed",
-     "link": "https://cryptoslate.com/bitcoin-apps-risk-massive-fee-drain-and-2-library-bugs-are-blamed/",
-     "source": "CryptoSlate",
-     "time": "2026-10-28T05:30:00+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-     "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
-     "source": "CoinDesk",
-     "time": "2026-10-28T05:28:13+00:00",
-     "s": -1
     }
    ]
   },
