@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T20:07:56.504373+00:00",
+ "updated": "2026-10-28T21:07:00.951830+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 8,
    "neg": 4,
-   "count": 28,
+   "count": 27,
    "items": [
     {
      "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
@@ -102,13 +102,6 @@
      "s": 0
     },
     {
-     "title": "Bitcoin beats the S&P 500 on most trading days but still loses the month",
-     "link": "https://cryptoslate.com/bitcoin-beats-the-sp-500-on-most-trading-days-but-still-loses-the-month/",
-     "source": "CryptoSlate",
-     "time": "2026-10-28T11:00:51+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
      "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -120,6 +113,13 @@
      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
      "source": "CoinDesk",
      "time": "2026-10-28T09:15:22+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+     "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-28T07:57:18+00:00",
      "s": 1
     }
    ]
