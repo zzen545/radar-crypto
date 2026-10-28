@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T05:09:46.810303+00:00",
+ "updated": "2026-10-28T06:05:15.167825+00:00",
  "window_hours": 48,
  "headlines": 128,
  "feeds_ok": [
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 10,
-   "neg": 4,
-   "count": 31,
+   "neg": 6,
+   "count": 33,
    "items": [
+    {
+     "title": "Bitcoin apps risk massive fee drain, and 2 library bugs are blamed",
+     "link": "https://cryptoslate.com/bitcoin-apps-risk-massive-fee-drain-and-2-library-bugs-are-blamed/",
+     "source": "CryptoSlate",
+     "time": "2026-10-28T05:30:00+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+     "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
+     "source": "CoinDesk",
+     "time": "2026-10-28T05:28:13+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
@@ -107,27 +121,13 @@
      "source": "The Block",
      "time": "2026-10-27T14:32:08+00:00",
      "s": 0
-    },
-    {
-     "title": "McDonald's McRib Doesn't Actually Boost Bitcoin's Price, Sorry Everyone",
-     "link": "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
-     "source": "Decrypt",
-     "time": "2026-10-27T14:31:02+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
-     "link": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
-     "source": "CoinDesk",
-     "time": "2026-10-27T13:13:50+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 7,
+   "count": 6,
    "items": [
     {
      "title": "Kraken opens Bitcoin and Ethereum options to eligible European traders",
@@ -162,13 +162,6 @@
      "link": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
      "source": "CoinDesk",
      "time": "2026-10-27T07:09:56+00:00",
-     "s": 0
-    },
-    {
-     "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-     "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
-     "source": "CoinDesk",
-     "time": "2026-10-26T16:05:12+00:00",
      "s": 0
     },
     {
