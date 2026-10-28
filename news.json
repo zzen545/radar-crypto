@@ -1,27 +1,42 @@
 {
- "updated": "2026-10-28T10:32:03.768563+00:00",
+ "updated": "2026-10-28T11:28:34.230189+00:00",
  "window_hours": 48,
- "headlines": 128,
+ "headlines": 120,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
    "pos": 12,
-   "neg": 6,
-   "count": 33,
+   "neg": 4,
+   "count": 30,
    "items": [
+    {
+     "title": "Live updates: Bitcoin climbs above $81,000 as majors rally ahead of Fed decision",
+     "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
+     "source": "CoinDesk",
+     "time": "2026-10-28T11:23:34+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin beats the S&P 500 on most trading days but still loses the month",
+     "link": "https://cryptoslate.com/bitcoin-beats-the-sp-500-on-most-trading-days-but-still-loses-the-month/",
+     "source": "CryptoSlate",
+     "time": "2026-10-28T11:00:51+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
      "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
-     "time": "2026-10-28T09:55:29+00:00",
+     "time": "2026-10-28T09:56:00+00:00",
      "s": 0
     },
     {
@@ -37,13 +52,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-28T07:57:18+00:00",
      "s": 1
-    },
-    {
-     "title": "Datavault AI Stock Plunges 50% Amid Bitcoin Access Issues",
-     "link": "https://bitcoinist.com/datavault-ai-stock-plunges-50-amid-bitcoin-access-issues/",
-     "source": "Bitcoinist",
-     "time": "2026-10-28T07:52:46+00:00",
-     "s": -1
     },
     {
      "title": "Bitcoin apps risk massive fee drain, and 2 library bugs are blamed",
@@ -102,13 +110,6 @@
      "s": -1
     },
     {
-     "title": "Lightning tightens invoice rules after reported attack made Bitcoin withdrawals look unpaid",
-     "link": "https://cryptoslate.com/lightning-tightens-invoice-rules-after-reported-attack-made-bitcoin-withdrawals-look-unpaid/",
-     "source": "CryptoSlate",
-     "time": "2026-10-27T19:00:10+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
      "link": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
      "source": "Decrypt",
@@ -154,15 +155,15 @@
   },
   "SOL": {
    "pos": 0,
-   "neg": 1,
+   "neg": 0,
    "count": 1,
    "items": [
     {
-     "title": "Solana’s Firedancer Now Charges 1 SOL Per Bug Report",
-     "link": "https://bitcoinist.com/solanas-firedancer-now-charges-1-sol-per-bug-report/",
-     "source": "Bitcoinist",
-     "time": "2026-10-27T16:00:31+00:00",
-     "s": -1
+     "title": "Mirae Asset Securities issues tokenized notes on Solana",
+     "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-28T11:05:33+00:00",
+     "s": 0
     }
    ]
   },
@@ -183,7 +184,7 @@
   "XRP": {
    "pos": 7,
    "neg": 0,
-   "count": 13,
+   "count": 12,
    "items": [
     {
      "title": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
@@ -232,13 +233,6 @@
      "link": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
      "source": "CoinDesk",
      "time": "2026-10-27T16:35:29+00:00",
-     "s": 0
-    },
-    {
-     "title": "Aviva Investors Tokenizes $29B Sterling Fund on XRP Ledger",
-     "link": "https://bitcoinist.com/aviva-investors-tokenizes-29b-sterling-fund-on-xrp-ledger/",
-     "source": "Bitcoinist",
-     "time": "2026-10-27T15:40:04+00:00",
      "s": 0
     },
     {
