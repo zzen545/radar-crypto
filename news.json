@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T13:28:34.230736+00:00",
+ "updated": "2026-10-28T14:21:20.964759+00:00",
  "window_hours": 48,
  "headlines": 128,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 9,
    "neg": 6,
-   "count": 26,
+   "count": 27,
    "items": [
+    {
+     "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+     "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-28T13:47:51+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
      "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
@@ -25,11 +32,11 @@
      "s": 1
     },
     {
-     "title": "Live updates: Bitcoin edges higher ahead of Fed decision Wednesday afternoon.",
+     "title": "Live updates: Bitcoin sheds early gains, with Fed decision looming",
      "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
      "source": "CoinDesk",
      "time": "2026-10-28T11:23:34+00:00",
-     "s": 0
+     "s": 1
     },
     {
      "title": "Bitcoin Slips Below $80,000 as $404 Million in Crypto Longs Are Liquidated",
@@ -114,13 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-27T21:28:22+00:00",
      "s": 1
-    },
-    {
-     "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
-     "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-27T20:33:19+00:00",
-     "s": -1
     }
    ]
   },
@@ -181,9 +181,9 @@
    ]
   },
   "XRP": {
-   "pos": 7,
+   "pos": 6,
    "neg": 0,
-   "count": 13,
+   "count": 12,
    "items": [
     {
      "title": "Ripple expects $900 million annualized product revenue run rate as institutional business expands",
@@ -267,13 +267,6 @@
      "link": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
      "source": "The Block",
      "time": "2026-10-27T02:28:18+00:00",
-     "s": 1
-    },
-    {
-     "title": "Ripple wins final US approval for national trust bank",
-     "link": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-27T00:06:41+00:00",
      "s": 1
     }
    ]
