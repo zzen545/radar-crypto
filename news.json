@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T12:11:05.083752+00:00",
+ "updated": "2026-10-28T13:28:34.230736+00:00",
  "window_hours": 48,
  "headlines": 128,
  "feeds_ok": [
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 12,
+   "pos": 8,
    "neg": 6,
-   "count": 31,
+   "count": 26,
    "items": [
     {
      "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
@@ -25,11 +25,11 @@
      "s": 1
     },
     {
-     "title": "Live updates: Bitcoin climbs above $81,000 as majors rally ahead of Fed decision",
+     "title": "Live updates: Bitcoin edges higher ahead of Fed decision Wednesday afternoon.",
      "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
      "source": "CoinDesk",
      "time": "2026-10-28T11:23:34+00:00",
-     "s": 1
+     "s": 0
     },
     {
      "title": "Bitcoin Slips Below $80,000 as $404 Million in Crypto Longs Are Liquidated",
@@ -116,11 +116,11 @@
      "s": 1
     },
     {
-     "title": "OpenAI claims a cryptography breakthrough. Does that threaten Bitcoin?",
-     "link": "https://cryptoslate.com/openai-claims-a-math-breakthrough-does-that-threaten-bitcoin/",
-     "source": "CryptoSlate",
-     "time": "2026-10-27T21:00:20+00:00",
-     "s": 0
+     "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
+     "link": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-27T20:33:19+00:00",
+     "s": -1
     }
    ]
   },
@@ -181,10 +181,24 @@
    ]
   },
   "XRP": {
-   "pos": 6,
+   "pos": 7,
    "neg": 0,
-   "count": 12,
+   "count": 13,
    "items": [
+    {
+     "title": "Ripple expects $900 million annualized product revenue run rate as institutional business expands",
+     "link": "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920",
+     "source": "The Block",
+     "time": "2026-10-28T13:00:00+00:00",
+     "s": 1
+    },
+    {
+     "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
+     "link": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval",
+     "source": "Decrypt",
+     "time": "2026-10-28T12:16:30+00:00",
+     "s": 1
+    },
     {
      "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
      "link": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
@@ -239,13 +253,6 @@
      "link": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
      "source": "The Block",
      "time": "2026-10-27T15:01:12+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
-     "link": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
-     "source": "CoinDesk",
-     "time": "2026-10-27T12:00:39+00:00",
      "s": 1
     },
     {
