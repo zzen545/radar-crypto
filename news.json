@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T19:37:48.777004+00:00",
+ "updated": "2026-10-29T20:29:04.175807+00:00",
  "window_hours": 48,
- "headlines": 122,
+ "headlines": 121,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 4,
-   "neg": 5,
-   "count": 30,
+   "neg": 4,
+   "count": 29,
    "items": [
     {
      "title": "$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
@@ -210,7 +210,7 @@
   "XRP": {
    "pos": 3,
    "neg": 0,
-   "count": 7,
+   "count": 6,
    "items": [
     {
      "title": "Crypto investors refuse to sell XRP ETF tokens despite a 25% price crash",
@@ -253,13 +253,6 @@
      "source": "The Block",
      "time": "2026-10-28T09:15:20+00:00",
      "s": 0
-    },
-    {
-     "title": "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
-     "link": "https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans",
-     "source": "Decrypt",
-     "time": "2026-10-27T20:16:02+00:00",
-     "s": 0
     }
    ]
   },
@@ -278,8 +271,15 @@
   "HYPE": {
    "pos": 5,
    "neg": 0,
-   "count": 6,
+   "count": 7,
    "items": [
+    {
+     "title": "NYSE owner takes Trade[XYZ] stake as it plans US Hyperliquid futures",
+     "link": "https://cryptoslate.com/nyse-owner-takes-tradexyz-stake-as-it-plans-us-hyperliquid-futures/",
+     "source": "CryptoSlate",
+     "time": "2026-10-29T20:00:22+00:00",
+     "s": 0
+    },
     {
      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
      "link": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
