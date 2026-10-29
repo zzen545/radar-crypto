@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T09:37:20.357508+00:00",
+ "updated": "2026-10-29T10:33:47.169958+00:00",
  "window_hours": 48,
- "headlines": 127,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
+   "pos": 5,
    "neg": 3,
-   "count": 31,
+   "count": 32,
    "items": [
+    {
+     "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
+     "link": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
+     "source": "CoinDesk",
+     "time": "2026-10-29T10:04:36+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin could reach $1.6 million by 2036, but 82% of the forecast rests on one bet",
+     "link": "https://cryptoslate.com/bitcoin-could-reach-1-6-million-by-2036-but-82-of-the-forecast-rests-on-one-bet/",
+     "source": "CryptoSlate",
+     "time": "2026-10-29T09:50:24+00:00",
+     "s": 0
+    },
     {
      "title": "Fed’s divided rate decision threatens Bitcoin’s comeback as December hike looms",
      "link": "https://cryptoslate.com/feds-divided-rate-decision-threatens-bitcoins-comeback-as-december-hike-looms/",
@@ -107,20 +121,6 @@
      "source": "Decrypt",
      "time": "2026-10-28T16:15:02+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
-     "link": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010",
-     "source": "The Block",
-     "time": "2026-10-28T16:07:08+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin ETFs Pull in $176M as BTC Tops $80K",
-     "link": "https://bitcoinist.com/bitcoin-etfs-pull-in-176m-as-btc-tops-80k/",
-     "source": "Bitcoinist",
-     "time": "2026-10-28T15:53:44+00:00",
-     "s": 0
     }
    ]
   },
@@ -173,9 +173,9 @@
    "items": []
   },
   "XRP": {
-   "pos": 7,
+   "pos": 6,
    "neg": 0,
-   "count": 12,
+   "count": 11,
    "items": [
     {
      "title": "Ripple Eyes $900M Revenue as RLUSD Expands",
@@ -252,13 +252,6 @@
      "link": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
      "source": "The Block",
      "time": "2026-10-27T15:01:12+00:00",
-     "s": 1
-    },
-    {
-     "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
-     "link": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
-     "source": "Decrypt",
-     "time": "2026-10-27T10:16:46+00:00",
      "s": 1
     }
    ]
