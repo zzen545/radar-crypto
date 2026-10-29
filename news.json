@@ -1,23 +1,36 @@
 {
- "updated": "2026-10-29T07:48:33.111511+00:00",
+ "updated": "2026-10-29T08:40:11.147060+00:00",
  "window_hours": 48,
- "headlines": 119,
+ "headlines": 127,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 4,
-   "count": 27,
+   "neg": 5,
+   "count": 33,
    "items": [
+    {
+     "title": "Fed’s divided rate decision threatens Bitcoin’s comeback as December hike looms",
+     "link": "https://cryptoslate.com/feds-divided-rate-decision-threatens-bitcoins-comeback-as-december-hike-looms/",
+     "source": "CryptoSlate",
+     "time": "2026-10-29T08:30:16+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin ETFs Find New Support From Long-Term Investors",
+     "link": "https://bitcoinist.com/bitcoin-etfs-find-new-support-from-long-term-investors/",
+     "source": "Bitcoinist",
+     "time": "2026-10-29T08:17:11+00:00",
+     "s": 0
+    },
     {
      "title": "The chart bitcoin traders should be paying attention to",
      "link": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
@@ -30,6 +43,13 @@
      "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-10-29T07:32:20+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Core Fixes 3 Security Bugs Discovered by AI",
+     "link": "https://bitcoinist.com/bitcoin-core-fixes-3-security-bugs-discovered-by-ai/",
+     "source": "Bitcoinist",
+     "time": "2026-10-29T07:24:52+00:00",
      "s": 0
     },
     {
@@ -68,6 +88,13 @@
      "s": 0
     },
     {
+     "title": "Bitcoin Nears $82K as Wall Street Sees Correction Fading",
+     "link": "https://bitcoinist.com/bitcoin-nears-82k-as-wall-street-sees-correction-fading/",
+     "source": "Bitcoinist",
+     "time": "2026-10-28T17:02:52+00:00",
+     "s": 0
+    },
+    {
      "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
      "link": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -89,38 +116,10 @@
      "s": 0
     },
     {
-     "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
-     "link": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
-     "source": "Decrypt",
-     "time": "2026-10-28T15:15:34+00:00",
-     "s": 0
-    },
-    {
-     "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
-     "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-28T13:47:51+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
-     "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
-     "source": "CoinDesk",
-     "time": "2026-10-28T11:32:31+00:00",
-     "s": 1
-    },
-    {
-     "title": "Live updates: Bitcoin trading just above $81,000 as Fed delivers hold on rates",
-     "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
-     "source": "CoinDesk",
-     "time": "2026-10-28T11:23:34+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
-     "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-28T09:56:00+00:00",
+     "title": "Bitcoin ETFs Pull in $176M as BTC Tops $80K",
+     "link": "https://bitcoinist.com/bitcoin-etfs-pull-in-176m-as-btc-tops-80k/",
+     "source": "Bitcoinist",
+     "time": "2026-10-28T15:53:44+00:00",
      "s": 0
     }
    ]
@@ -128,7 +127,7 @@
   "ETH": {
    "pos": 1,
    "neg": 0,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
@@ -143,13 +142,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-29T04:39:49+00:00",
      "s": 1
-    },
-    {
-     "title": "Ethereum client security fixes leave binary users with a separate Java check",
-     "link": "https://cryptoslate.com/ethereum-client-security-fixes-leave-binary-users-with-a-separate-java-check/",
-     "source": "CryptoSlate",
-     "time": "2026-10-28T15:40:51+00:00",
-     "s": 0
     },
     {
      "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
