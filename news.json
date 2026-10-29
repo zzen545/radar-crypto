@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T00:36:16.645319+00:00",
+ "updated": "2026-10-29T01:45:56.844813+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 7,
    "neg": 4,
    "count": 28,
    "items": [
+    {
+     "title": "Bitcoin faces fresh pressure after Fed’s hawkish rate hold: Analysts",
+     "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-29T01:12:01+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
      "link": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
@@ -114,13 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-28T09:56:00+00:00",
      "s": 0
-    },
-    {
-     "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
-     "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
-     "source": "CoinDesk",
-     "time": "2026-10-28T09:15:22+00:00",
-     "s": 1
     }
    ]
   },
