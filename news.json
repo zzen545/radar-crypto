@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T10:33:47.169958+00:00",
+ "updated": "2026-10-29T11:28:42.013124+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 127,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,38 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 5,
-   "neg": 3,
-   "count": 32,
+   "pos": 4,
+   "neg": 5,
+   "count": 33,
    "items": [
+    {
+     "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
+     "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
+     "source": "CoinDesk",
+     "time": "2026-10-29T11:11:48+00:00",
+     "s": -1
+    },
+    {
+     "title": "Grant Cardone Bets $1 Million on Bitcoin’s Comeback",
+     "link": "https://bitcoinist.com/grant-cardone-bets-1-million-on-bitcoins-comeback/",
+     "source": "Bitcoinist",
+     "time": "2026-10-29T11:09:22+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
+     "link": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-29T10:46:43+00:00",
+     "s": -1
+    },
+    {
+     "title": "Live updates: Bitcoin clings to $80,000 as Strategy’s cushion thins before earnings",
+     "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
+     "source": "CoinDesk",
+     "time": "2026-10-29T10:41:39+00:00",
+     "s": 0
+    },
     {
      "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
      "link": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
@@ -74,7 +102,7 @@
      "s": -1
     },
     {
-     "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+     "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
      "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
      "source": "CoinDesk",
      "time": "2026-10-29T03:32:43+00:00",
@@ -92,34 +120,6 @@
      "link": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
      "source": "Decrypt",
      "time": "2026-10-28T21:46:02+00:00",
-     "s": 0
-    },
-    {
-     "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
-     "link": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
-     "source": "Decrypt",
-     "time": "2026-10-28T18:25:18+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Nears $82K as Wall Street Sees Correction Fading",
-     "link": "https://bitcoinist.com/bitcoin-nears-82k-as-wall-street-sees-correction-fading/",
-     "source": "Bitcoinist",
-     "time": "2026-10-28T17:02:52+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
-     "link": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-28T16:53:26+00:00",
-     "s": -1
-    },
-    {
-     "title": "Wall Street’s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
-     "link": "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds",
-     "source": "Decrypt",
-     "time": "2026-10-28T16:15:02+00:00",
      "s": 0
     }
    ]
@@ -155,8 +155,15 @@
   "SOL": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
+     "link": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
+     "source": "CoinDesk",
+     "time": "2026-10-29T10:44:48+00:00",
+     "s": 0
+    },
     {
      "title": "Mirae Asset Securities issues tokenized notes on Solana",
      "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -271,8 +278,15 @@
   "HYPE": {
    "pos": 1,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
+     "link": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
+     "source": "CoinDesk",
+     "time": "2026-10-29T11:11:25+00:00",
+     "s": 0
+    },
     {
      "title": "Avail launches ShieldTX privacy tool targeting copy-trading bots on Hyperliquid",
      "link": "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977",
