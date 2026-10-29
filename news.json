@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T15:40:00.408469+00:00",
+ "updated": "2026-10-29T16:39:00.701738+00:00",
  "window_hours": 48,
- "headlines": 124,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 2,
+   "pos": 4,
    "neg": 5,
-   "count": 34,
+   "count": 36,
    "items": [
+    {
+     "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
+     "link": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
+     "source": "Decrypt",
+     "time": "2026-10-29T16:32:47+00:00",
+     "s": 1
+    },
+    {
+     "title": "Utexo Bets on Privacy to Bring USDT Back to Bitcoin",
+     "link": "https://bitcoinist.com/utexo-bets-on-privacy-to-bring-usdt-back-to-bitcoin/",
+     "source": "Bitcoinist",
+     "time": "2026-10-29T16:15:05+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
+     "link": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-29T15:39:54+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin developers rush to fix 3 security flaws after AI uncovers them",
      "link": "https://cryptoslate.com/bitcoin-developers-rush-to-fix-3-security-flaws-after-ai-uncovers-them/",
@@ -100,27 +121,6 @@
      "source": "Bitcoinist",
      "time": "2026-10-29T11:09:22+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
-     "link": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-29T10:46:43+00:00",
-     "s": -1
-    },
-    {
-     "title": "Live updates: Bitcoin catches small bid as Nasdaq and interest rates fall sharply",
-     "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
-     "source": "CoinDesk",
-     "time": "2026-10-29T10:41:39+00:00",
-     "s": -1
-    },
-    {
-     "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
-     "link": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
-     "source": "CoinDesk",
-     "time": "2026-10-29T10:04:36+00:00",
-     "s": 0
     }
    ]
   },
@@ -162,7 +162,7 @@
   "SOL": {
    "pos": 1,
    "neg": 0,
-   "count": 7,
+   "count": 6,
    "items": [
     {
      "title": "Polygon Takes Its Payments Toolkit to Solana, Targets Stablecoin Rails",
@@ -205,13 +205,6 @@
      "source": "CoinDesk",
      "time": "2026-10-29T10:44:48+00:00",
      "s": 0
-    },
-    {
-     "title": "Mirae Asset Securities issues tokenized notes on Solana",
-     "link": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-28T11:05:33+00:00",
-     "s": 0
     }
    ]
   },
@@ -224,7 +217,7 @@
   "XRP": {
    "pos": 4,
    "neg": 0,
-   "count": 8,
+   "count": 7,
    "items": [
     {
      "title": "Ripple Eyes $900M Revenue as RLUSD Expands",
@@ -239,13 +232,6 @@
      "source": "CryptoSlate",
      "time": "2026-10-29T05:30:07+00:00",
      "s": 1
-    },
-    {
-     "title": "Ripple is heading for its best year ever while XRP faces its worst since 2022",
-     "link": "https://cryptoslate.com/ripple-is-heading-for-its-best-year-ever-while-xrp-faces-its-worst-since-2022/",
-     "source": "CryptoSlate",
-     "time": "2026-10-29T02:10:42+00:00",
-     "s": 0
     },
     {
      "title": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
@@ -297,10 +283,17 @@
    "items": []
   },
   "HYPE": {
-   "pos": 2,
+   "pos": 3,
    "neg": 0,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
+     "link": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us",
+     "source": "Decrypt",
+     "time": "2026-10-29T15:59:48+00:00",
+     "s": 1
+    },
     {
      "title": "HYPE surges 15% as NYSE parent ICE moves to bring Hyperliquid perps to US",
      "link": "https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132",
