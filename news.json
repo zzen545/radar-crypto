@@ -1,22 +1,37 @@
 {
- "updated": "2026-10-29T06:31:13.524536+00:00",
+ "updated": "2026-10-29T07:48:33.111511+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 119,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 5,
-   "count": 28,
+   "neg": 4,
+   "count": 27,
    "items": [
+    {
+     "title": "The chart bitcoin traders should be paying attention to",
+     "link": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+     "source": "CoinDesk",
+     "time": "2026-10-29T07:44:44+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+     "link": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-29T07:32:20+00:00",
+     "s": 0
+    },
     {
      "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
      "link": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
@@ -53,13 +68,6 @@
      "s": 0
     },
     {
-     "title": "Bitcoin Nears $82K as Wall Street Sees Correction Fading",
-     "link": "https://bitcoinist.com/bitcoin-nears-82k-as-wall-street-sees-correction-fading/",
-     "source": "Bitcoinist",
-     "time": "2026-10-28T17:02:52+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
      "link": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -81,25 +89,11 @@
      "s": 0
     },
     {
-     "title": "Bitcoin ETFs Pull in $176M as BTC Tops $80K",
-     "link": "https://bitcoinist.com/bitcoin-etfs-pull-in-176m-as-btc-tops-80k/",
-     "source": "Bitcoinist",
-     "time": "2026-10-28T15:53:44+00:00",
-     "s": 0
-    },
-    {
      "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
      "link": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
      "source": "Decrypt",
      "time": "2026-10-28T15:15:34+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin Faces Another Red October as Price Drops 4.2%",
-     "link": "https://bitcoinist.com/bitcoin-faces-another-red-october-as-price-drops-4-2/",
-     "source": "Bitcoinist",
-     "time": "2026-10-28T15:10:00+00:00",
-     "s": -1
     },
     {
      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
@@ -120,6 +114,13 @@
      "link": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
      "source": "CoinDesk",
      "time": "2026-10-28T11:23:34+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-28T09:56:00+00:00",
      "s": 0
     }
    ]
