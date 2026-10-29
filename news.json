@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T21:13:26.984161+00:00",
+ "updated": "2026-10-29T22:06:25.638606+00:00",
  "window_hours": 48,
- "headlines": 121,
+ "headlines": 122,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 4,
-   "neg": 3,
-   "count": 27,
+   "neg": 2,
+   "count": 25,
    "items": [
     {
      "title": "$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
@@ -81,13 +81,6 @@
      "s": 0
     },
     {
-     "title": "Bitcoin options carried a far smaller election premium than in 2024",
-     "link": "https://cryptoslate.com/bitcoin-holders-waiting-for-a-2024-style-election-rally-face-a-different-test/",
-     "source": "CryptoSlate",
-     "time": "2026-10-29T13:00:19+00:00",
-     "s": 0
-    },
-    {
      "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
      "link": "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in",
      "source": "Decrypt",
@@ -121,6 +114,13 @@
      "source": "Bitcoinist",
      "time": "2026-10-29T11:09:22+00:00",
      "s": 0
+    },
+    {
+     "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
+     "link": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-29T10:46:43+00:00",
+     "s": -1
     }
    ]
   },
