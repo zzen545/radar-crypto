@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T17:35:21.994884+00:00",
+ "updated": "2026-10-29T18:31:27.267607+00:00",
  "window_hours": 48,
- "headlines": 123,
+ "headlines": 122,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 4,
    "neg": 5,
-   "count": 33,
+   "count": 32,
    "items": [
     {
      "title": "$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
@@ -215,22 +215,15 @@
    "items": []
   },
   "XRP": {
-   "pos": 4,
+   "pos": 3,
    "neg": 0,
-   "count": 7,
+   "count": 6,
    "items": [
     {
      "title": "Ripple Eyes $900M Revenue as RLUSD Expands",
      "link": "https://bitcoinist.com/ripple-eyes-900m-revenue-as-rlusd-expands/",
      "source": "Bitcoinist",
      "time": "2026-10-29T08:40:32+00:00",
-     "s": 1
-    },
-    {
-     "title": "Ripple’s RLUSD stablecoin gains Coinbase access as Moody’s awards investment-grade rating",
-     "link": "https://cryptoslate.com/ripples-rlusd-stablecoin-gains-coinbase-access-as-moodys-awards-investment-grade-rating/",
-     "source": "CryptoSlate",
-     "time": "2026-10-29T05:30:07+00:00",
      "s": 1
     },
     {
