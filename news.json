@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T14:42:14.220135+00:00",
+ "updated": "2026-10-29T15:40:00.408469+00:00",
  "window_hours": 48,
  "headlines": 124,
  "feeds_ok": [
@@ -17,6 +17,13 @@
    "neg": 5,
    "count": 34,
    "items": [
+    {
+     "title": "Bitcoin developers rush to fix 3 security flaws after AI uncovers them",
+     "link": "https://cryptoslate.com/bitcoin-developers-rush-to-fix-3-security-flaws-after-ai-uncovers-them/",
+     "source": "CryptoSlate",
+     "time": "2026-10-29T15:10:59+00:00",
+     "s": 0
+    },
     {
      "title": "Strategy’s STRC nears $100 level that could reopen a Bitcoin funding channel",
      "link": "https://cryptoslate.com/strategys-strc-returns-to-brink-of-100-after-saylor-wins-approval-for-daily-dividends-reviving-bitcoin-buying-hopes/",
@@ -102,7 +109,7 @@
      "s": -1
     },
     {
-     "title": "Live updates: Bitcoin holds near $80,000 as Nasdaq falls more than 1%",
+     "title": "Live updates: Bitcoin catches small bid as Nasdaq and interest rates fall sharply",
      "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
      "source": "CoinDesk",
      "time": "2026-10-29T10:41:39+00:00",
@@ -113,13 +120,6 @@
      "link": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
      "source": "CoinDesk",
      "time": "2026-10-29T10:04:36+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin could reach $1.6 million by 2036, but 82% of the forecast rests on one bet",
-     "link": "https://cryptoslate.com/bitcoin-could-reach-1-6-million-by-2036-but-82-of-the-forecast-rests-on-one-bet/",
-     "source": "CryptoSlate",
-     "time": "2026-10-29T09:50:24+00:00",
      "s": 0
     }
    ]
@@ -162,8 +162,15 @@
   "SOL": {
    "pos": 1,
    "neg": 0,
-   "count": 6,
+   "count": 7,
    "items": [
+    {
+     "title": "Polygon Takes Its Payments Toolkit to Solana, Targets Stablecoin Rails",
+     "link": "https://bitcoinist.com/polygon-takes-its-payments-toolkit-to-solana-targets-stablecoin-rails/",
+     "source": "Bitcoinist",
+     "time": "2026-10-29T15:27:53+00:00",
+     "s": 0
+    },
     {
      "title": "Only 10% of FOMO app’s Solana wallets were profitable after fees",
      "link": "https://cryptoslate.com/fomo-fees-erased-gains-for-32-of-its-pre-fee-winning-solana-wallets/",
@@ -215,9 +222,9 @@
    "items": []
   },
   "XRP": {
-   "pos": 5,
+   "pos": 4,
    "neg": 0,
-   "count": 9,
+   "count": 8,
    "items": [
     {
      "title": "Ripple Eyes $900M Revenue as RLUSD Expands",
@@ -274,13 +281,6 @@
      "source": "Decrypt",
      "time": "2026-10-27T20:16:02+00:00",
      "s": 0
-    },
-    {
-     "title": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
-     "link": "https://www.theblock.co/news/business/2026-10-27-ripple-bny-explore-using-xrp-ledger-finance-approved-invoices-431891",
-     "source": "The Block",
-     "time": "2026-10-27T15:01:12+00:00",
-     "s": 1
     }
    ]
   },
@@ -297,10 +297,17 @@
    "items": []
   },
   "HYPE": {
-   "pos": 1,
+   "pos": 2,
    "neg": 0,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "HYPE surges 15% as NYSE parent ICE moves to bring Hyperliquid perps to US",
+     "link": "https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132",
+     "source": "The Block",
+     "time": "2026-10-29T14:44:53+00:00",
+     "s": 1
+    },
     {
      "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
      "link": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
