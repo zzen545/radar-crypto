@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T16:39:00.701738+00:00",
+ "updated": "2026-10-29T17:35:21.994884+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 123,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 4,
    "neg": 5,
-   "count": 36,
+   "count": 33,
    "items": [
+    {
+     "title": "$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
+     "link": "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means",
+     "source": "Decrypt",
+     "time": "2026-10-29T17:15:11+00:00",
+     "s": 0
+    },
     {
      "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
      "link": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
@@ -114,20 +121,13 @@
      "source": "CoinDesk",
      "time": "2026-10-29T11:11:48+00:00",
      "s": -1
-    },
-    {
-     "title": "Grant Cardone Bets $1 Million on Bitcoin’s Comeback",
-     "link": "https://bitcoinist.com/grant-cardone-bets-1-million-on-bitcoins-comeback/",
-     "source": "Bitcoinist",
-     "time": "2026-10-29T11:09:22+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 0,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
@@ -149,21 +149,21 @@
      "source": "Cointelegraph",
      "time": "2026-10-29T04:39:49+00:00",
      "s": 1
-    },
-    {
-     "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
-     "link": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
-     "source": "Decrypt",
-     "time": "2026-10-27T16:53:13+00:00",
-     "s": 0
     }
    ]
   },
   "SOL": {
-   "pos": 1,
+   "pos": 2,
    "neg": 0,
-   "count": 6,
+   "count": 7,
    "items": [
+    {
+     "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+     "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+     "source": "CoinDesk",
+     "time": "2026-10-29T16:35:43+00:00",
+     "s": 1
+    },
     {
      "title": "Polygon Takes Its Payments Toolkit to Solana, Targets Stablecoin Rails",
      "link": "https://bitcoinist.com/polygon-takes-its-payments-toolkit-to-solana-targets-stablecoin-rails/",
@@ -283,10 +283,24 @@
    "items": []
   },
   "HYPE": {
-   "pos": 3,
+   "pos": 5,
    "neg": 0,
-   "count": 4,
+   "count": 6,
    "items": [
+    {
+     "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
+     "link": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-29T17:12:03+00:00",
+     "s": 1
+    },
+    {
+     "title": "Stanley Druckenmiller's first X post backs Hyperliquid venture after $23 million indirect investment",
+     "link": "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment",
+     "source": "CoinDesk",
+     "time": "2026-10-29T17:04:19+00:00",
+     "s": 1
+    },
     {
      "title": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
      "link": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us",
