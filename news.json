@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T11:28:42.013124+00:00",
+ "updated": "2026-10-29T12:11:31.344604+00:00",
  "window_hours": 48,
- "headlines": 127,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 4,
-   "neg": 5,
-   "count": 33,
+   "pos": 3,
+   "neg": 6,
+   "count": 34,
    "items": [
+    {
+     "title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
+     "link": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
+     "source": "CoinDesk",
+     "time": "2026-10-29T12:04:50+00:00",
+     "s": 0
+    },
+    {
+     "title": "China’s tech crash erased $480 billion. Bitcoin rose 27% over the same dates",
+     "link": "https://cryptoslate.com/chinas-near-40-tech-rout-contrasts-with-bitcoins-27-gain-over-the-same-dates/",
+     "source": "CryptoSlate",
+     "time": "2026-10-29T12:00:16+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
+     "link": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-29T12:00:00+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
      "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
@@ -39,11 +60,11 @@
      "s": -1
     },
     {
-     "title": "Live updates: Bitcoin clings to $80,000 as Strategy’s cushion thins before earnings",
+     "title": "Live updates: Bitcoin clings to $80,000 as Samsung and Google tumble after earnings",
      "link": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
      "source": "CoinDesk",
      "time": "2026-10-29T10:41:39+00:00",
-     "s": 0
+     "s": -1
     },
     {
      "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
@@ -100,27 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-10-29T05:54:39+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
-     "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
-     "source": "CoinDesk",
-     "time": "2026-10-29T03:32:43+00:00",
-     "s": 0
-    },
-    {
-     "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
-     "link": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-29T01:12:01+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-     "link": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
-     "source": "Decrypt",
-     "time": "2026-10-28T21:46:02+00:00",
-     "s": 0
     }
    ]
   },
@@ -180,9 +180,9 @@
    "items": []
   },
   "XRP": {
-   "pos": 6,
+   "pos": 5,
    "neg": 0,
-   "count": 11,
+   "count": 10,
    "items": [
     {
      "title": "Ripple Eyes $900M Revenue as RLUSD Expands",
@@ -246,13 +246,6 @@
      "source": "Decrypt",
      "time": "2026-10-27T20:16:02+00:00",
      "s": 0
-    },
-    {
-     "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
-     "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-27T19:54:05+00:00",
-     "s": 1
     },
     {
      "title": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",
