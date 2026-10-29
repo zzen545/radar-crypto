@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T04:33:20.372859+00:00",
+ "updated": "2026-10-29T05:31:41.981195+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -125,10 +125,24 @@
    ]
   },
   "ETH": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 2,
+   "count": 4,
    "items": [
+    {
+     "title": "Ethereum clients patch flaw that could let attackers redirect ETH rewards",
+     "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+     "source": "CoinDesk",
+     "time": "2026-10-29T05:30:34+00:00",
+     "s": 0
+    },
+    {
+     "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+     "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-29T04:39:49+00:00",
+     "s": 1
+    },
     {
      "title": "Ethereum client security fixes leave binary users with a separate Java check",
      "link": "https://cryptoslate.com/ethereum-client-security-fixes-leave-binary-users-with-a-separate-java-check/",
