@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T05:31:41.981195+00:00",
+ "updated": "2026-10-29T06:31:13.524536+00:00",
  "window_hours": 48,
- "headlines": 127,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
-   "neg": 4,
-   "count": 29,
+   "pos": 6,
+   "neg": 5,
+   "count": 28,
    "items": [
+    {
+     "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+     "link": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+     "source": "CoinDesk",
+     "time": "2026-10-29T05:54:39+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
      "link": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
@@ -95,13 +102,6 @@
      "s": -1
     },
     {
-     "title": "Bitcoin option buyers face a Fed-week premium that can fade after the decision",
-     "link": "https://cryptoslate.com/bitcoin-option-buyers-face-a-fed-week-premium-that-can-fade-after-the-decision/",
-     "source": "CryptoSlate",
-     "time": "2026-10-28T14:40:38+00:00",
-     "s": 0
-    },
-    {
      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
      "link": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -130,7 +130,7 @@
    "count": 4,
    "items": [
     {
-     "title": "Ethereum clients patch flaw that could let attackers redirect ETH rewards",
+     "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
      "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
      "source": "CoinDesk",
      "time": "2026-10-29T05:30:34+00:00",
@@ -180,10 +180,17 @@
    "items": []
   },
   "XRP": {
-   "pos": 5,
+   "pos": 6,
    "neg": 0,
-   "count": 10,
+   "count": 11,
    "items": [
+    {
+     "title": "Ripple’s RLUSD stablecoin gains Coinbase access as Moody’s awards investment-grade rating",
+     "link": "https://cryptoslate.com/ripples-rlusd-stablecoin-gains-coinbase-access-as-moodys-awards-investment-grade-rating/",
+     "source": "CryptoSlate",
+     "time": "2026-10-29T05:30:07+00:00",
+     "s": 1
+    },
     {
      "title": "Ripple is heading for its best year ever while XRP faces its worst since 2022",
      "link": "https://cryptoslate.com/ripple-is-heading-for-its-best-year-ever-while-xrp-faces-its-worst-since-2022/",
