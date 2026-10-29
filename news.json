@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T08:40:11.147060+00:00",
+ "updated": "2026-10-29T09:37:20.357508+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 5,
-   "count": 33,
+   "neg": 3,
+   "count": 31,
    "items": [
     {
      "title": "Fed’s divided rate decision threatens Bitcoin’s comeback as December hike looms",
@@ -173,10 +173,17 @@
    "items": []
   },
   "XRP": {
-   "pos": 6,
+   "pos": 7,
    "neg": 0,
-   "count": 11,
+   "count": 12,
    "items": [
+    {
+     "title": "Ripple Eyes $900M Revenue as RLUSD Expands",
+     "link": "https://bitcoinist.com/ripple-eyes-900m-revenue-as-rlusd-expands/",
+     "source": "Bitcoinist",
+     "time": "2026-10-29T08:40:32+00:00",
+     "s": 1
+    },
     {
      "title": "Ripple’s RLUSD stablecoin gains Coinbase access as Moody’s awards investment-grade rating",
      "link": "https://cryptoslate.com/ripples-rlusd-stablecoin-gains-coinbase-access-as-moodys-awards-investment-grade-rating/",
