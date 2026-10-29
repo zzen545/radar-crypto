@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T20:29:04.175807+00:00",
+ "updated": "2026-10-29T21:13:26.984161+00:00",
  "window_hours": 48,
  "headlines": 121,
  "feeds_ok": [
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 4,
-   "neg": 4,
-   "count": 29,
+   "neg": 3,
+   "count": 27,
    "items": [
     {
      "title": "$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
@@ -102,13 +102,6 @@
      "s": 0
     },
     {
-     "title": "China’s tech crash erased $480 billion. Bitcoin rose 27% over the same dates",
-     "link": "https://cryptoslate.com/chinas-near-40-tech-rout-contrasts-with-bitcoins-27-gain-over-the-same-dates/",
-     "source": "CryptoSlate",
-     "time": "2026-10-29T12:00:16+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
      "link": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -121,6 +114,13 @@
      "source": "CoinDesk",
      "time": "2026-10-29T11:11:48+00:00",
      "s": -1
+    },
+    {
+     "title": "Grant Cardone Bets $1 Million on Bitcoin’s Comeback",
+     "link": "https://bitcoinist.com/grant-cardone-bets-1-million-on-bitcoins-comeback/",
+     "source": "Bitcoinist",
+     "time": "2026-10-29T11:09:22+00:00",
+     "s": 0
     }
    ]
   },
