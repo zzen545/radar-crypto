@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T08:40:38.128680+00:00",
+ "updated": "2026-10-30T09:38:15.559076+00:00",
  "window_hours": 48,
- "headlines": 123,
+ "headlines": 125,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 5,
-   "neg": 5,
+   "neg": 6,
    "count": 22,
    "items": [
+    {
+     "title": "Bitcoin Price Falls Below $80K After $6.3B Binance Hack",
+     "link": "https://bitcoinist.com/bitcoin-price-falls-below-80k-after-6-3b-binance-hack/",
+     "source": "Bitcoinist",
+     "time": "2026-10-30T09:09:11+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
@@ -114,13 +121,6 @@
      "source": "Decrypt",
      "time": "2026-10-29T12:30:38+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
-     "link": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-29T12:00:00+00:00",
-     "s": 0
     }
    ]
   },
@@ -230,9 +230,9 @@
    ]
   },
   "XRP": {
-   "pos": 3,
+   "pos": 2,
    "neg": 3,
-   "count": 9,
+   "count": 7,
    "items": [
     {
      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
@@ -263,13 +263,6 @@
      "s": -1
     },
     {
-     "title": "Ripple Eyes $900M Revenue as RLUSD Expands",
-     "link": "https://bitcoinist.com/ripple-eyes-900m-revenue-as-rlusd-expands/",
-     "source": "Bitcoinist",
-     "time": "2026-10-29T08:40:32+00:00",
-     "s": 1
-    },
-    {
      "title": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
      "link": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
      "source": "The Block",
@@ -289,13 +282,6 @@
      "source": "Decrypt",
      "time": "2026-10-28T12:16:30+00:00",
      "s": 1
-    },
-    {
-     "title": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
-     "link": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
-     "source": "The Block",
-     "time": "2026-10-28T09:15:20+00:00",
-     "s": 0
     }
    ]
   },
