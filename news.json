@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T13:27:07.856416+00:00",
+ "updated": "2026-10-30T14:22:48.907233+00:00",
  "window_hours": 48,
  "headlines": 124,
  "feeds_ok": [
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 5,
-   "neg": 9,
-   "count": 24,
+   "neg": 10,
+   "count": 25,
    "items": [
+    {
+     "title": "Bitcoin fell after the Fed’s pause, but blaming interest rates misses the Binance shock",
+     "link": "https://cryptoslate.com/bitcoin-fell-after-the-feds-pause-but-blaming-interest-rates-misses-the-binance-shock/",
+     "source": "CryptoSlate",
+     "time": "2026-10-30T14:00:23+00:00",
+     "s": -1
+    },
+    {
+     "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
+     "link": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-30T13:30:00+00:00",
+     "s": 0
+    },
     {
      "title": "Here's how big bitcoin traders responded after the Binance hack hit",
      "link": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
@@ -107,28 +121,21 @@
      "source": "Decrypt",
      "time": "2026-10-29T17:15:11+00:00",
      "s": 0
-    },
-    {
-     "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
-     "link": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
-     "source": "Decrypt",
-     "time": "2026-10-29T16:32:47+00:00",
-     "s": 1
-    },
-    {
-     "title": "Utexo Bets on Privacy to Bring USDT Back to Bitcoin",
-     "link": "https://bitcoinist.com/utexo-bets-on-privacy-to-bring-usdt-back-to-bitcoin/",
-     "source": "Bitcoinist",
-     "time": "2026-10-29T16:15:05+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 0,
    "neg": 2,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
+     "link": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
+     "source": "Decrypt",
+     "time": "2026-10-30T14:17:34+00:00",
+     "s": 0
+    },
     {
      "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
      "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
@@ -160,17 +167,10 @@
    ]
   },
   "SOL": {
-   "pos": 2,
+   "pos": 1,
    "neg": 0,
-   "count": 5,
+   "count": 3,
    "items": [
-    {
-     "title": "Hackers drain 9,400 SOL from bot wallets, and a copied key is blamed",
-     "link": "https://cryptoslate.com/hackers-drain-9400-sol-from-bot-wallets-and-a-copied-key-is-blamed/",
-     "source": "CryptoSlate",
-     "time": "2026-10-30T03:50:49+00:00",
-     "s": 0
-    },
     {
      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
      "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
@@ -184,13 +184,6 @@
      "source": "Decrypt",
      "time": "2026-10-29T13:01:02+00:00",
      "s": 0
-    },
-    {
-     "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
-     "link": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-29T13:00:00+00:00",
-     "s": 1
     },
     {
      "title": "Polygon adds Solana to payment stack linking bank accounts, crypto and payouts",
@@ -346,8 +339,16 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
+     "link": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-30T13:30:00+00:00",
+     "s": 0
+    }
+   ]
   }
  }
 }
