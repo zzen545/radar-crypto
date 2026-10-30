@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T01:46:42.181987+00:00",
+ "updated": "2026-10-30T02:34:24.406524+00:00",
  "window_hours": 48,
- "headlines": 123,
+ "headlines": 124,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 4,
-   "neg": 3,
-   "count": 24,
+   "neg": 4,
+   "count": 25,
    "items": [
+    {
+     "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
+     "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
+     "source": "The Block",
+     "time": "2026-10-30T02:22:31+00:00",
+     "s": -1
+    },
     {
      "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
      "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -114,13 +121,6 @@
      "source": "Bitcoinist",
      "time": "2026-10-29T11:09:22+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
-     "link": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-29T10:46:43+00:00",
-     "s": -1
     }
    ]
   },
@@ -203,9 +203,16 @@
   },
   "BNB": {
    "pos": 0,
-   "neg": 1,
-   "count": 1,
+   "neg": 2,
+   "count": 2,
    "items": [
+    {
+     "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
+     "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
+     "source": "The Block",
+     "time": "2026-10-30T02:22:31+00:00",
+     "s": -1
+    },
     {
      "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
      "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
