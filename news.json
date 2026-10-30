@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T23:58:42.316431+00:00",
+ "updated": "2026-10-30T00:40:00.635273+00:00",
  "window_hours": 48,
  "headlines": 123,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 4,
    "neg": 3,
-   "count": 25,
+   "count": 24,
    "items": [
     {
      "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
