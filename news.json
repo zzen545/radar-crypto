@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T00:40:00.635273+00:00",
+ "updated": "2026-10-30T01:46:42.181987+00:00",
  "window_hours": 48,
  "headlines": 123,
  "feeds_ok": [
@@ -18,7 +18,7 @@
    "count": 24,
    "items": [
     {
-     "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
+     "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
      "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-10-29T23:24:21+00:00",
@@ -127,8 +127,15 @@
   "ETH": {
    "pos": 1,
    "neg": 0,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Silicon Valley shifts AI funding to crypto using an Ethereum ICO blueprint",
+     "link": "https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/",
+     "source": "CryptoSlate",
+     "time": "2026-10-30T00:40:53+00:00",
+     "s": 0
+    },
     {
      "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
      "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -200,7 +207,7 @@
    "count": 1,
    "items": [
     {
-     "title": "Binance hack rattles crypto markets as BNB falls 7%, Bitcoin slides",
+     "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
      "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-10-29T23:24:21+00:00",
