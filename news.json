@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T17:08:44.300894+00:00",
+ "updated": "2026-10-30T18:00:50.430500+00:00",
  "window_hours": 48,
  "headlines": 118,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 5,
    "neg": 12,
-   "count": 23,
+   "count": 24,
    "items": [
+    {
+     "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+     "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-30T17:09:31+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
      "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-10-30T04:50:42+00:00",
      "s": 0
-    },
-    {
-     "title": "Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower",
-     "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
-     "source": "CoinDesk",
-     "time": "2026-10-30T04:00:43+00:00",
-     "s": -1
     }
    ]
   },
