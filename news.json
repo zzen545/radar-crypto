@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T18:00:50.430500+00:00",
+ "updated": "2026-10-30T19:14:55.170486+00:00",
  "window_hours": 48,
- "headlines": 118,
+ "headlines": 119,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 5,
-   "neg": 12,
+   "neg": 13,
    "count": 24,
    "items": [
+    {
+     "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
+     "link": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
+     "source": "Decrypt",
+     "time": "2026-10-30T18:45:03+00:00",
+     "s": -1
+    },
     {
      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
      "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -95,7 +102,7 @@
      "s": -1
     },
     {
-     "title": "Live updates: Bitcoin falls to $77,000 as Binance exploit combines with tech woes",
+     "title": "Live updates: Bitcoin falls below $77,000 as Binance exploit combines with tech woes",
      "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
      "source": "CoinDesk",
      "time": "2026-10-30T08:36:52+00:00",
@@ -114,13 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-30T05:53:07+00:00",
      "s": 1
-    },
-    {
-     "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
-     "link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
-     "source": "CoinDesk",
-     "time": "2026-10-30T04:50:42+00:00",
-     "s": 0
     }
    ]
   },
