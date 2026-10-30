@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T15:17:56.825053+00:00",
+ "updated": "2026-10-30T16:12:59.551800+00:00",
  "window_hours": 48,
- "headlines": 121,
+ "headlines": 119,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 6,
    "neg": 11,
-   "count": 26,
+   "count": 25,
    "items": [
     {
      "title": "Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say",
@@ -225,7 +225,7 @@
   "XRP": {
    "pos": 0,
    "neg": 1,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "XRP Ledger Proposes 4 Fixes for Restricted Token Rules",
@@ -246,13 +246,6 @@
      "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
      "source": "CoinDesk",
      "time": "2026-10-30T05:45:27+00:00",
-     "s": 0
-    },
-    {
-     "title": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
-     "link": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
-     "source": "The Block",
-     "time": "2026-10-28T15:56:36+00:00",
      "s": 0
     }
    ]
