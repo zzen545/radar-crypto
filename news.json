@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T14:22:48.907233+00:00",
+ "updated": "2026-10-30T15:17:56.825053+00:00",
  "window_hours": 48,
- "headlines": 124,
+ "headlines": 121,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 5,
-   "neg": 10,
-   "count": 25,
+   "pos": 6,
+   "neg": 11,
+   "count": 26,
    "items": [
+    {
+     "title": "Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say",
+     "link": "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214",
+     "source": "The Block",
+     "time": "2026-10-30T14:30:49+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin fell after the Fed’s pause, but blaming interest rates misses the Binance shock",
      "link": "https://cryptoslate.com/bitcoin-fell-after-the-feds-pause-but-blaming-interest-rates-misses-the-binance-shock/",
@@ -74,6 +81,13 @@
      "s": -1
     },
     {
+     "title": "Live updates: Bitcoin falls to $77,000 as Binance exploit combines with tech woes",
+     "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
+     "source": "CoinDesk",
+     "time": "2026-10-30T08:36:52+00:00",
+     "s": -1
+    },
+    {
      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
      "source": "CoinDesk",
@@ -107,28 +121,21 @@
      "source": "The Block",
      "time": "2026-10-30T02:22:31+00:00",
      "s": -1
-    },
-    {
-     "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
-     "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-29T23:24:21+00:00",
-     "s": -1
-    },
-    {
-     "title": "$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
-     "link": "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means",
-     "source": "Decrypt",
-     "time": "2026-10-29T17:15:11+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 0,
-   "neg": 2,
-   "count": 5,
+   "neg": 3,
+   "count": 6,
    "items": [
+    {
+     "title": "Binance Hack Shows How One Ethereum Permission Drained $2.5 Billion",
+     "link": "https://bitcoinist.com/binance-hack-shows-how-one-ethereum-permission-drained-2-5-billion/",
+     "source": "Bitcoinist",
+     "time": "2026-10-30T14:48:19+00:00",
+     "s": -1
+    },
     {
      "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
      "link": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
@@ -217,8 +224,8 @@
   },
   "XRP": {
    "pos": 0,
-   "neg": 2,
-   "count": 5,
+   "neg": 1,
+   "count": 4,
    "items": [
     {
      "title": "XRP Ledger Proposes 4 Fixes for Restricted Token Rules",
@@ -242,13 +249,6 @@
      "s": 0
     },
     {
-     "title": "Binance hack began with a $296 million XRP drain after 36-hour preparation",
-     "link": "https://cryptoslate.com/binance-hack-began-with-a-296-million-xrp-drain-after-36-hour-preparation/",
-     "source": "CryptoSlate",
-     "time": "2026-10-30T05:40:52+00:00",
-     "s": -1
-    },
-    {
      "title": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
      "link": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
      "source": "The Block",
@@ -270,9 +270,9 @@
    "items": []
   },
   "HYPE": {
-   "pos": 5,
+   "pos": 4,
    "neg": 1,
-   "count": 6,
+   "count": 5,
    "items": [
     {
      "title": "Morning Minute: Binance’s $6.4B Hack Overshadows Hyperliquid’s Biggest Day",
@@ -307,13 +307,6 @@
      "link": "https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132",
      "source": "The Block",
      "time": "2026-10-29T14:44:53+00:00",
-     "s": 1
-    },
-    {
-     "title": "Avail launches ShieldTX privacy tool targeting copy-trading bots on Hyperliquid",
-     "link": "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977",
-     "source": "The Block",
-     "time": "2026-10-28T15:00:02+00:00",
      "s": 1
     }
    ]
