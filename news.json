@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T09:38:15.559076+00:00",
+ "updated": "2026-10-30T10:35:06.156120+00:00",
  "window_hours": 48,
  "headlines": 125,
  "feeds_ok": [
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 5,
-   "neg": 6,
-   "count": 22,
+   "neg": 5,
+   "count": 21,
    "items": [
     {
      "title": "Bitcoin Price Falls Below $80K After $6.3B Binance Hack",
@@ -46,7 +46,7 @@
      "s": 0
     },
     {
-     "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+     "title": "Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower",
      "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
      "source": "CoinDesk",
      "time": "2026-10-30T04:00:43+00:00",
@@ -126,21 +126,14 @@
   },
   "ETH": {
    "pos": 0,
-   "neg": 2,
-   "count": 4,
+   "neg": 1,
+   "count": 3,
    "items": [
     {
      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
      "source": "CoinDesk",
      "time": "2026-10-30T06:22:00+00:00",
-     "s": -1
-    },
-    {
-     "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
-     "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
-     "source": "CoinDesk",
-     "time": "2026-10-30T04:00:43+00:00",
      "s": -1
     },
     {
@@ -162,7 +155,7 @@
   "SOL": {
    "pos": 2,
    "neg": 0,
-   "count": 6,
+   "count": 5,
    "items": [
     {
      "title": "Hackers drain 9,400 SOL from bot wallets, and a copied key is blamed",
@@ -177,13 +170,6 @@
      "source": "CoinDesk",
      "time": "2026-10-29T16:35:43+00:00",
      "s": 1
-    },
-    {
-     "title": "Polygon Takes Its Payments Toolkit to Solana, Targets Stablecoin Rails",
-     "link": "https://bitcoinist.com/polygon-takes-its-payments-toolkit-to-solana-targets-stablecoin-rails/",
-     "source": "Bitcoinist",
-     "time": "2026-10-29T15:27:53+00:00",
-     "s": 0
     },
     {
      "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
@@ -231,9 +217,16 @@
   },
   "XRP": {
    "pos": 2,
-   "neg": 3,
+   "neg": 2,
    "count": 7,
    "items": [
+    {
+     "title": "XRP Ledger Proposes 4 Fixes for Restricted Token Rules",
+     "link": "https://bitcoinist.com/xrp-ledger-proposes-4-fixes-for-restricted-token-rules/",
+     "source": "Bitcoinist",
+     "time": "2026-10-30T09:42:46+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
@@ -253,13 +246,6 @@
      "link": "https://cryptoslate.com/binance-hack-began-with-a-296-million-xrp-drain-after-36-hour-preparation/",
      "source": "CryptoSlate",
      "time": "2026-10-30T05:40:52+00:00",
-     "s": -1
-    },
-    {
-     "title": "Trump’s crypto firm joins Tether, Circle, and Ripple in $2.6 billion stablecoin freeze as Binance hack outflows near $6 billion",
-     "link": "https://cryptoslate.com/trumps-crypto-firm-joins-tether-circle-and-ripple-in-2-6-billion-stablecoin-freeze-as-binance-hack-outflows-near-6-billion/",
-     "source": "CryptoSlate",
-     "time": "2026-10-29T23:50:05+00:00",
      "s": -1
     },
     {
