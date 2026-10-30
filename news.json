@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T07:47:21.977267+00:00",
+ "updated": "2026-10-30T08:40:38.128680+00:00",
  "window_hours": 48,
  "headlines": 123,
  "feeds_ok": [
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 5,
-   "neg": 6,
-   "count": 25,
+   "neg": 5,
+   "count": 22,
    "items": [
     {
      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
@@ -58,13 +58,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-29T23:24:21+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin whipsaws below $79,000 as Binance hot wallet reportedly drained by Tornado Cash-linked wallet",
-     "link": "https://cryptoslate.com/bitcoin-whipsaws-below-79000-as-binance-hot-wallet-reportedly-drained-by-tornado-cash-linked-wallet/",
-     "source": "CryptoSlate",
-     "time": "2026-10-29T22:45:24+00:00",
-     "s": 0
     },
     {
      "title": "$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
@@ -121,6 +114,13 @@
      "source": "Decrypt",
      "time": "2026-10-29T12:30:38+00:00",
      "s": 1
+    },
+    {
+     "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
+     "link": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-29T12:00:00+00:00",
+     "s": 0
     }
    ]
   },
