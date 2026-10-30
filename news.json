@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T16:12:59.551800+00:00",
+ "updated": "2026-10-30T17:08:44.300894+00:00",
  "window_hours": 48,
- "headlines": 119,
+ "headlines": 118,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
-   "neg": 11,
-   "count": 25,
+   "pos": 5,
+   "neg": 12,
+   "count": 23,
    "items": [
+    {
+     "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+     "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-30T16:06:28+00:00",
+     "s": -1
+    },
     {
      "title": "Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say",
      "link": "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214",
@@ -114,20 +121,13 @@
      "source": "CoinDesk",
      "time": "2026-10-30T04:00:43+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
-     "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
-     "source": "The Block",
-     "time": "2026-10-30T02:22:31+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 0,
    "neg": 3,
-   "count": 6,
+   "count": 5,
    "items": [
     {
      "title": "Binance Hack Shows How One Ethereum Permission Drained $2.5 Billion",
@@ -163,13 +163,6 @@
      "source": "CoinDesk",
      "time": "2026-10-30T06:22:00+00:00",
      "s": -1
-    },
-    {
-     "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
-     "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-29T13:30:00+00:00",
-     "s": 0
     }
    ]
   },
@@ -324,9 +317,16 @@
   },
   "XAU": {
    "pos": 0,
-   "neg": 0,
-   "count": 1,
+   "neg": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+     "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-30T16:06:28+00:00",
+     "s": -1
+    },
     {
      "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
      "link": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
