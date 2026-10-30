@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T03:32:40.599099+00:00",
+ "updated": "2026-10-30T04:33:26.212674+00:00",
  "window_hours": 48,
  "headlines": 123,
  "feeds_ok": [
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 4,
-   "neg": 4,
-   "count": 24,
+   "neg": 5,
+   "count": 23,
    "items": [
+    {
+     "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+     "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+     "source": "CoinDesk",
+     "time": "2026-10-30T04:00:43+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
      "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
@@ -114,21 +121,21 @@
      "source": "CoinDesk",
      "time": "2026-10-29T11:11:48+00:00",
      "s": -1
-    },
-    {
-     "title": "Grant Cardone Bets $1 Million on Bitcoin’s Comeback",
-     "link": "https://bitcoinist.com/grant-cardone-bets-1-million-on-bitcoins-comeback/",
-     "source": "Bitcoinist",
-     "time": "2026-10-29T11:09:22+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
-   "neg": 0,
-   "count": 3,
+   "neg": 1,
+   "count": 4,
    "items": [
+    {
+     "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+     "link": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+     "source": "CoinDesk",
+     "time": "2026-10-30T04:00:43+00:00",
+     "s": -1
+    },
     {
      "title": "Silicon Valley shifts AI funding to crypto using an Ethereum ICO blueprint",
      "link": "https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/",
@@ -155,8 +162,15 @@
   "SOL": {
    "pos": 2,
    "neg": 0,
-   "count": 6,
+   "count": 7,
    "items": [
+    {
+     "title": "Hackers drain 9,400 SOL from bot wallets, and a copied key is blamed",
+     "link": "https://cryptoslate.com/hackers-drain-9400-sol-from-bot-wallets-and-a-copied-key-is-blamed/",
+     "source": "CryptoSlate",
+     "time": "2026-10-30T03:50:49+00:00",
+     "s": 0
+    },
     {
      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
      "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
