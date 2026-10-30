@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T10:35:06.156120+00:00",
+ "updated": "2026-10-30T11:25:14.177330+00:00",
  "window_hours": 48,
- "headlines": 125,
+ "headlines": 124,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 5,
-   "neg": 5,
-   "count": 21,
+   "neg": 6,
+   "count": 22,
    "items": [
+    {
+     "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+     "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+     "source": "CoinDesk",
+     "time": "2026-10-30T11:09:24+00:00",
+     "s": -1
+    },
+    {
+     "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
+     "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-30T10:54:30+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Price Falls Below $80K After $6.3B Binance Hack",
      "link": "https://bitcoinist.com/bitcoin-price-falls-below-80k-after-6-3b-binance-hack/",
@@ -107,41 +121,27 @@
      "source": "CoinDesk",
      "time": "2026-10-29T13:55:42+00:00",
      "s": 0
-    },
-    {
-     "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
-     "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-29T13:30:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
-     "link": "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in",
-     "source": "Decrypt",
-     "time": "2026-10-29T12:30:38+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
    "pos": 0,
-   "neg": 1,
+   "neg": 2,
    "count": 3,
    "items": [
+    {
+     "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+     "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+     "source": "CoinDesk",
+     "time": "2026-10-30T11:09:24+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
      "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
      "source": "CoinDesk",
      "time": "2026-10-30T06:22:00+00:00",
      "s": -1
-    },
-    {
-     "title": "Silicon Valley shifts AI funding to crypto using an Ethereum ICO blueprint",
-     "link": "https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/",
-     "source": "CryptoSlate",
-     "time": "2026-10-30T00:40:53+00:00",
-     "s": 0
     },
     {
      "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
