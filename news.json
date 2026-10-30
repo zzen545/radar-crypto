@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T02:34:24.406524+00:00",
+ "updated": "2026-10-30T03:32:40.599099+00:00",
  "window_hours": 48,
- "headlines": 124,
+ "headlines": 123,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 4,
    "neg": 4,
-   "count": 25,
+   "count": 24,
    "items": [
     {
      "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
@@ -225,7 +225,7 @@
   "XRP": {
    "pos": 3,
    "neg": 1,
-   "count": 7,
+   "count": 6,
    "items": [
     {
      "title": "Trump’s crypto firm joins Tether, Circle, and Ripple in $2.6 billion stablecoin freeze as Binance hack outflows near $6 billion",
@@ -233,13 +233,6 @@
      "source": "CryptoSlate",
      "time": "2026-10-29T23:50:05+00:00",
      "s": -1
-    },
-    {
-     "title": "Crypto investors refuse to sell XRP ETF tokens despite a 25% price crash",
-     "link": "https://cryptoslate.com/crypto-investors-refuse-to-sell-xrp-etf-tokens-despite-a-25-price-crash/",
-     "source": "CryptoSlate",
-     "time": "2026-10-29T18:50:59+00:00",
-     "s": 0
     },
     {
      "title": "Ripple Eyes $900M Revenue as RLUSD Expands",
