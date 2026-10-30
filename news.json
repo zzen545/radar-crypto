@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T20:03:25.664713+00:00",
+ "updated": "2026-10-30T21:03:57.695738+00:00",
  "window_hours": 48,
- "headlines": 118,
+ "headlines": 119,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 5,
    "neg": 13,
-   "count": 25,
+   "count": 26,
    "items": [
+    {
+     "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+     "link": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
+     "source": "Decrypt",
+     "time": "2026-10-30T20:06:03+00:00",
+     "s": 0
+    },
     {
      "title": "Binance gives 48-hour withdrawal target while Bitcoin deposits remain open",
      "link": "https://cryptoslate.com/binance-gives-48-hour-withdrawal-target-while-bitcoin-deposits-remain-open/",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-10-30T08:36:52+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-     "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-     "source": "CoinDesk",
-     "time": "2026-10-30T06:22:00+00:00",
-     "s": -1
     }
    ]
   },
@@ -196,9 +196,16 @@
   },
   "BNB": {
    "pos": 0,
-   "neg": 2,
-   "count": 2,
+   "neg": 3,
+   "count": 3,
    "items": [
+    {
+     "title": "Binance Hack Rattles Crypto Markets – BNB Drops 8%",
+     "link": "https://bitcoinist.com/binance-hack-rattles-crypto-markets-bnb-drops-8/",
+     "source": "Bitcoinist",
+     "time": "2026-10-30T20:29:24+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
      "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
