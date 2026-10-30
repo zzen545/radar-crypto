@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T06:31:09.582394+00:00",
+ "updated": "2026-10-30T07:47:21.977267+00:00",
  "window_hours": 48,
  "headlines": 123,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 5,
    "neg": 6,
-   "count": 26,
+   "count": 25,
    "items": [
     {
      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
