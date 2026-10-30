@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T21:59:12.188402+00:00",
+ "updated": "2026-10-30T22:32:05.614339+00:00",
  "window_hours": 48,
  "headlines": 120,
  "feeds_ok": [
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 5,
+   "pos": 4,
    "neg": 12,
-   "count": 24,
+   "count": 23,
    "items": [
     {
      "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
