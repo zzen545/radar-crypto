@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T12:06:28.177120+00:00",
+ "updated": "2026-10-30T13:27:07.856416+00:00",
  "window_hours": 48,
- "headlines": 123,
+ "headlines": 124,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 5,
    "neg": 9,
-   "count": 25,
+   "count": 24,
    "items": [
     {
      "title": "Here's how big bitcoin traders responded after the Binance hack hit",
@@ -223,9 +223,9 @@
    ]
   },
   "XRP": {
-   "pos": 2,
+   "pos": 0,
    "neg": 2,
-   "count": 7,
+   "count": 5,
    "items": [
     {
      "title": "XRP Ledger Proposes 4 Fixes for Restricted Token Rules",
@@ -261,20 +261,6 @@
      "source": "The Block",
      "time": "2026-10-28T15:56:36+00:00",
      "s": 0
-    },
-    {
-     "title": "Ripple expects $900 million annualized product revenue run rate as institutional business expands",
-     "link": "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920",
-     "source": "The Block",
-     "time": "2026-10-28T13:00:00+00:00",
-     "s": 1
-    },
-    {
-     "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
-     "link": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval",
-     "source": "Decrypt",
-     "time": "2026-10-28T12:16:30+00:00",
-     "s": 1
     }
    ]
   },
@@ -292,9 +278,16 @@
   },
   "HYPE": {
    "pos": 5,
-   "neg": 0,
-   "count": 5,
+   "neg": 1,
+   "count": 6,
    "items": [
+    {
+     "title": "Morning Minute: Binance’s $6.4B Hack Overshadows Hyperliquid’s Biggest Day",
+     "link": "https://decrypt.co/382225/morning-minute-binances-6-4b-hack-overshadows-hyperliquids-biggest-day",
+     "source": "Decrypt",
+     "time": "2026-10-30T12:31:30+00:00",
+     "s": -1
+    },
     {
      "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
      "link": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
