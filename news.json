@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T21:03:57.695738+00:00",
+ "updated": "2026-10-30T21:59:12.188402+00:00",
  "window_hours": 48,
- "headlines": 119,
+ "headlines": 120,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 5,
-   "neg": 13,
-   "count": 26,
+   "neg": 12,
+   "count": 24,
    "items": [
     {
      "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
@@ -81,13 +81,6 @@
      "s": -1
     },
     {
-     "title": "Bitcoin mining difficulty hits 148 trillion as revenues fall to three-month lows",
-     "link": "https://cryptoslate.com/bitcoin-mining-difficulty-hits-148-trillion-as-revenues-fall-to-three-month-lows/",
-     "source": "CryptoSlate",
-     "time": "2026-10-30T11:50:29+00:00",
-     "s": -1
-    },
-    {
      "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
      "link": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -120,6 +113,13 @@
      "link": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
      "source": "CoinDesk",
      "time": "2026-10-30T08:36:52+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+     "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+     "source": "CoinDesk",
+     "time": "2026-10-30T06:22:00+00:00",
      "s": -1
     }
    ]
