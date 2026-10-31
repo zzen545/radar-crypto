@@ -1,28 +1,41 @@
 {
- "updated": "2026-10-31T21:28:44.411360+00:00",
+ "updated": "2026-10-31T22:01:35.374855+00:00",
  "window_hours": 48,
- "headlines": 94,
+ "headlines": 100,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
    "pos": 3,
    "neg": 11,
-   "count": 24,
+   "count": 27,
    "items": [
+    {
+     "title": "Bitcoin White Paper 18th Anniversary Highlights Concerns Over Fiat Money",
+     "link": "https://bitcoinist.com/bitcoin-white-paper-18th-anniversary-highlights-concerns-over-fiat-money/",
+     "source": "Bitcoinist",
+     "time": "2026-10-31T20:11:09+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
      "link": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
      "source": "CoinDesk",
      "time": "2026-10-31T18:00:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin ETF Outflows Hit $643M, but BlackRock Bucks Trend",
+     "link": "https://bitcoinist.com/bitcoin-etf-outflows-hit-643m-but-blackrock-bucks-trend/",
+     "source": "Bitcoinist",
+     "time": "2026-10-31T17:33:59+00:00",
      "s": 0
     },
     {
@@ -58,6 +71,13 @@
      "link": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
      "source": "CoinDesk",
      "time": "2026-10-31T14:00:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin White Paper Turns 18, Putting Its Long-Term Security Model In Focus",
+     "link": "https://bitcoinist.com/bitcoin-white-paper-turns-18-putting-its-long-term-security-model-in-focus/",
+     "source": "Bitcoinist",
+     "time": "2026-10-31T13:44:39+00:00",
      "s": 0
     },
     {
@@ -100,27 +120,6 @@
      "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-10-30T17:09:31+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
-     "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-30T16:06:28+00:00",
-     "s": -1
-    },
-    {
-     "title": "Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say",
-     "link": "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214",
-     "source": "The Block",
-     "time": "2026-10-30T14:30:49+00:00",
-     "s": 1
-    },
-    {
-     "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
-     "link": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-30T13:30:00+00:00",
      "s": 0
     }
    ]
@@ -168,9 +167,16 @@
   },
   "BNB": {
    "pos": 0,
-   "neg": 2,
-   "count": 2,
+   "neg": 3,
+   "count": 3,
    "items": [
+    {
+     "title": "Binance Hack Rattles Crypto Markets – BNB Drops 8%",
+     "link": "https://bitcoinist.com/binance-hack-rattles-crypto-markets-bnb-drops-8/",
+     "source": "Bitcoinist",
+     "time": "2026-10-30T20:29:24+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
      "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
