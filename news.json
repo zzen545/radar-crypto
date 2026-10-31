@@ -1,21 +1,22 @@
 {
- "updated": "2026-10-31T14:58:18.394648+00:00",
+ "updated": "2026-10-31T15:27:05.502953+00:00",
  "window_hours": 48,
- "headlines": 112,
+ "headlines": 103,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
-  "CryptoSlate",
   "The Block",
   "Bitcoinist"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "CryptoSlate": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+ },
  "coins": {
   "BTC": {
-   "pos": 4,
+   "pos": 3,
    "neg": 12,
-   "count": 27,
+   "count": 25,
    "items": [
     {
      "title": "Bitcoin turns 18: Has the original rebel grown up?",
@@ -23,13 +24,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-31T14:27:52+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin ETFs lose $643 million in a day, wiping out the week’s inflows",
-     "link": "https://cryptoslate.com/bitcoin-etfs-643-million-outflows-weekly-reversal/",
-     "source": "CryptoSlate",
-     "time": "2026-10-31T14:00:07+00:00",
-     "s": 1
     },
     {
      "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
@@ -64,13 +58,6 @@
      "link": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
      "source": "Decrypt",
      "time": "2026-10-30T20:06:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "Binance gives 48-hour withdrawal target while Bitcoin deposits remain open",
-     "link": "https://cryptoslate.com/binance-gives-48-hour-withdrawal-target-while-bitcoin-deposits-remain-open/",
-     "source": "CryptoSlate",
-     "time": "2026-10-30T19:50:36+00:00",
      "s": 0
     },
     {
@@ -121,6 +108,20 @@
      "source": "Cointelegraph",
      "time": "2026-10-30T11:29:23+00:00",
      "s": -1
+    },
+    {
+     "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+     "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+     "source": "CoinDesk",
+     "time": "2026-10-30T11:09:24+00:00",
+     "s": -1
+    },
+    {
+     "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
+     "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-30T10:54:30+00:00",
+     "s": 0
     }
    ]
   },
@@ -202,23 +203,9 @@
   },
   "XRP": {
    "pos": 0,
-   "neg": 2,
-   "count": 5,
+   "neg": 1,
+   "count": 3,
    "items": [
-    {
-     "title": "Why Ripple’s $16 trillion payment volume isn’t boosting XRP",
-     "link": "https://cryptoslate.com/ripple-is-winning-everywhere-so-why-isnt-xrp/",
-     "source": "CryptoSlate",
-     "time": "2026-10-31T11:20:56+00:00",
-     "s": 0
-    },
-    {
-     "title": "Maple locks $280M in XRP collateral and upcoming maturity dates threaten liquidations",
-     "link": "https://cryptoslate.com/maple-locks-280m-in-xrp-collateral-and-upcoming-maturity-dates-threaten-liquidations/",
-     "source": "CryptoSlate",
-     "time": "2026-10-31T00:10:43+00:00",
-     "s": -1
-    },
     {
      "title": "XRP Ledger Proposes 4 Fixes for Restricted Token Rules",
      "link": "https://bitcoinist.com/xrp-ledger-proposes-4-fixes-for-restricted-token-rules/",
