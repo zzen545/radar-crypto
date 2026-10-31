@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T15:27:05.502953+00:00",
+ "updated": "2026-10-31T15:59:14.787730+00:00",
  "window_hours": 48,
  "headlines": 103,
  "feeds_ok": [
@@ -10,14 +10,21 @@
   "Bitcoinist"
  ],
  "feeds_failed": {
-  "CryptoSlate": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+  "CryptoSlate": "The read operation timed out"
  },
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 12,
-   "count": 25,
+   "neg": 13,
+   "count": 26,
    "items": [
+    {
+     "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+     "link": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-31T15:26:46+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin turns 18: Has the original rebel grown up?",
      "link": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -115,13 +122,6 @@
      "source": "CoinDesk",
      "time": "2026-10-30T11:09:24+00:00",
      "s": -1
-    },
-    {
-     "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
-     "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-30T10:54:30+00:00",
-     "s": 0
     }
    ]
   },
