@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T10:58:06.070155+00:00",
+ "updated": "2026-10-31T11:26:57.112230+00:00",
  "window_hours": 48,
- "headlines": 119,
+ "headlines": 117,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -225,8 +225,15 @@
   "XRP": {
    "pos": 0,
    "neg": 2,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "Why Ripple’s $16 trillion payment volume isn’t boosting XRP",
+     "link": "https://cryptoslate.com/ripple-is-winning-everywhere-so-why-isnt-xrp/",
+     "source": "CryptoSlate",
+     "time": "2026-10-31T11:20:56+00:00",
+     "s": 0
+    },
     {
      "title": "Maple locks $280M in XRP collateral and upcoming maturity dates threaten liquidations",
      "link": "https://cryptoslate.com/maple-locks-280m-in-xrp-collateral-and-upcoming-maturity-dates-threaten-liquidations/",
