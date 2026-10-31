@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T13:36:23.120709+00:00",
+ "updated": "2026-10-31T14:25:17.504481+00:00",
  "window_hours": 48,
  "headlines": 114,
  "feeds_ok": [
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 3,
+   "pos": 4,
    "neg": 12,
-   "count": 24,
+   "count": 26,
    "items": [
+    {
+     "title": "Bitcoin ETFs lose $643 million in a day, wiping out the week’s inflows",
+     "link": "https://cryptoslate.com/bitcoin-etfs-643-million-outflows-weekly-reversal/",
+     "source": "CryptoSlate",
+     "time": "2026-10-31T14:00:07+00:00",
+     "s": 1
+    },
+    {
+     "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
+     "link": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
+     "source": "CoinDesk",
+     "time": "2026-10-31T14:00:00+00:00",
+     "s": 0
+    },
     {
      "title": "18 years in, what has Bitcoin truly done?",
      "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
@@ -106,20 +120,6 @@
      "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
      "source": "CoinDesk",
      "time": "2026-10-30T11:09:24+00:00",
-     "s": -1
-    },
-    {
-     "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
-     "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-30T10:54:30+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Price Falls Below $80K After $6.3B Binance Hack",
-     "link": "https://bitcoinist.com/bitcoin-price-falls-below-80k-after-6-3b-binance-hack/",
-     "source": "Bitcoinist",
-     "time": "2026-10-30T09:09:11+00:00",
      "s": -1
     }
    ]
