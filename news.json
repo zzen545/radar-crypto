@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T23:57:26.104167+00:00",
+ "updated": "2026-10-31T00:40:33.694831+00:00",
  "window_hours": 48,
  "headlines": 120,
  "feeds_ok": [
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 4,
-   "neg": 12,
-   "count": 23,
+   "neg": 11,
+   "count": 22,
    "items": [
     {
      "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
@@ -58,13 +58,6 @@
      "source": "The Block",
      "time": "2026-10-30T14:30:49+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin fell after the Fed’s pause, but blaming interest rates misses the Binance shock",
-     "link": "https://cryptoslate.com/bitcoin-fell-after-the-feds-pause-but-blaming-interest-rates-misses-the-binance-shock/",
-     "source": "CryptoSlate",
-     "time": "2026-10-30T14:00:23+00:00",
-     "s": -1
     },
     {
      "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
@@ -121,6 +114,13 @@
      "source": "CoinDesk",
      "time": "2026-10-30T06:22:00+00:00",
      "s": -1
+    },
+    {
+     "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
+     "link": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-30T05:53:07+00:00",
+     "s": 1
     }
    ]
   },
@@ -224,9 +224,16 @@
   },
   "XRP": {
    "pos": 0,
-   "neg": 1,
-   "count": 3,
+   "neg": 2,
+   "count": 4,
    "items": [
+    {
+     "title": "Maple locks $280M in XRP collateral and upcoming maturity dates threaten liquidations",
+     "link": "https://cryptoslate.com/maple-locks-280m-in-xrp-collateral-and-upcoming-maturity-dates-threaten-liquidations/",
+     "source": "CryptoSlate",
+     "time": "2026-10-31T00:10:43+00:00",
+     "s": -1
+    },
     {
      "title": "XRP Ledger Proposes 4 Fixes for Restricted Token Rules",
      "link": "https://bitcoinist.com/xrp-ledger-proposes-4-fixes-for-restricted-token-rules/",
