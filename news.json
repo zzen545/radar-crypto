@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T11:59:32.916001+00:00",
+ "updated": "2026-10-31T12:39:13.582224+00:00",
  "window_hours": 48,
- "headlines": 116,
+ "headlines": 115,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 4,
+   "pos": 3,
    "neg": 11,
-   "count": 23,
+   "count": 22,
    "items": [
     {
      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
@@ -167,17 +167,10 @@
    ]
   },
   "SOL": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 3,
+   "count": 2,
    "items": [
-    {
-     "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
-     "link": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
-     "source": "CoinDesk",
-     "time": "2026-10-29T16:35:43+00:00",
-     "s": 1
-    },
     {
      "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
      "link": "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana",
