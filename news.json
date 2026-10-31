@@ -1,23 +1,30 @@
 {
- "updated": "2026-10-31T15:59:14.787730+00:00",
+ "updated": "2026-10-31T16:29:20.320749+00:00",
  "window_hours": 48,
- "headlines": 103,
+ "headlines": 104,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
-  "The Block",
-  "Bitcoinist"
+  "CryptoSlate",
+  "The Block"
  ],
  "feeds_failed": {
-  "CryptoSlate": "The read operation timed out"
+  "Bitcoinist": "mismatched tag: line 93, column 2"
  },
  "coins": {
   "BTC": {
-   "pos": 3,
-   "neg": 13,
+   "pos": 4,
+   "neg": 11,
    "count": 26,
    "items": [
+    {
+     "title": "Saylor calls new Bitcoin bull market, but Strategy’s own numbers reveal a costly problem",
+     "link": "https://cryptoslate.com/saylor-calls-new-bitcoin-bull-market-but-strategys-own-numbers-reveal-a-costly-problem/",
+     "source": "CryptoSlate",
+     "time": "2026-10-31T15:30:46+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
      "link": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -31,6 +38,13 @@
      "source": "Cointelegraph",
      "time": "2026-10-31T14:27:52+00:00",
      "s": 0
+    },
+    {
+     "title": "Bitcoin ETFs lose $643 million in a day, wiping out the week’s inflows",
+     "link": "https://cryptoslate.com/bitcoin-etfs-643-million-outflows-weekly-reversal/",
+     "source": "CryptoSlate",
+     "time": "2026-10-31T14:00:07+00:00",
+     "s": 1
     },
     {
      "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
@@ -108,35 +122,14 @@
      "source": "CoinDesk",
      "time": "2026-10-30T11:51:26+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
-     "link": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-30T11:29:23+00:00",
-     "s": -1
-    },
-    {
-     "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-     "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-     "source": "CoinDesk",
-     "time": "2026-10-30T11:09:24+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 0,
-   "neg": 3,
-   "count": 5,
+   "neg": 2,
+   "count": 4,
    "items": [
-    {
-     "title": "Binance Hack Shows How One Ethereum Permission Drained $2.5 Billion",
-     "link": "https://bitcoinist.com/binance-hack-shows-how-one-ethereum-permission-drained-2-5-billion/",
-     "source": "Bitcoinist",
-     "time": "2026-10-30T14:48:19+00:00",
-     "s": -1
-    },
     {
      "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
      "link": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
@@ -175,16 +168,9 @@
   },
   "BNB": {
    "pos": 0,
-   "neg": 3,
-   "count": 3,
+   "neg": 2,
+   "count": 2,
    "items": [
-    {
-     "title": "Binance Hack Rattles Crypto Markets – BNB Drops 8%",
-     "link": "https://bitcoinist.com/binance-hack-rattles-crypto-markets-bnb-drops-8/",
-     "source": "Bitcoinist",
-     "time": "2026-10-30T20:29:24+00:00",
-     "s": -1
-    },
     {
      "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
      "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
@@ -203,15 +189,22 @@
   },
   "XRP": {
    "pos": 0,
-   "neg": 1,
-   "count": 3,
+   "neg": 2,
+   "count": 4,
    "items": [
     {
-     "title": "XRP Ledger Proposes 4 Fixes for Restricted Token Rules",
-     "link": "https://bitcoinist.com/xrp-ledger-proposes-4-fixes-for-restricted-token-rules/",
-     "source": "Bitcoinist",
-     "time": "2026-10-30T09:42:46+00:00",
+     "title": "Why Ripple’s $16 trillion payment volume isn’t boosting XRP",
+     "link": "https://cryptoslate.com/ripple-is-winning-everywhere-so-why-isnt-xrp/",
+     "source": "CryptoSlate",
+     "time": "2026-10-31T11:20:56+00:00",
      "s": 0
+    },
+    {
+     "title": "Maple locks $280M in XRP collateral and upcoming maturity dates threaten liquidations",
+     "link": "https://cryptoslate.com/maple-locks-280m-in-xrp-collateral-and-upcoming-maturity-dates-threaten-liquidations/",
+     "source": "CryptoSlate",
+     "time": "2026-10-31T00:10:43+00:00",
+     "s": -1
     },
     {
      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
@@ -242,9 +235,9 @@
    "items": []
   },
   "HYPE": {
-   "pos": 1,
+   "pos": 0,
    "neg": 1,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "Morning Minute: Binance’s $6.4B Hack Overshadows Hyperliquid’s Biggest Day",
@@ -252,13 +245,6 @@
      "source": "Decrypt",
      "time": "2026-10-30T12:31:30+00:00",
      "s": -1
-    },
-    {
-     "title": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
-     "link": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us",
-     "source": "Decrypt",
-     "time": "2026-10-29T15:59:48+00:00",
-     "s": 1
     }
    ]
   },
