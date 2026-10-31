@@ -1,21 +1,20 @@
 {
- "updated": "2026-10-31T16:29:20.320749+00:00",
+ "updated": "2026-10-31T17:05:06.918784+00:00",
  "window_hours": 48,
- "headlines": 104,
+ "headlines": 111,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 4,
-   "neg": 11,
+   "pos": 3,
+   "neg": 12,
    "count": 26,
    "items": [
     {
@@ -127,9 +126,16 @@
   },
   "ETH": {
    "pos": 0,
-   "neg": 2,
-   "count": 4,
+   "neg": 3,
+   "count": 5,
    "items": [
+    {
+     "title": "Binance Hack Shows How One Ethereum Permission Drained $2.5 Billion",
+     "link": "https://bitcoinist.com/binance-hack-shows-how-one-ethereum-permission-drained-2-5-billion/",
+     "source": "Bitcoinist",
+     "time": "2026-10-30T14:48:19+00:00",
+     "s": -1
+    },
     {
      "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
      "link": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
@@ -168,9 +174,16 @@
   },
   "BNB": {
    "pos": 0,
-   "neg": 2,
-   "count": 2,
+   "neg": 3,
+   "count": 3,
    "items": [
+    {
+     "title": "Binance Hack Rattles Crypto Markets – BNB Drops 8%",
+     "link": "https://bitcoinist.com/binance-hack-rattles-crypto-markets-bnb-drops-8/",
+     "source": "Bitcoinist",
+     "time": "2026-10-30T20:29:24+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
      "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
@@ -190,7 +203,7 @@
   "XRP": {
    "pos": 0,
    "neg": 2,
-   "count": 4,
+   "count": 5,
    "items": [
     {
      "title": "Why Ripple’s $16 trillion payment volume isn’t boosting XRP",
@@ -205,6 +218,13 @@
      "source": "CryptoSlate",
      "time": "2026-10-31T00:10:43+00:00",
      "s": -1
+    },
+    {
+     "title": "XRP Ledger Proposes 4 Fixes for Restricted Token Rules",
+     "link": "https://bitcoinist.com/xrp-ledger-proposes-4-fixes-for-restricted-token-rules/",
+     "source": "Bitcoinist",
+     "time": "2026-10-30T09:42:46+00:00",
+     "s": 0
     },
     {
      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
