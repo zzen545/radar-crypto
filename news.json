@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T22:57:12.830782+00:00",
+ "updated": "2026-10-31T23:25:01.281823+00:00",
  "window_hours": 48,
- "headlines": 99,
+ "headlines": 97,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 11,
-   "count": 27,
+   "neg": 10,
+   "count": 26,
    "items": [
     {
      "title": "Bitcoin White Paper 18th Anniversary Highlights Concerns Over Fiat Money",
@@ -167,8 +167,8 @@
   },
   "BNB": {
    "pos": 0,
-   "neg": 3,
-   "count": 3,
+   "neg": 2,
+   "count": 2,
    "items": [
     {
      "title": "Binance Hack Rattles Crypto Markets – BNB Drops 8%",
@@ -182,13 +182,6 @@
      "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
      "source": "The Block",
      "time": "2026-10-30T02:22:31+00:00",
-     "s": -1
-    },
-    {
-     "title": "Binance hack rattles markets as BNB falls 8%, Bitcoin nears $77K",
-     "link": "https://cointelegraph.com/markets/binance-hack-rattles-crypto-markets-bnb-bitcoin-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-29T23:24:21+00:00",
      "s": -1
     }
    ]
