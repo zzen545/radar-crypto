@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-31T14:25:17.504481+00:00",
+ "updated": "2026-10-31T14:58:18.394648+00:00",
  "window_hours": 48,
- "headlines": 114,
+ "headlines": 112,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 4,
    "neg": 12,
-   "count": 26,
+   "count": 27,
    "items": [
+    {
+     "title": "Bitcoin turns 18: Has the original rebel grown up?",
+     "link": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-31T14:27:52+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin ETFs lose $643 million in a day, wiping out the week’s inflows",
      "link": "https://cryptoslate.com/bitcoin-etfs-643-million-outflows-weekly-reversal/",
@@ -113,13 +120,6 @@
      "link": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-10-30T11:29:23+00:00",
-     "s": -1
-    },
-    {
-     "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-     "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-     "source": "CoinDesk",
-     "time": "2026-10-30T11:09:24+00:00",
      "s": -1
     }
    ]
@@ -255,9 +255,9 @@
    "items": []
   },
   "HYPE": {
-   "pos": 3,
+   "pos": 1,
    "neg": 1,
-   "count": 4,
+   "count": 2,
    "items": [
     {
      "title": "Morning Minute: Binance’s $6.4B Hack Overshadows Hyperliquid’s Biggest Day",
@@ -267,24 +267,10 @@
      "s": -1
     },
     {
-     "title": "HYPE teases all-time high as NYSE owner ICE eyes US Hyperliquid perps",
-     "link": "https://cointelegraph.com/markets/hype-price-all-time-high-ice-us-hyperliquid-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-29T17:12:03+00:00",
-     "s": 1
-    },
-    {
      "title": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
      "link": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us",
      "source": "Decrypt",
      "time": "2026-10-29T15:59:48+00:00",
-     "s": 1
-    },
-    {
-     "title": "HYPE surges 15% as NYSE parent ICE moves to bring Hyperliquid perps to US",
-     "link": "https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132",
-     "source": "The Block",
-     "time": "2026-10-29T14:44:53+00:00",
      "s": 1
     }
    ]
