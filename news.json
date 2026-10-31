@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T04:29:37.453514+00:00",
+ "updated": "2026-10-31T05:12:18.222233+00:00",
  "window_hours": 48,
  "headlines": 120,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 4,
    "neg": 11,
-   "count": 22,
+   "count": 23,
    "items": [
+    {
+     "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+     "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+     "source": "CoinDesk",
+     "time": "2026-10-31T05:01:32+00:00",
+     "s": 0
+    },
     {
      "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
      "link": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-10-30T06:22:00+00:00",
      "s": -1
-    },
-    {
-     "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
-     "link": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-30T05:53:07+00:00",
-     "s": 1
     }
    ]
   },
