@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T17:28:11.032529+00:00",
+ "updated": "2026-11-01T17:58:28.518825+00:00",
  "window_hours": 48,
- "headlines": 67,
+ "headlines": 65,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 3,
    "neg": 5,
-   "count": 19,
+   "count": 20,
    "items": [
+    {
+     "title": "Bitcoin redemption freeze puts $136 million Aave market under scrutiny",
+     "link": "https://cryptoslate.com/bitcoin-redemption-freeze-puts-136-million-aave-market-under-scrutiny/",
+     "source": "CryptoSlate",
+     "time": "2026-11-01T17:40:00+00:00",
+     "s": 0
+    },
     {
      "title": "OneKey founder warns BlackRock’s Bitcoin ETF could be a North Korean target",
      "link": "https://cryptoslate.com/onekey-founder-warns-blackrocks-bitcoin-etf-could-be-a-north-korean-target/",
@@ -113,13 +120,6 @@
      "link": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
      "source": "CoinDesk",
      "time": "2026-10-31T14:00:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "18 years in, what has Bitcoin truly done?",
-     "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
-     "source": "CoinDesk",
-     "time": "2026-10-31T13:00:00+00:00",
      "s": 0
     }
    ]
