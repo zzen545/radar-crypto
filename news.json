@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T16:03:56.351008+00:00",
+ "updated": "2026-11-01T16:59:31.904502+00:00",
  "window_hours": 48,
- "headlines": 73,
+ "headlines": 67,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 6,
+   "neg": 5,
    "count": 20,
    "items": [
+    {
+     "title": "OneKey founder warns BlackRock’s Bitcoin ETF could be a North Korean target",
+     "link": "https://cryptoslate.com/onekey-founder-warns-blackrocks-bitcoin-etf-could-be-a-north-korean-target/",
+     "source": "CryptoSlate",
+     "time": "2026-11-01T16:30:46+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
      "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-10-31T13:00:00+00:00",
      "s": 0
-    },
-    {
-     "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
-     "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
-     "source": "CoinDesk",
-     "time": "2026-10-31T12:49:47+00:00",
-     "s": -1
     }
    ]
   },
@@ -224,17 +224,9 @@
   },
   "XAU": {
    "pos": 0,
-   "neg": 1,
-   "count": 1,
-   "items": [
-    {
-     "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
-     "link": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-30T16:06:28+00:00",
-     "s": -1
-    }
-   ]
+   "neg": 0,
+   "count": 0,
+   "items": []
   }
  }
 }
