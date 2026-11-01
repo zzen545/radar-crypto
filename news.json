@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T18:31:55.209816+00:00",
+ "updated": "2026-11-01T19:27:56.591730+00:00",
  "window_hours": 48,
- "headlines": 65,
+ "headlines": 63,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 5,
-   "count": 20,
+   "neg": 4,
+   "count": 19,
    "items": [
     {
      "title": "Bitcoin redemption freeze puts $136 million Aave market under scrutiny",
