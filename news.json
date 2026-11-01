@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T15:29:42.648709+00:00",
+ "updated": "2026-11-01T16:03:56.351008+00:00",
  "window_hours": 48,
- "headlines": 72,
+ "headlines": 73,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 2,
+   "pos": 3,
    "neg": 6,
    "count": 20,
    "items": [
+    {
+     "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+     "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+     "source": "Decrypt",
+     "time": "2026-11-01T16:01:02+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin Price Recovery: $78K in Sight as LIT Surges 18%",
      "link": "https://bitcoinist.com/bitcoin-price-recovery-78k-in-sight-as-lit-surges-18/",
@@ -78,13 +85,6 @@
      "link": "https://bitcoinist.com/bitcoin-etf-outflows-hit-643m-but-blackrock-bucks-trend/",
      "source": "Bitcoinist",
      "time": "2026-10-31T17:33:59+00:00",
-     "s": 0
-    },
-    {
-     "title": "Saylor calls new Bitcoin bull market, but Strategy’s own numbers reveal a costly problem",
-     "link": "https://cryptoslate.com/saylor-calls-new-bitcoin-bull-market-but-strategys-own-numbers-reveal-a-costly-problem/",
-     "source": "CryptoSlate",
-     "time": "2026-10-31T15:30:46+00:00",
      "s": 0
     },
     {
