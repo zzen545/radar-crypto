@@ -1,23 +1,29 @@
 {
- "updated": "2026-11-01T11:02:13.314705+00:00",
+ "updated": "2026-11-01T11:57:19.531958+00:00",
  "window_hours": 48,
- "headlines": 74,
+ "headlines": 77,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 9,
-   "count": 21,
+   "neg": 6,
+   "count": 22,
    "items": [
+    {
+     "title": "AI wants Bitcoin miners’ power, but the contracts reveal who really gets paid",
+     "link": "https://cryptoslate.com/ai-wants-bitcoin-miners-power-but-the-contracts-reveal-who-really-gets-paid/",
+     "source": "CryptoSlate",
+     "time": "2026-11-01T11:20:22+00:00",
+     "s": 0
+    },
     {
      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
      "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
@@ -40,10 +46,24 @@
      "s": -1
     },
     {
+     "title": "Bitcoin White Paper 18th Anniversary Highlights Concerns Over Fiat Money",
+     "link": "https://bitcoinist.com/bitcoin-white-paper-18th-anniversary-highlights-concerns-over-fiat-money/",
+     "source": "Bitcoinist",
+     "time": "2026-10-31T20:11:09+00:00",
+     "s": 0
+    },
+    {
      "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
      "link": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
      "source": "CoinDesk",
      "time": "2026-10-31T18:00:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin ETF Outflows Hit $643M, but BlackRock Bucks Trend",
+     "link": "https://bitcoinist.com/bitcoin-etf-outflows-hit-643m-but-blackrock-bucks-trend/",
+     "source": "Bitcoinist",
+     "time": "2026-10-31T17:33:59+00:00",
      "s": 0
     },
     {
@@ -82,6 +102,13 @@
      "s": 0
     },
     {
+     "title": "Bitcoin White Paper Turns 18, Putting Its Long-Term Security Model In Focus",
+     "link": "https://bitcoinist.com/bitcoin-white-paper-turns-18-putting-its-long-term-security-model-in-focus/",
+     "source": "Bitcoinist",
+     "time": "2026-10-31T13:44:39+00:00",
+     "s": 0
+    },
+    {
      "title": "18 years in, what has Bitcoin truly done?",
      "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
      "source": "CoinDesk",
@@ -94,41 +121,13 @@
      "source": "CoinDesk",
      "time": "2026-10-31T12:49:47+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-     "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
-     "source": "CoinDesk",
-     "time": "2026-10-31T05:01:32+00:00",
-     "s": 0
-    },
-    {
-     "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
-     "link": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
-     "source": "Decrypt",
-     "time": "2026-10-30T20:06:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
-     "link": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
-     "source": "Decrypt",
-     "time": "2026-10-30T18:45:03+00:00",
-     "s": -1
-    },
-    {
-     "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-     "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-30T17:09:31+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 0,
-   "neg": 2,
-   "count": 4,
+   "neg": 1,
+   "count": 2,
    "items": [
     {
      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
@@ -143,20 +142,6 @@
      "source": "Decrypt",
      "time": "2026-10-30T14:17:34+00:00",
      "s": 0
-    },
-    {
-     "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
-     "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
-     "source": "CoinDesk",
-     "time": "2026-10-30T11:35:16+00:00",
-     "s": 0
-    },
-    {
-     "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-     "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-     "source": "CoinDesk",
-     "time": "2026-10-30T11:09:24+00:00",
-     "s": -1
     }
    ]
   },
@@ -183,9 +168,17 @@
   },
   "BNB": {
    "pos": 0,
-   "neg": 0,
-   "count": 0,
-   "items": []
+   "neg": 1,
+   "count": 1,
+   "items": [
+    {
+     "title": "Binance Hack Rattles Crypto Markets – BNB Drops 8%",
+     "link": "https://bitcoinist.com/binance-hack-rattles-crypto-markets-bnb-drops-8/",
+     "source": "Bitcoinist",
+     "time": "2026-10-30T20:29:24+00:00",
+     "s": -1
+    }
+   ]
   },
   "XRP": {
    "pos": 0,
