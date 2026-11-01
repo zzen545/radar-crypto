@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T00:32:44.400313+00:00",
+ "updated": "2026-11-01T01:50:22.263032+00:00",
  "window_hours": 48,
  "headlines": 96,
  "feeds_ok": [
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 3,
-   "neg": 10,
-   "count": 26,
+   "pos": 4,
+   "neg": 11,
+   "count": 28,
    "items": [
+    {
+     "title": "Bitcoin’s recovery faces rising derivatives exposure and $643 million in ETF outflows",
+     "link": "https://cryptoslate.com/bitcoins-recovery-faces-rising-derivatives-exposure-and-643-million-in-etf-outflows/",
+     "source": "CryptoSlate",
+     "time": "2026-11-01T01:10:55+00:00",
+     "s": 1
+    },
+    {
+     "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+     "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+     "source": "CoinDesk",
+     "time": "2026-11-01T01:10:05+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin White Paper 18th Anniversary Highlights Concerns Over Fiat Money",
      "link": "https://bitcoinist.com/bitcoin-white-paper-18th-anniversary-highlights-concerns-over-fiat-money/",
@@ -107,28 +121,21 @@
      "source": "Decrypt",
      "time": "2026-10-30T20:06:03+00:00",
      "s": 0
-    },
-    {
-     "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
-     "link": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
-     "source": "Decrypt",
-     "time": "2026-10-30T18:45:03+00:00",
-     "s": -1
-    },
-    {
-     "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-     "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-30T17:09:31+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 0,
-   "neg": 2,
-   "count": 4,
+   "neg": 3,
+   "count": 5,
    "items": [
+    {
+     "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+     "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+     "source": "CoinDesk",
+     "time": "2026-11-01T01:10:05+00:00",
+     "s": -1
+    },
     {
      "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
      "link": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
@@ -161,9 +168,17 @@
   },
   "SOL": {
    "pos": 0,
-   "neg": 0,
-   "count": 0,
-   "items": []
+   "neg": 1,
+   "count": 1,
+   "items": [
+    {
+     "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+     "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+     "source": "CoinDesk",
+     "time": "2026-11-01T01:10:05+00:00",
+     "s": -1
+    }
+   ]
   },
   "BNB": {
    "pos": 0,
@@ -188,8 +203,8 @@
   },
   "XRP": {
    "pos": 0,
-   "neg": 2,
-   "count": 4,
+   "neg": 1,
+   "count": 3,
    "items": [
     {
      "title": "Why Ripple’s $16 trillion payment volume isn’t boosting XRP",
@@ -197,13 +212,6 @@
      "source": "CryptoSlate",
      "time": "2026-10-31T11:20:56+00:00",
      "s": 0
-    },
-    {
-     "title": "Maple locks $280M in XRP collateral and upcoming maturity dates threaten liquidations",
-     "link": "https://cryptoslate.com/maple-locks-280m-in-xrp-collateral-and-upcoming-maturity-dates-threaten-liquidations/",
-     "source": "CryptoSlate",
-     "time": "2026-10-31T00:10:43+00:00",
-     "s": -1
     },
     {
      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
