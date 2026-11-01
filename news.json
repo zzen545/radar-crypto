@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T08:35:37.145162+00:00",
+ "updated": "2026-11-01T09:29:50.034098+00:00",
  "window_hours": 48,
- "headlines": 90,
+ "headlines": 86,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 9,
-   "count": 25,
+   "neg": 8,
+   "count": 24,
    "items": [
     {
      "title": "Bitcoin’s recovery faces rising derivatives exposure and $643 million in ETF outflows",
