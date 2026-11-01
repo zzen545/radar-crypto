@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T05:33:24.225885+00:00",
+ "updated": "2026-11-01T06:35:34.081387+00:00",
  "window_hours": 48,
- "headlines": 94,
+ "headlines": 90,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 4,
-   "neg": 10,
-   "count": 27,
+   "pos": 3,
+   "neg": 9,
+   "count": 25,
    "items": [
     {
      "title": "Bitcoin’s recovery faces rising derivatives exposure and $643 million in ETF outflows",
@@ -126,8 +126,8 @@
   },
   "ETH": {
    "pos": 0,
-   "neg": 3,
-   "count": 5,
+   "neg": 2,
+   "count": 4,
    "items": [
     {
      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
@@ -155,13 +155,6 @@
      "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
      "source": "CoinDesk",
      "time": "2026-10-30T11:09:24+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-     "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-     "source": "CoinDesk",
-     "time": "2026-10-30T06:22:00+00:00",
      "s": -1
     }
    ]
@@ -203,28 +196,14 @@
   },
   "XRP": {
    "pos": 0,
-   "neg": 1,
-   "count": 3,
+   "neg": 0,
+   "count": 1,
    "items": [
     {
      "title": "Why Ripple’s $16 trillion payment volume isn’t boosting XRP",
      "link": "https://cryptoslate.com/ripple-is-winning-everywhere-so-why-isnt-xrp/",
      "source": "CryptoSlate",
      "time": "2026-10-31T11:20:56+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-     "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-     "source": "CoinDesk",
-     "time": "2026-10-30T06:22:00+00:00",
-     "s": -1
-    },
-    {
-     "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
-     "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
-     "source": "CoinDesk",
-     "time": "2026-10-30T05:45:27+00:00",
      "s": 0
     }
    ]
