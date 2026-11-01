@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T14:25:29.723433+00:00",
+ "updated": "2026-11-01T14:59:59.651931+00:00",
  "window_hours": 48,
- "headlines": 71,
+ "headlines": 70,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -17,6 +17,13 @@
    "neg": 6,
    "count": 20,
    "items": [
+    {
+     "title": "Bitcoin Price Recovery: $78K in Sight as LIT Surges 18%",
+     "link": "https://bitcoinist.com/bitcoin-price-recovery-78k-in-sight-as-lit-surges-18/",
+     "source": "Bitcoinist",
+     "time": "2026-11-01T14:35:35+00:00",
+     "s": 1
+    },
     {
      "title": "Zero-token withdrawals let a hacker drain 97 million CORE from Bitcoin staking platform b14g",
      "link": "https://cryptoslate.com/zero-token-withdrawals-let-a-hacker-drain-97-million-core-from-bitcoin-staking-platform-b14g/",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-10-31T12:49:47+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-     "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
-     "source": "CoinDesk",
-     "time": "2026-10-31T05:01:32+00:00",
-     "s": 0
     }
    ]
   },
