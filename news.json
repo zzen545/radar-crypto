@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T16:59:31.904502+00:00",
+ "updated": "2026-11-01T17:28:11.032529+00:00",
  "window_hours": 48,
  "headlines": 67,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 3,
    "neg": 5,
-   "count": 20,
+   "count": 19,
    "items": [
     {
      "title": "OneKey founder warns BlackRock’s Bitcoin ETF could be a North Korean target",
