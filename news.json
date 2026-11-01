@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T20:58:53.873755+00:00",
+ "updated": "2026-11-01T21:29:00.695886+00:00",
  "window_hours": 48,
- "headlines": 60,
+ "headlines": 57,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -148,15 +148,8 @@
   "SOL": {
    "pos": 0,
    "neg": 1,
-   "count": 2,
+   "count": 1,
    "items": [
-    {
-     "title": "Solana’s reward records leave stakers with a gap in validator fee data",
-     "link": "https://cryptoslate.com/solanas-reward-records-leave-stakers-with-a-gap-in-validator-fee-data/",
-     "source": "CryptoSlate",
-     "time": "2026-11-01T05:10:57+00:00",
-     "s": 0
-    },
     {
      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
      "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
