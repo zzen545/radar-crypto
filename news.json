@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T11:57:19.531958+00:00",
+ "updated": "2026-11-01T12:34:55.532604+00:00",
  "window_hours": 48,
- "headlines": 77,
+ "headlines": 74,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -183,16 +183,8 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Why Ripple’s $16 trillion payment volume isn’t boosting XRP",
-     "link": "https://cryptoslate.com/ripple-is-winning-everywhere-so-why-isnt-xrp/",
-     "source": "CryptoSlate",
-     "time": "2026-10-31T11:20:56+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "DOGE": {
    "pos": 0,
@@ -208,17 +200,9 @@
   },
   "HYPE": {
    "pos": 0,
-   "neg": 1,
-   "count": 1,
-   "items": [
-    {
-     "title": "Morning Minute: Binance’s $6.4B Hack Overshadows Hyperliquid’s Biggest Day",
-     "link": "https://decrypt.co/382225/morning-minute-binances-6-4b-hack-overshadows-hyperliquids-biggest-day",
-     "source": "Decrypt",
-     "time": "2026-10-30T12:31:30+00:00",
-     "s": -1
-    }
-   ]
+   "neg": 0,
+   "count": 0,
+   "items": []
   },
   "ASTER": {
    "pos": 0,
