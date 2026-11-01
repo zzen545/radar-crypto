@@ -1,22 +1,30 @@
 {
- "updated": "2026-11-01T10:12:29.664388+00:00",
+ "updated": "2026-11-01T11:02:13.314705+00:00",
  "window_hours": 48,
- "headlines": 83,
+ "headlines": 74,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 8,
-   "count": 24,
+   "neg": 9,
+   "count": 21,
    "items": [
+    {
+     "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+     "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+     "source": "CoinDesk",
+     "time": "2026-11-01T10:35:42+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin’s recovery faces rising derivatives exposure and $643 million in ETF outflows",
      "link": "https://cryptoslate.com/bitcoins-recovery-faces-rising-derivatives-exposure-and-643-million-in-etf-outflows/",
@@ -32,24 +40,10 @@
      "s": -1
     },
     {
-     "title": "Bitcoin White Paper 18th Anniversary Highlights Concerns Over Fiat Money",
-     "link": "https://bitcoinist.com/bitcoin-white-paper-18th-anniversary-highlights-concerns-over-fiat-money/",
-     "source": "Bitcoinist",
-     "time": "2026-10-31T20:11:09+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
      "link": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
      "source": "CoinDesk",
      "time": "2026-10-31T18:00:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin ETF Outflows Hit $643M, but BlackRock Bucks Trend",
-     "link": "https://bitcoinist.com/bitcoin-etf-outflows-hit-643m-but-blackrock-bucks-trend/",
-     "source": "Bitcoinist",
-     "time": "2026-10-31T17:33:59+00:00",
      "s": 0
     },
     {
@@ -88,13 +82,6 @@
      "s": 0
     },
     {
-     "title": "Bitcoin White Paper Turns 18, Putting Its Long-Term Security Model In Focus",
-     "link": "https://bitcoinist.com/bitcoin-white-paper-turns-18-putting-its-long-term-security-model-in-focus/",
-     "source": "Bitcoinist",
-     "time": "2026-10-31T13:44:39+00:00",
-     "s": 0
-    },
-    {
      "title": "18 years in, what has Bitcoin truly done?",
      "link": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
      "source": "CoinDesk",
@@ -120,6 +107,20 @@
      "link": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
      "source": "Decrypt",
      "time": "2026-10-30T20:06:03+00:00",
+     "s": 0
+    },
+    {
+     "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
+     "link": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
+     "source": "Decrypt",
+     "time": "2026-10-30T18:45:03+00:00",
+     "s": -1
+    },
+    {
+     "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+     "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-10-30T17:09:31+00:00",
      "s": 0
     }
    ]
@@ -182,17 +183,9 @@
   },
   "BNB": {
    "pos": 0,
-   "neg": 1,
-   "count": 1,
-   "items": [
-    {
-     "title": "Binance Hack Rattles Crypto Markets – BNB Drops 8%",
-     "link": "https://bitcoinist.com/binance-hack-rattles-crypto-markets-bnb-drops-8/",
-     "source": "Bitcoinist",
-     "time": "2026-10-30T20:29:24+00:00",
-     "s": -1
-    }
-   ]
+   "neg": 0,
+   "count": 0,
+   "items": []
   },
   "XRP": {
    "pos": 0,
