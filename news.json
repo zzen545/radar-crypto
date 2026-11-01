@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T01:50:22.263032+00:00",
+ "updated": "2026-11-01T02:36:44.448111+00:00",
  "window_hours": 48,
- "headlines": 96,
+ "headlines": 95,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 4,
-   "neg": 11,
-   "count": 28,
+   "neg": 10,
+   "count": 27,
    "items": [
     {
      "title": "Bitcoin’s recovery faces rising derivatives exposure and $643 million in ETF outflows",
@@ -182,21 +182,14 @@
   },
   "BNB": {
    "pos": 0,
-   "neg": 2,
-   "count": 2,
+   "neg": 1,
+   "count": 1,
    "items": [
     {
      "title": "Binance Hack Rattles Crypto Markets – BNB Drops 8%",
      "link": "https://bitcoinist.com/binance-hack-rattles-crypto-markets-bnb-drops-8/",
      "source": "Bitcoinist",
      "time": "2026-10-30T20:29:24+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
-     "link": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
-     "source": "The Block",
-     "time": "2026-10-30T02:22:31+00:00",
      "s": -1
     }
    ]
