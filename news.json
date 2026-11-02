@@ -1,23 +1,43 @@
 {
- "updated": "2026-11-02T10:45:44.459409+00:00",
+ "updated": "2026-11-02T11:40:19.322078+00:00",
  "window_hours": 48,
- "headlines": 63,
+ "headlines": 72,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 1,
-   "neg": 7,
-   "count": 18,
+   "pos": 2,
+   "neg": 8,
+   "count": 21,
    "items": [
+    {
+     "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
+     "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
+     "source": "CoinDesk",
+     "time": "2026-11-02T11:30:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
+     "link": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-02T11:19:18+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin US Elections: Jobs Data Could Shake BTC",
+     "link": "https://bitcoinist.com/bitcoin-us-elections-jobs-data-could-shake-btc/",
+     "source": "Bitcoinist",
+     "time": "2026-11-02T10:08:32+00:00",
+     "s": 0
+    },
     {
      "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
      "link": "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -31,6 +51,13 @@
      "source": "CryptoSlate",
      "time": "2026-11-02T08:55:32+00:00",
      "s": 0
+    },
+    {
+     "title": "BTCPay Server Hack Raises Alarm Over Bitcoin Wallet Security",
+     "link": "https://bitcoinist.com/btcpay-server-hack-raises-alarm-over-bitcoin-wallet-security/",
+     "source": "Bitcoinist",
+     "time": "2026-11-02T08:26:28+00:00",
+     "s": -1
     },
     {
      "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
@@ -82,13 +109,6 @@
      "s": 0
     },
     {
-     "title": "OneKey founder warns BlackRock’s Bitcoin ETF could be a North Korean target",
-     "link": "https://cryptoslate.com/onekey-founder-warns-blackrocks-bitcoin-etf-could-be-a-north-korean-target/",
-     "source": "CryptoSlate",
-     "time": "2026-11-01T16:30:46+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
      "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
      "source": "Decrypt",
@@ -96,32 +116,11 @@
      "s": 1
     },
     {
-     "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-     "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-     "source": "CoinDesk",
-     "time": "2026-11-01T10:35:42+00:00",
-     "s": -1
-    },
-    {
-     "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-     "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-     "source": "CoinDesk",
-     "time": "2026-11-01T01:10:05+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
-     "link": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
-     "source": "CoinDesk",
-     "time": "2026-10-31T18:00:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
-     "link": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-31T15:26:46+00:00",
-     "s": -1
+     "title": "Bitcoin Price Recovery: $78K in Sight as LIT Surges 18%",
+     "link": "https://bitcoinist.com/bitcoin-price-recovery-78k-in-sight-as-lit-surges-18/",
+     "source": "Bitcoinist",
+     "time": "2026-11-01T14:35:35+00:00",
+     "s": 1
     }
    ]
   },
@@ -142,8 +141,15 @@
   "SOL": {
    "pos": 0,
    "neg": 1,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Solana validators told to act immediately as critical Linux vulnerability emerges",
+     "link": "https://cryptoslate.com/solana-validators-told-to-act-immediately-as-critical-linux-vulnerability-emerges/",
+     "source": "CryptoSlate",
+     "time": "2026-11-02T11:20:48+00:00",
+     "s": 0
+    },
     {
      "title": "Polygon brings US banking access to Solana’s $15 billion stablecoin market",
      "link": "https://cryptoslate.com/polygon-brings-us-banking-access-to-solanas-15-billion-stablecoin-market/",
@@ -169,7 +175,7 @@
   "XRP": {
    "pos": 0,
    "neg": 1,
-   "count": 1,
+   "count": 2,
    "items": [
     {
      "title": "RLUSD supply fell 29% on XRPL. One XRP trading pool barely changed",
@@ -177,6 +183,13 @@
      "source": "CryptoSlate",
      "time": "2026-11-02T03:40:42+00:00",
      "s": -1
+    },
+    {
+     "title": "XRP Supply in Focus as Ripple Unlocks $1.25 Billion in Tokens",
+     "link": "https://bitcoinist.com/xrp-supply-in-focus-as-ripple-unlocks-1-25-billion-in-tokens/",
+     "source": "Bitcoinist",
+     "time": "2026-11-01T13:37:31+00:00",
+     "s": 0
     }
    ]
   },
