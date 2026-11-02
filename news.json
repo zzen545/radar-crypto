@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T05:48:52.627266+00:00",
+ "updated": "2026-11-02T06:56:29.051253+00:00",
  "window_hours": 48,
- "headlines": 63,
+ "headlines": 64,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 2,
-   "neg": 6,
-   "count": 19,
+   "neg": 7,
+   "count": 20,
    "items": [
+    {
+     "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+     "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
+     "source": "CoinDesk",
+     "time": "2026-11-02T06:46:41+00:00",
+     "s": -1
+    },
     {
      "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
      "link": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
@@ -114,13 +121,6 @@
      "source": "Bitcoinist",
      "time": "2026-10-31T17:33:59+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
-     "link": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-31T15:26:46+00:00",
-     "s": -1
     }
    ]
   },
