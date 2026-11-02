@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T17:45:04.692475+00:00",
+ "updated": "2026-11-02T18:41:55.272891+00:00",
  "window_hours": 48,
- "headlines": 81,
+ "headlines": 83,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 9,
-   "count": 26,
+   "neg": 10,
+   "count": 28,
    "items": [
+    {
+     "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
+     "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
+     "source": "CoinDesk",
+     "time": "2026-11-02T18:13:57+00:00",
+     "s": 0
+    },
+    {
+     "title": "Mercado Bitcoin Suspends Withdrawals After $40M in Suspcious Transfers",
+     "link": "https://bitcoinist.com/mercado-bitcoin-suspends-withdrawals-after-40m-in-suspcious-transfers/",
+     "source": "Bitcoinist",
+     "time": "2026-11-02T18:06:50+00:00",
+     "s": -1
+    },
     {
      "title": "Eclair tightens Bitcoin funding rules after unconfirmed inputs put Lightning payments at risk",
      "link": "https://cryptoslate.com/eclair-tightens-bitcoin-funding-rules-after-unconfirmed-inputs-put-lightning-payments-at-risk/",
@@ -107,20 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-11-02T12:30:17+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
-     "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
-     "source": "CoinDesk",
-     "time": "2026-11-02T11:30:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "From Uptober to Hacktober: Are Bitcoin’s seasonal patterns becoming obsolete?",
-     "link": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-02T11:19:18+00:00",
-     "s": 0
     }
    ]
   },
@@ -195,10 +195,18 @@
    ]
   },
   "BNB": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "BNB’s $99 million ETF inflows came almost entirely before Binance’s hack",
+     "link": "https://cryptoslate.com/bnbs-99-million-etf-inflows-came-almost-entirely-before-binances-hack/",
+     "source": "CryptoSlate",
+     "time": "2026-11-02T18:40:47+00:00",
+     "s": 1
+    }
+   ]
   },
   "XRP": {
    "pos": 1,
