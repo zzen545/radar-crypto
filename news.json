@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T14:51:18.504455+00:00",
+ "updated": "2026-11-02T15:45:59.948352+00:00",
  "window_hours": 48,
- "headlines": 78,
+ "headlines": 76,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 3,
-   "neg": 9,
-   "count": 27,
+   "pos": 4,
+   "neg": 6,
+   "count": 24,
    "items": [
+    {
+     "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
+     "link": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
+     "source": "The Block",
+     "time": "2026-11-02T15:01:36+00:00",
+     "s": 1
+    },
     {
      "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
      "link": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -114,20 +121,13 @@
      "source": "CoinDesk",
      "time": "2026-11-02T08:49:30+00:00",
      "s": 0
-    },
-    {
-     "title": "BTCPay Server Hack Raises Alarm Over Bitcoin Wallet Security",
-     "link": "https://bitcoinist.com/btcpay-server-hack-raises-alarm-over-bitcoin-wallet-security/",
-     "source": "Bitcoinist",
-     "time": "2026-11-02T08:26:28+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 0,
-   "neg": 2,
-   "count": 3,
+   "neg": 1,
+   "count": 2,
    "items": [
     {
      "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
@@ -142,20 +142,13 @@
      "source": "CryptoSlate",
      "time": "2026-11-02T14:40:10+00:00",
      "s": 0
-    },
-    {
-     "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-     "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-     "source": "CoinDesk",
-     "time": "2026-11-01T01:10:05+00:00",
-     "s": -1
     }
    ]
   },
   "SOL": {
    "pos": 0,
-   "neg": 1,
-   "count": 5,
+   "neg": 0,
+   "count": 4,
    "items": [
     {
      "title": "Akash’s Solana plan would end current staking rewards while allowing new AKT issuance",
@@ -184,13 +177,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-02T10:00:53+00:00",
      "s": 0
-    },
-    {
-     "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-     "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-     "source": "CoinDesk",
-     "time": "2026-11-01T01:10:05+00:00",
-     "s": -1
     }
    ]
   },
