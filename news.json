@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T18:41:55.272891+00:00",
+ "updated": "2026-11-02T19:43:12.760664+00:00",
  "window_hours": 48,
- "headlines": 83,
+ "headlines": 87,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,30 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 10,
-   "count": 28,
+   "neg": 12,
+   "count": 30,
    "items": [
+    {
+     "title": "Treasury holds $1 trillion as Bitcoin faces a key liquidity test this week",
+     "link": "https://cryptoslate.com/treasury-holds-1-trillion-as-bitcoin-faces-a-key-liquidity-test-this-week/",
+     "source": "CryptoSlate",
+     "time": "2026-11-02T19:40:49+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+     "link": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-02T19:27:58+00:00",
+     "s": -1
+    },
+    {
+     "title": "Mercado Bitcoin wallets keep moving funds after $46M hack",
+     "link": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-02T19:05:35+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
@@ -100,27 +121,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-02T13:04:12+00:00",
      "s": -1
-    },
-    {
-     "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
-     "link": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-02T12:40:45+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin catches a break from falling oil prices, but OPEC+ raises new Fed concerns",
-     "link": "https://cryptoslate.com/bitcoin-catches-a-break-from-falling-oil-prices-but-opec-raises-new-fed-concerns/",
-     "source": "CryptoSlate",
-     "time": "2026-11-02T12:40:41+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin's 'volatility curve' has a midterm bump",
-     "link": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
-     "source": "CoinDesk",
-     "time": "2026-11-02T12:30:17+00:00",
-     "s": 0
     }
    ]
   },
