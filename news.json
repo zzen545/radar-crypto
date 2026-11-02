@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T20:34:08.832061+00:00",
+ "updated": "2026-11-02T21:31:14.221739+00:00",
  "window_hours": 48,
- "headlines": 90,
+ "headlines": 93,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -165,6 +165,13 @@
    "count": 4,
    "items": [
     {
+     "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+     "link": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-02T21:16:24+00:00",
+     "s": 0
+    },
+    {
      "title": "Akash’s Solana plan would end current staking rewards while allowing new AKT issuance",
      "link": "https://cryptoslate.com/akashs-solana-plan-would-end-current-staking-rewards-while-allowing-new-akt-issuance/",
      "source": "CryptoSlate",
@@ -183,13 +190,6 @@
      "link": "https://cryptoslate.com/solana-validators-told-to-act-immediately-as-critical-linux-vulnerability-emerges/",
      "source": "CryptoSlate",
      "time": "2026-11-02T11:20:48+00:00",
-     "s": 0
-    },
-    {
-     "title": "Polygon brings US banking access to Solana’s $15 billion stablecoin market",
-     "link": "https://cryptoslate.com/polygon-brings-us-banking-access-to-solanas-15-billion-stablecoin-market/",
-     "source": "CryptoSlate",
-     "time": "2026-11-02T10:00:53+00:00",
      "s": 0
     }
    ]
