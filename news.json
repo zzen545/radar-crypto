@@ -1,22 +1,44 @@
 {
- "updated": "2026-11-02T21:31:14.221739+00:00",
+ "updated": "2026-11-02T22:28:48.850279+00:00",
  "window_hours": 48,
- "headlines": 93,
+ "headlines": 88,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
-   "pos": 3,
-   "neg": 12,
-   "count": 31,
+   "pos": 4,
+   "neg": 11,
+   "count": 29,
    "items": [
+    {
+     "title": "Strategy’s deployable cash falls 45% as buybacks outpace Bitcoin purchases",
+     "link": "https://cryptoslate.com/strategys-deployable-cash-falls-45-as-buybacks-outpace-bitcoin-purchases/",
+     "source": "CryptoSlate",
+     "time": "2026-11-02T22:25:25+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
+     "link": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
+     "source": "Decrypt",
+     "time": "2026-11-02T22:16:02+00:00",
+     "s": 1
+    },
+    {
+     "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+     "link": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-02T21:54:41+00:00",
+     "s": 0
+    },
     {
      "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
      "link": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
@@ -53,13 +75,6 @@
      "s": 0
     },
     {
-     "title": "Mercado Bitcoin Suspends Withdrawals After $40M in Suspcious Transfers",
-     "link": "https://bitcoinist.com/mercado-bitcoin-suspends-withdrawals-after-40m-in-suspcious-transfers/",
-     "source": "Bitcoinist",
-     "time": "2026-11-02T18:06:50+00:00",
-     "s": -1
-    },
-    {
      "title": "Eclair tightens Bitcoin funding rules after unconfirmed inputs put Lightning payments at risk",
      "link": "https://cryptoslate.com/eclair-tightens-bitcoin-funding-rules-after-unconfirmed-inputs-put-lightning-payments-at-risk/",
      "source": "CryptoSlate",
@@ -79,13 +94,6 @@
      "source": "CoinDesk",
      "time": "2026-11-02T15:53:29+00:00",
      "s": -1
-    },
-    {
-     "title": "Binance Outflows and ETF Selling Weigh In On BTC",
-     "link": "https://bitcoinist.com/binance-outflows-and-etf-selling-weigh-in-on-btc/",
-     "source": "Bitcoinist",
-     "time": "2026-11-02T15:36:42+00:00",
-     "s": 0
     },
     {
      "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
@@ -114,21 +122,21 @@
      "source": "Decrypt",
      "time": "2026-11-02T13:19:36+00:00",
      "s": 1
-    },
-    {
-     "title": "‘We found room for even more orange’: Michael Saylor’s Strategy scoops up another 811 bitcoin for $65.5 million",
-     "link": "https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275",
-     "source": "The Block",
-     "time": "2026-11-02T13:09:43+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "Vitalik is making private Ethereum payments without a crypto website",
+     "link": "https://cryptoslate.com/vitalik-is-making-private-ethereum-payments-without-a-crypto-website/",
+     "source": "CryptoSlate",
+     "time": "2026-11-02T21:40:13+00:00",
+     "s": 0
+    },
     {
      "title": "ETH vaults lagged staking while dollar strategies beat Treasuries, Glassnode finds",
      "link": "https://cryptoslate.com/eth-vaults-trailed-staking-as-glassnodes-wider-sample-grew-in-september/",
@@ -162,7 +170,7 @@
   "SOL": {
    "pos": 0,
    "neg": 0,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
@@ -184,13 +192,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-02T12:40:45+00:00",
      "s": 0
-    },
-    {
-     "title": "Solana validators told to act immediately as critical Linux vulnerability emerges",
-     "link": "https://cryptoslate.com/solana-validators-told-to-act-immediately-as-critical-linux-vulnerability-emerges/",
-     "source": "CryptoSlate",
-     "time": "2026-11-02T11:20:48+00:00",
-     "s": 0
     }
    ]
   },
@@ -211,7 +212,7 @@
   "XRP": {
    "pos": 1,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
@@ -219,13 +220,6 @@
      "source": "CoinDesk",
      "time": "2026-11-02T12:37:24+00:00",
      "s": 1
-    },
-    {
-     "title": "Ripple XRP Could Lead Bank Payments in 5 Years",
-     "link": "https://bitcoinist.com/ripple-xrp-could-lead-bank-payments-in-5-years-copy/",
-     "source": "Bitcoinist",
-     "time": "2026-11-02T12:02:07+00:00",
-     "s": 0
     }
    ]
   },
