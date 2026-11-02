@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T06:56:29.051253+00:00",
+ "updated": "2026-11-02T08:18:37.457119+00:00",
  "window_hours": 48,
- "headlines": 64,
+ "headlines": 65,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 2,
-   "neg": 7,
+   "neg": 8,
    "count": 20,
    "items": [
+    {
+     "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+     "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-02T07:50:36+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
@@ -79,13 +86,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-01T14:35:35+00:00",
      "s": 1
-    },
-    {
-     "title": "Zero-token withdrawals let a hacker drain 97 million CORE from Bitcoin staking platform b14g",
-     "link": "https://cryptoslate.com/zero-token-withdrawals-let-a-hacker-drain-97-million-core-from-bitcoin-staking-platform-b14g/",
-     "source": "CryptoSlate",
-     "time": "2026-11-01T13:20:52+00:00",
-     "s": 0
     },
     {
      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
