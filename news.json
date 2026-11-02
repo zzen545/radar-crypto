@@ -1,23 +1,29 @@
 {
- "updated": "2026-11-02T22:28:48.850279+00:00",
+ "updated": "2026-11-02T23:09:27.685961+00:00",
  "window_hours": 48,
- "headlines": 88,
+ "headlines": 97,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
    "pos": 4,
-   "neg": 11,
-   "count": 29,
+   "neg": 13,
+   "count": 34,
    "items": [
+    {
+     "title": "Tether freezes $4.5 million as Mercado Bitcoin hacker holds $46 million in crypto",
+     "link": "https://cryptoslate.com/tether-freezes-4-5-million-as-mercado-bitcoin-hacker-holds-46-million-in-crypto/",
+     "source": "CryptoSlate",
+     "time": "2026-11-02T23:00:12+00:00",
+     "s": 0
+    },
     {
      "title": "Strategy’s deployable cash falls 45% as buybacks outpace Bitcoin purchases",
      "link": "https://cryptoslate.com/strategys-deployable-cash-falls-45-as-buybacks-outpace-bitcoin-purchases/",
@@ -75,6 +81,13 @@
      "s": 0
     },
     {
+     "title": "Mercado Bitcoin Suspends Withdrawals After $40M in Suspcious Transfers",
+     "link": "https://bitcoinist.com/mercado-bitcoin-suspends-withdrawals-after-40m-in-suspcious-transfers/",
+     "source": "Bitcoinist",
+     "time": "2026-11-02T18:06:50+00:00",
+     "s": -1
+    },
+    {
      "title": "Eclair tightens Bitcoin funding rules after unconfirmed inputs put Lightning payments at risk",
      "link": "https://cryptoslate.com/eclair-tightens-bitcoin-funding-rules-after-unconfirmed-inputs-put-lightning-payments-at-risk/",
      "source": "CryptoSlate",
@@ -96,31 +109,17 @@
      "s": -1
     },
     {
+     "title": "Binance Outflows and ETF Selling Weigh In On BTC",
+     "link": "https://bitcoinist.com/binance-outflows-and-etf-selling-weigh-in-on-btc/",
+     "source": "Bitcoinist",
+     "time": "2026-11-02T15:36:42+00:00",
+     "s": 0
+    },
+    {
      "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
      "link": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
      "source": "The Block",
      "time": "2026-11-02T15:01:36+00:00",
-     "s": 1
-    },
-    {
-     "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
-     "link": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-02T13:48:28+00:00",
-     "s": 0
-    },
-    {
-     "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
-     "link": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-02T13:21:47+00:00",
-     "s": 0
-    },
-    {
-     "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
-     "link": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase",
-     "source": "Decrypt",
-     "time": "2026-11-02T13:19:36+00:00",
      "s": 1
     }
    ]
@@ -170,20 +169,13 @@
   "SOL": {
    "pos": 0,
    "neg": 0,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
      "link": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-02T21:16:24+00:00",
-     "s": 0
-    },
-    {
-     "title": "Akash’s Solana plan would end current staking rewards while allowing new AKT issuance",
-     "link": "https://cryptoslate.com/akashs-solana-plan-would-end-current-staking-rewards-while-allowing-new-akt-issuance/",
-     "source": "CryptoSlate",
-     "time": "2026-11-02T13:40:29+00:00",
      "s": 0
     },
     {
@@ -212,7 +204,7 @@
   "XRP": {
    "pos": 1,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
     {
      "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
@@ -220,6 +212,13 @@
      "source": "CoinDesk",
      "time": "2026-11-02T12:37:24+00:00",
      "s": 1
+    },
+    {
+     "title": "Ripple XRP Could Lead Bank Payments in 5 Years",
+     "link": "https://bitcoinist.com/ripple-xrp-could-lead-bank-payments-in-5-years-copy/",
+     "source": "Bitcoinist",
+     "time": "2026-11-02T12:02:07+00:00",
+     "s": 0
     }
    ]
   },
