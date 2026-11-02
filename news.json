@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T16:49:32.790366+00:00",
+ "updated": "2026-11-02T17:45:04.692475+00:00",
  "window_hours": 48,
- "headlines": 78,
+ "headlines": 81,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 8,
-   "count": 25,
+   "neg": 9,
+   "count": 26,
    "items": [
+    {
+     "title": "Eclair tightens Bitcoin funding rules after unconfirmed inputs put Lightning payments at risk",
+     "link": "https://cryptoslate.com/eclair-tightens-bitcoin-funding-rules-after-unconfirmed-inputs-put-lightning-payments-at-risk/",
+     "source": "CryptoSlate",
+     "time": "2026-11-02T17:40:27+00:00",
+     "s": -1
+    },
     {
      "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
      "link": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
@@ -114,13 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-02T11:19:18+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin US Elections: Jobs Data Could Shake BTC",
-     "link": "https://bitcoinist.com/bitcoin-us-elections-jobs-data-could-shake-btc/",
-     "source": "Bitcoinist",
-     "time": "2026-11-02T10:08:32+00:00",
-     "s": 0
     }
    ]
   },
@@ -202,11 +202,11 @@
   },
   "XRP": {
    "pos": 1,
-   "neg": 1,
-   "count": 3,
+   "neg": 0,
+   "count": 2,
    "items": [
     {
-     "title": "XRP Ledger set to fix flaw that could let stablecoin partners print new tokens",
+     "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
      "link": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
      "source": "CoinDesk",
      "time": "2026-11-02T12:37:24+00:00",
@@ -218,13 +218,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-02T12:02:07+00:00",
      "s": 0
-    },
-    {
-     "title": "RLUSD supply fell 29% on XRPL. One XRP trading pool barely changed",
-     "link": "https://cryptoslate.com/rlusd-supply-fell-29-on-xrpl-one-xrp-trading-pool-barely-changed/",
-     "source": "CryptoSlate",
-     "time": "2026-11-02T03:40:42+00:00",
-     "s": -1
     }
    ]
   },
