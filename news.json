@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T11:40:19.322078+00:00",
+ "updated": "2026-11-02T12:44:36.198586+00:00",
  "window_hours": 48,
- "headlines": 72,
+ "headlines": 73,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -17,6 +17,20 @@
    "neg": 8,
    "count": 21,
    "items": [
+    {
+     "title": "Bitcoin catches a break from falling oil prices, but OPEC+ raises new Fed concerns",
+     "link": "https://cryptoslate.com/bitcoin-catches-a-break-from-falling-oil-prices-but-opec-raises-new-fed-concerns/",
+     "source": "CryptoSlate",
+     "time": "2026-11-02T12:40:41+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin's 'volatility curve' has a midterm bump",
+     "link": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
+     "source": "CoinDesk",
+     "time": "2026-11-02T12:30:17+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
@@ -102,24 +116,10 @@
      "s": -1
     },
     {
-     "title": "Bitcoin redemption freeze puts $136 million Aave market under scrutiny",
-     "link": "https://cryptoslate.com/bitcoin-redemption-freeze-puts-136-million-aave-market-under-scrutiny/",
-     "source": "CryptoSlate",
-     "time": "2026-11-01T17:40:00+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
      "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
      "source": "Decrypt",
      "time": "2026-11-01T16:01:02+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin Price Recovery: $78K in Sight as LIT Surges 18%",
-     "link": "https://bitcoinist.com/bitcoin-price-recovery-78k-in-sight-as-lit-surges-18/",
-     "source": "Bitcoinist",
-     "time": "2026-11-01T14:35:35+00:00",
      "s": 1
     }
    ]
@@ -173,10 +173,24 @@
    "items": []
   },
   "XRP": {
-   "pos": 0,
+   "pos": 1,
    "neg": 1,
-   "count": 2,
+   "count": 4,
    "items": [
+    {
+     "title": "XRP Ledger set to fix flaw that could let stablecoin partners print new tokens",
+     "link": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+     "source": "CoinDesk",
+     "time": "2026-11-02T12:37:24+00:00",
+     "s": 1
+    },
+    {
+     "title": "Ripple XRP Could Lead Bank Payments in 5 Years",
+     "link": "https://bitcoinist.com/ripple-xrp-could-lead-bank-payments-in-5-years-copy/",
+     "source": "Bitcoinist",
+     "time": "2026-11-02T12:02:07+00:00",
+     "s": 0
+    },
     {
      "title": "RLUSD supply fell 29% on XRPL. One XRP trading pool barely changed",
      "link": "https://cryptoslate.com/rlusd-supply-fell-29-on-xrpl-one-xrp-trading-pool-barely-changed/",
