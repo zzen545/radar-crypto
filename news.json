@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T04:46:56.301484+00:00",
+ "updated": "2026-11-02T05:48:52.627266+00:00",
  "window_hours": 48,
- "headlines": 62,
+ "headlines": 63,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -17,6 +17,13 @@
    "neg": 6,
    "count": 19,
    "items": [
+    {
+     "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
+     "link": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+     "source": "CoinDesk",
+     "time": "2026-11-02T05:18:12+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
      "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
@@ -114,13 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-10-31T15:26:46+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin turns 18: Has the original rebel grown up?",
-     "link": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-10-31T14:27:52+00:00",
-     "s": 0
     }
    ]
   },
