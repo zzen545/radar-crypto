@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T13:57:42.952283+00:00",
+ "updated": "2026-11-02T14:51:18.504455+00:00",
  "window_hours": 48,
- "headlines": 77,
+ "headlines": 78,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -17,6 +17,13 @@
    "neg": 9,
    "count": 27,
    "items": [
+    {
+     "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
+     "link": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-02T13:48:28+00:00",
+     "s": 0
+    },
     {
      "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
      "link": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -114,21 +121,28 @@
      "source": "Bitcoinist",
      "time": "2026-11-02T08:26:28+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
-     "link": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-02T07:50:36+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 0,
-   "neg": 1,
-   "count": 1,
+   "neg": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
+     "link": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
+     "source": "The Block",
+     "time": "2026-11-02T14:40:53+00:00",
+     "s": -1
+    },
+    {
+     "title": "Ethereum added 361,000 ETH to active stake while its total staking balance shrank",
+     "link": "https://cryptoslate.com/ethereums-active-staking-share-rose-while-october-withdrawals-outpaced-deposits/",
+     "source": "CryptoSlate",
+     "time": "2026-11-02T14:40:10+00:00",
+     "s": 0
+    },
     {
      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
      "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
