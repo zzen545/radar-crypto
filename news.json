@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T15:45:59.948352+00:00",
+ "updated": "2026-11-02T16:49:32.790366+00:00",
  "window_hours": 48,
- "headlines": 76,
+ "headlines": 78,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 4,
-   "neg": 6,
-   "count": 24,
+   "pos": 3,
+   "neg": 8,
+   "count": 25,
    "items": [
+    {
+     "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
+     "link": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
+     "source": "Decrypt",
+     "time": "2026-11-02T16:46:03+00:00",
+     "s": -1
+    },
+    {
+     "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+     "link": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+     "source": "CoinDesk",
+     "time": "2026-11-02T15:53:29+00:00",
+     "s": -1
+    },
+    {
+     "title": "Binance Outflows and ETF Selling Weigh In On BTC",
+     "link": "https://bitcoinist.com/binance-outflows-and-etf-selling-weigh-in-on-btc/",
+     "source": "Bitcoinist",
+     "time": "2026-11-02T15:36:42+00:00",
+     "s": 0
+    },
     {
      "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
      "link": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
@@ -100,35 +121,28 @@
      "source": "Bitcoinist",
      "time": "2026-11-02T10:08:32+00:00",
      "s": 0
-    },
-    {
-     "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
-     "link": "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-02T09:41:36+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Lightning’s year-old security fixes still missing from 71% of flagged nodes",
-     "link": "https://cryptoslate.com/bitcoin-lightnings-year-old-security-fixes-still-missing-from-71-of-flagged-nodes/",
-     "source": "CryptoSlate",
-     "time": "2026-11-02T08:55:32+00:00",
-     "s": 0
-    },
-    {
-     "title": "Live updates: Bitcoin posts small rise as Binance records $6 billion outflows after starting withdrawals",
-     "link": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
-     "source": "CoinDesk",
-     "time": "2026-11-02T08:49:30+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 0,
+   "pos": 1,
    "neg": 1,
-   "count": 2,
+   "count": 4,
    "items": [
+    {
+     "title": "ETH vaults lagged staking while dollar strategies beat Treasuries, Glassnode finds",
+     "link": "https://cryptoslate.com/eth-vaults-trailed-staking-as-glassnodes-wider-sample-grew-in-september/",
+     "source": "CryptoSlate",
+     "time": "2026-11-02T16:40:04+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+     "link": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
+     "source": "Decrypt",
+     "time": "2026-11-02T16:23:24+00:00",
+     "s": 1
+    },
     {
      "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
      "link": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
@@ -189,7 +203,7 @@
   "XRP": {
    "pos": 1,
    "neg": 1,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "XRP Ledger set to fix flaw that could let stablecoin partners print new tokens",
@@ -211,13 +225,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-02T03:40:42+00:00",
      "s": -1
-    },
-    {
-     "title": "XRP Supply in Focus as Ripple Unlocks $1.25 Billion in Tokens",
-     "link": "https://bitcoinist.com/xrp-supply-in-focus-as-ripple-unlocks-1-25-billion-in-tokens/",
-     "source": "Bitcoinist",
-     "time": "2026-11-01T13:37:31+00:00",
-     "s": 0
     }
    ]
   },
