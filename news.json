@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T12:44:36.198586+00:00",
+ "updated": "2026-11-02T13:57:42.952283+00:00",
  "window_hours": 48,
- "headlines": 73,
+ "headlines": 77,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,45 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 2,
-   "neg": 8,
-   "count": 21,
+   "pos": 3,
+   "neg": 9,
+   "count": 27,
    "items": [
+    {
+     "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+     "link": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-02T13:21:47+00:00",
+     "s": 0
+    },
+    {
+     "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
+     "link": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase",
+     "source": "Decrypt",
+     "time": "2026-11-02T13:19:36+00:00",
+     "s": 1
+    },
+    {
+     "title": "‘We found room for even more orange’: Michael Saylor’s Strategy scoops up another 811 bitcoin for $65.5 million",
+     "link": "https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275",
+     "source": "The Block",
+     "time": "2026-11-02T13:09:43+00:00",
+     "s": 0
+    },
+    {
+     "title": "Binance Hack: $6.3 Billion Theft Raises Bitcoin Fears",
+     "link": "https://bitcoinist.com/binance-hack-6-3-billion-theft-raises-bitcoin-fears/",
+     "source": "Bitcoinist",
+     "time": "2026-11-02T13:04:12+00:00",
+     "s": -1
+    },
+    {
+     "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+     "link": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-02T12:40:45+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin catches a break from falling oil prices, but OPEC+ raises new Fed concerns",
      "link": "https://cryptoslate.com/bitcoin-catches-a-break-from-falling-oil-prices-but-opec-raises-new-fed-concerns/",
@@ -67,6 +102,13 @@
      "s": 0
     },
     {
+     "title": "Live updates: Bitcoin posts small rise as Binance records $6 billion outflows after starting withdrawals",
+     "link": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
+     "source": "CoinDesk",
+     "time": "2026-11-02T08:49:30+00:00",
+     "s": 0
+    },
+    {
      "title": "BTCPay Server Hack Raises Alarm Over Bitcoin Wallet Security",
      "link": "https://bitcoinist.com/btcpay-server-hack-raises-alarm-over-bitcoin-wallet-security/",
      "source": "Bitcoinist",
@@ -79,48 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-02T07:50:36+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
-     "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
-     "source": "CoinDesk",
-     "time": "2026-11-02T06:46:41+00:00",
-     "s": -1
-    },
-    {
-     "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
-     "link": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
-     "source": "CoinDesk",
-     "time": "2026-11-02T05:18:12+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-     "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
-     "source": "CoinDesk",
-     "time": "2026-11-02T04:42:22+00:00",
-     "s": -1
-    },
-    {
-     "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
-     "link": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
-     "source": "CoinDesk",
-     "time": "2026-11-02T04:41:16+00:00",
-     "s": 0
-    },
-    {
-     "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
-     "link": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
-     "source": "The Block",
-     "time": "2026-11-02T04:11:05+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-     "link": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
-     "source": "Decrypt",
-     "time": "2026-11-01T16:01:02+00:00",
-     "s": 1
     }
    ]
   },
@@ -141,8 +141,22 @@
   "SOL": {
    "pos": 0,
    "neg": 1,
-   "count": 3,
+   "count": 5,
    "items": [
+    {
+     "title": "Akash’s Solana plan would end current staking rewards while allowing new AKT issuance",
+     "link": "https://cryptoslate.com/akashs-solana-plan-would-end-current-staking-rewards-while-allowing-new-akt-issuance/",
+     "source": "CryptoSlate",
+     "time": "2026-11-02T13:40:29+00:00",
+     "s": 0
+    },
+    {
+     "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+     "link": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-02T12:40:45+00:00",
+     "s": 0
+    },
     {
      "title": "Solana validators told to act immediately as critical Linux vulnerability emerges",
      "link": "https://cryptoslate.com/solana-validators-told-to-act-immediately-as-critical-linux-vulnerability-emerges/",
