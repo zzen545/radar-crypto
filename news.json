@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T10:44:39.758836+00:00",
+ "updated": "2026-11-03T11:39:50.227950+00:00",
  "window_hours": 48,
- "headlines": 105,
+ "headlines": 106,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,37 @@
  "coins": {
   "BTC": {
    "pos": 5,
-   "neg": 14,
-   "count": 37,
+   "neg": 15,
+   "count": 38,
    "items": [
+    {
+     "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
+     "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
+     "source": "CoinDesk",
+     "time": "2026-11-03T11:28:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
+     "link": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
+     "source": "Decrypt",
+     "time": "2026-11-03T11:22:10+00:00",
+     "s": -1
+    },
+    {
+     "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
+     "link": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+     "source": "CoinDesk",
+     "time": "2026-11-03T11:12:12+00:00",
+     "s": -1
+    },
+    {
+     "title": "Mercado Bitcoin Hack: $8M in Ethereum Moved After Attack",
+     "link": "https://bitcoinist.com/mercado-bitcoin-hack-8m-in-ethereum-moved-after-attack/",
+     "source": "Bitcoinist",
+     "time": "2026-11-03T10:48:50+00:00",
+     "s": -1
+    },
     {
      "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
      "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
@@ -93,42 +121,21 @@
      "source": "CoinDesk",
      "time": "2026-11-03T05:29:48+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
-     "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
-     "source": "CoinDesk",
-     "time": "2026-11-03T04:48:17+00:00",
-     "s": -1
-    },
-    {
-     "title": "Binance can cut a winning Bitcoin hedge even when customer assets are backed",
-     "link": "https://cryptoslate.com/binance-can-cut-a-winning-bitcoin-hedge-even-when-customer-assets-are-backed/",
-     "source": "CryptoSlate",
-     "time": "2026-11-03T02:10:33+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
-     "link": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
-     "source": "Decrypt",
-     "time": "2026-11-02T22:16:02+00:00",
-     "s": 1
-    },
-    {
-     "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
-     "link": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-02T21:54:41+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
-   "neg": 1,
-   "count": 3,
+   "neg": 2,
+   "count": 4,
    "items": [
+    {
+     "title": "Mercado Bitcoin Hack: $8M in Ethereum Moved After Attack",
+     "link": "https://bitcoinist.com/mercado-bitcoin-hack-8m-in-ethereum-moved-after-attack/",
+     "source": "Bitcoinist",
+     "time": "2026-11-03T10:48:50+00:00",
+     "s": -1
+    },
     {
      "title": "Tom Lee calls Ethereum’s 4% post-hack fall bullish",
      "link": "https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/",
