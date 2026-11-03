@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T07:59:25.556024+00:00",
+ "updated": "2026-11-03T08:53:15.062849+00:00",
  "window_hours": 48,
  "headlines": 102,
  "feeds_ok": [
@@ -15,13 +15,41 @@
   "BTC": {
    "pos": 4,
    "neg": 12,
-   "count": 33,
+   "count": 34,
    "items": [
+    {
+     "title": "Bitcoin’s price chart is flashing a red signal",
+     "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
+     "source": "CoinDesk",
+     "time": "2026-11-03T08:50:56+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Price Falls Below $77K as Market Fears Grow",
+     "link": "https://bitcoinist.com/bitcoin-price-falls-below-77k-as-market-fears-grow/",
+     "source": "Bitcoinist",
+     "time": "2026-11-03T08:38:20+00:00",
+     "s": -1
+    },
+    {
+     "title": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June",
+     "link": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-03T07:49:51+00:00",
+     "s": 0
+    },
     {
      "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
      "link": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
      "source": "CoinDesk",
      "time": "2026-11-03T05:36:56+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin miner Cipher posts $31 million profit as AI pivot begins",
+     "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins",
+     "source": "CoinDesk",
+     "time": "2026-11-03T05:29:48+00:00",
      "s": 0
     },
     {
@@ -93,54 +121,19 @@
      "source": "CoinDesk",
      "time": "2026-11-02T18:13:57+00:00",
      "s": 0
-    },
-    {
-     "title": "Mercado Bitcoin Suspends Withdrawals After $40M in Suspcious Transfers",
-     "link": "https://bitcoinist.com/mercado-bitcoin-suspends-withdrawals-after-40m-in-suspcious-transfers/",
-     "source": "Bitcoinist",
-     "time": "2026-11-02T18:06:50+00:00",
-     "s": -1
-    },
-    {
-     "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
-     "link": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
-     "source": "Decrypt",
-     "time": "2026-11-02T16:46:03+00:00",
-     "s": -1
-    },
-    {
-     "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
-     "link": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
-     "source": "CoinDesk",
-     "time": "2026-11-02T15:53:29+00:00",
-     "s": -1
-    },
-    {
-     "title": "Binance Outflows and ETF Selling Weigh In On BTC",
-     "link": "https://bitcoinist.com/binance-outflows-and-etf-selling-weigh-in-on-btc/",
-     "source": "Bitcoinist",
-     "time": "2026-11-02T15:36:42+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "Tom Lee calls Ethereum’s 4% post-hack fall bullish",
      "link": "https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/",
      "source": "CryptoSlate",
      "time": "2026-11-03T01:05:23+00:00",
-     "s": 0
-    },
-    {
-     "title": "Vitalik is making private Ethereum payments without a crypto website",
-     "link": "https://cryptoslate.com/vitalik-is-making-private-ethereum-payments-without-a-crypto-website/",
-     "source": "CryptoSlate",
-     "time": "2026-11-02T21:40:13+00:00",
      "s": 0
     },
     {
