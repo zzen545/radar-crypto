@@ -1,35 +1,36 @@
 {
- "updated": "2026-11-03T17:39:23.447770+00:00",
+ "updated": "2026-11-03T18:34:38.818996+00:00",
  "window_hours": 48,
- "headlines": 114,
+ "headlines": 108,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
    "pos": 5,
-   "neg": 18,
-   "count": 39,
+   "neg": 15,
+   "count": 35,
    "items": [
+    {
+     "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
+     "link": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
+     "source": "Decrypt",
+     "time": "2026-11-03T18:16:03+00:00",
+     "s": -1
+    },
     {
      "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
      "link": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-03T16:47:01+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin Price Risks Drop Below $76K as Oil Prices Slide 7%",
-     "link": "https://bitcoinist.com/bitcoin-price-risks-drop-below-76k-as-oil-prices-slide-7/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T16:13:50+00:00",
-     "s": -1
     },
     {
      "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
@@ -53,13 +54,6 @@
      "s": -1
     },
     {
-     "title": "Bitcoin Faces Fifth Weekly Loss as US Midterms Weigh In",
-     "link": "https://bitcoinist.com/bitcoin-faces-fifth-weekly-loss-as-us-midterms-weigh-in/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T14:12:38+00:00",
-     "s": -1
-    },
-    {
      "title": "Stronger US factory activity complicates Bitcoin’s hopes for lower rates",
      "link": "https://cryptoslate.com/stronger-us-factory-activity-complicates-bitcoins-hopes-for-lower-rates/",
      "source": "CryptoSlate",
@@ -72,13 +66,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-03T13:15:47+00:00",
      "s": 1
-    },
-    {
-     "title": "Liquid Network Restores Bitcoin Backing After Major Hack",
-     "link": "https://bitcoinist.com/liquid-network-restores-bitcoin-backing-after-major-hack/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T13:07:41+00:00",
-     "s": -1
     },
     {
      "title": "Bitcoin’s year-end liquidity hopes face a projected $150 billion Treasury cash rebuild",
@@ -121,13 +108,27 @@
      "source": "CoinDesk",
      "time": "2026-11-03T11:12:12+00:00",
      "s": -1
+    },
+    {
+     "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+     "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
+     "source": "CoinDesk",
+     "time": "2026-11-03T10:15:53+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-03T10:04:05+00:00",
+     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 4,
-   "neg": 2,
-   "count": 8,
+   "neg": 1,
+   "count": 7,
    "items": [
     {
      "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
@@ -163,13 +164,6 @@
      "source": "CoinDesk",
      "time": "2026-11-03T12:01:05+00:00",
      "s": 0
-    },
-    {
-     "title": "Mercado Bitcoin Hack: $8M in Ethereum Moved After Attack",
-     "link": "https://bitcoinist.com/mercado-bitcoin-hack-8m-in-ethereum-moved-after-attack/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T10:48:50+00:00",
-     "s": -1
     },
     {
      "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
@@ -208,18 +202,10 @@
    "items": []
   },
   "XRP": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "XRP Price Struggles Despite Surge in New Wallets",
-     "link": "https://bitcoinist.com/xrp-price-struggles-despite-surge-in-new-wallets/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T11:39:32+00:00",
-     "s": 1
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "DOGE": {
    "pos": 0,
