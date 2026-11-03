@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T19:39:52.762949+00:00",
+ "updated": "2026-11-03T20:33:42.657236+00:00",
  "window_hours": 48,
- "headlines": 117,
+ "headlines": 118,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 5,
+   "pos": 6,
    "neg": 18,
-   "count": 39,
+   "count": 40,
    "items": [
+    {
+     "title": "ETH/BTC Ratio Nears 0.03 as Ethereum Gains on Bitcoin",
+     "link": "https://bitcoinist.com/eth-btc-ratio-nears-03-ethereum-gains/",
+     "source": "Bitcoinist",
+     "time": "2026-11-03T19:45:16+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin Flips a 12-Year Midterm Pattern. Can It Hold Through Friday?",
      "link": "https://bitcoinist.com/bitcoin-flips-a-12-year-midterm-pattern-can-it-hold-through-friday/",
@@ -114,21 +121,21 @@
      "source": "The Block",
      "time": "2026-11-03T11:49:20+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
-     "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
-     "source": "CoinDesk",
-     "time": "2026-11-03T11:28:00+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 4,
+   "pos": 5,
    "neg": 1,
-   "count": 7,
+   "count": 8,
    "items": [
+    {
+     "title": "ETH/BTC Ratio Nears 0.03 as Ethereum Gains on Bitcoin",
+     "link": "https://bitcoinist.com/eth-btc-ratio-nears-03-ethereum-gains/",
+     "source": "Bitcoinist",
+     "time": "2026-11-03T19:45:16+00:00",
+     "s": 1
+    },
     {
      "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
      "link": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
@@ -158,7 +165,7 @@
      "s": 0
     },
     {
-     "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+     "title": "ETHGas wants to bring Wall Street to public Ethereum with institutional controls",
      "link": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
      "source": "CoinDesk",
      "time": "2026-11-03T12:01:05+00:00",
@@ -201,18 +208,10 @@
    "items": []
   },
   "XRP": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "XRP Price Struggles Despite Surge in New Wallets",
-     "link": "https://bitcoinist.com/xrp-price-struggles-despite-surge-in-new-wallets/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T11:39:32+00:00",
-     "s": 1
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "DOGE": {
    "pos": 0,
