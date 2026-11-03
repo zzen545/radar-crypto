@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T12:45:11.719123+00:00",
+ "updated": "2026-11-03T13:59:01.374733+00:00",
  "window_hours": 48,
- "headlines": 108,
+ "headlines": 109,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 5,
-   "neg": 16,
+   "pos": 6,
+   "neg": 17,
    "count": 39,
    "items": [
+    {
+     "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
+     "link": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-03T13:15:47+00:00",
+     "s": 1
+    },
+    {
+     "title": "Liquid Network Restores Bitcoin Backing After Major Hack",
+     "link": "https://bitcoinist.com/liquid-network-restores-bitcoin-backing-after-major-hack/",
+     "source": "Bitcoinist",
+     "time": "2026-11-03T13:07:41+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin’s year-end liquidity hopes face a projected $150 billion Treasury cash rebuild",
+     "link": "https://cryptoslate.com/bitcoins-year-end-liquidity-hopes-face-a-projected-150-billion-treasury-cash-rebuild/",
+     "source": "CryptoSlate",
+     "time": "2026-11-03T13:00:37+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin is breaking a midterm election pattern going back to 2014",
      "link": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
@@ -100,35 +121,28 @@
      "source": "CoinDesk",
      "time": "2026-11-03T08:56:48+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin’s latest chart signal looks a lot like the ones before its big crashes",
-     "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
-     "source": "CoinDesk",
-     "time": "2026-11-03T08:50:56+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin Price Falls Below $77K as Market Fears Grow",
-     "link": "https://bitcoinist.com/bitcoin-price-falls-below-77k-as-market-fears-grow/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T08:38:20+00:00",
-     "s": -1
-    },
-    {
-     "title": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June",
-     "link": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-03T07:49:51+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 1,
+   "pos": 2,
    "neg": 2,
-   "count": 5,
+   "count": 6,
    "items": [
+    {
+     "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
+     "link": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-03T13:15:47+00:00",
+     "s": 1
+    },
+    {
+     "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
+     "link": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
+     "source": "Decrypt",
+     "time": "2026-11-03T13:11:47+00:00",
+     "s": 0
+    },
     {
      "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
      "link": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
@@ -142,13 +156,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-03T10:48:50+00:00",
      "s": -1
-    },
-    {
-     "title": "Tom Lee calls Ethereum’s 4% post-hack fall bullish",
-     "link": "https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/",
-     "source": "CryptoSlate",
-     "time": "2026-11-03T01:05:23+00:00",
-     "s": 0
     },
     {
      "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
@@ -201,22 +208,15 @@
    "items": []
   },
   "XRP": {
-   "pos": 2,
+   "pos": 1,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "XRP Price Struggles Despite Surge in New Wallets",
      "link": "https://bitcoinist.com/xrp-price-struggles-despite-surge-in-new-wallets/",
      "source": "Bitcoinist",
      "time": "2026-11-03T11:39:32+00:00",
-     "s": 1
-    },
-    {
-     "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
-     "link": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
-     "source": "CoinDesk",
-     "time": "2026-11-02T12:37:24+00:00",
      "s": 1
     }
    ]
