@@ -1,41 +1,35 @@
 {
- "updated": "2026-11-03T22:15:40.059049+00:00",
+ "updated": "2026-11-03T23:10:22.497691+00:00",
  "window_hours": 48,
- "headlines": 123,
+ "headlines": 116,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
-   "pos": 6,
-   "neg": 17,
-   "count": 39,
+   "pos": 5,
+   "neg": 14,
+   "count": 33,
    "items": [
+    {
+     "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
+     "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
+     "source": "Decrypt",
+     "time": "2026-11-03T22:46:02+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin investors could pay the price as the Federal Reserve tightens bank lending rules",
      "link": "https://cryptoslate.com/bitcoin-investors-could-pay-the-price-as-the-federal-reserve-tightens-bank-lending-rules/",
      "source": "CryptoSlate",
      "time": "2026-11-03T21:20:34+00:00",
-     "s": 0
-    },
-    {
-     "title": "ETH/BTC Ratio Nears 0.03 as Ethereum Gains on Bitcoin",
-     "link": "https://bitcoinist.com/eth-btc-ratio-nears-03-ethereum-gains/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T19:45:16+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin Flips a 12-Year Midterm Pattern. Can It Hold Through Friday?",
-     "link": "https://bitcoinist.com/bitcoin-flips-a-12-year-midterm-pattern-can-it-hold-through-friday/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T19:27:34+00:00",
      "s": 0
     },
     {
@@ -51,13 +45,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-03T16:47:01+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin Price Risks Drop Below $76K as Oil Prices Slide 7%",
-     "link": "https://bitcoinist.com/bitcoin-price-risks-drop-below-76k-as-oil-prices-slide-7/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T16:13:50+00:00",
-     "s": -1
     },
     {
      "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
@@ -81,13 +68,6 @@
      "s": -1
     },
     {
-     "title": "Bitcoin Faces Fifth Weekly Loss as US Midterms Weigh In",
-     "link": "https://bitcoinist.com/bitcoin-faces-fifth-weekly-loss-as-us-midterms-weigh-in/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T14:12:38+00:00",
-     "s": -1
-    },
-    {
      "title": "Stronger US factory activity complicates Bitcoin’s hopes for lower rates",
      "link": "https://cryptoslate.com/stronger-us-factory-activity-complicates-bitcoins-hopes-for-lower-rates/",
      "source": "CryptoSlate",
@@ -102,40 +82,54 @@
      "s": 1
     },
     {
-     "title": "Liquid Network Restores Bitcoin Backing After Major Hack",
-     "link": "https://bitcoinist.com/liquid-network-restores-bitcoin-backing-after-major-hack/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T13:07:41+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin’s year-end liquidity hopes face a projected $150 billion Treasury cash rebuild",
-     "link": "https://cryptoslate.com/bitcoins-year-end-liquidity-hopes-face-a-projected-150-billion-treasury-cash-rebuild/",
-     "source": "CryptoSlate",
-     "time": "2026-11-03T13:00:37+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin is breaking a midterm election pattern going back to 2014",
      "link": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
      "source": "CoinDesk",
      "time": "2026-11-03T12:30:09+00:00",
      "s": 0
+    },
+    {
+     "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
+     "source": "The Block",
+     "time": "2026-11-03T11:49:20+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
+     "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
+     "source": "CoinDesk",
+     "time": "2026-11-03T11:28:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
+     "link": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
+     "source": "Decrypt",
+     "time": "2026-11-03T11:22:10+00:00",
+     "s": -1
+    },
+    {
+     "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
+     "link": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+     "source": "CoinDesk",
+     "time": "2026-11-03T11:12:12+00:00",
+     "s": -1
+    },
+    {
+     "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+     "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
+     "source": "CoinDesk",
+     "time": "2026-11-03T10:15:53+00:00",
+     "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 5,
+   "pos": 4,
    "neg": 1,
-   "count": 8,
+   "count": 7,
    "items": [
-    {
-     "title": "ETH/BTC Ratio Nears 0.03 as Ethereum Gains on Bitcoin",
-     "link": "https://bitcoinist.com/eth-btc-ratio-nears-03-ethereum-gains/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T19:45:16+00:00",
-     "s": 1
-    },
     {
      "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
      "link": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
