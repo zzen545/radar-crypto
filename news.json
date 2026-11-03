@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T13:59:01.374733+00:00",
+ "updated": "2026-11-03T14:51:08.006744+00:00",
  "window_hours": 48,
- "headlines": 109,
+ "headlines": 110,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 17,
-   "count": 39,
+   "neg": 18,
+   "count": 41,
    "items": [
+    {
+     "title": "Bitcoin Faces Fifth Weekly Loss as US Midterms Weigh In",
+     "link": "https://bitcoinist.com/bitcoin-faces-fifth-weekly-loss-as-us-midterms-weigh-in/",
+     "source": "Bitcoinist",
+     "time": "2026-11-03T14:12:38+00:00",
+     "s": -1
+    },
+    {
+     "title": "Stronger US factory activity complicates Bitcoin’s hopes for lower rates",
+     "link": "https://cryptoslate.com/stronger-us-factory-activity-complicates-bitcoins-hopes-for-lower-rates/",
+     "source": "CryptoSlate",
+     "time": "2026-11-03T14:00:45+00:00",
+     "s": 0
+    },
     {
      "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
      "link": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -107,28 +121,28 @@
      "source": "Bitcoinist",
      "time": "2026-11-03T09:24:42+00:00",
      "s": 1
-    },
-    {
-     "title": "BTCPay urges Bitcoin merchants to replace wallets after hackers steal an estimated $1.6 million",
-     "link": "https://cryptoslate.com/btcpay-urges-bitcoin-merchants-to-replace-wallets-after-hackers-steal-an-estimated-1-6-million/",
-     "source": "CryptoSlate",
-     "time": "2026-11-03T09:20:39+00:00",
-     "s": 0
-    },
-    {
-     "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
-     "link": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
-     "source": "CoinDesk",
-     "time": "2026-11-03T08:56:48+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
-   "pos": 2,
+   "pos": 4,
    "neg": 2,
-   "count": 6,
+   "count": 8,
    "items": [
+    {
+     "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
+     "link": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
+     "source": "Decrypt",
+     "time": "2026-11-03T14:01:02+00:00",
+     "s": 1
+    },
+    {
+     "title": "Ethereum Layer 2 Aztec gets Tierra V6 upgrade to support faster private apps",
+     "link": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
+     "source": "The Block",
+     "time": "2026-11-03T14:00:00+00:00",
+     "s": 1
+    },
     {
      "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
      "link": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
