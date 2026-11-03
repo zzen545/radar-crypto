@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T14:51:08.006744+00:00",
+ "updated": "2026-11-03T15:35:06.888891+00:00",
  "window_hours": 48,
- "headlines": 110,
+ "headlines": 111,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,22 @@
   "BTC": {
    "pos": 6,
    "neg": 18,
-   "count": 41,
+   "count": 42,
    "items": [
+    {
+     "title": "Bitcoin and Treasury yields fall together in rare divergence as $80,000 recovery fails",
+     "link": "https://cryptoslate.com/bitcoin-and-treasury-yields-fall-together-in-rare-divergence-as-80000-recovery-fails/",
+     "source": "CryptoSlate",
+     "time": "2026-11-03T15:30:24+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Lightning fix blocks a probe linking private channels to onchain funding",
+     "link": "https://cryptoslate.com/bitcoin-lightning-fix-blocks-a-probe-linking-private-channels-to-onchain-funding/",
+     "source": "CryptoSlate",
+     "time": "2026-11-03T15:00:18+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin Faces Fifth Weekly Loss as US Midterms Weigh In",
      "link": "https://bitcoinist.com/bitcoin-faces-fifth-weekly-loss-as-us-midterms-weigh-in/",
@@ -107,20 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-03T10:04:05+00:00",
      "s": -1
-    },
-    {
-     "title": "Live news: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
-     "link": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
-     "source": "CoinDesk",
-     "time": "2026-11-03T09:50:16+00:00",
-     "s": -1
-    },
-    {
-     "title": "Strive Buys More Bitcoin as Holdings Reach 43,124 BTC",
-     "link": "https://bitcoinist.com/strive-buys-more-bitcoin-as-holdings-reach-43124-btc/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T09:24:42+00:00",
-     "s": 1
     }
    ]
   },
