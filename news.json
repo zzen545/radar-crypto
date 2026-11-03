@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T08:53:15.062849+00:00",
+ "updated": "2026-11-03T09:44:58.444895+00:00",
  "window_hours": 48,
- "headlines": 102,
+ "headlines": 104,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,16 +13,37 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 4,
-   "neg": 12,
-   "count": 34,
+   "pos": 5,
+   "neg": 13,
+   "count": 36,
    "items": [
     {
-     "title": "Bitcoin’s price chart is flashing a red signal",
+     "title": "Strive Buys More Bitcoin as Holdings Reach 43,124 BTC",
+     "link": "https://bitcoinist.com/strive-buys-more-bitcoin-as-holdings-reach-43124-btc/",
+     "source": "Bitcoinist",
+     "time": "2026-11-03T09:24:42+00:00",
+     "s": 1
+    },
+    {
+     "title": "BTCPay urges Bitcoin merchants to replace wallets after hackers steal an estimated $1.6 million",
+     "link": "https://cryptoslate.com/btcpay-urges-bitcoin-merchants-to-replace-wallets-after-hackers-steal-an-estimated-1-6-million/",
+     "source": "CryptoSlate",
+     "time": "2026-11-03T09:20:39+00:00",
+     "s": 0
+    },
+    {
+     "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
+     "link": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
+     "source": "CoinDesk",
+     "time": "2026-11-03T08:56:48+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin’s latest chart signal looks a lot like the ones before its big crashes",
      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
      "source": "CoinDesk",
      "time": "2026-11-03T08:50:56+00:00",
-     "s": 0
+     "s": -1
     },
     {
      "title": "Bitcoin Price Falls Below $77K as Market Fears Grow",
@@ -74,13 +95,6 @@
      "s": 0
     },
     {
-     "title": "Strategy’s deployable cash falls 45% as buybacks outpace Bitcoin purchases",
-     "link": "https://cryptoslate.com/strategys-deployable-cash-falls-45-as-buybacks-outpace-bitcoin-purchases/",
-     "source": "CryptoSlate",
-     "time": "2026-11-02T22:25:25+00:00",
-     "s": -1
-    },
-    {
      "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
      "link": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
      "source": "Decrypt",
@@ -107,20 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-02T19:27:58+00:00",
      "s": -1
-    },
-    {
-     "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
-     "link": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-02T19:05:35+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
-     "link": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
-     "source": "CoinDesk",
-     "time": "2026-11-02T18:13:57+00:00",
-     "s": 0
     }
    ]
   },
@@ -189,7 +189,7 @@
   "XRP": {
    "pos": 1,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
@@ -197,13 +197,6 @@
      "source": "CoinDesk",
      "time": "2026-11-02T12:37:24+00:00",
      "s": 1
-    },
-    {
-     "title": "Ripple XRP Could Lead Bank Payments in 5 Years",
-     "link": "https://bitcoinist.com/ripple-xrp-could-lead-bank-payments-in-5-years-copy/",
-     "source": "Bitcoinist",
-     "time": "2026-11-02T12:02:07+00:00",
-     "s": 0
     }
    ]
   },
