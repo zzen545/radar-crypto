@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T09:44:58.444895+00:00",
+ "updated": "2026-11-03T10:44:39.758836+00:00",
  "window_hours": 48,
- "headlines": 104,
+ "headlines": 105,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,30 @@
  "coins": {
   "BTC": {
    "pos": 5,
-   "neg": 13,
-   "count": 36,
+   "neg": 14,
+   "count": 37,
    "items": [
+    {
+     "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+     "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
+     "source": "CoinDesk",
+     "time": "2026-11-03T10:15:53+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-03T10:04:05+00:00",
+     "s": -1
+    },
+    {
+     "title": "Live news: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
+     "link": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
+     "source": "CoinDesk",
+     "time": "2026-11-03T09:50:16+00:00",
+     "s": -1
+    },
     {
      "title": "Strive Buys More Bitcoin as Holdings Reach 43,124 BTC",
      "link": "https://bitcoinist.com/strive-buys-more-bitcoin-as-holdings-reach-43124-btc/",
@@ -88,13 +109,6 @@
      "s": 0
     },
     {
-     "title": "Tether freezes $4.5 million as Mercado Bitcoin hacker holds $46 million in crypto",
-     "link": "https://cryptoslate.com/tether-freezes-4-5-million-as-mercado-bitcoin-hacker-holds-46-million-in-crypto/",
-     "source": "CryptoSlate",
-     "time": "2026-11-02T23:00:12+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
      "link": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
      "source": "Decrypt",
@@ -107,20 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-02T21:54:41+00:00",
      "s": 0
-    },
-    {
-     "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
-     "link": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
-     "source": "The Block",
-     "time": "2026-11-02T20:19:49+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-     "link": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-02T19:27:58+00:00",
-     "s": -1
     }
    ]
   },
