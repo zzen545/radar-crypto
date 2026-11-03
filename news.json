@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T06:46:35.343274+00:00",
+ "updated": "2026-11-03T07:59:25.556024+00:00",
  "window_hours": 48,
  "headlines": 102,
  "feeds_ok": [
@@ -162,8 +162,15 @@
   "SOL": {
    "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Solana study finds wider spreads outside aggregators at five of six sampled pools",
+     "link": "https://cryptoslate.com/solana-study-finds-wider-spreads-outside-aggregators-at-five-of-six-sampled-pools/",
+     "source": "CryptoSlate",
+     "time": "2026-11-03T06:50:46+00:00",
+     "s": 0
+    },
     {
      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
      "link": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
