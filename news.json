@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T20:33:42.657236+00:00",
+ "updated": "2026-11-03T21:29:57.419086+00:00",
  "window_hours": 48,
- "headlines": 118,
+ "headlines": 121,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 18,
+   "neg": 17,
    "count": 40,
    "items": [
+    {
+     "title": "Bitcoin investors could pay the price as the Federal Reserve tightens bank lending rules",
+     "link": "https://cryptoslate.com/bitcoin-investors-could-pay-the-price-as-the-federal-reserve-tightens-bank-lending-rules/",
+     "source": "CryptoSlate",
+     "time": "2026-11-03T21:20:34+00:00",
+     "s": 0
+    },
     {
      "title": "ETH/BTC Ratio Nears 0.03 as Ethereum Gains on Bitcoin",
      "link": "https://bitcoinist.com/eth-btc-ratio-nears-03-ethereum-gains/",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-11-03T12:30:09+00:00",
      "s": 0
-    },
-    {
-     "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
-     "link": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
-     "source": "The Block",
-     "time": "2026-11-03T11:49:20+00:00",
-     "s": -1
     }
    ]
   },
