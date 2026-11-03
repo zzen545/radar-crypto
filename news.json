@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T00:39:05.235021+00:00",
+ "updated": "2026-11-03T01:50:22.639842+00:00",
  "window_hours": 48,
- "headlines": 99,
+ "headlines": 100,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -127,8 +127,15 @@
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "Tom Lee calls Ethereum’s 4% post-hack fall bullish",
+     "link": "https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/",
+     "source": "CryptoSlate",
+     "time": "2026-11-03T01:05:23+00:00",
+     "s": 0
+    },
     {
      "title": "Vitalik is making private Ethereum payments without a crypto website",
      "link": "https://cryptoslate.com/vitalik-is-making-private-ethereum-payments-without-a-crypto-website/",
