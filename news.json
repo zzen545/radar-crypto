@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T21:29:57.419086+00:00",
+ "updated": "2026-11-03T22:15:40.059049+00:00",
  "window_hours": 48,
- "headlines": 121,
+ "headlines": 123,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 6,
    "neg": 17,
-   "count": 40,
+   "count": 39,
    "items": [
     {
      "title": "Bitcoin investors could pay the price as the Federal Reserve tightens bank lending rules",
