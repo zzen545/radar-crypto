@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T01:50:22.639842+00:00",
+ "updated": "2026-11-03T02:38:17.268339+00:00",
  "window_hours": 48,
  "headlines": 100,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 4,
    "neg": 13,
-   "count": 34,
+   "count": 35,
    "items": [
+    {
+     "title": "Binance can cut a winning Bitcoin hedge even when customer assets are backed",
+     "link": "https://cryptoslate.com/binance-can-cut-a-winning-bitcoin-hedge-even-when-customer-assets-are-backed/",
+     "source": "CryptoSlate",
+     "time": "2026-11-03T02:10:33+00:00",
+     "s": 0
+    },
     {
      "title": "Tether freezes $4.5 million as Mercado Bitcoin hacker holds $46 million in crypto",
      "link": "https://cryptoslate.com/tether-freezes-4-5-million-as-mercado-bitcoin-hacker-holds-46-million-in-crypto/",
@@ -114,20 +121,13 @@
      "source": "Bitcoinist",
      "time": "2026-11-02T15:36:42+00:00",
      "s": 0
-    },
-    {
-     "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
-     "link": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
-     "source": "The Block",
-     "time": "2026-11-02T15:01:36+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 5,
+   "count": 4,
    "items": [
     {
      "title": "Tom Lee calls Ethereum’s 4% post-hack fall bullish",
@@ -141,13 +141,6 @@
      "link": "https://cryptoslate.com/vitalik-is-making-private-ethereum-payments-without-a-crypto-website/",
      "source": "CryptoSlate",
      "time": "2026-11-02T21:40:13+00:00",
-     "s": 0
-    },
-    {
-     "title": "ETH vaults lagged staking while dollar strategies beat Treasuries, Glassnode finds",
-     "link": "https://cryptoslate.com/eth-vaults-trailed-staking-as-glassnodes-wider-sample-grew-in-september/",
-     "source": "CryptoSlate",
-     "time": "2026-11-02T16:40:04+00:00",
      "s": 0
     },
     {
