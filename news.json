@@ -1,23 +1,29 @@
 {
- "updated": "2026-11-03T18:34:38.818996+00:00",
+ "updated": "2026-11-03T19:39:52.762949+00:00",
  "window_hours": 48,
- "headlines": 108,
+ "headlines": 117,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
    "pos": 5,
-   "neg": 15,
-   "count": 35,
+   "neg": 18,
+   "count": 39,
    "items": [
+    {
+     "title": "Bitcoin Flips a 12-Year Midterm Pattern. Can It Hold Through Friday?",
+     "link": "https://bitcoinist.com/bitcoin-flips-a-12-year-midterm-pattern-can-it-hold-through-friday/",
+     "source": "Bitcoinist",
+     "time": "2026-11-03T19:27:34+00:00",
+     "s": 0
+    },
     {
      "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
      "link": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
@@ -31,6 +37,13 @@
      "source": "Cointelegraph",
      "time": "2026-11-03T16:47:01+00:00",
      "s": 1
+    },
+    {
+     "title": "Bitcoin Price Risks Drop Below $76K as Oil Prices Slide 7%",
+     "link": "https://bitcoinist.com/bitcoin-price-risks-drop-below-76k-as-oil-prices-slide-7/",
+     "source": "Bitcoinist",
+     "time": "2026-11-03T16:13:50+00:00",
+     "s": -1
     },
     {
      "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
@@ -54,6 +67,13 @@
      "s": -1
     },
     {
+     "title": "Bitcoin Faces Fifth Weekly Loss as US Midterms Weigh In",
+     "link": "https://bitcoinist.com/bitcoin-faces-fifth-weekly-loss-as-us-midterms-weigh-in/",
+     "source": "Bitcoinist",
+     "time": "2026-11-03T14:12:38+00:00",
+     "s": -1
+    },
+    {
      "title": "Stronger US factory activity complicates Bitcoin’s hopes for lower rates",
      "link": "https://cryptoslate.com/stronger-us-factory-activity-complicates-bitcoins-hopes-for-lower-rates/",
      "source": "CryptoSlate",
@@ -66,6 +86,13 @@
      "source": "Cointelegraph",
      "time": "2026-11-03T13:15:47+00:00",
      "s": 1
+    },
+    {
+     "title": "Liquid Network Restores Bitcoin Backing After Major Hack",
+     "link": "https://bitcoinist.com/liquid-network-restores-bitcoin-backing-after-major-hack/",
+     "source": "Bitcoinist",
+     "time": "2026-11-03T13:07:41+00:00",
+     "s": -1
     },
     {
      "title": "Bitcoin’s year-end liquidity hopes face a projected $150 billion Treasury cash rebuild",
@@ -94,34 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-11-03T11:28:00+00:00",
      "s": 0
-    },
-    {
-     "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
-     "link": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
-     "source": "Decrypt",
-     "time": "2026-11-03T11:22:10+00:00",
-     "s": -1
-    },
-    {
-     "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
-     "link": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
-     "source": "CoinDesk",
-     "time": "2026-11-03T11:12:12+00:00",
-     "s": -1
-    },
-    {
-     "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
-     "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
-     "source": "CoinDesk",
-     "time": "2026-11-03T10:15:53+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
-     "link": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-03T10:04:05+00:00",
-     "s": -1
     }
    ]
   },
@@ -202,10 +201,18 @@
    "items": []
   },
   "XRP": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "XRP Price Struggles Despite Surge in New Wallets",
+     "link": "https://bitcoinist.com/xrp-price-struggles-despite-surge-in-new-wallets/",
+     "source": "Bitcoinist",
+     "time": "2026-11-03T11:39:32+00:00",
+     "s": 1
+    }
+   ]
   },
   "DOGE": {
    "pos": 0,
