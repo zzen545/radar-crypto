@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T11:39:50.227950+00:00",
+ "updated": "2026-11-03T12:45:11.719123+00:00",
  "window_hours": 48,
- "headlines": 106,
+ "headlines": 108,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 5,
-   "neg": 15,
-   "count": 38,
+   "neg": 16,
+   "count": 39,
    "items": [
+    {
+     "title": "Bitcoin is breaking a midterm election pattern going back to 2014",
+     "link": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
+     "source": "CoinDesk",
+     "time": "2026-11-03T12:30:09+00:00",
+     "s": 0
+    },
+    {
+     "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
+     "source": "The Block",
+     "time": "2026-11-03T11:49:20+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
      "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
@@ -107,28 +121,21 @@
      "source": "Cointelegraph",
      "time": "2026-11-03T07:49:51+00:00",
      "s": 0
-    },
-    {
-     "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
-     "link": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
-     "source": "CoinDesk",
-     "time": "2026-11-03T05:36:56+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin miner Cipher posts $31 million profit as AI pivot begins",
-     "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins",
-     "source": "CoinDesk",
-     "time": "2026-11-03T05:29:48+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 2,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+     "link": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
+     "source": "CoinDesk",
+     "time": "2026-11-03T12:01:05+00:00",
+     "s": 0
+    },
     {
      "title": "Mercado Bitcoin Hack: $8M in Ethereum Moved After Attack",
      "link": "https://bitcoinist.com/mercado-bitcoin-hack-8m-in-ethereum-moved-after-attack/",
@@ -194,10 +201,17 @@
    "items": []
   },
   "XRP": {
-   "pos": 1,
+   "pos": 2,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "XRP Price Struggles Despite Surge in New Wallets",
+     "link": "https://bitcoinist.com/xrp-price-struggles-despite-surge-in-new-wallets/",
+     "source": "Bitcoinist",
+     "time": "2026-11-03T11:39:32+00:00",
+     "s": 1
+    },
     {
      "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
      "link": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
