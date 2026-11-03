@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T15:35:06.888891+00:00",
+ "updated": "2026-11-03T16:41:30.635118+00:00",
  "window_hours": 48,
- "headlines": 111,
+ "headlines": 112,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,22 @@
   "BTC": {
    "pos": 6,
    "neg": 18,
-   "count": 42,
+   "count": 41,
    "items": [
+    {
+     "title": "Bitcoin Price Risks Drop Below $76K as Oil Prices Slide 7%",
+     "link": "https://bitcoinist.com/bitcoin-price-risks-drop-below-76k-as-oil-prices-slide-7/",
+     "source": "Bitcoinist",
+     "time": "2026-11-03T16:13:50+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-03T15:44:42+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin and Treasury yields fall together in rare divergence as $80,000 recovery fails",
      "link": "https://cryptoslate.com/bitcoin-and-treasury-yields-fall-together-in-rare-divergence-as-80000-recovery-fails/",
@@ -44,6 +58,13 @@
      "source": "CryptoSlate",
      "time": "2026-11-03T14:00:45+00:00",
      "s": 0
+    },
+    {
+     "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+     "link": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-03T13:30:00+00:00",
+     "s": 1
     },
     {
      "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
@@ -99,27 +120,6 @@
      "link": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
      "source": "CoinDesk",
      "time": "2026-11-03T11:12:12+00:00",
-     "s": -1
-    },
-    {
-     "title": "Mercado Bitcoin Hack: $8M in Ethereum Moved After Attack",
-     "link": "https://bitcoinist.com/mercado-bitcoin-hack-8m-in-ethereum-moved-after-attack/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T10:48:50+00:00",
-     "s": -1
-    },
-    {
-     "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
-     "link": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
-     "source": "CoinDesk",
-     "time": "2026-11-03T10:15:53+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
-     "link": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-03T10:04:05+00:00",
      "s": -1
     }
    ]
@@ -190,15 +190,8 @@
   "SOL": {
    "pos": 0,
    "neg": 0,
-   "count": 3,
+   "count": 2,
    "items": [
-    {
-     "title": "Solana study finds wider spreads outside aggregators at five of six sampled pools",
-     "link": "https://cryptoslate.com/solana-study-finds-wider-spreads-outside-aggregators-at-five-of-six-sampled-pools/",
-     "source": "CryptoSlate",
-     "time": "2026-11-03T06:50:46+00:00",
-     "s": 0
-    },
     {
      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
      "link": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
