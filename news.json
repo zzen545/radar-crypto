@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T03:38:25.718233+00:00",
+ "updated": "2026-11-03T04:39:54.104646+00:00",
  "window_hours": 48,
  "headlines": 102,
  "feeds_ok": [
@@ -181,18 +181,10 @@
    ]
   },
   "BNB": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "BNB’s $99 million ETF inflows came almost entirely before Binance’s hack",
-     "link": "https://cryptoslate.com/bnbs-99-million-etf-inflows-came-almost-entirely-before-binances-hack/",
-     "source": "CryptoSlate",
-     "time": "2026-11-02T18:40:47+00:00",
-     "s": 1
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "XRP": {
    "pos": 1,
