@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-03T02:38:17.268339+00:00",
+ "updated": "2026-11-03T03:38:25.718233+00:00",
  "window_hours": 48,
- "headlines": 100,
+ "headlines": 102,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 4,
-   "neg": 13,
-   "count": 35,
+   "neg": 12,
+   "count": 34,
    "items": [
     {
      "title": "Binance can cut a winning Bitcoin hedge even when customer assets are backed",
@@ -95,13 +95,6 @@
      "s": -1
     },
     {
-     "title": "Eclair tightens Bitcoin funding rules after unconfirmed inputs put Lightning payments at risk",
-     "link": "https://cryptoslate.com/eclair-tightens-bitcoin-funding-rules-after-unconfirmed-inputs-put-lightning-payments-at-risk/",
-     "source": "CryptoSlate",
-     "time": "2026-11-02T17:40:27+00:00",
-     "s": -1
-    },
-    {
      "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
      "link": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
      "source": "Decrypt",
@@ -121,6 +114,13 @@
      "source": "Bitcoinist",
      "time": "2026-11-02T15:36:42+00:00",
      "s": 0
+    },
+    {
+     "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
+     "link": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
+     "source": "The Block",
+     "time": "2026-11-02T15:01:36+00:00",
+     "s": 1
     }
    ]
   },
