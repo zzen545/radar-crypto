@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T23:56:49.297348+00:00",
+ "updated": "2026-11-03T00:39:05.235021+00:00",
  "window_hours": 48,
  "headlines": 99,
  "feeds_ok": [
@@ -127,7 +127,7 @@
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 5,
+   "count": 4,
    "items": [
     {
      "title": "Vitalik is making private Ethereum payments without a crypto website",
@@ -156,13 +156,6 @@
      "source": "The Block",
      "time": "2026-11-02T14:40:53+00:00",
      "s": -1
-    },
-    {
-     "title": "Ethereum added 361,000 ETH to active stake while its total staking balance shrank",
-     "link": "https://cryptoslate.com/ethereums-active-staking-share-rose-while-october-withdrawals-outpaced-deposits/",
-     "source": "CryptoSlate",
-     "time": "2026-11-02T14:40:10+00:00",
-     "s": 0
     }
    ]
   },
