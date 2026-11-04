@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:46:27.341192+00:00",
+ "updated": "2026-11-04T20:39:36.415838+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 9,
    "neg": 10,
-   "count": 28,
+   "count": 29,
    "items": [
+    {
+     "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+     "link": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
+     "source": "The Block",
+     "time": "2026-11-04T20:09:58+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin rockets above $80,000 for first time since Binance hack despite Democrats sweep, but a historical crash looms",
      "link": "https://cryptoslate.com/bitcoin-rockets-above-80000-for-first-time-since-binance-hack-despite-democrats-sweep-but-a-historical-crash-looms/",
@@ -114,13 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-04T09:38:07+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
-     "link": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-04T07:25:47+00:00",
-     "s": -1
     }
    ]
   },
