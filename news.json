@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T04:42:13.362461+00:00",
+ "updated": "2026-11-04T05:45:16.548953+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 13,
-   "count": 31,
+   "neg": 12,
+   "count": 29,
    "items": [
+    {
+     "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
+     "link": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
+     "source": "CoinDesk",
+     "time": "2026-11-04T05:14:12+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
+     "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
+     "source": "CoinDesk",
+     "time": "2026-11-04T04:48:16+00:00",
+     "s": -1
+    },
     {
      "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
      "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
@@ -107,27 +121,13 @@
      "source": "CoinDesk",
      "time": "2026-11-03T12:30:09+00:00",
      "s": 0
-    },
-    {
-     "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
-     "link": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
-     "source": "The Block",
-     "time": "2026-11-03T11:49:20+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
-     "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
-     "source": "CoinDesk",
-     "time": "2026-11-03T11:28:00+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 5,
-   "neg": 1,
-   "count": 8,
+   "neg": 0,
+   "count": 7,
    "items": [
     {
      "title": "ETH/BTC Ratio Nears 0.03 as Ethereum Gains on Bitcoin",
@@ -177,13 +177,6 @@
      "source": "Decrypt",
      "time": "2026-11-02T16:23:24+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
-     "link": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
-     "source": "The Block",
-     "time": "2026-11-02T14:40:53+00:00",
-     "s": -1
     }
    ]
   },
