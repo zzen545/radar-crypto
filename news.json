@@ -1,22 +1,30 @@
 {
- "updated": "2026-11-04T13:57:18.401020+00:00",
+ "updated": "2026-11-04T14:50:20.724361+00:00",
  "window_hours": 48,
- "headlines": 128,
+ "headlines": 119,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 6,
    "neg": 10,
-   "count": 28,
+   "count": 23,
    "items": [
+    {
+     "title": "Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide",
+     "link": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+     "source": "CoinDesk",
+     "time": "2026-11-04T14:00:53+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin Shrugs Off Midterms as Experts Say Democratic Sweep Was 'Priced In'",
      "link": "https://decrypt.co/382492/bitcoin-shrugs-off-midterms-as-experts-say-democratic-sweep-was-priced-in",
@@ -29,13 +37,6 @@
      "link": "https://cryptoslate.com/bitcoin-rebounds-after-democratic-sweep-despite-three-days-of-etf-outflows/",
      "source": "CryptoSlate",
      "time": "2026-11-04T12:30:18+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin Price Outlook: Falling Oil Fuels Recovery Hopes",
-     "link": "https://bitcoinist.com/bitcoin-price-outlook-falling-oil-fuels-recovery-hopes/",
-     "source": "Bitcoinist",
-     "time": "2026-11-04T11:48:19+00:00",
      "s": 1
     },
     {
@@ -53,24 +54,10 @@
      "s": 0
     },
     {
-     "title": "Bitcoin Price Analysis: Can BTC Reach $80K?",
-     "link": "https://bitcoinist.com/bitcoin-price-analysis-can-btc-reach-80k/",
-     "source": "Bitcoinist",
-     "time": "2026-11-04T10:07:45+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’",
      "link": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-04T09:38:07+00:00",
-     "s": 0
-    },
-    {
-     "title": "US Midterm Elections Shake Markets: Could Bitcoin Be Ready for a Comeback?",
-     "link": "https://bitcoinist.com/us-midterm-elections-shake-markets-could-bitcoin-be-ready-for-a-comeback/",
-     "source": "Bitcoinist",
-     "time": "2026-11-04T09:27:51+00:00",
      "s": 0
     },
     {
@@ -116,18 +103,32 @@
      "s": -1
     },
     {
-     "title": "Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide",
-     "link": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
-     "source": "CoinDesk",
-     "time": "2026-11-04T00:00:00+00:00",
+     "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
+     "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
+     "source": "Decrypt",
+     "time": "2026-11-03T22:46:02+00:00",
+     "s": 0
+    },
+    {
+     "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
+     "link": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
+     "source": "Decrypt",
+     "time": "2026-11-03T18:16:03+00:00",
      "s": -1
+    },
+    {
+     "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+     "link": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-03T16:47:01+00:00",
+     "s": 1
     }
    ]
   },
   "ETH": {
-   "pos": 5,
+   "pos": 4,
    "neg": 0,
-   "count": 7,
+   "count": 6,
    "items": [
     {
      "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
@@ -135,13 +136,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-04T05:46:33+00:00",
      "s": 0
-    },
-    {
-     "title": "ETH/BTC Ratio Nears 0.03 as Ethereum Gains on Bitcoin",
-     "link": "https://bitcoinist.com/eth-btc-ratio-nears-03-ethereum-gains/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T19:45:16+00:00",
-     "s": 1
     },
     {
      "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
