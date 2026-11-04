@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T17:40:39.905999+00:00",
+ "updated": "2026-11-04T18:41:49.124681+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 127,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 9,
-   "neg": 10,
+   "neg": 11,
    "count": 29,
    "items": [
+    {
+     "title": "Bitcoin rockets above $80,000 for first time since Binance hack despite Democrats sweep, but a historical crash looms",
+     "link": "https://cryptoslate.com/bitcoin-rockets-above-80000-for-first-time-since-binance-hack-despite-democrats-sweep-but-a-historical-crash-looms/",
+     "source": "CryptoSlate",
+     "time": "2026-11-04T18:20:58+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin miners’ daily revenue per unit of computing power falls 8.7%",
      "link": "https://cryptoslate.com/bitcoins-mining-hedge-market-prices-a-winter-pause-after-difficultys-16-rebound/",
@@ -114,13 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-04T07:25:47+00:00",
      "s": -1
-    },
-    {
-     "title": "Liquid restores 1:1 Bitcoin backing, but wallet refills remain manual",
-     "link": "https://cryptoslate.com/liquid-restores-11-bitcoin-backing-but-wallet-refills-remain-manual/",
-     "source": "CryptoSlate",
-     "time": "2026-11-04T06:30:52+00:00",
-     "s": 0
     }
    ]
   },
