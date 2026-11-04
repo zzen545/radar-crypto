@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T12:42:24.889531+00:00",
+ "updated": "2026-11-04T13:57:18.401020+00:00",
  "window_hours": 48,
- "headlines": 127,
+ "headlines": 128,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
-   "neg": 11,
-   "count": 30,
+   "pos": 8,
+   "neg": 10,
+   "count": 28,
    "items": [
+    {
+     "title": "Bitcoin Shrugs Off Midterms as Experts Say Democratic Sweep Was 'Priced In'",
+     "link": "https://decrypt.co/382492/bitcoin-shrugs-off-midterms-as-experts-say-democratic-sweep-was-priced-in",
+     "source": "Decrypt",
+     "time": "2026-11-04T13:13:24+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin rebounds after Democratic sweep despite three days of ETF outflows",
      "link": "https://cryptoslate.com/bitcoin-rebounds-after-democratic-sweep-despite-three-days-of-etf-outflows/",
@@ -109,18 +116,11 @@
      "s": -1
     },
     {
-     "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
-     "link": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
-     "source": "Decrypt",
-     "time": "2026-11-03T22:46:02+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin investors could pay the price as the Federal Reserve tightens bank lending rules",
-     "link": "https://cryptoslate.com/bitcoin-investors-could-pay-the-price-as-the-federal-reserve-tightens-bank-lending-rules/",
-     "source": "CryptoSlate",
-     "time": "2026-11-03T21:20:34+00:00",
-     "s": 0
+     "title": "Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide",
+     "link": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
+     "source": "CoinDesk",
+     "time": "2026-11-04T00:00:00+00:00",
+     "s": -1
     }
    ]
   },
@@ -183,8 +183,15 @@
   "SOL": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
+     "link": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
+     "source": "CoinDesk",
+     "time": "2026-11-04T13:00:00+00:00",
+     "s": 0
+    },
     {
      "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
      "link": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -201,10 +208,17 @@
    "items": []
   },
   "XRP": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Why rising XRP whale counts are a fake bullish signal",
+     "link": "https://cryptoslate.com/why-rising-xrp-whale-counts-are-a-fake-bullish-signal/",
+     "source": "CryptoSlate",
+     "time": "2026-11-04T13:40:13+00:00",
+     "s": 1
+    },
     {
      "title": "Coinbase XRP looked cheap on Nov. 2 despite identical market value",
      "link": "https://cryptoslate.com/coinbase-xrp-looked-cheap-on-nov-2-despite-identical-market-value/",
