@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T22:37:22.758519+00:00",
+ "updated": "2026-11-04T23:31:56.017830+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
-   "neg": 9,
-   "count": 25,
+   "pos": 7,
+   "neg": 10,
+   "count": 26,
    "items": [
+    {
+     "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
+     "link": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-04T23:20:17+00:00",
+     "s": -1
+    },
+    {
+     "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
+     "link": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
+     "source": "Decrypt",
+     "time": "2026-11-04T22:46:03+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
      "link": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
@@ -107,27 +121,13 @@
      "source": "Cointelegraph",
      "time": "2026-11-04T09:38:07+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
-     "link": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-04T07:25:47+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin rises to $78,300 in V-shaped comeback as midterm election uncertainty fades",
-     "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
-     "source": "CoinDesk",
-     "time": "2026-11-04T06:16:40+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
-   "pos": 3,
+   "pos": 2,
    "neg": 0,
-   "count": 5,
+   "count": 4,
    "items": [
     {
      "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
@@ -148,13 +148,6 @@
      "link": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
      "source": "The Block",
      "time": "2026-11-03T14:00:00+00:00",
-     "s": 1
-    },
-    {
-     "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
-     "link": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-03T13:15:47+00:00",
      "s": 1
     },
     {
