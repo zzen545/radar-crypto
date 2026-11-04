@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T15:43:24.784516+00:00",
+ "updated": "2026-11-04T16:43:19.408429+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
+   "pos": 8,
    "neg": 10,
    "count": 29,
    "items": [
+    {
+     "title": "Bitcoin Defies Selling Pressure as $75K Holds the Line",
+     "link": "https://bitcoinist.com/bitcoin-defies-selling-pressure-as-75k-holds-the-line/",
+     "source": "Bitcoinist",
+     "time": "2026-11-04T16:08:09+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
      "link": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -114,20 +121,13 @@
      "source": "CoinDesk",
      "time": "2026-11-04T06:16:40+00:00",
      "s": 1
-    },
-    {
-     "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-     "link": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
-     "source": "CoinDesk",
-     "time": "2026-11-04T06:06:04+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
-   "pos": 5,
+   "pos": 3,
    "neg": 0,
-   "count": 7,
+   "count": 5,
    "items": [
     {
      "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
@@ -135,13 +135,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-04T05:46:33+00:00",
      "s": 0
-    },
-    {
-     "title": "ETH/BTC Ratio Nears 0.03 as Ethereum Gains on Bitcoin",
-     "link": "https://bitcoinist.com/eth-btc-ratio-nears-03-ethereum-gains/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T19:45:16+00:00",
-     "s": 1
     },
     {
      "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
@@ -170,21 +163,21 @@
      "source": "Decrypt",
      "time": "2026-11-03T13:11:47+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
-     "link": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
-     "source": "Decrypt",
-     "time": "2026-11-02T16:23:24+00:00",
-     "s": 1
     }
    ]
   },
   "SOL": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
+     "link": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
+     "source": "The Block",
+     "time": "2026-11-04T16:27:49+00:00",
+     "s": 1
+    },
     {
      "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
      "link": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
@@ -213,18 +206,18 @@
    "count": 2,
    "items": [
     {
+     "title": "Evernorth’s XRP funding plan could raise $18 million less at lower share price",
+     "link": "https://cryptoslate.com/evernorths-xrp-funding-clears-a-hurdle-as-weaker-shares-reduce-what-it-could-raise/",
+     "source": "CryptoSlate",
+     "time": "2026-11-04T15:50:35+00:00",
+     "s": 0
+    },
+    {
      "title": "Why rising XRP whale counts are a fake bullish signal",
      "link": "https://cryptoslate.com/why-rising-xrp-whale-counts-are-a-fake-bullish-signal/",
      "source": "CryptoSlate",
      "time": "2026-11-04T13:40:13+00:00",
      "s": 1
-    },
-    {
-     "title": "Coinbase XRP looked cheap on Nov. 2 despite identical market value",
-     "link": "https://cryptoslate.com/coinbase-xrp-looked-cheap-on-nov-2-despite-identical-market-value/",
-     "source": "CryptoSlate",
-     "time": "2026-11-03T23:40:07+00:00",
-     "s": 0
     }
    ]
   },
