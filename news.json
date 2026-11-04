@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T02:37:02.214231+00:00",
+ "updated": "2026-11-04T03:38:02.664266+00:00",
  "window_hours": 48,
- "headlines": 125,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 16,
-   "count": 35,
+   "neg": 15,
+   "count": 34,
    "items": [
     {
      "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
@@ -81,13 +81,6 @@
      "s": 0
     },
     {
-     "title": "Bitcoin Lightning fix blocks a probe linking private channels to onchain funding",
-     "link": "https://cryptoslate.com/bitcoin-lightning-fix-blocks-a-probe-linking-private-channels-to-onchain-funding/",
-     "source": "CryptoSlate",
-     "time": "2026-11-03T15:00:18+00:00",
-     "s": -1
-    },
-    {
      "title": "Bitcoin Faces Fifth Weekly Loss as US Midterms Weigh In",
      "link": "https://bitcoinist.com/bitcoin-faces-fifth-weekly-loss-as-us-midterms-weigh-in/",
      "source": "Bitcoinist",
@@ -121,6 +114,13 @@
      "source": "The Block",
      "time": "2026-11-03T11:49:20+00:00",
      "s": -1
+    },
+    {
+     "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
+     "link": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
+     "source": "CoinDesk",
+     "time": "2026-11-03T11:28:00+00:00",
+     "s": 0
     }
    ]
   },
