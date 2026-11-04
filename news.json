@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-04T16:43:19.408429+00:00",
+ "updated": "2026-11-04T17:40:39.905999+00:00",
  "window_hours": 48,
- "headlines": 127,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 9,
    "neg": 10,
    "count": 29,
    "items": [
+    {
+     "title": "Bitcoin miners’ daily revenue per unit of computing power falls 8.7%",
+     "link": "https://cryptoslate.com/bitcoins-mining-hedge-market-prices-a-winter-pause-after-difficultys-16-rebound/",
+     "source": "CryptoSlate",
+     "time": "2026-11-04T16:50:39+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
+     "link": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
+     "source": "Decrypt",
+     "time": "2026-11-04T16:49:31+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin Defies Selling Pressure as $75K Holds the Line",
      "link": "https://bitcoinist.com/bitcoin-defies-selling-pressure-as-75k-holds-the-line/",
@@ -95,13 +109,6 @@
      "s": 0
     },
     {
-     "title": "US Midterm Elections Shake Markets: Could Bitcoin Be Ready for a Comeback?",
-     "link": "https://bitcoinist.com/us-midterm-elections-shake-markets-could-bitcoin-be-ready-for-a-comeback/",
-     "source": "Bitcoinist",
-     "time": "2026-11-04T09:27:51+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
      "link": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -114,13 +121,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-04T06:30:52+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin rises to $78,300 in V-shaped comeback as midterm election uncertainty fades",
-     "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
-     "source": "CoinDesk",
-     "time": "2026-11-04T06:16:40+00:00",
-     "s": 1
     }
    ]
   },
