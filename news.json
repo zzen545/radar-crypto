@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T03:38:02.664266+00:00",
+ "updated": "2026-11-04T04:42:13.362461+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 15,
-   "count": 34,
+   "neg": 13,
+   "count": 31,
    "items": [
     {
      "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
