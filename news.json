@@ -1,23 +1,36 @@
 {
- "updated": "2026-11-04T10:30:23.652317+00:00",
+ "updated": "2026-11-04T11:44:26.313926+00:00",
  "window_hours": 48,
- "headlines": 116,
+ "headlines": 127,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
+  "CryptoSlate",
   "The Block",
   "Bitcoinist"
  ],
- "feeds_failed": {
-  "CryptoSlate": "The read operation timed out"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
+   "pos": 7,
    "neg": 11,
-   "count": 25,
+   "count": 28,
    "items": [
+    {
+     "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
+     "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
+     "source": "CoinDesk",
+     "time": "2026-11-04T10:38:58+00:00",
+     "s": 1
+    },
+    {
+     "title": "Judge Orders Bitcoin Wallet Returned to Family of Convicted Canadian Killer",
+     "link": "https://decrypt.co/382484/judge-orders-bitcoin-wallet-returned-to-family-of-convicted-canadian-killer",
+     "source": "Decrypt",
+     "time": "2026-11-04T10:35:01+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Price Analysis: Can BTC Reach $80K?",
      "link": "https://bitcoinist.com/bitcoin-price-analysis-can-btc-reach-80k/",
@@ -45,6 +58,13 @@
      "source": "Cointelegraph",
      "time": "2026-11-04T07:25:47+00:00",
      "s": -1
+    },
+    {
+     "title": "Liquid restores 1:1 Bitcoin backing, but wallet refills remain manual",
+     "link": "https://cryptoslate.com/liquid-restores-11-bitcoin-backing-but-wallet-refills-remain-manual/",
+     "source": "CryptoSlate",
+     "time": "2026-11-04T06:30:52+00:00",
+     "s": 0
     },
     {
      "title": "Bitcoin surges to $78,300 in V-shaped comeback as midterm election uncertainty fades",
@@ -82,6 +102,13 @@
      "s": 0
     },
     {
+     "title": "Bitcoin investors could pay the price as the Federal Reserve tightens bank lending rules",
+     "link": "https://cryptoslate.com/bitcoin-investors-could-pay-the-price-as-the-federal-reserve-tightens-bank-lending-rules/",
+     "source": "CryptoSlate",
+     "time": "2026-11-03T21:20:34+00:00",
+     "s": 0
+    },
+    {
      "title": "ETH/BTC Ratio Nears 0.03 as Ethereum Gains on Bitcoin",
      "link": "https://bitcoinist.com/eth-btc-ratio-nears-03-ethereum-gains/",
      "source": "Bitcoinist",
@@ -94,34 +121,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-03T19:27:34+00:00",
      "s": 0
-    },
-    {
-     "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
-     "link": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
-     "source": "Decrypt",
-     "time": "2026-11-03T18:16:03+00:00",
-     "s": -1
-    },
-    {
-     "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
-     "link": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-03T16:47:01+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin Price Risks Drop Below $76K as Oil Prices Slide 7%",
-     "link": "https://bitcoinist.com/bitcoin-price-risks-drop-below-76k-as-oil-prices-slide-7/",
-     "source": "Bitcoinist",
-     "time": "2026-11-03T16:13:50+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
-     "link": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-03T15:44:42+00:00",
-     "s": -1
     }
    ]
   },
@@ -204,8 +203,16 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Coinbase XRP looked cheap on Nov. 2 despite identical market value",
+     "link": "https://cryptoslate.com/coinbase-xrp-looked-cheap-on-nov-2-despite-identical-market-value/",
+     "source": "CryptoSlate",
+     "time": "2026-11-03T23:40:07+00:00",
+     "s": 0
+    }
+   ]
   },
   "DOGE": {
    "pos": 0,
