@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T21:32:32.057492+00:00",
+ "updated": "2026-11-05T22:36:40.243922+00:00",
  "window_hours": 48,
- "headlines": 129,
+ "headlines": 130,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -17,6 +17,13 @@
    "neg": 8,
    "count": 36,
    "items": [
+    {
+     "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
+     "link": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
+     "source": "Decrypt",
+     "time": "2026-11-05T22:16:03+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin traders face Friday’s $2.7 billion options expiry with a dangerous five-hour blind spot",
      "link": "https://cryptoslate.com/bitcoin-traders-face-fridays-2-7-billion-options-expiry-with-a-dangerous-five-hour-blind-spot/",
@@ -44,13 +51,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-05T18:50:46+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin, crypto stocks caught in AI trade meltdown, but traders spot bargains",
-     "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
-     "source": "CoinDesk",
-     "time": "2026-11-05T18:48:40+00:00",
-     "s": 0
     },
     {
      "title": "Strategy’s $100 STRC comeback could turn a cash drain into fresh Bitcoin buying power",
@@ -147,9 +147,16 @@
   },
   "SOL": {
    "pos": 3,
-   "neg": 0,
-   "count": 4,
+   "neg": 1,
+   "count": 5,
    "items": [
+    {
+     "title": "Solana developers propose major overhaul to address hidden risk that could disrupt its network",
+     "link": "https://cryptoslate.com/solana-developers-propose-major-overhaul-to-address-hidden-risk-that-could-disrupt-its-network/",
+     "source": "CryptoSlate",
+     "time": "2026-11-05T22:00:30+00:00",
+     "s": -1
+    },
     {
      "title": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
      "link": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
@@ -215,8 +222,16 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
+     "link": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
+     "source": "The Block",
+     "time": "2026-11-05T22:09:14+00:00",
+     "s": 0
+    }
+   ]
   },
   "ASTER": {
    "pos": 0,
