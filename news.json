@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T18:39:20.582241+00:00",
+ "updated": "2026-11-05T19:42:05.352835+00:00",
  "window_hours": 48,
  "headlines": 129,
  "feeds_ok": [
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 14,
-   "neg": 5,
+   "pos": 13,
+   "neg": 6,
    "count": 34,
    "items": [
+    {
+     "title": "Bitcoin crashes below $76,000 as AI bubble fears wipe $2.5 trillion from Wall Street",
+     "link": "https://cryptoslate.com/bitcoin-crashes-below-76000-as-ai-bubble-fears-wipe-2-5-trillion-from-wall-street/",
+     "source": "CryptoSlate",
+     "time": "2026-11-05T18:50:46+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full'",
+     "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+     "source": "CoinDesk",
+     "time": "2026-11-05T18:48:40+00:00",
+     "s": 0
+    },
     {
      "title": "Strategy’s $100 STRC comeback could turn a cash drain into fresh Bitcoin buying power",
      "link": "https://cryptoslate.com/strategys-100-strc-comeback-could-turn-a-cash-drain-into-fresh-bitcoin-buying-power/",
@@ -107,20 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-11-05T11:30:00+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin Adoption Expands as Moscow Exchange Prepares December Trading Launch",
-     "link": "https://bitcoinist.com/bitcoin-adoption-expands-as-moscow-exchange-prepares-december-trading-launch/",
-     "source": "Bitcoinist",
-     "time": "2026-11-05T11:09:31+00:00",
-     "s": 1
-    },
-    {
-     "title": "Live updates: Bitcoin plunges as Nasdaq falls 4% in panicky selloff",
-     "link": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
-     "source": "CoinDesk",
-     "time": "2026-11-05T10:57:11+00:00",
-     "s": -1
     }
    ]
   },
@@ -237,18 +237,10 @@
    "items": []
   },
   "XAU": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Bitcoin and gold surge after US elections, but $378 million short squeeze casts doubt on debasement trade",
-     "link": "https://cryptoslate.com/bitcoin-and-gold-surge-after-us-elections-but-378-million-short-squeeze-casts-doubt-on-debasement-trade/",
-     "source": "CryptoSlate",
-     "time": "2026-11-05T09:50:59+00:00",
-     "s": 1
-    }
-   ]
+   "count": 0,
+   "items": []
   }
  }
 }
