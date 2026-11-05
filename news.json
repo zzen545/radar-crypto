@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T22:36:40.243922+00:00",
+ "updated": "2026-11-05T23:32:32.635926+00:00",
  "window_hours": 48,
  "headlines": 130,
  "feeds_ok": [
@@ -17,6 +17,13 @@
    "neg": 8,
    "count": 36,
    "items": [
+    {
+     "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
+     "link": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-05T22:43:18+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
      "link": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-11-05T12:27:04+00:00",
      "s": 0
-    },
-    {
-     "title": "South Korea Crypto Tax Delay Could Boost Bitcoin Adoption Until 2029",
-     "link": "https://bitcoinist.com/south-korea-crypto-tax-delay-could-boost-bitcoin-adoption-until-2029/",
-     "source": "Bitcoinist",
-     "time": "2026-11-05T12:04:29+00:00",
-     "s": 1
     }
    ]
   },
