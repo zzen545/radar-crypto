@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T13:41:34.563480+00:00",
+ "updated": "2026-11-05T14:47:05.536861+00:00",
  "window_hours": 48,
- "headlines": 129,
+ "headlines": 128,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 14,
-   "neg": 4,
+   "pos": 13,
+   "neg": 5,
    "count": 31,
    "items": [
+    {
+     "title": "Bitcoin ETFs take in $75 million as Fidelity inflows outweigh BlackRock withdrawals",
+     "link": "https://cryptoslate.com/bitcoin-etfs-record-74-6-million-in-net-inflows-as-fbtc-offsets-ibit-withdrawals/",
+     "source": "CryptoSlate",
+     "time": "2026-11-05T14:10:06+00:00",
+     "s": 1
+    },
     {
      "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
      "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
@@ -67,11 +74,11 @@
      "s": 1
     },
     {
-     "title": "Live updates: Bitcoin edges lower as markets cool following yesterday's rally",
+     "title": "Live updates: Bitcoin extends losses as Nasdaq tumbles in early trading",
      "link": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
      "source": "CoinDesk",
      "time": "2026-11-05T10:57:11+00:00",
-     "s": 1
+     "s": -1
     },
     {
      "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
@@ -114,20 +121,13 @@
      "source": "Bitcoinist",
      "time": "2026-11-05T09:16:16+00:00",
      "s": 1
-    },
-    {
-     "title": "Eric Trump’s American Bitcoin swings to $126 million profit in Q3 on digital asset gains",
-     "link": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413",
-     "source": "The Block",
-     "time": "2026-11-05T08:52:32+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
-   "pos": 2,
+   "pos": 1,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
@@ -135,21 +135,21 @@
      "source": "Cointelegraph",
      "time": "2026-11-05T08:22:30+00:00",
      "s": 1
-    },
-    {
-     "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
-     "link": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
-     "source": "Decrypt",
-     "time": "2026-11-03T14:01:02+00:00",
-     "s": 1
     }
    ]
   },
   "SOL": {
-   "pos": 1,
+   "pos": 2,
    "neg": 0,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
+     "link": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
+     "source": "The Block",
+     "time": "2026-11-05T14:19:51+00:00",
+     "s": 1
+    },
     {
      "title": "Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana",
      "link": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
