@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T08:09:53.424610+00:00",
+ "updated": "2026-11-05T09:26:24.968832+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -13,10 +13,38 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
-   "neg": 6,
-   "count": 23,
+   "pos": 10,
+   "neg": 5,
+   "count": 24,
    "items": [
+    {
+     "title": "Bitcoin Price Breakout Faces a Crucial Test: Can BTC Confirm a Bullish Reversal?",
+     "link": "https://bitcoinist.com/bitcoin-price-breakout-faces-a-crucial-test-can-btc-confirm-a-bullish-reversal/",
+     "source": "Bitcoinist",
+     "time": "2026-11-05T09:16:16+00:00",
+     "s": 1
+    },
+    {
+     "title": "Eric Trump’s American Bitcoin swings to $126 million profit in Q3 on digital asset gains",
+     "link": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413",
+     "source": "The Block",
+     "time": "2026-11-05T08:52:32+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin Price Recovery: BTC Reclaims $80K as Election Uncertainty Fades — Is $85K Next?",
+     "link": "https://bitcoinist.com/bitcoin-price-recovery-btc-reclaims-80k-as-election-uncertainty-fades-is-85k-next/",
+     "source": "Bitcoinist",
+     "time": "2026-11-05T08:38:36+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
+     "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-05T08:22:30+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
      "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
@@ -93,42 +121,21 @@
      "source": "CoinDesk",
      "time": "2026-11-04T14:00:53+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin Shrugs Off Midterms as Experts Say Democratic Sweep Was 'Priced In'",
-     "link": "https://decrypt.co/382492/bitcoin-shrugs-off-midterms-as-experts-say-democratic-sweep-was-priced-in",
-     "source": "Decrypt",
-     "time": "2026-11-04T13:13:24+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Price Outlook: Falling Oil Fuels Recovery Hopes",
-     "link": "https://bitcoinist.com/bitcoin-price-outlook-falling-oil-fuels-recovery-hopes/",
-     "source": "Bitcoinist",
-     "time": "2026-11-04T11:48:19+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
-     "link": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
-     "source": "CoinDesk",
-     "time": "2026-11-04T10:38:58+00:00",
-     "s": 1
-    },
-    {
-     "title": "Judge Orders Bitcoin Wallet Returned to Family of Convicted Canadian Killer",
-     "link": "https://decrypt.co/382484/judge-orders-bitcoin-wallet-returned-to-family-of-convicted-canadian-killer",
-     "source": "Decrypt",
-     "time": "2026-11-04T10:35:01+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 1,
+   "pos": 2,
    "neg": 0,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
+     "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-05T08:22:30+00:00",
+     "s": 1
+    },
     {
      "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
      "link": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
