@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T23:31:56.017830+00:00",
+ "updated": "2026-11-05T00:37:38.319574+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -194,9 +194,9 @@
    "items": []
   },
   "XRP": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "Evernorth’s XRP funding plan could raise $18 million less at lower share price",
@@ -204,13 +204,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-04T15:50:35+00:00",
      "s": 0
-    },
-    {
-     "title": "Why rising XRP whale counts are a fake bullish signal",
-     "link": "https://cryptoslate.com/why-rising-xrp-whale-counts-are-a-fake-bullish-signal/",
-     "source": "CryptoSlate",
-     "time": "2026-11-04T13:40:13+00:00",
-     "s": 1
     }
    ]
   },
