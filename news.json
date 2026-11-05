@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T19:42:05.352835+00:00",
+ "updated": "2026-11-05T20:36:34.348790+00:00",
  "window_hours": 48,
  "headlines": 129,
  "feeds_ok": [
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 13,
-   "neg": 6,
-   "count": 34,
+   "neg": 8,
+   "count": 36,
    "items": [
+    {
+     "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
+     "link": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
+     "source": "Decrypt",
+     "time": "2026-11-05T20:16:03+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
+     "link": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
+     "source": "The Block",
+     "time": "2026-11-05T20:11:02+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin crashes below $76,000 as AI bubble fears wipe $2.5 trillion from Wall Street",
      "link": "https://cryptoslate.com/bitcoin-crashes-below-76000-as-ai-bubble-fears-wipe-2-5-trillion-from-wall-street/",
@@ -107,20 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-11-05T11:49:23+00:00",
      "s": 0
-    },
-    {
-     "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
-     "link": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
-     "source": "CoinDesk",
-     "time": "2026-11-05T11:45:54+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
-     "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
-     "source": "CoinDesk",
-     "time": "2026-11-05T11:30:00+00:00",
-     "s": 1
     }
    ]
   },
