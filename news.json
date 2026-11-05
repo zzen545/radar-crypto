@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T06:53:49.352818+00:00",
+ "updated": "2026-11-05T08:09:53.424610+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 7,
    "neg": 6,
-   "count": 24,
+   "count": 23,
    "items": [
     {
      "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
