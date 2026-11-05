@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T15:46:56.864810+00:00",
+ "updated": "2026-11-05T16:54:26.927682+00:00",
  "window_hours": 48,
- "headlines": 128,
+ "headlines": 129,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 12,
    "neg": 6,
-   "count": 32,
+   "count": 33,
    "items": [
+    {
+     "title": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
+     "link": "https://decrypt.co/382612/bitcoin-erases-election-rally-ai-stocks-plunge-428-million-crypto-longs",
+     "source": "Decrypt",
+     "time": "2026-11-05T16:29:11+00:00",
+     "s": 0
+    },
     {
      "title": "Treasury’s cash plan points to a possible December liquidity window for Bitcoin",
      "link": "https://cryptoslate.com/bitcoins-liquidity-hopes-sit-between-two-projected-treasury-cash-peaks/",
@@ -114,13 +121,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-05T10:15:01+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin and gold surge after US elections, but $378 million short squeeze casts doubt on debasement trade",
-     "link": "https://cryptoslate.com/bitcoin-and-gold-surge-after-us-elections-but-378-million-short-squeeze-casts-doubt-on-debasement-trade/",
-     "source": "CryptoSlate",
-     "time": "2026-11-05T09:50:59+00:00",
-     "s": 1
     }
    ]
   },
