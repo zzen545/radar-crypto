@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T04:46:00.303328+00:00",
+ "updated": "2026-11-05T05:47:28.389097+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
-   "neg": 10,
-   "count": 27,
+   "pos": 8,
+   "neg": 7,
+   "count": 25,
    "items": [
+    {
+     "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+     "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+     "source": "CoinDesk",
+     "time": "2026-11-05T05:13:45+00:00",
+     "s": 1
+    },
     {
      "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
      "link": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-11-04T10:38:58+00:00",
      "s": 1
-    },
-    {
-     "title": "Judge Orders Bitcoin Wallet Returned to Family of Convicted Canadian Killer",
-     "link": "https://decrypt.co/382484/judge-orders-bitcoin-wallet-returned-to-family-of-convicted-canadian-killer",
-     "source": "Decrypt",
-     "time": "2026-11-04T10:35:01+00:00",
-     "s": 0
     }
    ]
   },
@@ -189,8 +189,16 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+     "link": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
+     "source": "CoinDesk",
+     "time": "2026-11-05T05:25:06+00:00",
+     "s": 0
+    }
+   ]
   },
   "DOGE": {
    "pos": 0,
