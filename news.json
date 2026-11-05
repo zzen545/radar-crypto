@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T12:18:05.798892+00:00",
+ "updated": "2026-11-05T13:41:34.563480+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 129,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,22 @@
   "BTC": {
    "pos": 14,
    "neg": 4,
-   "count": 30,
+   "count": 31,
    "items": [
+    {
+     "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
+     "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
+     "source": "CoinDesk",
+     "time": "2026-11-05T13:29:40+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
+     "link": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
+     "source": "CoinDesk",
+     "time": "2026-11-05T12:27:04+00:00",
+     "s": 0
+    },
     {
      "title": "South Korea Crypto Tax Delay Could Boost Bitcoin Adoption Until 2029",
      "link": "https://bitcoinist.com/south-korea-crypto-tax-delay-could-boost-bitcoin-adoption-until-2029/",
@@ -53,7 +67,7 @@
      "s": 1
     },
     {
-     "title": "Live updates: Bitcoin steady around $80,000 as markets rally after Democratic sweep",
+     "title": "Live updates: Bitcoin edges lower as markets cool following yesterday's rally",
      "link": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
      "source": "CoinDesk",
      "time": "2026-11-05T10:57:11+00:00",
@@ -107,27 +121,13 @@
      "source": "The Block",
      "time": "2026-11-05T08:52:32+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin Price Recovery: BTC Reclaims $80K as Election Uncertainty Fades — Is $85K Next?",
-     "link": "https://bitcoinist.com/bitcoin-price-recovery-btc-reclaims-80k-as-election-uncertainty-fades-is-85k-next/",
-     "source": "Bitcoinist",
-     "time": "2026-11-05T08:38:36+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
-     "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-05T08:22:30+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
    "pos": 2,
    "neg": 0,
-   "count": 4,
+   "count": 2,
    "items": [
     {
      "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
@@ -137,25 +137,11 @@
      "s": 1
     },
     {
-     "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
-     "link": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-04T05:46:33+00:00",
-     "s": 0
-    },
-    {
      "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
      "link": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
      "source": "Decrypt",
      "time": "2026-11-03T14:01:02+00:00",
      "s": 1
-    },
-    {
-     "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
-     "link": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
-     "source": "Decrypt",
-     "time": "2026-11-03T13:11:47+00:00",
-     "s": 0
     }
    ]
   },
@@ -165,18 +151,18 @@
    "count": 3,
    "items": [
     {
+     "title": "Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana",
+     "link": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
+     "source": "Decrypt",
+     "time": "2026-11-05T13:01:02+00:00",
+     "s": 0
+    },
+    {
      "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
      "link": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
      "source": "The Block",
      "time": "2026-11-04T16:27:49+00:00",
      "s": 1
-    },
-    {
-     "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
-     "link": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
-     "source": "CoinDesk",
-     "time": "2026-11-04T13:00:00+00:00",
-     "s": 0
     },
     {
      "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
