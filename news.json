@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T03:41:59.203176+00:00",
+ "updated": "2026-11-05T04:46:00.303328+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 7,
    "neg": 10,
-   "count": 26,
+   "count": 27,
    "items": [
+    {
+     "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+     "link": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+     "source": "CoinDesk",
+     "time": "2026-11-05T04:11:33+00:00",
+     "s": 0
+    },
     {
      "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
      "link": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -114,20 +121,13 @@
      "source": "Decrypt",
      "time": "2026-11-04T10:35:01+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling ‘short-term’",
-     "link": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-04T09:38:07+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 2,
+   "pos": 1,
    "neg": 0,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
@@ -141,13 +141,6 @@
      "link": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
      "source": "Decrypt",
      "time": "2026-11-03T14:01:02+00:00",
-     "s": 1
-    },
-    {
-     "title": "Ethereum Layer 2 Aztec gets Tierra V6 upgrade to support faster private apps",
-     "link": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
-     "source": "The Block",
-     "time": "2026-11-03T14:00:00+00:00",
      "s": 1
     },
     {
@@ -196,16 +189,8 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Evernorth’s XRP funding plan could raise $18 million less at lower share price",
-     "link": "https://cryptoslate.com/evernorths-xrp-funding-clears-a-hurdle-as-weaker-shares-reduce-what-it-could-raise/",
-     "source": "CryptoSlate",
-     "time": "2026-11-04T15:50:35+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "DOGE": {
    "pos": 0,
