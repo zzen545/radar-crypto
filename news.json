@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T05:47:28.389097+00:00",
+ "updated": "2026-11-05T06:53:49.352818+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 8,
-   "neg": 7,
-   "count": 25,
+   "neg": 6,
+   "count": 24,
    "items": [
     {
      "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
@@ -57,13 +57,6 @@
      "link": "https://cryptoslate.com/bitcoin-rockets-above-80000-for-first-time-since-binance-hack-despite-democrats-sweep-but-a-historical-crash-looms/",
      "source": "CryptoSlate",
      "time": "2026-11-04T18:20:58+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin miners’ daily revenue per unit of computing power falls 8.7%",
-     "link": "https://cryptoslate.com/bitcoins-mining-hedge-market-prices-a-winter-pause-after-difficultys-16-rebound/",
-     "source": "CryptoSlate",
-     "time": "2026-11-04T16:50:39+00:00",
      "s": -1
     },
     {
@@ -121,6 +114,13 @@
      "source": "CoinDesk",
      "time": "2026-11-04T10:38:58+00:00",
      "s": 1
+    },
+    {
+     "title": "Judge Orders Bitcoin Wallet Returned to Family of Convicted Canadian Killer",
+     "link": "https://decrypt.co/382484/judge-orders-bitcoin-wallet-returned-to-family-of-convicted-canadian-killer",
+     "source": "Decrypt",
+     "time": "2026-11-04T10:35:01+00:00",
+     "s": 0
     }
    ]
   },
