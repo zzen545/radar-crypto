@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T14:47:05.536861+00:00",
+ "updated": "2026-11-05T15:46:56.864810+00:00",
  "window_hours": 48,
  "headlines": 128,
  "feeds_ok": [
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 13,
-   "neg": 5,
-   "count": 31,
+   "pos": 12,
+   "neg": 6,
+   "count": 32,
    "items": [
+    {
+     "title": "Treasury’s cash plan points to a possible December liquidity window for Bitcoin",
+     "link": "https://cryptoslate.com/bitcoins-liquidity-hopes-sit-between-two-projected-treasury-cash-peaks/",
+     "source": "CryptoSlate",
+     "time": "2026-11-05T15:10:14+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Mining Stocks Plunge 35% as VanEck Sees Oversold Opportunity",
+     "link": "https://bitcoinist.com/bitcoin-mining-stocks-plunge-35-as-vaneck-sees-oversold-opportunity/",
+     "source": "Bitcoinist",
+     "time": "2026-11-05T14:45:10+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin ETFs take in $75 million as Fidelity inflows outweigh BlackRock withdrawals",
      "link": "https://cryptoslate.com/bitcoin-etfs-record-74-6-million-in-net-inflows-as-fbtc-offsets-ibit-withdrawals/",
@@ -74,7 +88,7 @@
      "s": 1
     },
     {
-     "title": "Live updates: Bitcoin extends losses as Nasdaq tumbles in early trading",
+     "title": "Live updates: Bitcoin plunges as Nasdaq falls 4% in panicky selloff",
      "link": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
      "source": "CoinDesk",
      "time": "2026-11-05T10:57:11+00:00",
@@ -106,20 +120,6 @@
      "link": "https://cryptoslate.com/bitcoin-and-gold-surge-after-us-elections-but-378-million-short-squeeze-casts-doubt-on-debasement-trade/",
      "source": "CryptoSlate",
      "time": "2026-11-05T09:50:59+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
-     "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal",
-     "source": "CoinDesk",
-     "time": "2026-11-05T09:36:32+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Price Breakout Faces a Crucial Test: Can BTC Confirm a Bullish Reversal?",
-     "link": "https://bitcoinist.com/bitcoin-price-breakout-faces-a-crucial-test-can-btc-confirm-a-bullish-reversal/",
-     "source": "Bitcoinist",
-     "time": "2026-11-05T09:16:16+00:00",
      "s": 1
     }
    ]
