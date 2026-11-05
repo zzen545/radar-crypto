@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T11:24:58.531458+00:00",
+ "updated": "2026-11-05T12:18:05.798892+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -13,10 +13,38 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 13,
+   "pos": 14,
    "neg": 4,
-   "count": 27,
+   "count": 30,
    "items": [
+    {
+     "title": "South Korea Crypto Tax Delay Could Boost Bitcoin Adoption Until 2029",
+     "link": "https://bitcoinist.com/south-korea-crypto-tax-delay-could-boost-bitcoin-adoption-until-2029/",
+     "source": "Bitcoinist",
+     "time": "2026-11-05T12:04:29+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
+     "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
+     "source": "CoinDesk",
+     "time": "2026-11-05T11:49:23+00:00",
+     "s": 0
+    },
+    {
+     "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
+     "link": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
+     "source": "CoinDesk",
+     "time": "2026-11-05T11:45:54+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
+     "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
+     "source": "CoinDesk",
+     "time": "2026-11-05T11:30:00+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin Adoption Expands as Moscow Exchange Prepares December Trading Launch",
      "link": "https://bitcoinist.com/bitcoin-adoption-expands-as-moscow-exchange-prepares-december-trading-launch/",
@@ -93,34 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-05T08:22:30+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
-     "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
-     "source": "CoinDesk",
-     "time": "2026-11-05T05:13:45+00:00",
-     "s": 1
-    },
-    {
-     "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
-     "link": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
-     "source": "CoinDesk",
-     "time": "2026-11-05T04:11:33+00:00",
-     "s": 0
-    },
-    {
-     "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
-     "link": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-04T23:20:17+00:00",
-     "s": -1
-    },
-    {
-     "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
-     "link": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
-     "source": "Decrypt",
-     "time": "2026-11-04T22:46:03+00:00",
-     "s": 0
     }
    ]
   },
