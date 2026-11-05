@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T10:28:01.422260+00:00",
+ "updated": "2026-11-05T11:24:58.531458+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -13,10 +13,38 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 11,
+   "pos": 13,
    "neg": 4,
-   "count": 25,
+   "count": 27,
    "items": [
+    {
+     "title": "Bitcoin Adoption Expands as Moscow Exchange Prepares December Trading Launch",
+     "link": "https://bitcoinist.com/bitcoin-adoption-expands-as-moscow-exchange-prepares-december-trading-launch/",
+     "source": "Bitcoinist",
+     "time": "2026-11-05T11:09:31+00:00",
+     "s": 1
+    },
+    {
+     "title": "Live updates: Bitcoin steady around $80,000 as markets rally after Democratic sweep",
+     "link": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
+     "source": "CoinDesk",
+     "time": "2026-11-05T10:57:11+00:00",
+     "s": 1
+    },
+    {
+     "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
+     "link": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
+     "source": "CoinDesk",
+     "time": "2026-11-05T10:44:54+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
+     "link": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-05T10:28:26+00:00",
+     "s": 1
+    },
     {
      "title": "Crypto Legislation: A New Opportunity for Bitcoin?",
      "link": "https://bitcoinist.com/crypto-legislation-a-new-opportunity-for-bitcoin/",
@@ -30,6 +58,13 @@
      "source": "CryptoSlate",
      "time": "2026-11-05T09:50:59+00:00",
      "s": 1
+    },
+    {
+     "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
+     "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal",
+     "source": "CoinDesk",
+     "time": "2026-11-05T09:36:32+00:00",
+     "s": 0
     },
     {
      "title": "Bitcoin Price Breakout Faces a Crucial Test: Can BTC Confirm a Bullish Reversal?",
@@ -85,41 +120,6 @@
      "link": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
      "source": "Decrypt",
      "time": "2026-11-04T22:46:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
-     "link": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
-     "source": "The Block",
-     "time": "2026-11-04T20:09:58+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
-     "link": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
-     "source": "Decrypt",
-     "time": "2026-11-04T16:49:31+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin Defies Selling Pressure as $75K Holds the Line",
-     "link": "https://bitcoinist.com/bitcoin-defies-selling-pressure-as-75k-holds-the-line/",
-     "source": "Bitcoinist",
-     "time": "2026-11-04T16:08:09+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
-     "link": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-04T15:29:23+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin Bounces Back as Markets Digest Midterms",
-     "link": "https://bitcoinist.com/bitcoin-bounces-back-as-markets-digest-midterms/",
-     "source": "Bitcoinist",
-     "time": "2026-11-04T14:37:51+00:00",
      "s": 0
     }
    ]
