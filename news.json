@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-06T16:38:53.188364+00:00",
+ "updated": "2026-11-06T17:38:16.424129+00:00",
  "window_hours": 48,
- "headlines": 129,
+ "headlines": 128,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
+   "pos": 8,
    "neg": 9,
-   "count": 36,
+   "count": 34,
    "items": [
+    {
+     "title": "Bitcoin miner IREN’s AI revenue milestone slips into 2027 as expansion seeks $6 billion",
+     "link": "https://cryptoslate.com/bitcoin-miner-irens-ai-revenue-milestone-slips-into-2027-as-expansion-seeks-6-billion/",
+     "source": "CryptoSlate",
+     "time": "2026-11-06T17:30:09+00:00",
+     "s": 1
+    },
     {
      "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
      "link": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
@@ -107,13 +114,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-06T09:14:32+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin Price Recovery: Why BTC Could Rally Again Soon",
-     "link": "https://bitcoinist.com/bitcoin-price-recovery-why-btc-could-rally-again-soon/",
-     "source": "Bitcoinist",
-     "time": "2026-11-06T08:24:04+00:00",
-     "s": 1
     },
     {
      "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
