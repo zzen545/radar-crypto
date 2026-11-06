@@ -1,21 +1,22 @@
 {
- "updated": "2026-11-06T18:38:20.305988+00:00",
+ "updated": "2026-11-06T19:41:40.716612+00:00",
  "window_hours": 48,
- "headlines": 128,
+ "headlines": 120,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
-   "pos": 9,
-   "neg": 9,
-   "count": 36,
+   "pos": 8,
+   "neg": 8,
+   "count": 31,
    "items": [
     {
      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
@@ -74,20 +75,6 @@
      "s": 0
     },
     {
-     "title": "Bitcoin Finds Opportunity as $1.1B in Long Positions Disappear",
-     "link": "https://bitcoinist.com/bitcoin-finds-opportunity-as-1-1b-in-long-positions-disappear/",
-     "source": "Bitcoinist",
-     "time": "2026-11-06T15:28:36+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Holds Critical $76K Level as AI Sell-Off Triggers Market-Wide Panic",
-     "link": "https://bitcoinist.com/bitcoin-holds-critical-76k-level-as-ai-sell-off-triggers-market-wide-panic/",
-     "source": "Bitcoinist",
-     "time": "2026-11-06T13:40:44+00:00",
-     "s": -1
-    },
-    {
      "title": "TeraWulf’s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
      "link": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
      "source": "The Block",
@@ -121,6 +108,20 @@
      "source": "Cointelegraph",
      "time": "2026-11-06T11:16:53+00:00",
      "s": -1
+    },
+    {
+     "title": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
+     "link": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-lose-530-million-in-one-day-as-3-trillion-wall-street-wipeout-rattles-crypto/",
+     "source": "CryptoSlate",
+     "time": "2026-11-06T09:55:27+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+     "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+     "source": "CoinDesk",
+     "time": "2026-11-06T09:53:27+00:00",
+     "s": 1
     }
    ]
   },
@@ -130,10 +131,10 @@
    "count": 5,
    "items": [
     {
-     "title": "Ethereum Could Play a Bigger Role in Global Finance by 2029",
-     "link": "https://bitcoinist.com/ethereum-could-play-a-bigger-role-in-global-finance-by-2029/",
-     "source": "Bitcoinist",
-     "time": "2026-11-06T13:57:12+00:00",
+     "title": "Ethereum software bug triggers emergency fixes across major layer-2 networks",
+     "link": "https://cryptoslate.com/ethereum-software-bug-triggers-emergency-fixes-across-major-layer-2-networks/",
+     "source": "CryptoSlate",
+     "time": "2026-11-06T18:40:30+00:00",
      "s": 0
     },
     {
