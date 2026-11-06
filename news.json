@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-06T22:09:04.329366+00:00",
+ "updated": "2026-11-06T23:05:36.332695+00:00",
  "window_hours": 48,
- "headlines": 128,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 8,
    "neg": 8,
-   "count": 32,
+   "count": 31,
    "items": [
     {
      "title": "Greece ends years of crypto tax uncertainty with new 10% levy on Bitcoin profits",
