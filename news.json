@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T08:04:42.566750+00:00",
+ "updated": "2026-11-06T09:20:21.908256+00:00",
  "window_hours": 48,
  "headlines": 129,
  "feeds_ok": [
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 10,
+   "pos": 9,
    "neg": 10,
    "count": 37,
    "items": [
+    {
+     "title": "JPMorgan’s Blockchain Push Could Be Good News for Bitcoin",
+     "link": "https://bitcoinist.com/jpmorgans-blockchain-push-could-be-good-news-for-bitcoin/",
+     "source": "Bitcoinist",
+     "time": "2026-11-06T09:14:32+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Price Recovery: Why BTC Could Rally Again Soon",
+     "link": "https://bitcoinist.com/bitcoin-price-recovery-why-btc-could-rally-again-soon/",
+     "source": "Bitcoinist",
+     "time": "2026-11-06T08:24:04+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+     "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-06T08:19:18+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin’s rate cut relief stalls as service inflation flares",
      "link": "https://cryptoslate.com/bitcoins-rate-cut-relief-stalls-as-service-inflation-flares/",
@@ -100,35 +121,21 @@
      "source": "CoinDesk",
      "time": "2026-11-05T18:48:40+00:00",
      "s": -1
-    },
-    {
-     "title": "Strategy’s $100 STRC comeback could turn a cash drain into fresh Bitcoin buying power",
-     "link": "https://cryptoslate.com/strategys-100-strc-comeback-could-turn-a-cash-drain-into-fresh-bitcoin-buying-power/",
-     "source": "CryptoSlate",
-     "time": "2026-11-05T18:30:02+00:00",
-     "s": 1
-    },
-    {
-     "title": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books",
-     "link": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
-     "source": "Decrypt",
-     "time": "2026-11-05T18:25:31+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
-     "link": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-05T16:48:41+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 0,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+     "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-06T08:19:18+00:00",
+     "s": 0
+    },
     {
      "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
      "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -199,10 +206,10 @@
    "count": 1,
    "items": [
     {
-     "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
-     "link": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
-     "source": "CoinDesk",
-     "time": "2026-11-05T05:25:06+00:00",
+     "title": "XRP sellers face massive slip as USD order book depth fakes size",
+     "link": "https://cryptoslate.com/xrp-sellers-face-massive-slip-as-usd-order-book-depth-fakes-size/",
+     "source": "CryptoSlate",
+     "time": "2026-11-06T08:50:00+00:00",
      "s": 0
     }
    ]
@@ -222,8 +229,15 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Hyperliquid Strategies seeks futures registration for perps",
+     "link": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-06T08:42:54+00:00",
+     "s": 0
+    },
     {
      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
      "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
