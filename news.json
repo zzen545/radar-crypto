@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T20:34:55.588893+00:00",
+ "updated": "2026-11-06T21:28:16.824141+00:00",
  "window_hours": 48,
  "headlines": 128,
  "feeds_ok": [
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 8,
-   "neg": 9,
-   "count": 34,
+   "neg": 8,
+   "count": 32,
    "items": [
     {
      "title": "Greece ends years of crypto tax uncertainty with new 10% levy on Bitcoin profits",
@@ -109,7 +109,7 @@
      "s": 1
     },
     {
-     "title": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
+     "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
      "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
      "source": "CoinDesk",
      "time": "2026-11-06T11:58:40+00:00",
@@ -127,7 +127,7 @@
   "ETH": {
    "pos": 0,
    "neg": 1,
-   "count": 6,
+   "count": 5,
    "items": [
     {
      "title": "Ethereum software bug triggers emergency fixes across major layer-2 networks",
@@ -151,13 +151,6 @@
      "s": -1
     },
     {
-     "title": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
-     "link": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-lose-530-million-in-one-day-as-3-trillion-wall-street-wipeout-rattles-crypto/",
-     "source": "CryptoSlate",
-     "time": "2026-11-06T09:55:27+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -174,9 +167,9 @@
    ]
   },
   "SOL": {
-   "pos": 2,
+   "pos": 1,
    "neg": 0,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
@@ -190,13 +183,6 @@
      "link": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
      "source": "Decrypt",
      "time": "2026-11-05T17:01:03+00:00",
-     "s": 1
-    },
-    {
-     "title": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
-     "link": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
-     "source": "The Block",
-     "time": "2026-11-05T14:19:51+00:00",
      "s": 1
     },
     {
