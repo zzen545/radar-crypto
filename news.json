@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-06T13:36:29.193660+00:00",
+ "updated": "2026-11-06T14:42:57.146325+00:00",
  "window_hours": 48,
- "headlines": 127,
+ "headlines": 129,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 10,
-   "neg": 9,
-   "count": 35,
+   "pos": 9,
+   "neg": 8,
+   "count": 33,
    "items": [
+    {
+     "title": "Bitcoin Holds Critical $76K Level as AI Sell-Off Triggers Market-Wide Panic",
+     "link": "https://bitcoinist.com/bitcoin-holds-critical-76k-level-as-ai-sell-off-triggers-market-wide-panic/",
+     "source": "Bitcoinist",
+     "time": "2026-11-06T13:40:44+00:00",
+     "s": -1
+    },
+    {
+     "title": "TeraWulf’s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
+     "link": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
+     "source": "The Block",
+     "time": "2026-11-06T13:40:22+00:00",
+     "s": 0
+    },
     {
      "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
      "link": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
@@ -25,7 +39,7 @@
      "s": 1
     },
     {
-     "title": "Live updates: Bitcoin holding $76,000, Nasdaq bounces ahead of U.S. jobs data",
+     "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
      "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
      "source": "CoinDesk",
      "time": "2026-11-06T11:58:40+00:00",
@@ -107,30 +121,23 @@
      "source": "CoinDesk",
      "time": "2026-11-06T01:30:00+00:00",
      "s": 0
-    },
-    {
-     "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
-     "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-06T00:19:49+00:00",
-     "s": 1
-    },
-    {
-     "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
-     "link": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-05T22:43:18+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 1,
+   "pos": 0,
    "neg": 1,
    "count": 5,
    "items": [
     {
-     "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks are resolved",
+     "title": "Ethereum Could Play a Bigger Role in Global Finance by 2029",
+     "link": "https://bitcoinist.com/ethereum-could-play-a-bigger-role-in-global-finance-by-2029/",
+     "source": "Bitcoinist",
+     "time": "2026-11-06T13:57:12+00:00",
+     "s": 0
+    },
+    {
+     "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
      "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-06T13:23:08+00:00",
@@ -156,20 +163,13 @@
      "source": "Cointelegraph",
      "time": "2026-11-05T18:09:38+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
-     "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-05T08:22:30+00:00",
-     "s": 1
     }
    ]
   },
   "SOL": {
    "pos": 2,
-   "neg": 1,
-   "count": 5,
+   "neg": 0,
+   "count": 4,
    "items": [
     {
      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
@@ -177,13 +177,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-06T12:15:28+00:00",
      "s": 0
-    },
-    {
-     "title": "Solana developers propose major overhaul to address hidden risk that could disrupt its network",
-     "link": "https://cryptoslate.com/solana-developers-propose-major-overhaul-to-address-hidden-risk-that-could-disrupt-its-network/",
-     "source": "CryptoSlate",
-     "time": "2026-11-05T22:00:30+00:00",
-     "s": -1
     },
     {
      "title": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
