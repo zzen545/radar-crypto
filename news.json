@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-06T09:20:21.908256+00:00",
+ "updated": "2026-11-06T10:26:03.237780+00:00",
  "window_hours": 48,
- "headlines": 129,
+ "headlines": 130,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
-   "neg": 10,
-   "count": 37,
+   "pos": 10,
+   "neg": 9,
+   "count": 38,
    "items": [
+    {
+     "title": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
+     "link": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-lose-530-million-in-one-day-as-3-trillion-wall-street-wipeout-rattles-crypto/",
+     "source": "CryptoSlate",
+     "time": "2026-11-06T09:55:27+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+     "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+     "source": "CoinDesk",
+     "time": "2026-11-06T09:53:27+00:00",
+     "s": 1
+    },
     {
      "title": "JPMorgan’s Blockchain Push Could Be Good News for Bitcoin",
      "link": "https://bitcoinist.com/jpmorgans-blockchain-push-could-be-good-news-for-bitcoin/",
@@ -107,28 +121,21 @@
      "source": "The Block",
      "time": "2026-11-05T20:11:02+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin crashes below $76,000 as AI bubble fears wipe $2.5 trillion from Wall Street",
-     "link": "https://cryptoslate.com/bitcoin-crashes-below-76000-as-ai-bubble-fears-wipe-2-5-trillion-from-wall-street/",
-     "source": "CryptoSlate",
-     "time": "2026-11-05T18:50:46+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
-     "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
-     "source": "CoinDesk",
-     "time": "2026-11-05T18:48:40+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 0,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
+     "link": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-lose-530-million-in-one-day-as-3-trillion-wall-street-wipeout-rattles-crypto/",
+     "source": "CryptoSlate",
+     "time": "2026-11-06T09:55:27+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
