@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T17:38:16.424129+00:00",
+ "updated": "2026-11-06T18:38:20.305988+00:00",
  "window_hours": 48,
  "headlines": 128,
  "feeds_ok": [
@@ -13,10 +13,38 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 9,
    "neg": 9,
-   "count": 34,
+   "count": 36,
    "items": [
+    {
+     "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+     "link": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
+     "source": "Decrypt",
+     "time": "2026-11-06T18:36:03+00:00",
+     "s": 0
+    },
+    {
+     "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+     "link": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-06T18:22:42+00:00",
+     "s": 1
+    },
+    {
+     "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+     "link": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+     "source": "The Block",
+     "time": "2026-11-06T18:06:59+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-06T17:49:33+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin miner IREN’s AI revenue milestone slips into 2027 as expansion seeks $6 billion",
      "link": "https://cryptoslate.com/bitcoin-miner-irens-ai-revenue-milestone-slips-into-2027-as-expansion-seeks-6-billion/",
@@ -93,34 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-06T11:16:53+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
-     "link": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-lose-530-million-in-one-day-as-3-trillion-wall-street-wipeout-rattles-crypto/",
-     "source": "CryptoSlate",
-     "time": "2026-11-06T09:55:27+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-     "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
-     "source": "CoinDesk",
-     "time": "2026-11-06T09:53:27+00:00",
-     "s": 1
-    },
-    {
-     "title": "JPMorgan’s Blockchain Push Could Be Good News for Bitcoin",
-     "link": "https://bitcoinist.com/jpmorgans-blockchain-push-could-be-good-news-for-bitcoin/",
-     "source": "Bitcoinist",
-     "time": "2026-11-06T09:14:32+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
-     "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-06T08:19:18+00:00",
-     "s": 0
     }
    ]
   },
