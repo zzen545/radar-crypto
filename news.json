@@ -1,23 +1,29 @@
 {
- "updated": "2026-11-06T19:41:40.716612+00:00",
+ "updated": "2026-11-06T20:34:55.588893+00:00",
  "window_hours": 48,
- "headlines": 120,
+ "headlines": 128,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
    "pos": 8,
-   "neg": 8,
-   "count": 31,
+   "neg": 9,
+   "count": 34,
    "items": [
+    {
+     "title": "Greece ends years of crypto tax uncertainty with new 10% levy on Bitcoin profits",
+     "link": "https://cryptoslate.com/greece-ends-years-of-crypto-tax-uncertainty-with-new-10-levy-on-bitcoin-profits/",
+     "source": "CryptoSlate",
+     "time": "2026-11-06T20:00:30+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
      "link": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
@@ -75,6 +81,20 @@
      "s": 0
     },
     {
+     "title": "Bitcoin Finds Opportunity as $1.1B in Long Positions Disappear",
+     "link": "https://bitcoinist.com/bitcoin-finds-opportunity-as-1-1b-in-long-positions-disappear/",
+     "source": "Bitcoinist",
+     "time": "2026-11-06T15:28:36+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Holds Critical $76K Level as AI Sell-Off Triggers Market-Wide Panic",
+     "link": "https://bitcoinist.com/bitcoin-holds-critical-76k-level-as-ai-sell-off-triggers-market-wide-panic/",
+     "source": "Bitcoinist",
+     "time": "2026-11-06T13:40:44+00:00",
+     "s": -1
+    },
+    {
      "title": "TeraWulf’s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
      "link": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
      "source": "The Block",
@@ -101,40 +121,26 @@
      "source": "CoinDesk",
      "time": "2026-11-06T11:49:35+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
-     "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-06T11:16:53+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
-     "link": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-lose-530-million-in-one-day-as-3-trillion-wall-street-wipeout-rattles-crypto/",
-     "source": "CryptoSlate",
-     "time": "2026-11-06T09:55:27+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-     "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
-     "source": "CoinDesk",
-     "time": "2026-11-06T09:53:27+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
    "pos": 0,
    "neg": 1,
-   "count": 5,
+   "count": 6,
    "items": [
     {
      "title": "Ethereum software bug triggers emergency fixes across major layer-2 networks",
      "link": "https://cryptoslate.com/ethereum-software-bug-triggers-emergency-fixes-across-major-layer-2-networks/",
      "source": "CryptoSlate",
      "time": "2026-11-06T18:40:30+00:00",
+     "s": 0
+    },
+    {
+     "title": "Ethereum Could Play a Bigger Role in Global Finance by 2029",
+     "link": "https://bitcoinist.com/ethereum-could-play-a-bigger-role-in-global-finance-by-2029/",
+     "source": "Bitcoinist",
+     "time": "2026-11-06T13:57:12+00:00",
      "s": 0
     },
     {
@@ -211,16 +217,8 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "XRP sellers face massive slip as USD order book depth fakes size",
-     "link": "https://cryptoslate.com/xrp-sellers-face-massive-slip-as-usd-order-book-depth-fakes-size/",
-     "source": "CryptoSlate",
-     "time": "2026-11-06T08:50:00+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "DOGE": {
    "pos": 0,
@@ -237,8 +235,15 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
+     "link": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
+     "source": "Decrypt",
+     "time": "2026-11-06T19:46:03+00:00",
+     "s": 0
+    },
     {
      "title": "Hyperliquid Strategies seeks futures registration for perps",
      "link": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
