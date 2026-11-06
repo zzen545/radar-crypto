@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T10:26:03.237780+00:00",
+ "updated": "2026-11-06T11:21:30.246541+00:00",
  "window_hours": 48,
  "headlines": 130,
  "feeds_ok": [
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 10,
-   "neg": 9,
-   "count": 38,
+   "neg": 8,
+   "count": 36,
    "items": [
     {
      "title": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
