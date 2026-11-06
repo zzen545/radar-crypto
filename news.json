@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-06T15:36:09.377806+00:00",
+ "updated": "2026-11-06T16:38:53.188364+00:00",
  "window_hours": 48,
- "headlines": 128,
+ "headlines": 129,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
-   "neg": 8,
-   "count": 34,
+   "pos": 9,
+   "neg": 9,
+   "count": 36,
    "items": [
+    {
+     "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+     "link": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
+     "source": "Decrypt",
+     "time": "2026-11-06T16:34:07+00:00",
+     "s": -1
+    },
+    {
+     "title": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
+     "link": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
+     "source": "The Block",
+     "time": "2026-11-06T16:07:24+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin ETFs bought nearly twice what miners produced in Q3—but $430 million left on Thursday",
      "link": "https://cryptoslate.com/bitcoin-etfs-bought-nearly-twice-what-miners-produced-in-q3-but-430-million-left-on-thursday/",
@@ -53,7 +67,7 @@
      "s": 1
     },
     {
-     "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
+     "title": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
      "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
      "source": "CoinDesk",
      "time": "2026-11-06T11:58:40+00:00",
@@ -106,20 +120,6 @@
      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-06T08:19:18+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin’s rate cut relief stalls as service inflation flares",
-     "link": "https://cryptoslate.com/bitcoins-rate-cut-relief-stalls-as-service-inflation-flares/",
-     "source": "CryptoSlate",
-     "time": "2026-11-06T06:40:14+00:00",
-     "s": 0
-    },
-    {
-     "title": "Unpatched Bitcoin Lightning nodes face channel-draining bug",
-     "link": "https://cryptoslate.com/unpatched-bitcoin-lightning-nodes-face-channel-draining-bug/",
-     "source": "CryptoSlate",
-     "time": "2026-11-06T04:30:28+00:00",
      "s": 0
     }
    ]
