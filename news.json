@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-06T11:21:30.246541+00:00",
+ "updated": "2026-11-06T12:13:04.360510+00:00",
  "window_hours": 48,
- "headlines": 130,
+ "headlines": 129,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 10,
-   "neg": 8,
-   "count": 36,
+   "pos": 9,
+   "neg": 10,
+   "count": 37,
    "items": [
+    {
+     "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+     "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
+     "source": "CoinDesk",
+     "time": "2026-11-06T11:49:35+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+     "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-06T11:16:53+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
      "link": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-lose-530-million-in-one-day-as-3-trillion-wall-street-wipeout-rattles-crypto/",
@@ -107,20 +121,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-05T20:40:25+00:00",
      "s": 0
-    },
-    {
-     "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
-     "link": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
-     "source": "Decrypt",
-     "time": "2026-11-05T20:16:03+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
-     "link": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
-     "source": "The Block",
-     "time": "2026-11-05T20:11:02+00:00",
-     "s": -1
     }
    ]
   },
@@ -160,9 +160,9 @@
    ]
   },
   "SOL": {
-   "pos": 3,
+   "pos": 2,
    "neg": 1,
-   "count": 5,
+   "count": 4,
    "items": [
     {
      "title": "Solana developers propose major overhaul to address hidden risk that could disrupt its network",
@@ -191,13 +191,6 @@
      "source": "Decrypt",
      "time": "2026-11-05T13:01:02+00:00",
      "s": 0
-    },
-    {
-     "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
-     "link": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
-     "source": "The Block",
-     "time": "2026-11-04T16:27:49+00:00",
-     "s": 1
     }
    ]
   },
