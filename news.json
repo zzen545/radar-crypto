@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T01:56:26.613150+00:00",
+ "updated": "2026-11-06T02:44:39.411813+00:00",
  "window_hours": 48,
  "headlines": 129,
  "feeds_ok": [
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 12,
-   "neg": 8,
-   "count": 37,
+   "neg": 9,
+   "count": 36,
    "items": [
     {
      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
@@ -74,6 +74,13 @@
      "s": -1
     },
     {
+     "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+     "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+     "source": "CoinDesk",
+     "time": "2026-11-05T18:48:40+00:00",
+     "s": -1
+    },
+    {
      "title": "Strategy’s $100 STRC comeback could turn a cash drain into fresh Bitcoin buying power",
      "link": "https://cryptoslate.com/strategys-100-strc-comeback-could-turn-a-cash-drain-into-fresh-bitcoin-buying-power/",
      "source": "CryptoSlate",
@@ -99,13 +106,6 @@
      "link": "https://decrypt.co/382612/bitcoin-erases-election-rally-ai-stocks-plunge-428-million-crypto-longs",
      "source": "Decrypt",
      "time": "2026-11-05T16:29:11+00:00",
-     "s": 0
-    },
-    {
-     "title": "Treasury’s cash plan points to a possible December liquidity window for Bitcoin",
-     "link": "https://cryptoslate.com/bitcoins-liquidity-hopes-sit-between-two-projected-treasury-cash-peaks/",
-     "source": "CryptoSlate",
-     "time": "2026-11-05T15:10:14+00:00",
      "s": 0
     },
     {
@@ -222,8 +222,15 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+     "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+     "source": "CoinDesk",
+     "time": "2026-11-06T02:24:23+00:00",
+     "s": 0
+    },
     {
      "title": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
      "link": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
