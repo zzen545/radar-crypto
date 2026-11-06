@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-05T23:32:32.635926+00:00",
+ "updated": "2026-11-06T00:35:44.447490+00:00",
  "window_hours": 48,
- "headlines": 130,
+ "headlines": 129,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 12,
+   "pos": 13,
    "neg": 8,
-   "count": 36,
+   "count": 37,
    "items": [
+    {
+     "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+     "link": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-06T00:19:49+00:00",
+     "s": 1
+    },
     {
      "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
      "link": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -113,13 +120,6 @@
      "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
      "source": "CoinDesk",
      "time": "2026-11-05T13:29:40+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
-     "link": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
-     "source": "CoinDesk",
-     "time": "2026-11-05T12:27:04+00:00",
      "s": 0
     }
    ]
