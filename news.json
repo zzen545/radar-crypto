@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T03:41:07.626935+00:00",
+ "updated": "2026-11-06T04:44:53.089500+00:00",
  "window_hours": 48,
  "headlines": 129,
  "feeds_ok": [
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 12,
-   "neg": 9,
-   "count": 36,
+   "neg": 10,
+   "count": 38,
    "items": [
+    {
+     "title": "Unpatched Bitcoin Lightning nodes face channel-draining bug",
+     "link": "https://cryptoslate.com/unpatched-bitcoin-lightning-nodes-face-channel-draining-bug/",
+     "source": "CryptoSlate",
+     "time": "2026-11-06T04:30:28+00:00",
+     "s": 0
+    },
+    {
+     "title": "IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end",
+     "link": "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783",
+     "source": "The Block",
+     "time": "2026-11-06T04:29:14+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
      "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
@@ -106,20 +120,6 @@
      "link": "https://decrypt.co/382612/bitcoin-erases-election-rally-ai-stocks-plunge-428-million-crypto-longs",
      "source": "Decrypt",
      "time": "2026-11-05T16:29:11+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Mining Stocks Plunge 35% as VanEck Sees Oversold Opportunity",
-     "link": "https://bitcoinist.com/bitcoin-mining-stocks-plunge-35-as-vaneck-sees-oversold-opportunity/",
-     "source": "Bitcoinist",
-     "time": "2026-11-05T14:45:10+00:00",
-     "s": -1
-    },
-    {
-     "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-     "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
-     "source": "CoinDesk",
-     "time": "2026-11-05T13:29:40+00:00",
      "s": 0
     }
    ]
