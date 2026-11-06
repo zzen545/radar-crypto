@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T04:44:53.089500+00:00",
+ "updated": "2026-11-06T05:46:18.907397+00:00",
  "window_hours": 48,
  "headlines": 129,
  "feeds_ok": [
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 12,
+   "pos": 10,
    "neg": 10,
-   "count": 38,
+   "count": 36,
    "items": [
     {
      "title": "Unpatched Bitcoin Lightning nodes face channel-draining bug",
