@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-06T12:13:04.360510+00:00",
+ "updated": "2026-11-06T13:36:29.193660+00:00",
  "window_hours": 48,
- "headlines": 129,
+ "headlines": 127,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
-   "neg": 10,
-   "count": 37,
+   "pos": 10,
+   "neg": 9,
+   "count": 35,
    "items": [
+    {
+     "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
+     "link": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
+     "source": "Decrypt",
+     "time": "2026-11-06T13:29:20+00:00",
+     "s": 1
+    },
+    {
+     "title": "Live updates: Bitcoin holding $76,000, Nasdaq bounces ahead of U.S. jobs data",
+     "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+     "source": "CoinDesk",
+     "time": "2026-11-06T11:58:40+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
      "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
@@ -107,28 +121,21 @@
      "source": "Cointelegraph",
      "time": "2026-11-05T22:43:18+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
-     "link": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
-     "source": "Decrypt",
-     "time": "2026-11-05T22:16:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin traders face Friday’s $2.7 billion options expiry with a dangerous five-hour blind spot",
-     "link": "https://cryptoslate.com/bitcoin-traders-face-fridays-2-7-billion-options-expiry-with-a-dangerous-five-hour-blind-spot/",
-     "source": "CryptoSlate",
-     "time": "2026-11-05T20:40:25+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
-   "neg": 0,
-   "count": 4,
+   "neg": 1,
+   "count": 5,
    "items": [
+    {
+     "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks are resolved",
+     "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-06T13:23:08+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
      "link": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-lose-530-million-in-one-day-as-3-trillion-wall-street-wipeout-rattles-crypto/",
@@ -162,8 +169,15 @@
   "SOL": {
    "pos": 2,
    "neg": 1,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
+     "link": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-06T12:15:28+00:00",
+     "s": 0
+    },
     {
      "title": "Solana developers propose major overhaul to address hidden risk that could disrupt its network",
      "link": "https://cryptoslate.com/solana-developers-propose-major-overhaul-to-address-hidden-risk-that-could-disrupt-its-network/",
