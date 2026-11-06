@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-06T14:42:57.146325+00:00",
+ "updated": "2026-11-06T15:36:09.377806+00:00",
  "window_hours": 48,
- "headlines": 129,
+ "headlines": 128,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
+   "pos": 8,
    "neg": 8,
-   "count": 33,
+   "count": 34,
    "items": [
+    {
+     "title": "Bitcoin ETFs bought nearly twice what miners produced in Q3—but $430 million left on Thursday",
+     "link": "https://cryptoslate.com/bitcoin-etfs-bought-nearly-twice-what-miners-produced-in-q3-but-430-million-left-on-thursday/",
+     "source": "CryptoSlate",
+     "time": "2026-11-06T15:30:30+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Finds Opportunity as $1.1B in Long Positions Disappear",
+     "link": "https://bitcoinist.com/bitcoin-finds-opportunity-as-1-1b-in-long-positions-disappear/",
+     "source": "Bitcoinist",
+     "time": "2026-11-06T15:28:36+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Holds Critical $76K Level as AI Sell-Off Triggers Market-Wide Panic",
      "link": "https://bitcoinist.com/bitcoin-holds-critical-76k-level-as-ai-sell-off-triggers-market-wide-panic/",
@@ -106,20 +120,6 @@
      "link": "https://cryptoslate.com/unpatched-bitcoin-lightning-nodes-face-channel-draining-bug/",
      "source": "CryptoSlate",
      "time": "2026-11-06T04:30:28+00:00",
-     "s": 0
-    },
-    {
-     "title": "IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end",
-     "link": "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783",
-     "source": "The Block",
-     "time": "2026-11-06T04:29:14+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
-     "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
-     "source": "CoinDesk",
-     "time": "2026-11-06T01:30:00+00:00",
      "s": 0
     }
    ]
