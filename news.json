@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T23:05:36.332695+00:00",
+ "updated": "2026-11-06T23:58:16.647266+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 8,
    "neg": 8,
-   "count": 31,
+   "count": 32,
    "items": [
+    {
+     "title": "Bitcoin and USDT attract modest premiums in Paraguay as millions face banking crisis",
+     "link": "https://cryptoslate.com/bitcoin-and-usdt-attract-modest-premiums-in-paraguay-as-millions-face-banking-crisis/",
+     "source": "CryptoSlate",
+     "time": "2026-11-06T23:20:28+00:00",
+     "s": 0
+    },
     {
      "title": "Greece ends years of crypto tax uncertainty with new 10% levy on Bitcoin profits",
      "link": "https://cryptoslate.com/greece-ends-years-of-crypto-tax-uncertainty-with-new-10-levy-on-bitcoin-profits/",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-11-06T11:58:40+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-     "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
-     "source": "CoinDesk",
-     "time": "2026-11-06T11:49:35+00:00",
-     "s": -1
     }
    ]
   },
