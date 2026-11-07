@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-07T12:00:41.234867+00:00",
+ "updated": "2026-11-07T13:21:02.202982+00:00",
  "window_hours": 48,
- "headlines": 124,
+ "headlines": 118,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 10,
+   "pos": 11,
    "neg": 8,
    "count": 31,
    "items": [
+    {
+     "title": "Bitcoin Is Repeating The 2023 Setup That Sparked Its Last Major Rally, Analyst Says",
+     "link": "https://bitcoinist.com/bitcoin-is-repeating-the-2023-setup-that-sparked-its-last-major-rally-analyst-says/",
+     "source": "Bitcoinist",
+     "time": "2026-11-07T13:04:53+00:00",
+     "s": 1
+    },
+    {
+     "title": "Stablecoin contraction forces Bitcoin drop despite Fed reserve gains",
+     "link": "https://cryptoslate.com/stablecoin-contraction-forces-bitcoin-drop-despite-fed-reserve-gains/",
+     "source": "CryptoSlate",
+     "time": "2026-11-07T12:40:07+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Steadies Above $76,000, But Wall Street Isn’t Buying The Dip Yet",
      "link": "https://bitcoinist.com/bitcoin-steadies-above-76000-but-wall-street-isnt-buying-the-dip-yet/",
@@ -32,7 +46,7 @@
      "s": 1
     },
     {
-     "title": "Moscow Exchange sets Dec. 1 to launch Bitcoin and Ethereum trading",
+     "title": "Moscow Exchange sets December 1 to launch Bitcoin and Ethereum trading",
      "link": "https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/",
      "source": "CryptoSlate",
      "time": "2026-11-07T04:40:10+00:00",
@@ -95,13 +109,6 @@
      "s": 1
     },
     {
-     "title": "Bitcoin Finds Opportunity as $1.1B in Long Positions Disappear",
-     "link": "https://bitcoinist.com/bitcoin-finds-opportunity-as-1-1b-in-long-positions-disappear/",
-     "source": "Bitcoinist",
-     "time": "2026-11-06T15:28:36+00:00",
-     "s": 0
-    },
-    {
      "title": "TeraWulf’s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
      "link": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
      "source": "The Block",
@@ -114,13 +121,6 @@
      "source": "Decrypt",
      "time": "2026-11-06T13:29:20+00:00",
      "s": 1
-    },
-    {
-     "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
-     "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-     "source": "CoinDesk",
-     "time": "2026-11-06T11:58:40+00:00",
-     "s": 0
     }
    ]
   },
@@ -144,7 +144,7 @@
      "s": 0
     },
     {
-     "title": "Moscow Exchange sets Dec. 1 to launch Bitcoin and Ethereum trading",
+     "title": "Moscow Exchange sets December 1 to launch Bitcoin and Ethereum trading",
      "link": "https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/",
      "source": "CryptoSlate",
      "time": "2026-11-07T04:40:10+00:00",
@@ -169,7 +169,7 @@
   "SOL": {
    "pos": 1,
    "neg": 0,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
@@ -184,13 +184,6 @@
      "source": "Decrypt",
      "time": "2026-11-05T17:01:03+00:00",
      "s": 1
-    },
-    {
-     "title": "Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana",
-     "link": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
-     "source": "Decrypt",
-     "time": "2026-11-05T13:01:02+00:00",
-     "s": 0
     }
    ]
   },
