@@ -1,21 +1,22 @@
 {
- "updated": "2026-11-07T19:16:21.512364+00:00",
+ "updated": "2026-11-07T19:59:54.735564+00:00",
  "window_hours": 48,
- "headlines": 106,
+ "headlines": 97,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
-   "pos": 10,
+   "pos": 7,
    "neg": 7,
-   "count": 29,
+   "count": 26,
    "items": [
     {
      "title": "Higher wages don’t have to mean higher inflation. That could matter for Bitcoin",
@@ -46,32 +47,11 @@
      "s": 0
     },
     {
-     "title": "Bitcoin Is Repeating The 2023 Setup That Sparked Its Last Major Rally, Analyst Says",
-     "link": "https://bitcoinist.com/bitcoin-is-repeating-the-2023-setup-that-sparked-its-last-major-rally-analyst-says/",
-     "source": "Bitcoinist",
-     "time": "2026-11-07T13:04:53+00:00",
-     "s": 1
-    },
-    {
      "title": "Stablecoin contraction forces Bitcoin drop despite Fed reserve gains",
      "link": "https://cryptoslate.com/stablecoin-contraction-forces-bitcoin-drop-despite-fed-reserve-gains/",
      "source": "CryptoSlate",
      "time": "2026-11-07T12:40:07+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin Steadies Above $76,000, But Wall Street Isn’t Buying The Dip Yet",
-     "link": "https://bitcoinist.com/bitcoin-steadies-above-76000-but-wall-street-isnt-buying-the-dip-yet/",
-     "source": "Bitcoinist",
-     "time": "2026-11-07T11:04:27+00:00",
-     "s": 1
-    },
-    {
-     "title": "Moscow Exchange Sets December Launch for Bitcoin, Ethereum Trading",
-     "link": "https://bitcoinist.com/moscow-exchange-sets-december-launch-for-bitcoin-ethereum-trading/",
-     "source": "Bitcoinist",
-     "time": "2026-11-07T09:12:08+00:00",
-     "s": 1
     },
     {
      "title": "Moscow Exchange sets December 1 to launch Bitcoin and Ethereum trading",
@@ -121,21 +101,35 @@
      "source": "The Block",
      "time": "2026-11-06T16:07:24+00:00",
      "s": 1
+    },
+    {
+     "title": "TeraWulf’s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
+     "link": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
+     "source": "The Block",
+     "time": "2026-11-06T13:40:22+00:00",
+     "s": 0
+    },
+    {
+     "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
+     "link": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
+     "source": "Decrypt",
+     "time": "2026-11-06T13:29:20+00:00",
+     "s": 1
+    },
+    {
+     "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
+     "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+     "source": "CoinDesk",
+     "time": "2026-11-06T11:58:40+00:00",
+     "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 2,
+   "pos": 1,
    "neg": 1,
-   "count": 5,
+   "count": 4,
    "items": [
-    {
-     "title": "Moscow Exchange Sets December Launch for Bitcoin, Ethereum Trading",
-     "link": "https://bitcoinist.com/moscow-exchange-sets-december-launch-for-bitcoin-ethereum-trading/",
-     "source": "Bitcoinist",
-     "time": "2026-11-07T09:12:08+00:00",
-     "s": 1
-    },
     {
      "title": "EIP-8037 state-gas rules force Ethereum dApps to rewrite billing",
      "link": "https://cryptoslate.com/eip-8037-state-gas-rules-force-ethereum-dapps-to-rewrite-billing/",
