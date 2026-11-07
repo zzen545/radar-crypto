@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T10:29:17.903757+00:00",
+ "updated": "2026-11-07T11:11:26.437246+00:00",
  "window_hours": 48,
  "headlines": 125,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
+   "pos": 10,
    "neg": 8,
    "count": 31,
    "items": [
+    {
+     "title": "Bitcoin Steadies Above $76,000, But Wall Street Isn’t Buying The Dip Yet",
+     "link": "https://bitcoinist.com/bitcoin-steadies-above-76000-but-wall-street-isnt-buying-the-dip-yet/",
+     "source": "Bitcoinist",
+     "time": "2026-11-07T11:04:27+00:00",
+     "s": 1
+    },
     {
      "title": "Moscow Exchange Sets December Launch for Bitcoin, Ethereum Trading",
      "link": "https://bitcoinist.com/moscow-exchange-sets-december-launch-for-bitcoin-ethereum-trading/",
@@ -43,13 +50,6 @@
      "link": "https://cryptoslate.com/bitcoin-and-usdt-attract-modest-premiums-in-paraguay-as-millions-face-banking-crisis/",
      "source": "CryptoSlate",
      "time": "2026-11-06T23:20:28+00:00",
-     "s": 0
-    },
-    {
-     "title": "Greece ends years of crypto tax uncertainty with new 10% levy on Bitcoin profits",
-     "link": "https://cryptoslate.com/greece-ends-years-of-crypto-tax-uncertainty-with-new-10-levy-on-bitcoin-profits/",
-     "source": "CryptoSlate",
-     "time": "2026-11-06T20:00:30+00:00",
      "s": 0
     },
     {
@@ -127,7 +127,7 @@
   "ETH": {
    "pos": 2,
    "neg": 1,
-   "count": 6,
+   "count": 5,
    "items": [
     {
      "title": "Moscow Exchange Sets December Launch for Bitcoin, Ethereum Trading",
@@ -149,13 +149,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-07T04:40:10+00:00",
      "s": 1
-    },
-    {
-     "title": "Ethereum Could Play a Bigger Role in Global Finance by 2029",
-     "link": "https://bitcoinist.com/ethereum-could-play-a-bigger-role-in-global-finance-by-2029/",
-     "source": "Bitcoinist",
-     "time": "2026-11-06T13:57:12+00:00",
-     "s": 0
     },
     {
      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
@@ -210,8 +203,16 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Morpho loan stress exposes cbXRP, but spares native XRP",
+     "link": "https://cryptoslate.com/morpho-loan-stress-exposes-cbxrp-but-spares-native-xrp/",
+     "source": "CryptoSlate",
+     "time": "2026-11-07T10:30:51+00:00",
+     "s": 0
+    }
+   ]
   },
   "DOGE": {
    "pos": 0,
