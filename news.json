@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T05:36:40.976272+00:00",
+ "updated": "2026-11-07T06:38:01.530621+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
+   "pos": 8,
    "neg": 9,
-   "count": 33,
+   "count": 32,
    "items": [
     {
      "title": "Moscow Exchange sets Dec. 1 to launch Bitcoin and Ethereum trading",
@@ -74,13 +74,6 @@
      "s": 1
     },
     {
-     "title": "Bitcoin miner IREN’s AI revenue milestone slips into 2027 as expansion seeks $6 billion",
-     "link": "https://cryptoslate.com/bitcoin-miner-irens-ai-revenue-milestone-slips-into-2027-as-expansion-seeks-6-billion/",
-     "source": "CryptoSlate",
-     "time": "2026-11-06T17:30:09+00:00",
-     "s": 1
-    },
-    {
      "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
      "link": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
      "source": "Decrypt",
@@ -121,14 +114,28 @@
      "source": "Decrypt",
      "time": "2026-11-06T13:29:20+00:00",
      "s": 1
+    },
+    {
+     "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
+     "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+     "source": "CoinDesk",
+     "time": "2026-11-06T11:58:40+00:00",
+     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 6,
+   "count": 7,
    "items": [
+    {
+     "title": "EIP-8037 state-gas rules force Ethereum dApps to rewrite billing",
+     "link": "https://cryptoslate.com/eip-8037-state-gas-rules-force-ethereum-dapps-to-rewrite-billing/",
+     "source": "CryptoSlate",
+     "time": "2026-11-07T06:10:22+00:00",
+     "s": 0
+    },
     {
      "title": "Moscow Exchange sets Dec. 1 to launch Bitcoin and Ethereum trading",
      "link": "https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/",
