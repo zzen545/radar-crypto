@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:36:32.033384+00:00",
+ "updated": "2026-11-07T03:36:45.109296+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 8,
    "neg": 9,
-   "count": 33,
+   "count": 32,
    "items": [
     {
      "title": "Bitcoin faces $70,000 risk as investors realize $2 billion in losses and US jobs shock deepens pressure",
@@ -88,13 +88,6 @@
      "s": 1
     },
     {
-     "title": "Bitcoin ETFs bought nearly twice what miners produced in Q3—but $430 million left on Thursday",
-     "link": "https://cryptoslate.com/bitcoin-etfs-bought-nearly-twice-what-miners-produced-in-q3-but-430-million-left-on-thursday/",
-     "source": "CryptoSlate",
-     "time": "2026-11-06T15:30:30+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin Finds Opportunity as $1.1B in Long Positions Disappear",
      "link": "https://bitcoinist.com/bitcoin-finds-opportunity-as-1-1b-in-long-positions-disappear/",
      "source": "Bitcoinist",
@@ -121,6 +114,13 @@
      "source": "Decrypt",
      "time": "2026-11-06T13:29:20+00:00",
      "s": 1
+    },
+    {
+     "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
+     "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+     "source": "CoinDesk",
+     "time": "2026-11-06T11:58:40+00:00",
+     "s": 0
     }
    ]
   },
