@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-07T21:58:52.889118+00:00",
+ "updated": "2026-11-07T22:29:27.864393+00:00",
  "window_hours": 48,
- "headlines": 103,
+ "headlines": 100,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 9,
    "neg": 5,
-   "count": 26,
+   "count": 25,
    "items": [
     {
      "title": "Higher wages don’t have to mean higher inflation. That could matter for Bitcoin",
@@ -127,7 +127,7 @@
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "Moscow Exchange Sets December Launch for Bitcoin, Ethereum Trading",
@@ -135,13 +135,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-07T09:12:08+00:00",
      "s": 1
-    },
-    {
-     "title": "EIP-8037 state-gas rules force Ethereum dApps to rewrite billing",
-     "link": "https://cryptoslate.com/eip-8037-state-gas-rules-force-ethereum-dapps-to-rewrite-billing/",
-     "source": "CryptoSlate",
-     "time": "2026-11-07T06:10:22+00:00",
-     "s": 0
     },
     {
      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
@@ -208,7 +201,7 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
@@ -229,13 +222,6 @@
      "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
      "source": "CoinDesk",
      "time": "2026-11-06T02:24:23+00:00",
-     "s": 0
-    },
-    {
-     "title": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
-     "link": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
-     "source": "The Block",
-     "time": "2026-11-05T22:09:14+00:00",
      "s": 0
     }
    ]
