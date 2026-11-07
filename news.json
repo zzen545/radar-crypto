@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-07T16:00:14.700669+00:00",
+ "updated": "2026-11-07T17:00:17.268100+00:00",
  "window_hours": 48,
- "headlines": 114,
+ "headlines": 111,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 11,
-   "neg": 8,
-   "count": 31,
+   "neg": 9,
+   "count": 30,
    "items": [
+    {
+     "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+     "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+     "source": "The Block",
+     "time": "2026-11-07T16:46:02+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin holders have received eCash — What can you do with it?",
      "link": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -65,13 +72,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-07T00:40:34+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin and USDT attract modest premiums in Paraguay as millions face banking crisis",
-     "link": "https://cryptoslate.com/bitcoin-and-usdt-attract-modest-premiums-in-paraguay-as-millions-face-banking-crisis/",
-     "source": "CryptoSlate",
-     "time": "2026-11-06T23:20:28+00:00",
-     "s": 0
     },
     {
      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
