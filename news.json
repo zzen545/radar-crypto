@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T04:38:59.272233+00:00",
+ "updated": "2026-11-07T05:36:40.976272+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 9,
    "neg": 9,
-   "count": 32,
+   "count": 33,
    "items": [
+    {
+     "title": "Moscow Exchange sets Dec. 1 to launch Bitcoin and Ethereum trading",
+     "link": "https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/",
+     "source": "CryptoSlate",
+     "time": "2026-11-07T04:40:10+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin faces $70,000 risk as investors realize $2 billion in losses and US jobs shock deepens pressure",
      "link": "https://cryptoslate.com/bitcoin-faces-70000-risk-as-investors-realize-2-billion-in-losses-and-us-jobs-shock-deepens-pressure/",
@@ -114,21 +121,21 @@
      "source": "Decrypt",
      "time": "2026-11-06T13:29:20+00:00",
      "s": 1
-    },
-    {
-     "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
-     "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-     "source": "CoinDesk",
-     "time": "2026-11-06T11:58:40+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 0,
+   "pos": 1,
    "neg": 1,
-   "count": 5,
+   "count": 6,
    "items": [
+    {
+     "title": "Moscow Exchange sets Dec. 1 to launch Bitcoin and Ethereum trading",
+     "link": "https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/",
+     "source": "CryptoSlate",
+     "time": "2026-11-07T04:40:10+00:00",
+     "s": 1
+    },
     {
      "title": "Ethereum software bug triggers emergency fixes across major layer-2 networks",
      "link": "https://cryptoslate.com/ethereum-software-bug-triggers-emergency-fixes-across-major-layer-2-networks/",
