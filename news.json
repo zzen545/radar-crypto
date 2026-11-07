@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-07T18:28:51.588687+00:00",
+ "updated": "2026-11-07T19:16:21.512364+00:00",
  "window_hours": 48,
- "headlines": 109,
+ "headlines": 106,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 10,
-   "neg": 8,
-   "count": 30,
+   "neg": 7,
+   "count": 29,
    "items": [
     {
      "title": "Higher wages don’t have to mean higher inflation. That could matter for Bitcoin",
