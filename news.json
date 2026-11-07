@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T17:00:17.268100+00:00",
+ "updated": "2026-11-07T17:56:51.668223+00:00",
  "window_hours": 48,
  "headlines": 111,
  "feeds_ok": [
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 11,
-   "neg": 9,
+   "neg": 8,
    "count": 30,
    "items": [
+    {
+     "title": "Bitcoin traders could mistake this Binance data change for a rush to sell",
+     "link": "https://cryptoslate.com/bitcoin-traders-could-mistake-this-binance-data-change-for-a-rush-to-sell/",
+     "source": "CryptoSlate",
+     "time": "2026-11-07T17:10:30+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
      "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
@@ -65,13 +72,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-07T04:40:10+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin faces $70,000 risk as investors realize $2 billion in losses and US jobs shock deepens pressure",
-     "link": "https://cryptoslate.com/bitcoin-faces-70000-risk-as-investors-realize-2-billion-in-losses-and-us-jobs-shock-deepens-pressure/",
-     "source": "CryptoSlate",
-     "time": "2026-11-07T00:40:34+00:00",
-     "s": -1
     },
     {
      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
@@ -167,9 +167,9 @@
    ]
   },
   "SOL": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
@@ -177,13 +177,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-06T12:15:28+00:00",
      "s": 0
-    },
-    {
-     "title": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
-     "link": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
-     "source": "Decrypt",
-     "time": "2026-11-05T17:01:03+00:00",
-     "s": 1
     }
    ]
   },
