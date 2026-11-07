@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T08:38:49.695984+00:00",
+ "updated": "2026-11-07T09:34:10.505721+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
-   "neg": 9,
-   "count": 32,
+   "pos": 9,
+   "neg": 8,
+   "count": 31,
    "items": [
+    {
+     "title": "Moscow Exchange Sets December Launch for Bitcoin, Ethereum Trading",
+     "link": "https://bitcoinist.com/moscow-exchange-sets-december-launch-for-bitcoin-ethereum-trading/",
+     "source": "Bitcoinist",
+     "time": "2026-11-07T09:12:08+00:00",
+     "s": 1
+    },
     {
      "title": "Moscow Exchange sets Dec. 1 to launch Bitcoin and Ethereum trading",
      "link": "https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/",
@@ -95,13 +102,6 @@
      "s": 0
     },
     {
-     "title": "Bitcoin Holds Critical $76K Level as AI Sell-Off Triggers Market-Wide Panic",
-     "link": "https://bitcoinist.com/bitcoin-holds-critical-76k-level-as-ai-sell-off-triggers-market-wide-panic/",
-     "source": "Bitcoinist",
-     "time": "2026-11-06T13:40:44+00:00",
-     "s": -1
-    },
-    {
      "title": "TeraWulf’s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
      "link": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
      "source": "The Block",
@@ -125,10 +125,17 @@
    ]
   },
   "ETH": {
-   "pos": 1,
+   "pos": 2,
    "neg": 1,
    "count": 6,
    "items": [
+    {
+     "title": "Moscow Exchange Sets December Launch for Bitcoin, Ethereum Trading",
+     "link": "https://bitcoinist.com/moscow-exchange-sets-december-launch-for-bitcoin-ethereum-trading/",
+     "source": "Bitcoinist",
+     "time": "2026-11-07T09:12:08+00:00",
+     "s": 1
+    },
     {
      "title": "EIP-8037 state-gas rules force Ethereum dApps to rewrite billing",
      "link": "https://cryptoslate.com/eip-8037-state-gas-rules-force-ethereum-dapps-to-rewrite-billing/",
@@ -162,13 +169,6 @@
      "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-06T08:19:18+00:00",
-     "s": 0
-    },
-    {
-     "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
-     "link": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-05T18:09:38+00:00",
      "s": 0
     }
    ]
