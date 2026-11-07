@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T07:47:17.808726+00:00",
+ "updated": "2026-11-07T08:38:49.695984+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -127,7 +127,7 @@
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 7,
+   "count": 6,
    "items": [
     {
      "title": "EIP-8037 state-gas rules force Ethereum dApps to rewrite billing",
@@ -142,13 +142,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-07T04:40:10+00:00",
      "s": 1
-    },
-    {
-     "title": "Ethereum software bug triggers emergency fixes across major layer-2 networks",
-     "link": "https://cryptoslate.com/ethereum-software-bug-triggers-emergency-fixes-across-major-layer-2-networks/",
-     "source": "CryptoSlate",
-     "time": "2026-11-06T18:40:30+00:00",
-     "s": 0
     },
     {
      "title": "Ethereum Could Play a Bigger Role in Global Finance by 2029",
