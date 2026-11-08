@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T07:49:04.079805+00:00",
+ "updated": "2026-11-08T08:38:31.139124+00:00",
  "window_hours": 48,
- "headlines": 89,
+ "headlines": 87,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 8,
    "neg": 4,
-   "count": 21,
+   "count": 20,
    "items": [
     {
      "title": "Higher wages don’t have to mean higher inflation. That could matter for Bitcoin",
@@ -125,10 +125,17 @@
    ]
   },
   "ETH": {
-   "pos": 1,
+   "pos": 2,
    "neg": 1,
    "count": 3,
    "items": [
+    {
+     "title": "Ethereum Price Repeats 2025 Fractal As Whales Buy The Dip",
+     "link": "https://bitcoinist.com/ethereum-price-repeats-2025-fractal-as-whales-buy-the-dip/",
+     "source": "Bitcoinist",
+     "time": "2026-11-08T08:26:15+00:00",
+     "s": 1
+    },
     {
      "title": "Moscow Exchange Sets December Launch for Bitcoin, Ethereum Trading",
      "link": "https://bitcoinist.com/moscow-exchange-sets-december-launch-for-bitcoin-ethereum-trading/",
@@ -142,13 +149,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-06T13:23:08+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
-     "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-06T08:19:18+00:00",
-     "s": 0
     }
    ]
   },
