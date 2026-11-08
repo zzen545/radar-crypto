@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T16:31:44.321986+00:00",
+ "updated": "2026-11-08T17:23:32.016555+00:00",
  "window_hours": 48,
- "headlines": 61,
+ "headlines": 59,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 4,
-   "neg": 2,
-   "count": 14,
+   "neg": 1,
+   "count": 12,
    "items": [
     {
      "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
@@ -74,13 +74,6 @@
      "s": 1
     },
     {
-     "title": "Stablecoin contraction forces Bitcoin drop despite Fed reserve gains",
-     "link": "https://cryptoslate.com/stablecoin-contraction-forces-bitcoin-drop-despite-fed-reserve-gains/",
-     "source": "CryptoSlate",
-     "time": "2026-11-07T12:40:07+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
      "link": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
      "source": "Decrypt",
@@ -107,13 +100,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-06T17:49:33+00:00",
      "s": 1
-    },
-    {
-     "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
-     "link": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
-     "source": "Decrypt",
-     "time": "2026-11-06T16:34:07+00:00",
-     "s": -1
     }
    ]
   },
