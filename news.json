@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T14:09:22.012900+00:00",
+ "updated": "2026-11-08T15:00:28.698205+00:00",
  "window_hours": 48,
- "headlines": 66,
+ "headlines": 63,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
+   "pos": 5,
    "neg": 2,
-   "count": 16,
+   "count": 15,
    "items": [
     {
      "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
@@ -81,13 +81,6 @@
      "s": 0
     },
     {
-     "title": "Bitcoin Steadies Above $76,000, But Wall Street Isn’t Buying The Dip Yet",
-     "link": "https://bitcoinist.com/bitcoin-steadies-above-76000-but-wall-street-isnt-buying-the-dip-yet/",
-     "source": "Bitcoinist",
-     "time": "2026-11-07T11:04:27+00:00",
-     "s": 1
-    },
-    {
      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
      "link": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
      "source": "Decrypt",
@@ -121,6 +114,13 @@
      "source": "Decrypt",
      "time": "2026-11-06T16:34:07+00:00",
      "s": -1
+    },
+    {
+     "title": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
+     "link": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
+     "source": "The Block",
+     "time": "2026-11-06T16:07:24+00:00",
+     "s": 1
     }
    ]
   },
