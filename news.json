@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T17:56:08.122977+00:00",
+ "updated": "2026-11-08T18:27:34.533152+00:00",
  "window_hours": 48,
- "headlines": 56,
+ "headlines": 54,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 4,
+   "pos": 3,
    "neg": 1,
-   "count": 12,
+   "count": 10,
    "items": [
     {
      "title": "One BlackRock fund dominates Bitcoin’s billion-dollar ETF exodus",
@@ -85,20 +85,6 @@
      "link": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
      "source": "Decrypt",
      "time": "2026-11-06T18:36:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
-     "link": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-06T18:22:42+00:00",
-     "s": 1
-    },
-    {
-     "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
-     "link": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
-     "source": "The Block",
-     "time": "2026-11-06T18:06:59+00:00",
      "s": 0
     }
    ]
