@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T13:20:56.537214+00:00",
+ "updated": "2026-11-08T14:09:22.012900+00:00",
  "window_hours": 48,
- "headlines": 72,
+ "headlines": 66,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
+   "pos": 6,
    "neg": 2,
-   "count": 17,
+   "count": 16,
    "items": [
+    {
+     "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
+     "link": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+     "source": "Decrypt",
+     "time": "2026-11-08T14:01:03+00:00",
+     "s": 0
+    },
     {
      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
      "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
@@ -114,20 +121,13 @@
      "source": "Decrypt",
      "time": "2026-11-06T16:34:07+00:00",
      "s": -1
-    },
-    {
-     "title": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
-     "link": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
-     "source": "The Block",
-     "time": "2026-11-06T16:07:24+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
    "pos": 1,
-   "neg": 1,
-   "count": 2,
+   "neg": 0,
+   "count": 1,
    "items": [
     {
      "title": "Ethereum Price Repeats 2025 Fractal As Whales Buy The Dip",
@@ -135,13 +135,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-08T08:26:15+00:00",
      "s": 1
-    },
-    {
-     "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
-     "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-06T13:23:08+00:00",
-     "s": -1
     }
    ]
   },
