@@ -1,21 +1,22 @@
 {
- "updated": "2026-11-08T03:39:51.037943+00:00",
+ "updated": "2026-11-08T04:40:32.240536+00:00",
  "window_hours": 48,
- "headlines": 95,
+ "headlines": 85,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
-   "pos": 8,
-   "neg": 5,
-   "count": 22,
+   "pos": 5,
+   "neg": 4,
+   "count": 18,
    "items": [
     {
      "title": "Higher wages don’t have to mean higher inflation. That could matter for Bitcoin",
@@ -46,32 +47,11 @@
      "s": 0
     },
     {
-     "title": "Bitcoin Is Repeating The 2023 Setup That Sparked Its Last Major Rally, Analyst Says",
-     "link": "https://bitcoinist.com/bitcoin-is-repeating-the-2023-setup-that-sparked-its-last-major-rally-analyst-says/",
-     "source": "Bitcoinist",
-     "time": "2026-11-07T13:04:53+00:00",
-     "s": 1
-    },
-    {
      "title": "Stablecoin contraction forces Bitcoin drop despite Fed reserve gains",
      "link": "https://cryptoslate.com/stablecoin-contraction-forces-bitcoin-drop-despite-fed-reserve-gains/",
      "source": "CryptoSlate",
      "time": "2026-11-07T12:40:07+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin Steadies Above $76,000, But Wall Street Isn’t Buying The Dip Yet",
-     "link": "https://bitcoinist.com/bitcoin-steadies-above-76000-but-wall-street-isnt-buying-the-dip-yet/",
-     "source": "Bitcoinist",
-     "time": "2026-11-07T11:04:27+00:00",
-     "s": 1
-    },
-    {
-     "title": "Moscow Exchange Sets December Launch for Bitcoin, Ethereum Trading",
-     "link": "https://bitcoinist.com/moscow-exchange-sets-december-launch-for-bitcoin-ethereum-trading/",
-     "source": "Bitcoinist",
-     "time": "2026-11-07T09:12:08+00:00",
-     "s": 1
     },
     {
      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
@@ -121,21 +101,35 @@
      "source": "The Block",
      "time": "2026-11-06T13:40:22+00:00",
      "s": 0
+    },
+    {
+     "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
+     "link": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
+     "source": "Decrypt",
+     "time": "2026-11-06T13:29:20+00:00",
+     "s": 1
+    },
+    {
+     "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
+     "link": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+     "source": "CoinDesk",
+     "time": "2026-11-06T11:58:40+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+     "link": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
+     "source": "CoinDesk",
+     "time": "2026-11-06T11:49:35+00:00",
+     "s": -1
     }
    ]
   },
   "ETH": {
-   "pos": 1,
+   "pos": 0,
    "neg": 1,
-   "count": 3,
+   "count": 2,
    "items": [
-    {
-     "title": "Moscow Exchange Sets December Launch for Bitcoin, Ethereum Trading",
-     "link": "https://bitcoinist.com/moscow-exchange-sets-december-launch-for-bitcoin-ethereum-trading/",
-     "source": "Bitcoinist",
-     "time": "2026-11-07T09:12:08+00:00",
-     "s": 1
-    },
     {
      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
      "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
