@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T09:33:57.949687+00:00",
+ "updated": "2026-11-08T10:29:24.066672+00:00",
  "window_hours": 48,
- "headlines": 84,
+ "headlines": 83,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 7,
    "neg": 4,
-   "count": 20,
+   "count": 19,
    "items": [
+    {
+     "title": "Bitcoin Technical Analysis: Bullish Checkmate Setup Near $76K",
+     "link": "https://bitcoinist.com/bitcoin-technical-analysis-bullish-checkmate-setup-near-76k/",
+     "source": "Bitcoinist",
+     "time": "2026-11-08T09:31:47+00:00",
+     "s": 1
+    },
     {
      "title": "Higher wages don’t have to mean higher inflation. That could matter for Bitcoin",
      "link": "https://cryptoslate.com/higher-wages-dont-have-to-mean-higher-inflation-that-could-matter-for-bitcoin/",
@@ -64,13 +71,6 @@
      "link": "https://bitcoinist.com/bitcoin-steadies-above-76000-but-wall-street-isnt-buying-the-dip-yet/",
      "source": "Bitcoinist",
      "time": "2026-11-07T11:04:27+00:00",
-     "s": 1
-    },
-    {
-     "title": "Moscow Exchange Sets December Launch for Bitcoin, Ethereum Trading",
-     "link": "https://bitcoinist.com/moscow-exchange-sets-december-launch-for-bitcoin-ethereum-trading/",
-     "source": "Bitcoinist",
-     "time": "2026-11-07T09:12:08+00:00",
      "s": 1
     },
     {
@@ -125,22 +125,15 @@
    ]
   },
   "ETH": {
-   "pos": 2,
+   "pos": 1,
    "neg": 1,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "Ethereum Price Repeats 2025 Fractal As Whales Buy The Dip",
      "link": "https://bitcoinist.com/ethereum-price-repeats-2025-fractal-as-whales-buy-the-dip/",
      "source": "Bitcoinist",
      "time": "2026-11-08T08:26:15+00:00",
-     "s": 1
-    },
-    {
-     "title": "Moscow Exchange Sets December Launch for Bitcoin, Ethereum Trading",
-     "link": "https://bitcoinist.com/moscow-exchange-sets-december-launch-for-bitcoin-ethereum-trading/",
-     "source": "Bitcoinist",
-     "time": "2026-11-07T09:12:08+00:00",
      "s": 1
     },
     {
@@ -153,10 +146,17 @@
    ]
   },
   "SOL": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Solana Price Set To Catch Up After Record October, RSI Signals Reversal",
+     "link": "https://bitcoinist.com/solana-price-catch-up-record-october/",
+     "source": "Bitcoinist",
+     "time": "2026-11-08T09:33:45+00:00",
+     "s": 1
+    },
     {
      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
      "link": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
