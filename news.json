@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T22:31:10.662170+00:00",
+ "updated": "2026-11-08T23:23:59.312254+00:00",
  "window_hours": 48,
- "headlines": 42,
+ "headlines": 44,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -85,8 +85,15 @@
   "ETH": {
    "pos": 1,
    "neg": 0,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
+     "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-08T22:59:06+00:00",
+     "s": 0
+    },
     {
      "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
      "link": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
