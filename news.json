@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T12:01:53.592178+00:00",
+ "updated": "2026-11-08T13:20:56.537214+00:00",
  "window_hours": 48,
- "headlines": 74,
+ "headlines": 72,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 7,
    "neg": 2,
-   "count": 16,
+   "count": 17,
    "items": [
+    {
+     "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+     "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+     "source": "CoinDesk",
+     "time": "2026-11-08T12:55:59+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Technical Analysis: Bullish Checkmate Setup Near $76K",
      "link": "https://bitcoinist.com/bitcoin-technical-analysis-bullish-checkmate-setup-near-76k/",
@@ -114,13 +121,6 @@
      "source": "The Block",
      "time": "2026-11-06T16:07:24+00:00",
      "s": 1
-    },
-    {
-     "title": "TeraWulf’s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
-     "link": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
-     "source": "The Block",
-     "time": "2026-11-06T13:40:22+00:00",
-     "s": 0
     }
    ]
   },
@@ -148,7 +148,7 @@
   "SOL": {
    "pos": 1,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "Solana Price Set To Catch Up After Record October, RSI Signals Reversal",
@@ -156,13 +156,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-08T09:33:45+00:00",
      "s": 1
-    },
-    {
-     "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
-     "link": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-06T12:15:28+00:00",
-     "s": 0
     }
    ]
   },
