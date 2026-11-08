@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T18:27:34.533152+00:00",
+ "updated": "2026-11-08T19:15:09.055787+00:00",
  "window_hours": 48,
- "headlines": 54,
+ "headlines": 51,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -17,6 +17,13 @@
    "neg": 1,
    "count": 10,
    "items": [
+    {
+     "title": "The diesel problem that could spoil Bitcoin’s hopes for cheaper money",
+     "link": "https://cryptoslate.com/the-diesel-problem-that-could-spoil-bitcoins-hopes-for-cheaper-money/",
+     "source": "CryptoSlate",
+     "time": "2026-11-08T18:30:39+00:00",
+     "s": 0
+    },
     {
      "title": "One BlackRock fund dominates Bitcoin’s billion-dollar ETF exodus",
      "link": "https://cryptoslate.com/one-blackrock-fund-dominates-bitcoins-billion-dollar-etf-exodus/",
@@ -79,13 +86,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-07T13:04:53+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
-     "link": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
-     "source": "Decrypt",
-     "time": "2026-11-06T18:36:03+00:00",
-     "s": 0
     }
    ]
   },
