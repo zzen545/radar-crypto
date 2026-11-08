@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T20:03:33.604968+00:00",
+ "updated": "2026-11-08T21:00:14.476524+00:00",
  "window_hours": 48,
- "headlines": 51,
+ "headlines": 45,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -17,6 +17,13 @@
    "neg": 1,
    "count": 9,
    "items": [
+    {
+     "title": "Bitcoin Miners Help Heat Homes Across Finland",
+     "link": "https://bitcoinist.com/bitcoin-miners-help-heat-homes-across-finland/",
+     "source": "Bitcoinist",
+     "time": "2026-11-08T20:06:09+00:00",
+     "s": 0
+    },
     {
      "title": "The diesel problem that could spoil Bitcoin’s hopes for cheaper money",
      "link": "https://cryptoslate.com/the-diesel-problem-that-could-spoil-bitcoins-hopes-for-cheaper-money/",
@@ -51,13 +58,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-08T09:31:47+00:00",
      "s": 1
-    },
-    {
-     "title": "Higher wages don’t have to mean higher inflation. That could matter for Bitcoin",
-     "link": "https://cryptoslate.com/higher-wages-dont-have-to-mean-higher-inflation-that-could-matter-for-bitcoin/",
-     "source": "CryptoSlate",
-     "time": "2026-11-07T18:15:46+00:00",
-     "s": 0
     },
     {
      "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
