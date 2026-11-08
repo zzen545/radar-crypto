@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T11:12:16.112989+00:00",
+ "updated": "2026-11-08T12:01:53.592178+00:00",
  "window_hours": 48,
- "headlines": 79,
+ "headlines": 74,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 7,
-   "neg": 4,
-   "count": 19,
+   "neg": 2,
+   "count": 16,
    "items": [
     {
      "title": "Bitcoin Technical Analysis: Bullish Checkmate Setup Near $76K",
@@ -233,8 +233,16 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Gold is still 25% below its peak even as demand reaches $188B in Q3",
+     "link": "https://cryptoslate.com/gold-is-still-25-below-its-peak-while-demand-reaches-188b/",
+     "source": "CryptoSlate",
+     "time": "2026-11-08T11:20:50+00:00",
+     "s": 0
+    }
+   ]
   }
  }
 }
