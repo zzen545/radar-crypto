@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T15:59:08.237469+00:00",
+ "updated": "2026-11-08T16:31:44.321986+00:00",
  "window_hours": 48,
- "headlines": 63,
+ "headlines": 61,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 5,
+   "pos": 4,
    "neg": 2,
-   "count": 15,
+   "count": 14,
    "items": [
     {
      "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
@@ -114,13 +114,6 @@
      "source": "Decrypt",
      "time": "2026-11-06T16:34:07+00:00",
      "s": -1
-    },
-    {
-     "title": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
-     "link": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
-     "source": "The Block",
-     "time": "2026-11-06T16:07:24+00:00",
-     "s": 1
     }
    ]
   },
