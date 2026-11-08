@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T19:15:09.055787+00:00",
+ "updated": "2026-11-08T20:03:33.604968+00:00",
  "window_hours": 48,
  "headlines": 51,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 3,
    "neg": 1,
-   "count": 10,
+   "count": 9,
    "items": [
     {
      "title": "The diesel problem that could spoil Bitcoin’s hopes for cheaper money",
@@ -57,13 +57,6 @@
      "link": "https://cryptoslate.com/higher-wages-dont-have-to-mean-higher-inflation-that-could-matter-for-bitcoin/",
      "source": "CryptoSlate",
      "time": "2026-11-07T18:15:46+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin traders could mistake this Binance data change for a rush to sell",
-     "link": "https://cryptoslate.com/bitcoin-traders-could-mistake-this-binance-data-change-for-a-rush-to-sell/",
-     "source": "CryptoSlate",
-     "time": "2026-11-07T17:10:30+00:00",
      "s": 0
     },
     {
@@ -151,16 +144,8 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
-     "link": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
-     "source": "Decrypt",
-     "time": "2026-11-06T19:46:03+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "ASTER": {
    "pos": 0,
