@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:00:28.698205+00:00",
+ "updated": "2026-11-08T15:59:08.237469+00:00",
  "window_hours": 48,
  "headlines": 63,
  "feeds_ok": [
@@ -127,8 +127,15 @@
   "ETH": {
    "pos": 1,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
+     "source": "The Block",
+     "time": "2026-11-08T15:52:17+00:00",
+     "s": 0
+    },
     {
      "title": "Ethereum Price Repeats 2025 Fractal As Whales Buy The Dip",
      "link": "https://bitcoinist.com/ethereum-price-repeats-2025-fractal-as-whales-buy-the-dip/",
@@ -161,16 +168,8 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Morpho loan stress exposes cbXRP, but spares native XRP",
-     "link": "https://cryptoslate.com/morpho-loan-stress-exposes-cbxrp-but-spares-native-xrp/",
-     "source": "CryptoSlate",
-     "time": "2026-11-07T10:30:51+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "DOGE": {
    "pos": 0,
