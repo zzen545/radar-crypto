@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T21:00:14.476524+00:00",
+ "updated": "2026-11-08T21:59:29.253005+00:00",
  "window_hours": 48,
- "headlines": 45,
+ "headlines": 42,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -126,8 +126,16 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "XRP could double while this yield strategy leaves you far behind",
+     "link": "https://cryptoslate.com/xrp-could-double-while-this-yield-strategy-leaves-you-far-behind/",
+     "source": "CryptoSlate",
+     "time": "2026-11-08T21:30:38+00:00",
+     "s": 0
+    }
+   ]
   },
   "DOGE": {
    "pos": 0,
