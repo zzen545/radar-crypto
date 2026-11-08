@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T01:51:49.077925+00:00",
+ "updated": "2026-11-08T02:40:00.287637+00:00",
  "window_hours": 48,
- "headlines": 96,
+ "headlines": 95,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -201,7 +201,7 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
@@ -215,13 +215,6 @@
      "link": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-06T08:42:54+00:00",
-     "s": 0
-    },
-    {
-     "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-     "link": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
-     "source": "CoinDesk",
-     "time": "2026-11-06T02:24:23+00:00",
      "s": 0
     }
    ]
