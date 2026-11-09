@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T21:16:10.170711+00:00",
+ "updated": "2026-11-09T22:10:30.044994+00:00",
  "window_hours": 48,
- "headlines": 96,
+ "headlines": 97,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 9,
    "neg": 6,
-   "count": 25,
+   "count": 24,
    "items": [
+    {
+     "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+     "link": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
+     "source": "The Block",
+     "time": "2026-11-09T22:07:00+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
      "link": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
@@ -114,20 +121,13 @@
      "source": "The Block",
      "time": "2026-11-09T13:10:42+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin loses 50-week moving average as 24-hour crypto long liquidations top $1 billion",
-     "link": "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102",
-     "source": "The Block",
-     "time": "2026-11-09T13:04:21+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 3,
    "neg": 1,
-   "count": 9,
+   "count": 8,
    "items": [
     {
      "title": "Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute",
@@ -184,20 +184,13 @@
      "source": "Cointelegraph",
      "time": "2026-11-08T22:59:06+00:00",
      "s": 0
-    },
-    {
-     "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
-     "link": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
-     "source": "The Block",
-     "time": "2026-11-08T15:52:17+00:00",
-     "s": 0
     }
    ]
   },
   "SOL": {
    "pos": 0,
    "neg": 4,
-   "count": 6,
+   "count": 5,
    "items": [
     {
      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
@@ -212,13 +205,6 @@
      "source": "Decrypt",
      "time": "2026-11-09T17:46:02+00:00",
      "s": -1
-    },
-    {
-     "title": "Jito’s Solana data feed puts a price on seeing trades early",
-     "link": "https://cryptoslate.com/jitos-solana-data-feed-puts-a-price-on-seeing-trades-early/",
-     "source": "CryptoSlate",
-     "time": "2026-11-09T13:15:24+00:00",
-     "s": 0
     },
     {
      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
@@ -316,8 +302,16 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Live news: Crypto prices give ground even as stocks and gold surge, oil plunges",
+     "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
+     "source": "CoinDesk",
+     "time": "2026-11-09T10:51:48+00:00",
+     "s": 0
+    }
+   ]
   }
  }
 }
