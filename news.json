@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T07:00:33.306931+00:00",
+ "updated": "2026-11-09T08:42:07.460358+00:00",
  "window_hours": 48,
  "headlines": 53,
  "feeds_ok": [
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 2,
-   "count": 12,
+   "neg": 3,
+   "count": 13,
    "items": [
+    {
+     "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
+     "link": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-09T08:17:35+00:00",
+     "s": -1
+    },
     {
      "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
      "link": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
