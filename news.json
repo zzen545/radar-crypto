@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T14:06:08.030227+00:00",
+ "updated": "2026-11-09T15:19:47.010384+00:00",
  "window_hours": 48,
- "headlines": 77,
+ "headlines": 80,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,7 +14,7 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 5,
+   "neg": 4,
    "count": 18,
    "items": [
     {
@@ -67,11 +67,11 @@
      "s": 1
     },
     {
-     "title": "Live news: Bitcoin slides to $74,000 as Huang scandal weighs on Nvidia",
+     "title": "Live news: Bitcoin remains under pressure as stocks surge, oil slumps",
      "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
      "source": "CoinDesk",
      "time": "2026-11-09T10:51:48+00:00",
-     "s": -1
+     "s": 0
     },
     {
      "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
@@ -125,10 +125,17 @@
    ]
   },
   "ETH": {
-   "pos": 1,
+   "pos": 2,
    "neg": 0,
-   "count": 5,
+   "count": 6,
    "items": [
+    {
+     "title": "Tom Lee’s Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI ‘supercycle’",
+     "link": "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219",
+     "source": "The Block",
+     "time": "2026-11-09T14:32:40+00:00",
+     "s": 1
+    },
     {
      "title": "Why Wall Street can use Ethereum without betting on ETH",
      "link": "https://cryptoslate.com/why-wall-street-can-use-ethereum-without-betting-on-eth/",
