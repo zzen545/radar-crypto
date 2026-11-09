@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T12:49:19.124220+00:00",
+ "updated": "2026-11-09T14:06:08.030227+00:00",
  "window_hours": 48,
- "headlines": 71,
+ "headlines": 77,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,52 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 4,
-   "neg": 4,
-   "count": 16,
+   "pos": 6,
+   "neg": 5,
+   "count": 18,
    "items": [
+    {
+     "title": "Bitcoin traders face an eight-hour blind spot as Deribit prepares to delay key market data",
+     "link": "https://cryptoslate.com/bitcoin-traders-face-an-eight-hour-blind-spot-as-deribit-prepares-to-delay-key-market-data/",
+     "source": "CryptoSlate",
+     "time": "2026-11-09T14:00:34+00:00",
+     "s": 0
+    },
+    {
+     "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
+     "link": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-09T13:29:47+00:00",
+     "s": 1
+    },
+    {
+     "title": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
+     "link": "https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc",
+     "source": "Decrypt",
+     "time": "2026-11-09T13:24:29+00:00",
+     "s": 1
+    },
+    {
+     "title": "‘Connecting the dots’: Michael Saylor’s Strategy buys another 1,036 bitcoin for $82 million as holdings top 850,000 BTC",
+     "link": "https://www.theblock.co/news/business/2026-11-09-connecting-the-dots-michael-saylor-strategy-bitcoin-436094",
+     "source": "The Block",
+     "time": "2026-11-09T13:10:42+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin loses 50-week moving average as 24-hour crypto long liquidations top $1 billion",
+     "link": "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102",
+     "source": "The Block",
+     "time": "2026-11-09T13:04:21+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin Money Printing: Pompliano Predicts Gains",
+     "link": "https://bitcoinist.com/bitcoin-money-printing-pompliano-predicts-gains/",
+     "source": "Bitcoinist",
+     "time": "2026-11-09T12:54:56+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin bulls can't rely on ETF flows",
      "link": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
@@ -79,48 +121,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-08T20:06:09+00:00",
      "s": 0
-    },
-    {
-     "title": "The diesel problem that could spoil Bitcoin’s hopes for cheaper money",
-     "link": "https://cryptoslate.com/the-diesel-problem-that-could-spoil-bitcoins-hopes-for-cheaper-money/",
-     "source": "CryptoSlate",
-     "time": "2026-11-08T18:30:39+00:00",
-     "s": 0
-    },
-    {
-     "title": "One BlackRock fund dominates Bitcoin’s billion-dollar ETF exodus",
-     "link": "https://cryptoslate.com/one-blackrock-fund-dominates-bitcoins-billion-dollar-etf-exodus/",
-     "source": "CryptoSlate",
-     "time": "2026-11-08T17:30:44+00:00",
-     "s": 1
-    },
-    {
-     "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
-     "link": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
-     "source": "Decrypt",
-     "time": "2026-11-08T14:01:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-     "link": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
-     "source": "CoinDesk",
-     "time": "2026-11-08T12:55:59+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Technical Analysis: Bullish Checkmate Setup Near $76K",
-     "link": "https://bitcoinist.com/bitcoin-technical-analysis-bullish-checkmate-setup-near-76k/",
-     "source": "Bitcoinist",
-     "time": "2026-11-08T09:31:47+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
-     "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
-     "source": "The Block",
-     "time": "2026-11-07T16:46:02+00:00",
-     "s": -1
     }
    ]
   },
@@ -167,10 +167,17 @@
    ]
   },
   "SOL": {
-   "pos": 1,
+   "pos": 0,
    "neg": 2,
    "count": 4,
    "items": [
+    {
+     "title": "Jito’s Solana data feed puts a price on seeing trades early",
+     "link": "https://cryptoslate.com/jitos-solana-data-feed-puts-a-price-on-seeing-trades-early/",
+     "source": "CryptoSlate",
+     "time": "2026-11-09T13:15:24+00:00",
+     "s": 0
+    },
     {
      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
      "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
@@ -191,13 +198,6 @@
      "source": "CoinDesk",
      "time": "2026-11-09T06:36:45+00:00",
      "s": -1
-    },
-    {
-     "title": "Solana Price Set To Catch Up After Record October, RSI Signals Reversal",
-     "link": "https://bitcoinist.com/solana-price-catch-up-record-october/",
-     "source": "Bitcoinist",
-     "time": "2026-11-08T09:33:45+00:00",
-     "s": 1
     }
    ]
   },
