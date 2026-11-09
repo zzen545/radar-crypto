@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T15:19:47.010384+00:00",
+ "updated": "2026-11-09T16:28:24.756621+00:00",
  "window_hours": 48,
- "headlines": 80,
+ "headlines": 85,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
+   "pos": 7,
    "neg": 4,
-   "count": 18,
+   "count": 19,
    "items": [
+    {
+     "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+     "link": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
+     "source": "CoinDesk",
+     "time": "2026-11-09T16:19:45+00:00",
+     "s": 1
+    },
+    {
+     "title": "TradingView Glitch Sends Bitcoin Dominance Below 25%",
+     "link": "https://bitcoinist.com/tradingview-glitch-sends-bitcoin-dominance-below-25/",
+     "source": "Bitcoinist",
+     "time": "2026-11-09T15:32:39+00:00",
+     "s": 0
+    },
+    {
+     "title": "BTC Drops Then Rebounds Near $74K as Nvidia Scandal Sparks $1B Liquidations",
+     "link": "https://bitcoinist.com/btc-drops-then-rebounds-near-74k-as-nvidia-scandal-sparks-1b-liquidations/",
+     "source": "Bitcoinist",
+     "time": "2026-11-09T15:19:35+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin traders face an eight-hour blind spot as Deribit prepares to delay key market data",
      "link": "https://cryptoslate.com/bitcoin-traders-face-an-eight-hour-blind-spot-as-deribit-prepares-to-delay-key-market-data/",
@@ -67,7 +88,7 @@
      "s": 1
     },
     {
-     "title": "Live news: Bitcoin remains under pressure as stocks surge, oil slumps",
+     "title": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
      "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
      "source": "CoinDesk",
      "time": "2026-11-09T10:51:48+00:00",
@@ -100,35 +121,21 @@
      "source": "Cointelegraph",
      "time": "2026-11-09T08:17:35+00:00",
      "s": -1
-    },
-    {
-     "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
-     "link": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
-     "source": "CoinDesk",
-     "time": "2026-11-09T04:54:39+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin drops as Nvidia cheating scandal and failed Iran talks trigger volatility",
-     "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
-     "source": "CoinDesk",
-     "time": "2026-11-09T03:21:49+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin Miners Help Heat Homes Across Finland",
-     "link": "https://bitcoinist.com/bitcoin-miners-help-heat-homes-across-finland/",
-     "source": "Bitcoinist",
-     "time": "2026-11-08T20:06:09+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 2,
+   "pos": 3,
    "neg": 0,
-   "count": 6,
+   "count": 7,
    "items": [
+    {
+     "title": "Ethereum treasury Sharplink’s Q3 net income hits $751 million on unrealized ether gains",
+     "link": "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459",
+     "source": "The Block",
+     "time": "2026-11-09T15:40:30+00:00",
+     "s": 1
+    },
     {
      "title": "Tom Lee’s Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI ‘supercycle’",
      "link": "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219",
@@ -217,7 +224,7 @@
   "XRP": {
    "pos": 2,
    "neg": 0,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
@@ -232,13 +239,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-09T11:39:46+00:00",
      "s": 1
-    },
-    {
-     "title": "XRP could double while this yield strategy leaves you far behind",
-     "link": "https://cryptoslate.com/xrp-could-double-while-this-yield-strategy-leaves-you-far-behind/",
-     "source": "CryptoSlate",
-     "time": "2026-11-08T21:30:38+00:00",
-     "s": 0
     }
    ]
   },
