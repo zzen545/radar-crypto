@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T18:16:12.444831+00:00",
+ "updated": "2026-11-09T19:25:05.175297+00:00",
  "window_hours": 48,
- "headlines": 88,
+ "headlines": 90,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
-   "neg": 5,
-   "count": 22,
+   "pos": 8,
+   "neg": 6,
+   "count": 25,
    "items": [
+    {
+     "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+     "link": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+     "source": "Decrypt",
+     "time": "2026-11-09T19:06:03+00:00",
+     "s": 1
+    },
+    {
+     "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
+     "link": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-09T18:25:29+00:00",
+     "s": 0
+    },
+    {
+     "title": "The missing step in the warning that Japan could trigger Bitcoin’s next selloff",
+     "link": "https://cryptoslate.com/the-missing-step-in-the-warning-that-japan-could-trigger-bitcoins-next-selloff/",
+     "source": "CryptoSlate",
+     "time": "2026-11-09T18:20:52+00:00",
+     "s": -1
+    },
     {
      "title": "Two Bitcoin miners reported nearly $2 billion in profit. The biggest boost wasn’t cash",
      "link": "https://cryptoslate.com/two-bitcoin-miners-reported-nearly-2-billion-in-profit-the-biggest-boost-wasnt-cash/",
@@ -100,35 +121,21 @@
      "source": "The Block",
      "time": "2026-11-09T13:04:21+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin Money Printing: Pompliano Predicts Gains",
-     "link": "https://bitcoinist.com/bitcoin-money-printing-pompliano-predicts-gains/",
-     "source": "Bitcoinist",
-     "time": "2026-11-09T12:54:56+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin bulls can't rely on ETF flows",
-     "link": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
-     "source": "CoinDesk",
-     "time": "2026-11-09T12:30:00+00:00",
-     "s": 1
-    },
-    {
-     "title": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
-     "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
-     "source": "CoinDesk",
-     "time": "2026-11-09T10:51:48+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 3,
-   "neg": 0,
-   "count": 8,
+   "neg": 1,
+   "count": 9,
    "items": [
+    {
+     "title": "Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute",
+     "link": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739",
+     "source": "The Block",
+     "time": "2026-11-09T18:30:22+00:00",
+     "s": -1
+    },
     {
      "title": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
      "link": "https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability",
