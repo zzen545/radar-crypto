@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T22:10:30.044994+00:00",
+ "updated": "2026-11-09T23:08:33.074260+00:00",
  "window_hours": 48,
- "headlines": 97,
+ "headlines": 99,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 9,
    "neg": 6,
-   "count": 24,
+   "count": 23,
    "items": [
     {
      "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
@@ -95,13 +95,6 @@
      "s": -1
     },
     {
-     "title": "Bitcoin traders face an eight-hour blind spot as Deribit prepares to delay key market data",
-     "link": "https://cryptoslate.com/bitcoin-traders-face-an-eight-hour-blind-spot-as-deribit-prepares-to-delay-key-market-data/",
-     "source": "CryptoSlate",
-     "time": "2026-11-09T14:00:34+00:00",
-     "s": 0
-    },
-    {
      "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
      "link": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -121,14 +114,28 @@
      "source": "The Block",
      "time": "2026-11-09T13:10:42+00:00",
      "s": 1
+    },
+    {
+     "title": "Bitcoin loses 50-week moving average as 24-hour crypto long liquidations top $1 billion",
+     "link": "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102",
+     "source": "The Block",
+     "time": "2026-11-09T13:04:21+00:00",
+     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 3,
    "neg": 1,
-   "count": 8,
+   "count": 9,
    "items": [
+    {
+     "title": "Amundi puts European stocks on Ethereum, but access terms stay hidden",
+     "link": "https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/",
+     "source": "CryptoSlate",
+     "time": "2026-11-09T22:50:00+00:00",
+     "s": 0
+    },
     {
      "title": "Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute",
      "link": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739",
