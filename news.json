@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T19:25:05.175297+00:00",
+ "updated": "2026-11-09T20:17:56.570371+00:00",
  "window_hours": 48,
- "headlines": 90,
+ "headlines": 94,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -196,9 +196,16 @@
   },
   "SOL": {
    "pos": 0,
-   "neg": 3,
-   "count": 5,
+   "neg": 4,
+   "count": 6,
    "items": [
+    {
+     "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+     "link": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-09T19:52:34+00:00",
+     "s": -1
+    },
     {
      "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
      "link": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
@@ -245,8 +252,15 @@
   "XRP": {
    "pos": 2,
    "neg": 0,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "XRP’s new euro cash-out route had less than €100 in its direct market",
+     "link": "https://cryptoslate.com/xrps-new-euro-cash-out-route-had-less-than-e100-in-its-direct-market/",
+     "source": "CryptoSlate",
+     "time": "2026-11-09T20:00:36+00:00",
+     "s": 0
+    },
     {
      "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
      "link": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter",
@@ -302,16 +316,8 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Tokenized gold can now back a Coinbase loan. The price feed takes weekends off",
-     "link": "https://cryptoslate.com/tokenized-gold-can-now-back-a-coinbase-loan-the-price-feed-takes-weekends-off/",
-     "source": "CryptoSlate",
-     "time": "2026-11-09T12:40:42+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   }
  }
 }
