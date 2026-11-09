@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T10:44:15.943252+00:00",
+ "updated": "2026-11-09T11:43:24.607437+00:00",
  "window_hours": 48,
- "headlines": 59,
+ "headlines": 63,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 3,
+   "neg": 4,
    "count": 15,
    "items": [
+    {
+     "title": "Live news: Nvidia slides on CEO allegations as bitcoin hovers just above its 200-day average",
+     "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
+     "source": "CoinDesk",
+     "time": "2026-11-09T10:51:48+00:00",
+     "s": -1
+    },
     {
      "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
      "link": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -44,13 +51,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-09T08:17:35+00:00",
      "s": -1
-    },
-    {
-     "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
-     "link": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
-     "source": "CoinDesk",
-     "time": "2026-11-09T06:54:41+00:00",
-     "s": 0
     },
     {
      "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
@@ -125,10 +125,17 @@
    ]
   },
   "ETH": {
-   "pos": 2,
+   "pos": 1,
    "neg": 0,
    "count": 5,
    "items": [
+    {
+     "title": "Why Wall Street can use Ethereum without betting on ETH",
+     "link": "https://cryptoslate.com/why-wall-street-can-use-ethereum-without-betting-on-eth/",
+     "source": "CryptoSlate",
+     "time": "2026-11-09T10:53:54+00:00",
+     "s": 0
+    },
     {
      "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
      "link": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
@@ -156,13 +163,6 @@
      "source": "The Block",
      "time": "2026-11-08T15:52:17+00:00",
      "s": 0
-    },
-    {
-     "title": "Ethereum Price Repeats 2025 Fractal As Whales Buy The Dip",
-     "link": "https://bitcoinist.com/ethereum-price-repeats-2025-fractal-as-whales-buy-the-dip/",
-     "source": "Bitcoinist",
-     "time": "2026-11-08T08:26:15+00:00",
-     "s": 1
     }
    ]
   },
@@ -194,10 +194,17 @@
    "items": []
   },
   "XRP": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "XRP Price Recovery: Analyst Eyes $1.30",
+     "link": "https://bitcoinist.com/xrp-price-recovery-analyst-eyes-1-30/",
+     "source": "Bitcoinist",
+     "time": "2026-11-09T11:39:46+00:00",
+     "s": 1
+    },
     {
      "title": "XRP could double while this yield strategy leaves you far behind",
      "link": "https://cryptoslate.com/xrp-could-double-while-this-yield-strategy-leaves-you-far-behind/",
@@ -246,16 +253,8 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Gold is still 25% below its peak even as demand reaches $188B in Q3",
-     "link": "https://cryptoslate.com/gold-is-still-25-below-its-peak-while-demand-reaches-188b/",
-     "source": "CryptoSlate",
-     "time": "2026-11-08T11:20:50+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   }
  }
 }
