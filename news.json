@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T08:42:07.460358+00:00",
+ "updated": "2026-11-09T09:47:31.501305+00:00",
  "window_hours": 48,
- "headlines": 53,
+ "headlines": 55,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,22 @@
   "BTC": {
    "pos": 3,
    "neg": 3,
-   "count": 13,
+   "count": 14,
    "items": [
+    {
+     "title": "Bitcoin Political Support Is Growing Across US Parties",
+     "link": "https://bitcoinist.com/bitcoin-political-support-is-growing-across-us-parties/",
+     "source": "Bitcoinist",
+     "time": "2026-11-09T09:32:36+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Price Eyes Recovery As Analyst Identifies Key Level For Next Rally",
+     "link": "https://bitcoinist.com/bitcoin-price-eyes-recovery-as-analyst-identifies-key-level-for-next-rally/",
+     "source": "Bitcoinist",
+     "time": "2026-11-09T08:54:54+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
      "link": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -100,21 +114,21 @@
      "source": "Cointelegraph",
      "time": "2026-11-07T13:30:00+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin Is Repeating The 2023 Setup That Sparked Its Last Major Rally, Analyst Says",
-     "link": "https://bitcoinist.com/bitcoin-is-repeating-the-2023-setup-that-sparked-its-last-major-rally-analyst-says/",
-     "source": "Bitcoinist",
-     "time": "2026-11-07T13:04:53+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
-   "pos": 1,
+   "pos": 2,
    "neg": 0,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
+     "link": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
+     "source": "The Block",
+     "time": "2026-11-09T09:05:02+00:00",
+     "s": 1
+    },
     {
      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
      "link": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
