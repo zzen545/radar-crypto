@@ -1,23 +1,29 @@
 {
- "updated": "2026-11-09T05:52:02.726021+00:00",
+ "updated": "2026-11-09T07:00:33.306931+00:00",
  "window_hours": 48,
- "headlines": 43,
+ "headlines": 53,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 1,
+   "pos": 3,
    "neg": 2,
-   "count": 8,
+   "count": 12,
    "items": [
+    {
+     "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+     "link": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+     "source": "CoinDesk",
+     "time": "2026-11-09T06:54:41+00:00",
+     "s": 0
+    },
     {
      "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
      "link": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
@@ -31,6 +37,13 @@
      "source": "CoinDesk",
      "time": "2026-11-09T03:21:49+00:00",
      "s": -1
+    },
+    {
+     "title": "Bitcoin Miners Help Heat Homes Across Finland",
+     "link": "https://bitcoinist.com/bitcoin-miners-help-heat-homes-across-finland/",
+     "source": "Bitcoinist",
+     "time": "2026-11-08T20:06:09+00:00",
+     "s": 0
     },
     {
      "title": "The diesel problem that could spoil Bitcoin’s hopes for cheaper money",
@@ -61,6 +74,13 @@
      "s": 0
     },
     {
+     "title": "Bitcoin Technical Analysis: Bullish Checkmate Setup Near $76K",
+     "link": "https://bitcoinist.com/bitcoin-technical-analysis-bullish-checkmate-setup-near-76k/",
+     "source": "Bitcoinist",
+     "time": "2026-11-08T09:31:47+00:00",
+     "s": 1
+    },
+    {
      "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
      "link": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
      "source": "The Block",
@@ -73,13 +93,20 @@
      "source": "Cointelegraph",
      "time": "2026-11-07T13:30:00+00:00",
      "s": 0
+    },
+    {
+     "title": "Bitcoin Is Repeating The 2023 Setup That Sparked Its Last Major Rally, Analyst Says",
+     "link": "https://bitcoinist.com/bitcoin-is-repeating-the-2023-setup-that-sparked-its-last-major-rally-analyst-says/",
+     "source": "Bitcoinist",
+     "time": "2026-11-07T13:04:53+00:00",
+     "s": 1
     }
    ]
   },
   "ETH": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 3,
+   "count": 4,
    "items": [
     {
      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
@@ -101,14 +128,36 @@
      "source": "The Block",
      "time": "2026-11-08T15:52:17+00:00",
      "s": 0
+    },
+    {
+     "title": "Ethereum Price Repeats 2025 Fractal As Whales Buy The Dip",
+     "link": "https://bitcoinist.com/ethereum-price-repeats-2025-fractal-as-whales-buy-the-dip/",
+     "source": "Bitcoinist",
+     "time": "2026-11-08T08:26:15+00:00",
+     "s": 1
     }
    ]
   },
   "SOL": {
-   "pos": 0,
-   "neg": 0,
-   "count": 0,
-   "items": []
+   "pos": 1,
+   "neg": 1,
+   "count": 2,
+   "items": [
+    {
+     "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+     "link": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+     "source": "CoinDesk",
+     "time": "2026-11-09T06:36:45+00:00",
+     "s": -1
+    },
+    {
+     "title": "Solana Price Set To Catch Up After Record October, RSI Signals Reversal",
+     "link": "https://bitcoinist.com/solana-price-catch-up-record-october/",
+     "source": "Bitcoinist",
+     "time": "2026-11-08T09:33:45+00:00",
+     "s": 1
+    }
+   ]
   },
   "BNB": {
    "pos": 0,
