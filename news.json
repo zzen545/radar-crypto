@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T02:44:51.751437+00:00",
+ "updated": "2026-11-09T03:43:21.281261+00:00",
  "window_hours": 48,
- "headlines": 45,
+ "headlines": 47,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 1,
-   "count": 9,
+   "neg": 2,
+   "count": 10,
    "items": [
+    {
+     "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+     "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+     "source": "CoinDesk",
+     "time": "2026-11-09T03:21:49+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin Miners Help Heat Homes Across Finland",
      "link": "https://bitcoinist.com/bitcoin-miners-help-heat-homes-across-finland/",
