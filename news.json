@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T17:28:19.410181+00:00",
+ "updated": "2026-11-09T18:16:12.444831+00:00",
  "window_hours": 48,
- "headlines": 86,
+ "headlines": 88,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
+   "pos": 7,
    "neg": 5,
-   "count": 21,
+   "count": 22,
    "items": [
+    {
+     "title": "Two Bitcoin miners reported nearly $2 billion in profit. The biggest boost wasn’t cash",
+     "link": "https://cryptoslate.com/two-bitcoin-miners-reported-nearly-2-billion-in-profit-the-biggest-boost-wasnt-cash/",
+     "source": "CryptoSlate",
+     "time": "2026-11-09T17:30:25+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
      "link": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -114,20 +121,13 @@
      "source": "CoinDesk",
      "time": "2026-11-09T10:51:48+00:00",
      "s": 0
-    },
-    {
-     "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
-     "link": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-09T10:03:40+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 3,
    "neg": 0,
-   "count": 9,
+   "count": 8,
    "items": [
     {
      "title": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
@@ -156,13 +156,6 @@
      "source": "The Block",
      "time": "2026-11-09T14:32:40+00:00",
      "s": 1
-    },
-    {
-     "title": "Why Wall Street can use Ethereum without betting on ETH",
-     "link": "https://cryptoslate.com/why-wall-street-can-use-ethereum-without-betting-on-eth/",
-     "source": "CryptoSlate",
-     "time": "2026-11-09T10:53:54+00:00",
-     "s": 0
     },
     {
      "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
@@ -196,9 +189,16 @@
   },
   "SOL": {
    "pos": 0,
-   "neg": 2,
-   "count": 4,
+   "neg": 3,
+   "count": 5,
    "items": [
+    {
+     "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
+     "link": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
+     "source": "Decrypt",
+     "time": "2026-11-09T17:46:02+00:00",
+     "s": -1
+    },
     {
      "title": "Jito’s Solana data feed puts a price on seeing trades early",
      "link": "https://cryptoslate.com/jitos-solana-data-feed-puts-a-price-on-seeing-trades-early/",
