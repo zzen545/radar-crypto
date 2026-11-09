@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09T16:28:24.756621+00:00",
+ "updated": "2026-11-09T17:28:19.410181+00:00",
  "window_hours": 48,
- "headlines": 85,
+ "headlines": 86,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
-   "neg": 4,
-   "count": 19,
+   "pos": 6,
+   "neg": 5,
+   "count": 21,
    "items": [
+    {
+     "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
+     "link": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-09T17:13:25+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin ETFs See $1.3 Billion Weekly Outflows, Largest Since June",
+     "link": "https://bitcoinist.com/bitcoin-etfs-see-1-3-billion-weekly-outflows-largest-since-june/",
+     "source": "Bitcoinist",
+     "time": "2026-11-09T16:55:35+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin Lightning’s security update shuts one door. A critical Linux flaw remains",
+     "link": "https://cryptoslate.com/bitcoin-lightnings-security-update-shuts-one-door-a-critical-linux-flaw-remains/",
+     "source": "CryptoSlate",
+     "time": "2026-11-09T16:40:20+00:00",
+     "s": 0
+    },
     {
      "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
      "link": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
@@ -100,35 +121,28 @@
      "source": "Cointelegraph",
      "time": "2026-11-09T10:03:40+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin Political Support Is Growing Across US Parties",
-     "link": "https://bitcoinist.com/bitcoin-political-support-is-growing-across-us-parties/",
-     "source": "Bitcoinist",
-     "time": "2026-11-09T09:32:36+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Price Eyes Recovery As Analyst Identifies Key Level For Next Rally",
-     "link": "https://bitcoinist.com/bitcoin-price-eyes-recovery-as-analyst-identifies-key-level-for-next-rally/",
-     "source": "Bitcoinist",
-     "time": "2026-11-09T08:54:54+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
-     "link": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-09T08:17:35+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 3,
    "neg": 0,
-   "count": 7,
+   "count": 9,
    "items": [
+    {
+     "title": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
+     "link": "https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability",
+     "source": "Decrypt",
+     "time": "2026-11-09T17:14:10+00:00",
+     "s": 0
+    },
+    {
+     "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
+     "link": "https://decrypt.co/382854/tom-lee-bitmine-adds-20m-ethereum-vitalik-eth-money",
+     "source": "Decrypt",
+     "time": "2026-11-09T17:08:21+00:00",
+     "s": 0
+    },
     {
      "title": "Ethereum treasury Sharplink’s Q3 net income hits $751 million on unrealized ether gains",
      "link": "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459",
