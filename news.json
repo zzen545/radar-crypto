@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T13:58:55.573924+00:00",
+ "updated": "2026-11-10T14:49:29.315558+00:00",
  "window_hours": 48,
- "headlines": 114,
+ "headlines": 116,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 9,
    "neg": 6,
-   "count": 33,
+   "count": 32,
    "items": [
     {
      "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
@@ -125,9 +125,9 @@
    ]
   },
   "ETH": {
-   "pos": 2,
+   "pos": 1,
    "neg": 4,
-   "count": 9,
+   "count": 8,
    "items": [
     {
      "title": "Ethereum Wallet Moves $4.6 Million After 11 Years And Avoids Crypto Scam",
@@ -184,21 +184,21 @@
      "source": "The Block",
      "time": "2026-11-09T15:40:30+00:00",
      "s": 1
-    },
-    {
-     "title": "Tom Lee’s Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI ‘supercycle’",
-     "link": "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219",
-     "source": "The Block",
-     "time": "2026-11-09T14:32:40+00:00",
-     "s": 1
     }
    ]
   },
   "SOL": {
    "pos": 0,
    "neg": 2,
-   "count": 5,
+   "count": 6,
    "items": [
+    {
+     "title": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius",
+     "link": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
+     "source": "Decrypt",
+     "time": "2026-11-10T14:32:48+00:00",
+     "s": 0
+    },
     {
      "title": "Schwab adds Solana, Avalanche and Chainlink as crypto trading slows",
      "link": "https://cryptoslate.com/schwab-adds-solana-avalanche-and-chainlink-as-crypto-trading-slows/",
