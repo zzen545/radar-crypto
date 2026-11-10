@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T19:40:15.057354+00:00",
+ "updated": "2026-11-10T20:32:44.475987+00:00",
  "window_hours": 48,
- "headlines": 120,
+ "headlines": 121,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
+   "pos": 7,
    "neg": 9,
-   "count": 35,
+   "count": 33,
    "items": [
     {
      "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
