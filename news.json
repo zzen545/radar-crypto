@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T22:12:22.004150+00:00",
+ "updated": "2026-11-10T23:04:07.938960+00:00",
  "window_hours": 48,
- "headlines": 123,
+ "headlines": 124,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 7,
    "neg": 10,
-   "count": 34,
+   "count": 35,
    "items": [
+    {
+     "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
+     "link": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
+     "source": "Decrypt",
+     "time": "2026-11-10T22:46:02+00:00",
+     "s": 0
+    },
     {
      "title": "MARA dumps Bitcoin to erase a $750M collateral risk",
      "link": "https://cryptoslate.com/mara-dumps-bitcoin-to-erase-a-750m-collateral-risk/",
@@ -113,13 +120,6 @@
      "link": "https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-10T13:15:59+00:00",
-     "s": 0
-    },
-    {
-     "title": "Analysts project Bitcoin to move just 2.5% on today’s CPI data",
-     "link": "https://cryptoslate.com/analysts-project-bitcoin-to-move-just-2-5-on-todays-cpi-data/",
-     "source": "CryptoSlate",
-     "time": "2026-11-10T12:40:56+00:00",
      "s": 0
     }
    ]
