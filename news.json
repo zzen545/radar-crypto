@@ -1,22 +1,37 @@
 {
- "updated": "2026-11-10T17:37:02.090262+00:00",
+ "updated": "2026-11-10T18:33:18.265376+00:00",
  "window_hours": 48,
- "headlines": 118,
+ "headlines": 110,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
    "pos": 9,
    "neg": 7,
-   "count": 32,
+   "count": 31,
    "items": [
+    {
+     "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+     "link": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-10T18:12:07+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin’s projected difficulty cut would still leave older S19 rigs short at 5-cent power",
+     "link": "https://cryptoslate.com/bitcoins-projected-difficulty-cut-would-still-leave-older-s19-rigs-short-at-5-cent-power/",
+     "source": "CryptoSlate",
+     "time": "2026-11-10T17:49:50+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
      "link": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
@@ -36,13 +51,6 @@
      "link": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
      "source": "The Block",
      "time": "2026-11-10T16:02:02+00:00",
-     "s": -1
-    },
-    {
-     "title": "NVIDIA Scandal Hits Crypto: Bitcoin Drops, $1B Liquidated",
-     "link": "https://bitcoinist.com/nvidia-scandal-hits-crypto-bitcoin-drops-1b-liquidated/",
-     "source": "Bitcoinist",
-     "time": "2026-11-10T15:04:34+00:00",
      "s": -1
     },
     {
@@ -109,13 +117,6 @@
      "s": 0
     },
     {
-     "title": "Trump Media Adds 1,510 BTC As Bitcoin Approaches A Key Technical Turning Point",
-     "link": "https://bitcoinist.com/trump-media-adds-1510-btc-as-bitcoin-approaches-a-key-technical-turning-point/",
-     "source": "Bitcoinist",
-     "time": "2026-11-10T11:45:11+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
      "source": "CoinDesk",
@@ -126,16 +127,9 @@
   },
   "ETH": {
    "pos": 0,
-   "neg": 4,
-   "count": 7,
+   "neg": 2,
+   "count": 5,
    "items": [
-    {
-     "title": "Ethereum Wallet Moves $4.6 Million After 11 Years And Avoids Crypto Scam",
-     "link": "https://bitcoinist.com/ethereum-wallet-moves-4-6-million-after-11-years-and-avoids-crypto-scam/",
-     "source": "Bitcoinist",
-     "time": "2026-11-10T13:42:34+00:00",
-     "s": -1
-    },
     {
      "title": "Morning Minute: Vitalik Recasts ETH as a Store of Value",
      "link": "https://decrypt.co/382931/morning-minute-vitalik-recasts-eth-as-a-store-of-value",
@@ -158,13 +152,6 @@
      "s": -1
     },
     {
-     "title": "Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute",
-     "link": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739",
-     "source": "The Block",
-     "time": "2026-11-09T18:30:22+00:00",
-     "s": -1
-    },
-    {
      "title": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
      "link": "https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability",
      "source": "Decrypt",
@@ -183,7 +170,7 @@
   "SOL": {
    "pos": 1,
    "neg": 2,
-   "count": 7,
+   "count": 6,
    "items": [
     {
      "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
@@ -204,13 +191,6 @@
      "link": "https://cryptoslate.com/schwab-adds-solana-avalanche-and-chainlink-as-crypto-trading-slows/",
      "source": "CryptoSlate",
      "time": "2026-11-10T10:49:40+00:00",
-     "s": 0
-    },
-    {
-     "title": "Solana Could See Major Growth As New Stock Trading Platform Emerges",
-     "link": "https://bitcoinist.com/solana-could-see-major-growth-as-new-stock-trading-platform-emerges/",
-     "source": "Bitcoinist",
-     "time": "2026-11-10T09:35:55+00:00",
      "s": 0
     },
     {
@@ -245,15 +225,8 @@
   "XRP": {
    "pos": 1,
    "neg": 0,
-   "count": 4,
+   "count": 3,
    "items": [
-    {
-     "title": "XRP Ledger Quantum-Proof Accounts: No Extra Fees Planned",
-     "link": "https://bitcoinist.com/xrp-ledger-quantum-proof-accounts-no-extra-fees-planned/",
-     "source": "Bitcoinist",
-     "time": "2026-11-10T15:25:34+00:00",
-     "s": 0
-    },
     {
      "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
      "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
