@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T20:32:44.475987+00:00",
+ "updated": "2026-11-10T21:28:59.576533+00:00",
  "window_hours": 48,
- "headlines": 121,
+ "headlines": 122,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 7,
    "neg": 9,
-   "count": 33,
+   "count": 34,
    "items": [
+    {
+     "title": "Bitcoin Slips Toward $74K as Fed Hike Odds Hit 96% After Waller",
+     "link": "https://bitcoinist.com/bitcoin-slips-toward-74k-as-fed-hike-odds-hit-96-after-waller/",
+     "source": "Bitcoinist",
+     "time": "2026-11-10T21:03:53+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
      "link": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-11-10T12:15:00+00:00",
      "s": 0
-    },
-    {
-     "title": "HIVE reports $79 million quarterly net loss as bitcoin mining revenue falls and AI business grows",
-     "link": "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177",
-     "source": "The Block",
-     "time": "2026-11-10T11:52:16+00:00",
-     "s": -1
     }
    ]
   },
@@ -176,7 +176,7 @@
   "SOL": {
    "pos": 1,
    "neg": 2,
-   "count": 7,
+   "count": 5,
    "items": [
     {
      "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
@@ -190,20 +190,6 @@
      "link": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
      "source": "Decrypt",
      "time": "2026-11-10T14:32:48+00:00",
-     "s": 0
-    },
-    {
-     "title": "Schwab adds Solana, Avalanche and Chainlink as crypto trading slows",
-     "link": "https://cryptoslate.com/schwab-adds-solana-avalanche-and-chainlink-as-crypto-trading-slows/",
-     "source": "CryptoSlate",
-     "time": "2026-11-10T10:49:40+00:00",
-     "s": 0
-    },
-    {
-     "title": "Solana Could See Major Growth As New Stock Trading Platform Emerges",
-     "link": "https://bitcoinist.com/solana-could-see-major-growth-as-new-stock-trading-platform-emerges/",
-     "source": "Bitcoinist",
-     "time": "2026-11-10T09:35:55+00:00",
      "s": 0
     },
     {
