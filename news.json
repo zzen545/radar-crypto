@@ -1,23 +1,29 @@
 {
- "updated": "2026-11-10T18:33:18.265376+00:00",
+ "updated": "2026-11-10T19:40:15.057354+00:00",
  "window_hours": 48,
- "headlines": 110,
+ "headlines": 120,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
    "pos": 9,
-   "neg": 7,
-   "count": 31,
+   "neg": 9,
+   "count": 35,
    "items": [
+    {
+     "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
+     "link": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301",
+     "source": "The Block",
+     "time": "2026-11-10T19:38:18+00:00",
+     "s": -1
+    },
     {
      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
      "link": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -51,6 +57,13 @@
      "link": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
      "source": "The Block",
      "time": "2026-11-10T16:02:02+00:00",
+     "s": -1
+    },
+    {
+     "title": "NVIDIA Scandal Hits Crypto: Bitcoin Drops, $1B Liquidated",
+     "link": "https://bitcoinist.com/nvidia-scandal-hits-crypto-bitcoin-drops-1b-liquidated/",
+     "source": "Bitcoinist",
+     "time": "2026-11-10T15:04:34+00:00",
      "s": -1
     },
     {
@@ -108,28 +121,21 @@
      "source": "The Block",
      "time": "2026-11-10T11:52:16+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin trading picked up, but sellers took the initiative",
-     "link": "https://cryptoslate.com/bitcoin-trading-picked-up-but-sellers-took-the-initiative/",
-     "source": "CryptoSlate",
-     "time": "2026-11-10T11:49:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
-     "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
-     "source": "CoinDesk",
-     "time": "2026-11-10T11:24:10+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
    "pos": 0,
-   "neg": 2,
-   "count": 5,
+   "neg": 3,
+   "count": 6,
    "items": [
+    {
+     "title": "Ethereum Wallet Moves $4.6 Million After 11 Years And Avoids Crypto Scam",
+     "link": "https://bitcoinist.com/ethereum-wallet-moves-4-6-million-after-11-years-and-avoids-crypto-scam/",
+     "source": "Bitcoinist",
+     "time": "2026-11-10T13:42:34+00:00",
+     "s": -1
+    },
     {
      "title": "Morning Minute: Vitalik Recasts ETH as a Store of Value",
      "link": "https://decrypt.co/382931/morning-minute-vitalik-recasts-eth-as-a-store-of-value",
@@ -170,7 +176,7 @@
   "SOL": {
    "pos": 1,
    "neg": 2,
-   "count": 6,
+   "count": 7,
    "items": [
     {
      "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
@@ -191,6 +197,13 @@
      "link": "https://cryptoslate.com/schwab-adds-solana-avalanche-and-chainlink-as-crypto-trading-slows/",
      "source": "CryptoSlate",
      "time": "2026-11-10T10:49:40+00:00",
+     "s": 0
+    },
+    {
+     "title": "Solana Could See Major Growth As New Stock Trading Platform Emerges",
+     "link": "https://bitcoinist.com/solana-could-see-major-growth-as-new-stock-trading-platform-emerges/",
+     "source": "Bitcoinist",
+     "time": "2026-11-10T09:35:55+00:00",
      "s": 0
     },
     {
@@ -225,8 +238,15 @@
   "XRP": {
    "pos": 1,
    "neg": 0,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "XRP Ledger Quantum-Proof Accounts: No Extra Fees Planned",
+     "link": "https://bitcoinist.com/xrp-ledger-quantum-proof-accounts-no-extra-fees-planned/",
+     "source": "Bitcoinist",
+     "time": "2026-11-10T15:25:34+00:00",
+     "s": 0
+    },
     {
      "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
      "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
