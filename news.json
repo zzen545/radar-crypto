@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T14:49:29.315558+00:00",
+ "updated": "2026-11-10T15:34:00.331893+00:00",
  "window_hours": 48,
- "headlines": 116,
+ "headlines": 117,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,22 @@
   "BTC": {
    "pos": 9,
    "neg": 6,
-   "count": 32,
+   "count": 34,
    "items": [
+    {
+     "title": "NVIDIA Scandal Hits Crypto: Bitcoin Drops, $1B Liquidated",
+     "link": "https://bitcoinist.com/nvidia-scandal-hits-crypto-bitcoin-drops-1b-liquidated/",
+     "source": "Bitcoinist",
+     "time": "2026-11-10T15:04:34+00:00",
+     "s": -1
+    },
+    {
+     "title": "Strategy spent more than twice as much on preferred buybacks as Bitcoin last week",
+     "link": "https://cryptoslate.com/strategy-spent-more-than-twice-as-much-on-preferred-buybacks-as-bitcoin-last-week/",
+     "source": "CryptoSlate",
+     "time": "2026-11-10T14:49:06+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
      "link": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -102,24 +116,10 @@
      "s": 0
     },
     {
-     "title": "Live news: Bitcoin adds to losses after disappointing inflation data",
+     "title": "Live news: Bitcoin trading near $74,000 after disappointing inflation data",
      "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
      "source": "CoinDesk",
      "time": "2026-11-10T10:41:45+00:00",
-     "s": -1
-    },
-    {
-     "title": "Ark Invest trims Block, Bullish and its own bitcoin ETF holdings while buying Nvidia, SoFi",
-     "link": "https://www.theblock.co/news/business/2026-11-10-ark-invest-trims-block-bullish-holdings-437003",
-     "source": "The Block",
-     "time": "2026-11-10T10:36:53+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
-     "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-10T10:08:22+00:00",
      "s": 0
     }
    ]
@@ -188,10 +188,17 @@
    ]
   },
   "SOL": {
-   "pos": 0,
+   "pos": 1,
    "neg": 2,
-   "count": 6,
+   "count": 7,
    "items": [
+    {
+     "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
+     "link": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
+     "source": "Decrypt",
+     "time": "2026-11-10T15:01:02+00:00",
+     "s": 1
+    },
     {
      "title": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius",
      "link": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
