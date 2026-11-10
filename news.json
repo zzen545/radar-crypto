@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T21:28:59.576533+00:00",
+ "updated": "2026-11-10T22:12:22.004150+00:00",
  "window_hours": 48,
- "headlines": 122,
+ "headlines": 123,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 7,
-   "neg": 9,
+   "neg": 10,
    "count": 34,
    "items": [
+    {
+     "title": "MARA dumps Bitcoin to erase a $750M collateral risk",
+     "link": "https://cryptoslate.com/mara-dumps-bitcoin-to-erase-a-750m-collateral-risk/",
+     "source": "CryptoSlate",
+     "time": "2026-11-10T22:10:00+00:00",
+     "s": -1
+    },
+    {
+     "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
+     "link": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
+     "source": "Decrypt",
+     "time": "2026-11-10T21:36:03+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin Slips Toward $74K as Fed Hike Odds Hit 96% After Waller",
      "link": "https://bitcoinist.com/bitcoin-slips-toward-74k-as-fed-hike-odds-hit-96-after-waller/",
@@ -107,20 +121,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-10T12:40:56+00:00",
      "s": 0
-    },
-    {
-     "title": "Core inflation excludes oil. Bitcoin investors still cannot ignore it",
-     "link": "https://cryptoslate.com/core-inflation-excludes-oil-bitcoin-investors-still-cannot-ignore-it/",
-     "source": "CryptoSlate",
-     "time": "2026-11-10T12:22:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
-     "link": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
-     "source": "CoinDesk",
-     "time": "2026-11-10T12:15:00+00:00",
-     "s": 0
     }
    ]
   },
@@ -175,9 +175,16 @@
   },
   "SOL": {
    "pos": 1,
-   "neg": 2,
-   "count": 5,
+   "neg": 3,
+   "count": 6,
    "items": [
+    {
+     "title": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low",
+     "link": "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330",
+     "source": "The Block",
+     "time": "2026-11-10T21:51:19+00:00",
+     "s": -1
+    },
     {
      "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
      "link": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
