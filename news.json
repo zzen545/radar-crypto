@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T04:40:27.359988+00:00",
+ "updated": "2026-11-10T05:41:49.534354+00:00",
  "window_hours": 48,
- "headlines": 102,
+ "headlines": 104,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,22 @@
   "BTC": {
    "pos": 9,
    "neg": 7,
-   "count": 25,
+   "count": 26,
    "items": [
+    {
+     "title": "LNbits disables hosted Bitcoin services with no restart timeline",
+     "link": "https://cryptoslate.com/lnbits-disables-hosted-bitcoin-services-with-no-restart-timeline/",
+     "source": "CryptoSlate",
+     "time": "2026-11-10T05:40:38+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+     "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+     "source": "CoinDesk",
+     "time": "2026-11-10T05:18:31+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
@@ -81,13 +95,6 @@
      "s": -1
     },
     {
-     "title": "Bitcoin Lightning’s security update shuts one door. A critical Linux flaw remains",
-     "link": "https://cryptoslate.com/bitcoin-lightnings-security-update-shuts-one-door-a-critical-linux-flaw-remains/",
-     "source": "CryptoSlate",
-     "time": "2026-11-09T16:40:20+00:00",
-     "s": 0
-    },
-    {
      "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
      "link": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
      "source": "CoinDesk",
@@ -113,13 +120,6 @@
      "link": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-09T13:29:47+00:00",
-     "s": 1
-    },
-    {
-     "title": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
-     "link": "https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc",
-     "source": "Decrypt",
-     "time": "2026-11-09T13:24:29+00:00",
      "s": 1
     }
    ]
@@ -245,8 +245,15 @@
   "XRP": {
    "pos": 2,
    "neg": 0,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+     "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
+     "source": "CoinDesk",
+     "time": "2026-11-10T04:51:20+00:00",
+     "s": 0
+    },
     {
      "title": "XRP’s new euro cash-out route had less than €100 in its direct market",
      "link": "https://cryptoslate.com/xrps-new-euro-cash-out-route-had-less-than-e100-in-its-direct-market/",
