@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T16:38:27.773176+00:00",
+ "updated": "2026-11-10T17:37:02.090262+00:00",
  "window_hours": 48,
  "headlines": 118,
  "feeds_ok": [
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 9,
-   "neg": 8,
-   "count": 35,
+   "neg": 7,
+   "count": 32,
    "items": [
     {
      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
