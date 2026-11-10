@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T11:41:32.200053+00:00",
+ "updated": "2026-11-10T12:46:12.328245+00:00",
  "window_hours": 48,
- "headlines": 111,
+ "headlines": 113,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,50 @@
   "BTC": {
    "pos": 9,
    "neg": 6,
-   "count": 28,
+   "count": 32,
    "items": [
+    {
+     "title": "Analysts project Bitcoin to move just 2.5% on today’s CPI data",
+     "link": "https://cryptoslate.com/analysts-project-bitcoin-to-move-just-2-5-on-todays-cpi-data/",
+     "source": "CryptoSlate",
+     "time": "2026-11-10T12:40:56+00:00",
+     "s": 0
+    },
+    {
+     "title": "Core inflation excludes oil. Bitcoin investors still cannot ignore it",
+     "link": "https://cryptoslate.com/core-inflation-excludes-oil-bitcoin-investors-still-cannot-ignore-it/",
+     "source": "CryptoSlate",
+     "time": "2026-11-10T12:22:03+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
+     "link": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
+     "source": "CoinDesk",
+     "time": "2026-11-10T12:15:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "HIVE reports $79 million quarterly net loss as bitcoin mining revenue falls and AI business grows",
+     "link": "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177",
+     "source": "The Block",
+     "time": "2026-11-10T11:52:16+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin trading picked up, but sellers took the initiative",
+     "link": "https://cryptoslate.com/bitcoin-trading-picked-up-but-sellers-took-the-initiative/",
+     "source": "CryptoSlate",
+     "time": "2026-11-10T11:49:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "Trump Media Adds 1,510 BTC As Bitcoin Approaches A Key Technical Turning Point",
+     "link": "https://bitcoinist.com/trump-media-adds-1510-btc-as-bitcoin-approaches-a-key-technical-turning-point/",
+     "source": "Bitcoinist",
+     "time": "2026-11-10T11:45:11+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
      "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
@@ -39,11 +81,11 @@
      "s": 0
     },
     {
-     "title": "Live news: Traders price in Fed rate hike for December as bitcoin, gold retreat",
+     "title": "Live news: Bitcoin falls back to $74,000 ahead of CPI as traders fully price in Fed rate hike",
      "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
      "source": "CoinDesk",
      "time": "2026-11-10T10:41:45+00:00",
-     "s": 0
+     "s": -1
     },
     {
      "title": "Ark Invest trims Block, Bullish and its own bitcoin ETF holdings while buying Nvidia, SoFi",
@@ -79,55 +121,13 @@
      "source": "CryptoSlate",
      "time": "2026-11-10T05:40:38+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
-     "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
-     "source": "CoinDesk",
-     "time": "2026-11-10T05:18:31+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
-     "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
-     "source": "CoinDesk",
-     "time": "2026-11-10T03:22:26+00:00",
-     "s": 0
-    },
-    {
-     "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
-     "link": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-10T00:42:39+00:00",
-     "s": -1
-    },
-    {
-     "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
-     "link": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
-     "source": "The Block",
-     "time": "2026-11-09T22:07:00+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
-     "link": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
-     "source": "Decrypt",
-     "time": "2026-11-09T19:06:03+00:00",
-     "s": 1
-    },
-    {
-     "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
-     "link": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-09T18:25:29+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 2,
    "neg": 3,
-   "count": 9,
+   "count": 8,
    "items": [
     {
      "title": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing",
@@ -142,13 +142,6 @@
      "source": "CoinDesk",
      "time": "2026-11-10T07:01:06+00:00",
      "s": -1
-    },
-    {
-     "title": "Amundi puts European stocks on Ethereum, but access terms stay hidden",
-     "link": "https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/",
-     "source": "CryptoSlate",
-     "time": "2026-11-09T22:50:00+00:00",
-     "s": 0
     },
     {
      "title": "Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute",
@@ -196,8 +189,8 @@
   },
   "SOL": {
    "pos": 0,
-   "neg": 3,
-   "count": 6,
+   "neg": 2,
+   "count": 5,
    "items": [
     {
      "title": "Schwab adds Solana, Avalanche and Chainlink as crypto trading slows",
@@ -233,13 +226,6 @@
      "source": "CoinDesk",
      "time": "2026-11-09T12:41:35+00:00",
      "s": 0
-    },
-    {
-     "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
-     "link": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
-     "source": "CoinDesk",
-     "time": "2026-11-09T06:36:45+00:00",
-     "s": -1
     }
    ]
   },
@@ -255,17 +241,17 @@
    "count": 3,
    "items": [
     {
+     "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
+     "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
+     "source": "CoinDesk",
+     "time": "2026-11-10T12:38:20+00:00",
+     "s": 0
+    },
+    {
      "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
      "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
      "source": "CoinDesk",
      "time": "2026-11-10T04:51:20+00:00",
-     "s": 0
-    },
-    {
-     "title": "XRP’s new euro cash-out route had less than €100 in its direct market",
-     "link": "https://cryptoslate.com/xrps-new-euro-cash-out-route-had-less-than-e100-in-its-direct-market/",
-     "source": "CryptoSlate",
-     "time": "2026-11-09T20:00:36+00:00",
      "s": 0
     },
     {
@@ -316,15 +302,8 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
-    {
-     "title": "Live news: Traders price in Fed rate hike for December as bitcoin, gold retreat",
-     "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
-     "source": "CoinDesk",
-     "time": "2026-11-10T10:41:45+00:00",
-     "s": 0
-    },
     {
      "title": "Live news: Crypto prices give ground even as stocks and gold surge, oil plunges",
      "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
