@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T08:53:38.777337+00:00",
+ "updated": "2026-11-10T09:44:49.273753+00:00",
  "window_hours": 48,
- "headlines": 106,
+ "headlines": 107,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 7,
    "neg": 7,
-   "count": 25,
+   "count": 24,
    "items": [
     {
      "title": "Bitcoin Price Could Avoid New Lows As Analyst Points To Historical Pattern",
@@ -125,9 +125,9 @@
    ]
   },
   "ETH": {
-   "pos": 3,
+   "pos": 2,
    "neg": 2,
-   "count": 10,
+   "count": 9,
    "items": [
     {
      "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
@@ -179,13 +179,6 @@
      "s": 1
     },
     {
-     "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
-     "link": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
-     "source": "The Block",
-     "time": "2026-11-09T09:05:02+00:00",
-     "s": 1
-    },
-    {
      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
      "link": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
      "source": "CoinDesk",
@@ -204,8 +197,15 @@
   "SOL": {
    "pos": 0,
    "neg": 4,
-   "count": 5,
+   "count": 6,
    "items": [
+    {
+     "title": "Solana Could See Major Growth As New Stock Trading Platform Emerges",
+     "link": "https://bitcoinist.com/solana-could-see-major-growth-as-new-stock-trading-platform-emerges/",
+     "source": "Bitcoinist",
+     "time": "2026-11-10T09:35:55+00:00",
+     "s": 0
+    },
     {
      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
      "link": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
