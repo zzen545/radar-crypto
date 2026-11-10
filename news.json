@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T12:46:12.328245+00:00",
+ "updated": "2026-11-10T13:58:55.573924+00:00",
  "window_hours": 48,
- "headlines": 113,
+ "headlines": 114,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,29 @@
   "BTC": {
    "pos": 9,
    "neg": 6,
-   "count": 32,
+   "count": 33,
    "items": [
+    {
+     "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+     "link": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-10T13:30:00+00:00",
+     "s": 1
+    },
+    {
+     "title": "Any Bitcoin recovery faces a cash problem as Binance’s stablecoins fall to $32 billion",
+     "link": "https://cryptoslate.com/any-bitcoin-recovery-faces-a-cash-problem-as-binances-stablecoins-fall-to-32-billion/",
+     "source": "CryptoSlate",
+     "time": "2026-11-10T13:20:27+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin may benefit as global tightening slows, Binance Research says",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-10T13:15:59+00:00",
+     "s": 0
+    },
     {
      "title": "Analysts project Bitcoin to move just 2.5% on today’s CPI data",
      "link": "https://cryptoslate.com/analysts-project-bitcoin-to-move-just-2-5-on-todays-cpi-data/",
@@ -81,7 +102,7 @@
      "s": 0
     },
     {
-     "title": "Live news: Bitcoin falls back to $74,000 ahead of CPI as traders fully price in Fed rate hike",
+     "title": "Live news: Bitcoin adds to losses after disappointing inflation data",
      "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
      "source": "CoinDesk",
      "time": "2026-11-10T10:41:45+00:00",
@@ -100,35 +121,28 @@
      "source": "Cointelegraph",
      "time": "2026-11-10T10:08:22+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin Price Could Avoid New Lows As Analyst Points To Historical Pattern",
-     "link": "https://bitcoinist.com/bitcoin-price-could-avoid-new-lows-as-analyst-points-to-historical-pattern/",
-     "source": "Bitcoinist",
-     "time": "2026-11-10T08:44:52+00:00",
-     "s": -1
-    },
-    {
-     "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
-     "link": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-10T08:02:05+00:00",
-     "s": 0
-    },
-    {
-     "title": "LNbits disables hosted Bitcoin services with no restart timeline",
-     "link": "https://cryptoslate.com/lnbits-disables-hosted-bitcoin-services-with-no-restart-timeline/",
-     "source": "CryptoSlate",
-     "time": "2026-11-10T05:40:38+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 2,
-   "neg": 3,
-   "count": 8,
+   "neg": 4,
+   "count": 9,
    "items": [
+    {
+     "title": "Ethereum Wallet Moves $4.6 Million After 11 Years And Avoids Crypto Scam",
+     "link": "https://bitcoinist.com/ethereum-wallet-moves-4-6-million-after-11-years-and-avoids-crypto-scam/",
+     "source": "Bitcoinist",
+     "time": "2026-11-10T13:42:34+00:00",
+     "s": -1
+    },
+    {
+     "title": "Morning Minute: Vitalik Recasts ETH as a Store of Value",
+     "link": "https://decrypt.co/382931/morning-minute-vitalik-recasts-eth-as-a-store-of-value",
+     "source": "Decrypt",
+     "time": "2026-11-10T13:24:51+00:00",
+     "s": 0
+    },
     {
      "title": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing",
      "link": "https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -177,13 +191,6 @@
      "source": "The Block",
      "time": "2026-11-09T14:32:40+00:00",
      "s": 1
-    },
-    {
-     "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
-     "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-08T22:59:06+00:00",
-     "s": 0
     }
    ]
   },
