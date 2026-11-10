@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T15:34:00.331893+00:00",
+ "updated": "2026-11-10T16:38:27.773176+00:00",
  "window_hours": 48,
- "headlines": 117,
+ "headlines": 118,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,30 @@
  "coins": {
   "BTC": {
    "pos": 9,
-   "neg": 6,
-   "count": 34,
+   "neg": 8,
+   "count": 35,
    "items": [
+    {
+     "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
+     "link": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
+     "source": "Decrypt",
+     "time": "2026-11-10T16:27:57+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
+     "link": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-10T16:25:03+00:00",
+     "s": -1
+    },
+    {
+     "title": "Canaan’s Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump",
+     "link": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
+     "source": "The Block",
+     "time": "2026-11-10T16:02:02+00:00",
+     "s": -1
+    },
     {
      "title": "NVIDIA Scandal Hits Crypto: Bitcoin Drops, $1B Liquidated",
      "link": "https://bitcoinist.com/nvidia-scandal-hits-crypto-bitcoin-drops-1b-liquidated/",
@@ -100,34 +121,13 @@
      "source": "CoinDesk",
      "time": "2026-11-10T11:24:10+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin Faces New Political Test As Democrats Prepare Crypto Bill",
-     "link": "https://bitcoinist.com/bitcoin-faces-new-political-test-as-democrats-prepare-crypto-bill/",
-     "source": "Bitcoinist",
-     "time": "2026-11-10T11:03:06+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
-     "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
-     "source": "CoinDesk",
-     "time": "2026-11-10T10:48:37+00:00",
-     "s": 0
-    },
-    {
-     "title": "Live news: Bitcoin trading near $74,000 after disappointing inflation data",
-     "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
-     "source": "CoinDesk",
-     "time": "2026-11-10T10:41:45+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 1,
+   "pos": 0,
    "neg": 4,
-   "count": 8,
+   "count": 7,
    "items": [
     {
      "title": "Ethereum Wallet Moves $4.6 Million After 11 Years And Avoids Crypto Scam",
@@ -177,13 +177,6 @@
      "source": "Decrypt",
      "time": "2026-11-09T17:08:21+00:00",
      "s": 0
-    },
-    {
-     "title": "Ethereum treasury Sharplink’s Q3 net income hits $751 million on unrealized ether gains",
-     "link": "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459",
-     "source": "The Block",
-     "time": "2026-11-09T15:40:30+00:00",
-     "s": 1
     }
    ]
   },
@@ -252,8 +245,15 @@
   "XRP": {
    "pos": 1,
    "neg": 0,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "XRP Ledger Quantum-Proof Accounts: No Extra Fees Planned",
+     "link": "https://bitcoinist.com/xrp-ledger-quantum-proof-accounts-no-extra-fees-planned/",
+     "source": "Bitcoinist",
+     "time": "2026-11-10T15:25:34+00:00",
+     "s": 0
+    },
     {
      "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
      "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
@@ -316,16 +316,8 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Live news: Crypto prices give ground even as stocks and gold surge, oil plunges",
-     "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
-     "source": "CoinDesk",
-     "time": "2026-11-09T10:51:48+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   }
  }
 }
