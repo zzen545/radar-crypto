@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:59:41.952538+00:00",
+ "updated": "2026-11-10T08:53:38.777337+00:00",
  "window_hours": 48,
  "headlines": 106,
  "feeds_ok": [
@@ -15,8 +15,22 @@
   "BTC": {
    "pos": 8,
    "neg": 7,
-   "count": 24,
+   "count": 25,
    "items": [
+    {
+     "title": "Bitcoin Price Could Avoid New Lows As Analyst Points To Historical Pattern",
+     "link": "https://bitcoinist.com/bitcoin-price-could-avoid-new-lows-as-analyst-points-to-historical-pattern/",
+     "source": "Bitcoinist",
+     "time": "2026-11-10T08:44:52+00:00",
+     "s": -1
+    },
+    {
+     "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
+     "link": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-10T08:02:05+00:00",
+     "s": 0
+    },
     {
      "title": "LNbits disables hosted Bitcoin services with no restart timeline",
      "link": "https://cryptoslate.com/lnbits-disables-hosted-bitcoin-services-with-no-restart-timeline/",
@@ -67,13 +81,6 @@
      "s": 0
     },
     {
-     "title": "The missing step in the warning that Japan could trigger Bitcoin’s next selloff",
-     "link": "https://cryptoslate.com/the-missing-step-in-the-warning-that-japan-could-trigger-bitcoins-next-selloff/",
-     "source": "CryptoSlate",
-     "time": "2026-11-09T18:20:52+00:00",
-     "s": -1
-    },
-    {
      "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
      "link": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -113,13 +120,6 @@
      "link": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-09T13:29:47+00:00",
-     "s": 1
-    },
-    {
-     "title": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
-     "link": "https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc",
-     "source": "Decrypt",
-     "time": "2026-11-09T13:24:29+00:00",
      "s": 1
     }
    ]
@@ -250,9 +250,9 @@
    "items": []
   },
   "XRP": {
-   "pos": 2,
+   "pos": 1,
    "neg": 0,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
@@ -273,13 +273,6 @@
      "link": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter",
      "source": "Decrypt",
      "time": "2026-11-09T11:50:36+00:00",
-     "s": 1
-    },
-    {
-     "title": "XRP Price Recovery: Analyst Eyes $1.30",
-     "link": "https://bitcoinist.com/xrp-price-recovery-analyst-eyes-1-30/",
-     "source": "Bitcoinist",
-     "time": "2026-11-09T11:39:46+00:00",
      "s": 1
     }
    ]
