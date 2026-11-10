@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T06:47:10.712611+00:00",
+ "updated": "2026-11-10T07:59:41.952538+00:00",
  "window_hours": 48,
- "headlines": 105,
+ "headlines": 106,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
+   "pos": 8,
    "neg": 7,
-   "count": 26,
+   "count": 24,
    "items": [
     {
      "title": "LNbits disables hosted Bitcoin services with no restart timeline",
@@ -74,13 +74,6 @@
      "s": -1
     },
     {
-     "title": "Two Bitcoin miners reported nearly $2 billion in profit. The biggest boost wasn’t cash",
-     "link": "https://cryptoslate.com/two-bitcoin-miners-reported-nearly-2-billion-in-profit-the-biggest-boost-wasnt-cash/",
-     "source": "CryptoSlate",
-     "time": "2026-11-09T17:30:25+00:00",
-     "s": 1
-    },
-    {
      "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
      "link": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -121,14 +114,28 @@
      "source": "Cointelegraph",
      "time": "2026-11-09T13:29:47+00:00",
      "s": 1
+    },
+    {
+     "title": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
+     "link": "https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc",
+     "source": "Decrypt",
+     "time": "2026-11-09T13:24:29+00:00",
+     "s": 1
     }
    ]
   },
   "ETH": {
    "pos": 3,
-   "neg": 1,
-   "count": 9,
+   "neg": 2,
+   "count": 10,
    "items": [
+    {
+     "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+     "link": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
+     "source": "CoinDesk",
+     "time": "2026-11-10T07:01:06+00:00",
+     "s": -1
+    },
     {
      "title": "Amundi puts European stocks on Ethereum, but access terms stay hidden",
      "link": "https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/",
