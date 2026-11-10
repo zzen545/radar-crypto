@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T09:44:49.273753+00:00",
+ "updated": "2026-11-10T10:43:53.455260+00:00",
  "window_hours": 48,
- "headlines": 107,
+ "headlines": 108,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
-   "neg": 7,
-   "count": 24,
+   "pos": 8,
+   "neg": 6,
+   "count": 26,
    "items": [
+    {
+     "title": "Live news: traders price in fed rate hike for December as bitcoin and gold retreat",
+     "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+     "source": "CoinDesk",
+     "time": "2026-11-10T10:41:45+00:00",
+     "s": 0
+    },
+    {
+     "title": "Ark Invest trims Block, Bullish and its own bitcoin ETF holdings while buying Nvidia, SoFi",
+     "link": "https://www.theblock.co/news/business/2026-11-10-ark-invest-trims-block-bullish-holdings-437003",
+     "source": "The Block",
+     "time": "2026-11-10T10:36:53+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-10T10:08:22+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Price Could Avoid New Lows As Analyst Points To Historical Pattern",
      "link": "https://bitcoinist.com/bitcoin-price-could-avoid-new-lows-as-analyst-points-to-historical-pattern/",
@@ -99,27 +120,6 @@
      "link": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
      "source": "CoinDesk",
      "time": "2026-11-09T16:19:45+00:00",
-     "s": 1
-    },
-    {
-     "title": "TradingView Glitch Sends Bitcoin Dominance Below 25%",
-     "link": "https://bitcoinist.com/tradingview-glitch-sends-bitcoin-dominance-below-25/",
-     "source": "Bitcoinist",
-     "time": "2026-11-09T15:32:39+00:00",
-     "s": 0
-    },
-    {
-     "title": "BTC Drops Then Rebounds Near $74K as Nvidia Scandal Sparks $1B Liquidations",
-     "link": "https://bitcoinist.com/btc-drops-then-rebounds-near-74k-as-nvidia-scandal-sparks-1b-liquidations/",
-     "source": "Bitcoinist",
-     "time": "2026-11-09T15:19:35+00:00",
-     "s": -1
-    },
-    {
-     "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
-     "link": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-09T13:29:47+00:00",
      "s": 1
     }
    ]
@@ -316,8 +316,15 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Live news: traders price in fed rate hike for December as bitcoin and gold retreat",
+     "link": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+     "source": "CoinDesk",
+     "time": "2026-11-10T10:41:45+00:00",
+     "s": 0
+    },
     {
      "title": "Live news: Crypto prices give ground even as stocks and gold surge, oil plunges",
      "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
