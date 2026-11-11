@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-11T19:48:06.951810+00:00",
+ "updated": "2026-11-11T21:20:06.260391+00:00",
  "window_hours": 48,
- "headlines": 123,
+ "headlines": 124,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
+   "pos": 10,
    "neg": 6,
    "count": 29,
    "items": [
+    {
+     "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
+     "link": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
+     "source": "Decrypt",
+     "time": "2026-11-11T21:16:03+00:00",
+     "s": -1
+    },
+    {
+     "title": "Buying Bitcoin without betting on a rally may not pay",
+     "link": "https://cryptoslate.com/bitcoin-hedged-trade-borrowing-costs/",
+     "source": "CryptoSlate",
+     "time": "2026-11-11T21:10:08+00:00",
+     "s": 1
+    },
+    {
+     "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
+     "link": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-11T20:43:19+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
      "link": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
@@ -100,27 +121,6 @@
      "source": "The Block",
      "time": "2026-11-11T11:43:50+00:00",
      "s": 0
-    },
-    {
-     "title": "US card debt hits $1.29 trillion as Bitcoin loans expose a collateral divide",
-     "link": "https://cryptoslate.com/us-card-debt-hits-1-29-trillion-as-bitcoin-loans-expose-a-collateral-divide/",
-     "source": "CryptoSlate",
-     "time": "2026-11-11T11:40:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
-     "link": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
-     "source": "CoinDesk",
-     "time": "2026-11-11T11:37:04+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
-     "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-11T11:05:26+00:00",
-     "s": -1
     }
    ]
   },
@@ -239,8 +239,16 @@
   "DOGE": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "DogeOS ‘very, very close’ to launching DeFi features, app layer for Dogecoin: CEO",
+     "link": "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392",
+     "source": "The Block",
+     "time": "2026-11-11T20:32:19+00:00",
+     "s": 0
+    }
+   ]
   },
   "TAO": {
    "pos": 0,
