@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T03:41:51.552794+00:00",
+ "updated": "2026-11-11T04:45:56.786906+00:00",
  "window_hours": 48,
  "headlines": 124,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 7,
    "neg": 10,
-   "count": 34,
+   "count": 33,
    "items": [
     {
      "title": "Strategy’s STRC hit $100, but common stock still funded last week’s Bitcoin purchases",
@@ -116,11 +116,11 @@
      "s": -1
     },
     {
-     "title": "Strategy spent more than twice as much on preferred buybacks as Bitcoin last week",
-     "link": "https://cryptoslate.com/strategy-spent-more-than-twice-as-much-on-preferred-buybacks-as-bitcoin-last-week/",
-     "source": "CryptoSlate",
-     "time": "2026-11-10T14:49:06+00:00",
-     "s": 0
+     "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+     "link": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-10T13:30:00+00:00",
+     "s": 1
     }
    ]
   },
