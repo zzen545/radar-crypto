@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-11T17:45:42.667699+00:00",
+ "updated": "2026-11-11T18:40:53.481618+00:00",
  "window_hours": 48,
- "headlines": 125,
+ "headlines": 123,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -17,6 +17,13 @@
    "neg": 6,
    "count": 30,
    "items": [
+    {
+     "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
+     "link": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
+     "source": "Decrypt",
+     "time": "2026-11-11T17:56:02+00:00",
+     "s": -1
+    },
     {
      "title": "Thousands of Bitcoin nodes gave anonymous strangers a pass around security limits",
      "link": "https://cryptoslate.com/thousands-of-bitcoin-nodes-gave-anonymous-strangers-a-pass-around-security-limits/",
@@ -114,20 +121,13 @@
      "source": "Cointelegraph",
      "time": "2026-11-11T11:05:26+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
-     "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
-     "source": "CoinDesk",
-     "time": "2026-11-11T10:45:49+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 0,
    "neg": 3,
-   "count": 5,
+   "count": 4,
    "items": [
     {
      "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
@@ -135,13 +135,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-11T09:58:15+00:00",
      "s": -1
-    },
-    {
-     "title": "Urgent Ethereum node patch issued due to hidden security flaws",
-     "link": "https://cryptoslate.com/lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws/",
-     "source": "CryptoSlate",
-     "time": "2026-11-11T07:10:08+00:00",
-     "s": 0
     },
     {
      "title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
@@ -168,8 +161,8 @@
   },
   "SOL": {
    "pos": 1,
-   "neg": 2,
-   "count": 6,
+   "neg": 1,
+   "count": 5,
    "items": [
     {
      "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
@@ -205,13 +198,6 @@
      "source": "Decrypt",
      "time": "2026-11-10T14:32:48+00:00",
      "s": 0
-    },
-    {
-     "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
-     "link": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
-     "source": "Decrypt",
-     "time": "2026-11-09T17:46:02+00:00",
-     "s": -1
     }
    ]
   },
