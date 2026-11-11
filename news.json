@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-11T11:20:39.249125+00:00",
+ "updated": "2026-11-11T12:18:57.070473+00:00",
  "window_hours": 48,
- "headlines": 125,
+ "headlines": 124,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,38 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 9,
    "neg": 10,
-   "count": 34,
+   "count": 36,
    "items": [
+    {
+     "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
+     "link": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-11T11:56:23+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin and Blockchain Basics",
+     "link": "https://www.theblock.co/learn/bitcoin/bitcoin-and-blockchain-basics-434447",
+     "source": "The Block",
+     "time": "2026-11-11T11:43:50+00:00",
+     "s": 0
+    },
+    {
+     "title": "US card debt hits $1.29 trillion as Bitcoin loans expose a collateral divide",
+     "link": "https://cryptoslate.com/us-card-debt-hits-1-29-trillion-as-bitcoin-loans-expose-a-collateral-divide/",
+     "source": "CryptoSlate",
+     "time": "2026-11-11T11:40:03+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+     "link": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+     "source": "CoinDesk",
+     "time": "2026-11-11T11:37:04+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
      "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -93,34 +121,6 @@
      "source": "Decrypt",
      "time": "2026-11-10T22:46:02+00:00",
      "s": 0
-    },
-    {
-     "title": "MARA dumps Bitcoin to erase a $750M collateral risk",
-     "link": "https://cryptoslate.com/mara-dumps-bitcoin-to-erase-a-750m-collateral-risk/",
-     "source": "CryptoSlate",
-     "time": "2026-11-10T22:10:00+00:00",
-     "s": -1
-    },
-    {
-     "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
-     "link": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
-     "source": "Decrypt",
-     "time": "2026-11-10T21:36:03+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin Slips Toward $74K as Fed Hike Odds Hit 96% After Waller",
-     "link": "https://bitcoinist.com/bitcoin-slips-toward-74k-as-fed-hike-odds-hit-96-after-waller/",
-     "source": "Bitcoinist",
-     "time": "2026-11-10T21:03:53+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
-     "link": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301",
-     "source": "The Block",
-     "time": "2026-11-10T19:38:18+00:00",
-     "s": -1
     }
    ]
   },
@@ -236,22 +236,15 @@
    "items": []
   },
   "XRP": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 5,
+   "count": 3,
    "items": [
     {
      "title": "Ripple’s David Schwartz Reveals Massive XRP And Bitcoin Sales – What Does It Mean For The Market?",
      "link": "https://bitcoinist.com/ripples-david-schwartz-reveals-massive-xrp-and-bitcoin-sales-what-does-it-mean-for-the-market/",
      "source": "Bitcoinist",
      "time": "2026-11-11T09:11:54+00:00",
-     "s": 0
-    },
-    {
-     "title": "XRP Ledger Quantum-Proof Accounts: No Extra Fees Planned",
-     "link": "https://bitcoinist.com/xrp-ledger-quantum-proof-accounts-no-extra-fees-planned/",
-     "source": "Bitcoinist",
-     "time": "2026-11-10T15:25:34+00:00",
      "s": 0
     },
     {
@@ -267,13 +260,6 @@
      "source": "CoinDesk",
      "time": "2026-11-10T04:51:20+00:00",
      "s": 0
-    },
-    {
-     "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
-     "link": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter",
-     "source": "Decrypt",
-     "time": "2026-11-09T11:50:36+00:00",
-     "s": 1
     }
    ]
   },
