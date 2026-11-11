@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T15:37:26.617438+00:00",
+ "updated": "2026-11-11T16:42:21.135074+00:00",
  "window_hours": 48,
  "headlines": 125,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
+   "pos": 10,
    "neg": 8,
    "count": 30,
    "items": [
+    {
+     "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+     "link": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-11T16:26:00+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin ‘ripe for a squeeze’ as options traders raise odds of sub-$70,000 Christmas",
      "link": "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897",
@@ -114,13 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-11T08:55:31+00:00",
      "s": 1
-    },
-    {
-     "title": "Aave passes native Bitcoin lending proposal, but hidden liquidation risks remain",
-     "link": "https://cryptoslate.com/aave-passes-native-bitcoin-lending-proposal-but-hidden-liquidation-risks-remain/",
-     "source": "CryptoSlate",
-     "time": "2026-11-11T05:50:25+00:00",
-     "s": -1
     }
    ]
   },
