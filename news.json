@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:42:53.501120+00:00",
+ "updated": "2026-11-11T15:37:26.617438+00:00",
  "window_hours": 48,
  "headlines": 125,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 9,
    "neg": 8,
-   "count": 33,
+   "count": 30,
    "items": [
+    {
+     "title": "Bitcoin ‘ripe for a squeeze’ as options traders raise odds of sub-$70,000 Christmas",
+     "link": "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897",
+     "source": "The Block",
+     "time": "2026-11-11T14:44:31+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin holds $73,000 as odds of a December 50 bps rate hike jump",
      "link": "https://cryptoslate.com/bitcoin-holds-73000-as-odds-of-a-december-50-bps-rate-hike-jump/",
@@ -102,13 +109,6 @@
      "s": 0
     },
     {
-     "title": "Ripple’s David Schwartz Reveals Massive XRP And Bitcoin Sales – What Does It Mean For The Market?",
-     "link": "https://bitcoinist.com/ripples-david-schwartz-reveals-massive-xrp-and-bitcoin-sales-what-does-it-mean-for-the-market/",
-     "source": "Bitcoinist",
-     "time": "2026-11-11T09:11:54+00:00",
-     "s": 0
-    },
-    {
      "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -116,11 +116,11 @@
      "s": 1
     },
     {
-     "title": "Bitcoin Whales Sell $2.6 Billion In BTC – Is A Price Reversal Coming?",
-     "link": "https://bitcoinist.com/bitcoin-whales-sell-2-6-billion-in-btc-is-a-price-reversal-coming/",
-     "source": "Bitcoinist",
-     "time": "2026-11-11T08:34:27+00:00",
-     "s": 0
+     "title": "Aave passes native Bitcoin lending proposal, but hidden liquidation risks remain",
+     "link": "https://cryptoslate.com/aave-passes-native-bitcoin-lending-proposal-but-hidden-liquidation-risks-remain/",
+     "source": "CryptoSlate",
+     "time": "2026-11-11T05:50:25+00:00",
+     "s": -1
     }
    ]
   },
@@ -183,20 +183,13 @@
   "SOL": {
    "pos": 1,
    "neg": 2,
-   "count": 6,
+   "count": 5,
    "items": [
     {
      "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
      "link": "https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix",
      "source": "Decrypt",
      "time": "2026-11-11T14:02:55+00:00",
-     "s": 0
-    },
-    {
-     "title": "Solana derivatives volume explodes 65% amid shrinking spot trading activity",
-     "link": "https://cryptoslate.com/solana-perp-volume-explodes-65-amid-shrinking-spot-activity/",
-     "source": "CryptoSlate",
-     "time": "2026-11-11T02:10:48+00:00",
      "s": 0
     },
     {
@@ -246,15 +239,8 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 3,
+   "count": 2,
    "items": [
-    {
-     "title": "Ripple’s David Schwartz Reveals Massive XRP And Bitcoin Sales – What Does It Mean For The Market?",
-     "link": "https://bitcoinist.com/ripples-david-schwartz-reveals-massive-xrp-and-bitcoin-sales-what-does-it-mean-for-the-market/",
-     "source": "Bitcoinist",
-     "time": "2026-11-11T09:11:54+00:00",
-     "s": 0
-    },
     {
      "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
      "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
