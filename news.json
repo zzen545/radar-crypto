@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T16:42:21.135074+00:00",
+ "updated": "2026-11-11T17:45:42.667699+00:00",
  "window_hours": 48,
  "headlines": 125,
  "feeds_ok": [
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 10,
-   "neg": 8,
+   "neg": 6,
    "count": 30,
    "items": [
+    {
+     "title": "Thousands of Bitcoin nodes gave anonymous strangers a pass around security limits",
+     "link": "https://cryptoslate.com/thousands-of-bitcoin-nodes-gave-anonymous-strangers-a-pass-around-security-limits/",
+     "source": "CryptoSlate",
+     "time": "2026-11-11T17:10:30+00:00",
+     "s": 0
+    },
+    {
+     "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix",
+     "link": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
+     "source": "Decrypt",
+     "time": "2026-11-11T16:58:57+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
      "link": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -107,27 +121,13 @@
      "source": "CoinDesk",
      "time": "2026-11-11T10:45:49+00:00",
      "s": 0
-    },
-    {
-     "title": "96% of older Bitcoin being sent to exchanges is now underwater",
-     "link": "https://cryptoslate.com/96-of-older-bitcoin-sent-to-exchanges-is-underwater/",
-     "source": "CryptoSlate",
-     "time": "2026-11-11T10:35:42+00:00",
-     "s": 0
-    },
-    {
-     "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
-     "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-11T08:55:31+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
    "pos": 0,
    "neg": 3,
-   "count": 7,
+   "count": 5,
    "items": [
     {
      "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
@@ -163,28 +163,21 @@
      "source": "CoinDesk",
      "time": "2026-11-10T07:01:06+00:00",
      "s": -1
-    },
-    {
-     "title": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
-     "link": "https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability",
-     "source": "Decrypt",
-     "time": "2026-11-09T17:14:10+00:00",
-     "s": 0
-    },
-    {
-     "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
-     "link": "https://decrypt.co/382854/tom-lee-bitmine-adds-20m-ethereum-vitalik-eth-money",
-     "source": "Decrypt",
-     "time": "2026-11-09T17:08:21+00:00",
-     "s": 0
     }
    ]
   },
   "SOL": {
    "pos": 1,
    "neg": 2,
-   "count": 5,
+   "count": 6,
    "items": [
+    {
+     "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
+     "link": "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
+     "source": "Decrypt",
+     "time": "2026-11-11T17:09:18+00:00",
+     "s": 0
+    },
     {
      "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
      "link": "https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix",
