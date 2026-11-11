@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-11T10:24:45.098405+00:00",
+ "updated": "2026-11-11T11:20:39.249125+00:00",
  "window_hours": 48,
- "headlines": 124,
+ "headlines": 125,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,29 @@
   "BTC": {
    "pos": 8,
    "neg": 10,
-   "count": 32,
+   "count": 34,
    "items": [
+    {
+     "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
+     "link": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-11T11:05:26+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+     "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+     "source": "CoinDesk",
+     "time": "2026-11-11T10:45:49+00:00",
+     "s": 0
+    },
+    {
+     "title": "96% of older Bitcoin being sent to exchanges is now underwater",
+     "link": "https://cryptoslate.com/96-of-older-bitcoin-sent-to-exchanges-is-underwater/",
+     "source": "CryptoSlate",
+     "time": "2026-11-11T10:35:42+00:00",
+     "s": 0
+    },
     {
      "title": "Ripple’s David Schwartz Reveals Massive XRP And Bitcoin Sales – What Does It Mean For The Market?",
      "link": "https://bitcoinist.com/ripples-david-schwartz-reveals-massive-xrp-and-bitcoin-sales-what-does-it-mean-for-the-market/",
@@ -100,27 +121,6 @@
      "source": "The Block",
      "time": "2026-11-10T19:38:18+00:00",
      "s": -1
-    },
-    {
-     "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
-     "link": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-10T18:12:07+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
-     "link": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
-     "source": "Decrypt",
-     "time": "2026-11-10T16:27:57+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
-     "link": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-10T16:25:03+00:00",
-     "s": -1
     }
    ]
   },
@@ -137,7 +137,7 @@
      "s": -1
     },
     {
-     "title": "Lighthouse issues urgent Ethereum node patch due to hidden security flaws",
+     "title": "Urgent Ethereum node patch issued due to hidden security flaws",
      "link": "https://cryptoslate.com/lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws/",
      "source": "CryptoSlate",
      "time": "2026-11-11T07:10:08+00:00",
@@ -190,10 +190,10 @@
   "SOL": {
    "pos": 1,
    "neg": 2,
-   "count": 6,
+   "count": 5,
    "items": [
     {
-     "title": "Solana perp volume explodes 65% amid shrinking spot activity",
+     "title": "Solana derivatives volume explodes 65% amid shrinking spot trading activity",
      "link": "https://cryptoslate.com/solana-perp-volume-explodes-65-amid-shrinking-spot-activity/",
      "source": "CryptoSlate",
      "time": "2026-11-11T02:10:48+00:00",
@@ -226,13 +226,6 @@
      "source": "Decrypt",
      "time": "2026-11-09T17:46:02+00:00",
      "s": -1
-    },
-    {
-     "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-     "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
-     "source": "CoinDesk",
-     "time": "2026-11-09T12:41:35+00:00",
-     "s": 0
     }
    ]
   },
