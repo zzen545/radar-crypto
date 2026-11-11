@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:50:41.443969+00:00",
+ "updated": "2026-11-11T02:37:23.712479+00:00",
  "window_hours": 48,
  "headlines": 124,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 7,
    "neg": 10,
-   "count": 35,
+   "count": 34,
    "items": [
     {
      "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
@@ -176,8 +176,15 @@
   "SOL": {
    "pos": 1,
    "neg": 3,
-   "count": 6,
+   "count": 7,
    "items": [
+    {
+     "title": "Solana perp volume explodes 65% amid shrinking spot activity",
+     "link": "https://cryptoslate.com/solana-perp-volume-explodes-65-amid-shrinking-spot-activity/",
+     "source": "CryptoSlate",
+     "time": "2026-11-11T02:10:48+00:00",
+     "s": 0
+    },
     {
      "title": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low",
      "link": "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330",
