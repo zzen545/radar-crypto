@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T12:18:57.070473+00:00",
+ "updated": "2026-11-11T13:39:46.676103+00:00",
  "window_hours": 48,
  "headlines": 124,
  "feeds_ok": [
@@ -14,9 +14,37 @@
  "coins": {
   "BTC": {
    "pos": 9,
-   "neg": 10,
-   "count": 36,
+   "neg": 8,
+   "count": 34,
    "items": [
+    {
+     "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
+     "link": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-11T13:26:18+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Core discloses three patched security flaws, including high-severity mining bug",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862",
+     "source": "The Block",
+     "time": "2026-11-11T12:50:08+00:00",
+     "s": 0
+    },
+    {
+     "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+     "link": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
+     "source": "CoinDesk",
+     "time": "2026-11-11T12:21:24+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
+     "link": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
+     "source": "CoinDesk",
+     "time": "2026-11-11T12:19:30+00:00",
+     "s": 1
+    },
     {
      "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
      "link": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -53,7 +81,7 @@
      "s": -1
     },
     {
-     "title": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+     "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
      "link": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
      "source": "CoinDesk",
      "time": "2026-11-11T10:45:49+00:00",
@@ -93,41 +121,13 @@
      "source": "CryptoSlate",
      "time": "2026-11-11T05:50:25+00:00",
      "s": -1
-    },
-    {
-     "title": "Strategy’s STRC hit $100, but common stock still funded last week’s Bitcoin purchases",
-     "link": "https://cryptoslate.com/strategys-strc-hit-100-but-common-stock-still-funded-last-weeks-bitcoin-purchases/",
-     "source": "CryptoSlate",
-     "time": "2026-11-11T03:30:46+00:00",
-     "s": 0
-    },
-    {
-     "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
-     "link": "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-11T01:16:58+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin devs merge 3 new BIPs, and transaction fees could plummet",
-     "link": "https://cryptoslate.com/bitcoin-devs-merge-3-new-bips-and-transaction-fees-could-plummet/",
-     "source": "CryptoSlate",
-     "time": "2026-11-10T23:50:19+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
-     "link": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
-     "source": "Decrypt",
-     "time": "2026-11-10T22:46:02+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 0,
-   "neg": 4,
-   "count": 8,
+   "neg": 3,
+   "count": 7,
    "items": [
     {
      "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
@@ -156,13 +156,6 @@
      "source": "Decrypt",
      "time": "2026-11-10T13:24:51+00:00",
      "s": 0
-    },
-    {
-     "title": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing",
-     "link": "https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin-over-firing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-10T10:56:51+00:00",
-     "s": -1
     },
     {
      "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
@@ -230,10 +223,18 @@
    ]
   },
   "BNB": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Nomura’s Laser Digital helps launch Saudi SME credit vault targeting $100 million on BNB Chain",
+     "link": "https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824",
+     "source": "The Block",
+     "time": "2026-11-11T13:35:02+00:00",
+     "s": 1
+    }
+   ]
   },
   "XRP": {
    "pos": 0,
