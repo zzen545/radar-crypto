@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-11T21:20:06.260391+00:00",
+ "updated": "2026-11-11T22:23:58.243870+00:00",
  "window_hours": 48,
- "headlines": 124,
+ "headlines": 125,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 10,
-   "neg": 6,
+   "neg": 5,
    "count": 29,
    "items": [
+    {
+     "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
+     "link": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
+     "source": "Decrypt",
+     "time": "2026-11-11T21:46:03+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
      "link": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
@@ -114,13 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-11T11:56:23+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin and Blockchain Basics",
-     "link": "https://www.theblock.co/learn/bitcoin/bitcoin-and-blockchain-basics-434447",
-     "source": "The Block",
-     "time": "2026-11-11T11:43:50+00:00",
-     "s": 0
     }
    ]
   },
@@ -161,8 +161,8 @@
   },
   "SOL": {
    "pos": 1,
-   "neg": 1,
-   "count": 5,
+   "neg": 0,
+   "count": 4,
    "items": [
     {
      "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
@@ -177,13 +177,6 @@
      "source": "Decrypt",
      "time": "2026-11-11T14:02:55+00:00",
      "s": 0
-    },
-    {
-     "title": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low",
-     "link": "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330",
-     "source": "The Block",
-     "time": "2026-11-10T21:51:19+00:00",
-     "s": -1
     },
     {
      "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
