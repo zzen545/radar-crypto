@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T08:07:43.260609+00:00",
+ "updated": "2026-11-11T09:20:05.428664+00:00",
  "window_hours": 48,
  "headlines": 124,
  "feeds_ok": [
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
-   "neg": 11,
-   "count": 33,
+   "pos": 8,
+   "neg": 10,
+   "count": 32,
    "items": [
+    {
+     "title": "Ripple’s David Schwartz Reveals Massive XRP And Bitcoin Sales – What Does It Mean For The Market?",
+     "link": "https://bitcoinist.com/ripples-david-schwartz-reveals-massive-xrp-and-bitcoin-sales-what-does-it-mean-for-the-market/",
+     "source": "Bitcoinist",
+     "time": "2026-11-11T09:11:54+00:00",
+     "s": 0
+    },
+    {
+     "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
+     "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-11T08:55:31+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin Whales Sell $2.6 Billion In BTC – Is A Price Reversal Coming?",
+     "link": "https://bitcoinist.com/bitcoin-whales-sell-2-6-billion-in-btc-is-a-price-reversal-coming/",
+     "source": "Bitcoinist",
+     "time": "2026-11-11T08:34:27+00:00",
+     "s": 0
+    },
     {
      "title": "Aave passes native Bitcoin lending proposal, but hidden liquidation risks remain",
      "link": "https://cryptoslate.com/aave-passes-native-bitcoin-lending-proposal-but-hidden-liquidation-risks-remain/",
@@ -88,13 +109,6 @@
      "s": -1
     },
     {
-     "title": "Bitcoin’s projected difficulty cut would still leave older S19 rigs short at 5-cent power",
-     "link": "https://cryptoslate.com/bitcoins-projected-difficulty-cut-would-still-leave-older-s19-rigs-short-at-5-cent-power/",
-     "source": "CryptoSlate",
-     "time": "2026-11-10T17:49:50+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
      "link": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
      "source": "Decrypt",
@@ -106,20 +120,6 @@
      "link": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-10T16:25:03+00:00",
-     "s": -1
-    },
-    {
-     "title": "Canaan’s Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump",
-     "link": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
-     "source": "The Block",
-     "time": "2026-11-10T16:02:02+00:00",
-     "s": -1
-    },
-    {
-     "title": "NVIDIA Scandal Hits Crypto: Bitcoin Drops, $1B Liquidated",
-     "link": "https://bitcoinist.com/nvidia-scandal-hits-crypto-bitcoin-drops-1b-liquidated/",
-     "source": "Bitcoinist",
-     "time": "2026-11-10T15:04:34+00:00",
      "s": -1
     }
    ]
@@ -245,8 +245,15 @@
   "XRP": {
    "pos": 1,
    "neg": 0,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "Ripple’s David Schwartz Reveals Massive XRP And Bitcoin Sales – What Does It Mean For The Market?",
+     "link": "https://bitcoinist.com/ripples-david-schwartz-reveals-massive-xrp-and-bitcoin-sales-what-does-it-mean-for-the-market/",
+     "source": "Bitcoinist",
+     "time": "2026-11-11T09:11:54+00:00",
+     "s": 0
+    },
     {
      "title": "XRP Ledger Quantum-Proof Accounts: No Extra Fees Planned",
      "link": "https://bitcoinist.com/xrp-ledger-quantum-proof-accounts-no-extra-fees-planned/",
