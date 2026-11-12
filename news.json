@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T15:46:38.398407+00:00",
+ "updated": "2026-11-12T16:49:18.852070+00:00",
  "window_hours": 48,
- "headlines": 123,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
+   "pos": 6,
    "neg": 10,
-   "count": 30,
+   "count": 28,
    "items": [
+    {
+     "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-12T15:46:06+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin’s spot-demand signal is improving. A bigger futures slump is drowning it out",
      "link": "https://cryptoslate.com/bitcoin-spot-demand-futures-slump/",
@@ -114,21 +121,21 @@
      "source": "CoinDesk",
      "time": "2026-11-12T07:41:18+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-     "link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
-     "source": "CoinDesk",
-     "time": "2026-11-12T05:22:31+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
-   "neg": 1,
-   "count": 6,
+   "neg": 2,
+   "count": 7,
    "items": [
+    {
+     "title": "Ethereum Researchers Drop Faster Block Plan to Prioritize Quantum Security",
+     "link": "https://bitcoinist.com/ethereum-researchers-drop-faster-block-plan-to-prioritize-quantum-security/",
+     "source": "Bitcoinist",
+     "time": "2026-11-12T16:12:07+00:00",
+     "s": -1
+    },
     {
      "title": "Unocoin ‘login suspension’ continues as exchange flags outgoing BitGo ETH transactions",
      "link": "https://www.theblock.co/news/ecosystems/2026-11-12-unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transactions-438654",
@@ -236,17 +243,10 @@
    "items": []
   },
   "XRP": {
-   "pos": 2,
+   "pos": 1,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
-    {
-     "title": "XRP Ledger Lending Proposal Gains Momentum As Validators Move Closer To Approval",
-     "link": "https://bitcoinist.com/xrp-ledger-lending-proposal-gains-momentum-as-validators-move-closer-to-approval/",
-     "source": "Bitcoinist",
-     "time": "2026-11-12T09:16:23+00:00",
-     "s": 1
-    },
     {
      "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
      "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
@@ -311,8 +311,15 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Tether Gold Gets Clean KPMG Audit Confirming $2.2B in Physical Gold Backing",
+     "link": "https://decrypt.co/383137/tether-gold-gets-clean-kpmg-audit-confirming-2-2b-in-physical-gold-backing",
+     "source": "Decrypt",
+     "time": "2026-11-12T15:55:38+00:00",
+     "s": 0
+    },
     {
      "title": "Tether Gold issuer follows USDT to complete Big Four audit",
      "link": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
