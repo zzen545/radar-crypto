@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T09:25:18.015869+00:00",
+ "updated": "2026-11-12T10:26:35.230061+00:00",
  "window_hours": 48,
- "headlines": 125,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 8,
-   "neg": 8,
+   "neg": 9,
    "count": 30,
    "items": [
+    {
+     "title": "Strategy Faces $2.8 Billion Selling Risk As MSCI Removes Bitcoin Giant From Indexes",
+     "link": "https://bitcoinist.com/strategy-faces-2-8-billion-selling-risk-as-msci-removes-bitcoin-giant-from-indexes/",
+     "source": "Bitcoinist",
+     "time": "2026-11-12T09:56:25+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin Fear Returns, But Willy Woo Says The Bull Market Isn’t Over",
      "link": "https://bitcoinist.com/bitcoin-fear-returns-but-willy-woo-says-the-bull-market-isnt-over/",
@@ -114,13 +121,6 @@
      "source": "Decrypt",
      "time": "2026-11-11T16:58:57+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
-     "link": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-11T16:26:00+00:00",
-     "s": 1
     }
    ]
   },
