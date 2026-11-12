@@ -1,23 +1,29 @@
 {
- "updated": "2026-11-12T06:53:28.414882+00:00",
+ "updated": "2026-11-12T08:10:29.874542+00:00",
  "window_hours": 48,
- "headlines": 117,
+ "headlines": 125,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
    "pos": 9,
    "neg": 7,
    "count": 31,
    "items": [
+    {
+     "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
+     "link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
+     "source": "CoinDesk",
+     "time": "2026-11-12T07:41:18+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
      "link": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
@@ -115,21 +121,21 @@
      "source": "Cointelegraph",
      "time": "2026-11-11T13:26:18+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin Core discloses three patched security flaws, including high-severity mining bug",
-     "link": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862",
-     "source": "The Block",
-     "time": "2026-11-11T12:50:08+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 0,
    "neg": 1,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "Ethlabs proposes advancing Ethereum’s post-quantum to 2027, citing AI acceleration",
+     "link": "https://www.theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494",
+     "source": "The Block",
+     "time": "2026-11-12T07:27:24+00:00",
+     "s": 0
+    },
     {
      "title": "BitMine posts $2.8B quarterly profit driven by Ethereum gains, but yearly net loss surpasses $6B",
      "link": "https://cryptoslate.com/bitmine-posts-2-8b-quarterly-profit-but-yearly-net-loss-surpasses-6b/",
