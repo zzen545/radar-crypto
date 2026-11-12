@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T03:40:31.909940+00:00",
+ "updated": "2026-11-12T04:45:37.328272+00:00",
  "window_hours": 48,
  "headlines": 125,
  "feeds_ok": [
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 9,
-   "neg": 6,
-   "count": 31,
+   "neg": 7,
+   "count": 32,
    "items": [
+    {
+     "title": "Bitcoin listless, Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+     "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+     "source": "CoinDesk",
+     "time": "2026-11-12T04:03:47+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin whales stack coins while ETF investors dump millions daily",
      "link": "https://cryptoslate.com/bitcoin-whales-stack-coins-while-etf-investors-dump-millions-daily/",
@@ -114,13 +121,6 @@
      "source": "The Block",
      "time": "2026-11-11T12:50:08+00:00",
      "s": 0
-    },
-    {
-     "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
-     "link": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
-     "source": "CoinDesk",
-     "time": "2026-11-11T12:21:24+00:00",
-     "s": 1
     }
    ]
   },
@@ -218,7 +218,7 @@
   "XRP": {
    "pos": 0,
    "neg": 1,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "Binance hacker’s XRP stockpile rapidly crashes driven by Bitcoin swaps",
@@ -232,13 +232,6 @@
      "link": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
      "source": "CoinDesk",
      "time": "2026-11-10T12:38:20+00:00",
-     "s": 0
-    },
-    {
-     "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
-     "link": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
-     "source": "CoinDesk",
-     "time": "2026-11-10T04:51:20+00:00",
      "s": 0
     }
    ]
