@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:44:11.248198+00:00",
+ "updated": "2026-11-12T15:46:38.398407+00:00",
  "window_hours": 48,
  "headlines": 123,
  "feeds_ok": [
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 8,
-   "neg": 9,
+   "neg": 10,
    "count": 30,
    "items": [
+    {
+     "title": "Bitcoin’s spot-demand signal is improving. A bigger futures slump is drowning it out",
+     "link": "https://cryptoslate.com/bitcoin-spot-demand-futures-slump/",
+     "source": "CryptoSlate",
+     "time": "2026-11-12T15:45:21+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin plunges to $71k as Jensen Huang abruptly resigns sending Nvidia into $2 trillion wipeout",
+     "link": "https://cryptoslate.com/bitcoin-plunges-to-71k-as-jensen-huang-abruptly-resigns-sending-nvidia-into-2-trillion-wipeout/",
+     "source": "CryptoSlate",
+     "time": "2026-11-12T15:04:58+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin Falls Alongside Nvidia as ETF Outflows Reach $1.44 Billion",
      "link": "https://bitcoinist.com/bitcoin-falls-alongside-nvidia-as-etf-outflows-reach-1-44-billion/",
@@ -88,13 +102,6 @@
      "s": 0
     },
     {
-     "title": "Bitcoin Fear Returns, But Willy Woo Says The Bull Market Isn’t Over",
-     "link": "https://bitcoinist.com/bitcoin-fear-returns-but-willy-woo-says-the-bull-market-isnt-over/",
-     "source": "Bitcoinist",
-     "time": "2026-11-12T08:29:03+00:00",
-     "s": -1
-    },
-    {
      "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
      "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-11-12T05:22:31+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
-     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
-     "source": "The Block",
-     "time": "2026-11-12T04:55:00+00:00",
-     "s": -1
     }
    ]
   },
@@ -129,6 +129,13 @@
    "neg": 1,
    "count": 6,
    "items": [
+    {
+     "title": "Unocoin ‘login suspension’ continues as exchange flags outgoing BitGo ETH transactions",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-12-unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transactions-438654",
+     "source": "The Block",
+     "time": "2026-11-12T15:36:17+00:00",
+     "s": 0
+    },
     {
      "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
      "link": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -163,21 +170,28 @@
      "source": "The Block",
      "time": "2026-11-12T07:27:24+00:00",
      "s": 0
-    },
-    {
-     "title": "BitMine posts $2.8B quarterly profit driven by Ethereum gains, but yearly net loss surpasses $6B",
-     "link": "https://cryptoslate.com/bitmine-posts-2-8b-quarterly-profit-but-yearly-net-loss-surpasses-6b/",
-     "source": "CryptoSlate",
-     "time": "2026-11-12T03:20:49+00:00",
-     "s": 0
     }
    ]
   },
   "SOL": {
-   "pos": 2,
+   "pos": 1,
    "neg": 0,
-   "count": 6,
+   "count": 7,
    "items": [
+    {
+     "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+     "link": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+     "source": "CoinDesk",
+     "time": "2026-11-12T15:45:48+00:00",
+     "s": 0
+    },
+    {
+     "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+     "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
+     "source": "CoinDesk",
+     "time": "2026-11-12T14:45:00+00:00",
+     "s": 0
+    },
     {
      "title": "DTCC plans to bring tokenized securities to Solana in second half of 2027",
      "link": "https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559",
@@ -212,13 +226,6 @@
      "source": "Decrypt",
      "time": "2026-11-11T14:02:55+00:00",
      "s": 0
-    },
-    {
-     "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
-     "link": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
-     "source": "Decrypt",
-     "time": "2026-11-10T15:01:02+00:00",
-     "s": 1
     }
    ]
   },
@@ -304,8 +311,16 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Tether Gold issuer follows USDT to complete Big Four audit",
+     "link": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
+     "source": "The Block",
+     "time": "2026-11-12T15:23:26+00:00",
+     "s": 0
+    }
+   ]
   }
  }
 }
