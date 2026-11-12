@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T18:39:41.069700+00:00",
+ "updated": "2026-11-12T19:42:36.329182+00:00",
  "window_hours": 48,
  "headlines": 128,
  "feeds_ok": [
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 11,
+   "neg": 12,
    "count": 29,
    "items": [
+    {
+     "title": "Bitcoin and Ethereum sink to 3-month lows, but a bigger crypto selloff may be ahead",
+     "link": "https://cryptoslate.com/bitcoin-and-ethereum-sink-to-3-month-lows-but-a-bigger-crypto-selloff-may-be-ahead/",
+     "source": "CryptoSlate",
+     "time": "2026-11-12T19:20:12+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets",
      "link": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
@@ -95,13 +102,6 @@
      "s": -1
     },
     {
-     "title": "Bitcoin faces a $25B Treasury test after demand for US debt weakens",
-     "link": "https://cryptoslate.com/bitcoin-faces-a-25b-treasury-test-after-demand-for-us-debt-weakens/",
-     "source": "CryptoSlate",
-     "time": "2026-11-12T10:47:48+00:00",
-     "s": 0
-    },
-    {
      "title": "Strategy Faces $2.8 Billion Selling Risk As MSCI Removes Bitcoin Giant From Indexes",
      "link": "https://bitcoinist.com/strategy-faces-2-8-billion-selling-risk-as-msci-removes-bitcoin-giant-from-indexes/",
      "source": "Bitcoinist",
@@ -126,9 +126,16 @@
   },
   "ETH": {
    "pos": 1,
-   "neg": 2,
-   "count": 7,
+   "neg": 3,
+   "count": 8,
    "items": [
+    {
+     "title": "Bitcoin and Ethereum sink to 3-month lows, but a bigger crypto selloff may be ahead",
+     "link": "https://cryptoslate.com/bitcoin-and-ethereum-sink-to-3-month-lows-but-a-bigger-crypto-selloff-may-be-ahead/",
+     "source": "CryptoSlate",
+     "time": "2026-11-12T19:20:12+00:00",
+     "s": -1
+    },
     {
      "title": "Ethereum Researchers Drop Faster Block Plan to Prioritize Quantum Security",
      "link": "https://bitcoinist.com/ethereum-researchers-drop-faster-block-plan-to-prioritize-quantum-security/",
@@ -244,9 +251,16 @@
   },
   "XRP": {
    "pos": 1,
-   "neg": 0,
-   "count": 1,
+   "neg": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "XRP proposed lending vaults lock deposits and expose holders to risk",
+     "link": "https://cryptoslate.com/xrp-proposed-lending-vaults-lock-deposits-and-expose-holders-to-risk/",
+     "source": "CryptoSlate",
+     "time": "2026-11-12T18:50:20+00:00",
+     "s": -1
+    },
     {
      "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
      "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
