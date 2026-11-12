@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T01:43:21.082831+00:00",
+ "updated": "2026-11-12T02:39:26.616641+00:00",
  "window_hours": 48,
  "headlines": 125,
  "feeds_ok": [
@@ -126,21 +126,14 @@
   },
   "ETH": {
    "pos": 0,
-   "neg": 3,
-   "count": 4,
+   "neg": 2,
+   "count": 3,
    "items": [
     {
      "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
      "link": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-11T09:58:15+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
-     "link": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
-     "source": "The Block",
-     "time": "2026-11-11T06:22:32+00:00",
      "s": -1
     },
     {
@@ -160,10 +153,17 @@
    ]
   },
   "SOL": {
-   "pos": 1,
+   "pos": 2,
    "neg": 0,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
+     "link": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
+     "source": "The Block",
+     "time": "2026-11-12T02:25:14+00:00",
+     "s": 1
+    },
     {
      "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
      "link": "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
@@ -258,9 +258,17 @@
   },
   "HYPE": {
    "pos": 0,
-   "neg": 0,
-   "count": 0,
-   "items": []
+   "neg": 1,
+   "count": 1,
+   "items": [
+    {
+     "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
+     "link": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
+     "source": "The Block",
+     "time": "2026-11-12T02:23:45+00:00",
+     "s": -1
+    }
+   ]
   },
   "ASTER": {
    "pos": 0,
