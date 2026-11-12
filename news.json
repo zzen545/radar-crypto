@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T11:25:07.250004+00:00",
+ "updated": "2026-11-12T12:19:05.579340+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 125,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
-   "neg": 11,
-   "count": 31,
+   "pos": 8,
+   "neg": 10,
+   "count": 33,
    "items": [
+    {
+     "title": "Bitcoin weakness erases September's bullish signal",
+     "link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
+     "source": "CoinDesk",
+     "time": "2026-11-12T12:15:00+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin’s rate-cut hopes face a $5 diesel problem in 2027",
+     "link": "https://cryptoslate.com/bitcoins-rate-cut-hopes-face-a-5-diesel-problem-in-2027/",
+     "source": "CryptoSlate",
+     "time": "2026-11-12T11:45:23+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+     "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
+     "source": "CoinDesk",
+     "time": "2026-11-12T11:30:00+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
      "link": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
@@ -95,40 +116,26 @@
      "s": 0
     },
     {
-     "title": "Binance hacker’s XRP stockpile rapidly crashes driven by Bitcoin swaps",
-     "link": "https://cryptoslate.com/binance-hackers-xrp-stockpile-rapidly-crashes-driven-by-bitcoin-swaps/",
-     "source": "CryptoSlate",
-     "time": "2026-11-11T22:30:57+00:00",
-     "s": -1
-    },
-    {
      "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
      "link": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
      "source": "Decrypt",
      "time": "2026-11-11T21:46:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
-     "link": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
-     "source": "Decrypt",
-     "time": "2026-11-11T21:16:03+00:00",
-     "s": -1
-    },
-    {
-     "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
-     "link": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-11T20:43:19+00:00",
      "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
-   "neg": 1,
-   "count": 6,
+   "neg": 2,
+   "count": 7,
    "items": [
+    {
+     "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+     "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+     "source": "CoinDesk",
+     "time": "2026-11-12T11:43:41+00:00",
+     "s": -1
+    },
     {
      "title": "Ethereum Draws Wall Street Attention As BlackRock And JPMorgan Join London Forum",
      "link": "https://bitcoinist.com/ethereum-draws-wall-street-attention-as-blackrock-and-jpmorgan-join-london-forum/",
@@ -231,8 +238,8 @@
   },
   "XRP": {
    "pos": 2,
-   "neg": 1,
-   "count": 3,
+   "neg": 0,
+   "count": 2,
    "items": [
     {
      "title": "XRP Ledger Lending Proposal Gains Momentum As Validators Move Closer To Approval",
@@ -247,13 +254,6 @@
      "source": "CoinDesk",
      "time": "2026-11-12T05:18:43+00:00",
      "s": 1
-    },
-    {
-     "title": "Binance hacker’s XRP stockpile rapidly crashes driven by Bitcoin swaps",
-     "link": "https://cryptoslate.com/binance-hackers-xrp-stockpile-rapidly-crashes-driven-by-bitcoin-swaps/",
-     "source": "CryptoSlate",
-     "time": "2026-11-11T22:30:57+00:00",
-     "s": -1
     }
    ]
   },
