@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T21:36:17.387029+00:00",
+ "updated": "2026-11-12T22:33:54.358070+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 127,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 12,
+   "neg": 13,
    "count": 26,
    "items": [
+    {
+     "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+     "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-12T21:52:04+00:00",
+     "s": -1
+    },
     {
      "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
      "link": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
@@ -65,13 +72,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-12T14:34:18+00:00",
      "s": -1
-    },
-    {
-     "title": "Strategy spent more than twice as much on preferred-share buybacks as Bitcoin. Now comes its MSCI exit",
-     "link": "https://cryptoslate.com/strategy-spent-more-than-twice-as-much-on-preferred-share-buybacks-as-bitcoin-now-comes-its-msci-exit/",
-     "source": "CryptoSlate",
-     "time": "2026-11-12T12:45:58+00:00",
-     "s": 0
     },
     {
      "title": "Barclays Boosts Bitcoin ETF Holdings By 48% — Can BTC Reclaim $80,000?",
@@ -188,9 +188,9 @@
    ]
   },
   "SOL": {
-   "pos": 2,
+   "pos": 1,
    "neg": 0,
-   "count": 9,
+   "count": 8,
    "items": [
     {
      "title": "Helius encrypts Solana transfers without removing operator trust",
@@ -233,13 +233,6 @@
      "source": "Decrypt",
      "time": "2026-11-12T13:25:47+00:00",
      "s": 0
-    },
-    {
-     "title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
-     "link": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
-     "source": "The Block",
-     "time": "2026-11-12T02:25:14+00:00",
-     "s": 1
     },
     {
      "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
@@ -298,17 +291,9 @@
   },
   "HYPE": {
    "pos": 0,
-   "neg": 1,
-   "count": 1,
-   "items": [
-    {
-     "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
-     "link": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
-     "source": "The Block",
-     "time": "2026-11-12T02:23:45+00:00",
-     "s": -1
-    }
-   ]
+   "neg": 0,
+   "count": 0,
+   "items": []
   },
   "ASTER": {
    "pos": 0,
