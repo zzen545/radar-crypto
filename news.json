@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T08:10:29.874542+00:00",
+ "updated": "2026-11-12T09:25:18.015869+00:00",
  "window_hours": 48,
  "headlines": 125,
  "feeds_ok": [
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
-   "neg": 7,
-   "count": 31,
+   "pos": 8,
+   "neg": 8,
+   "count": 30,
    "items": [
+    {
+     "title": "Bitcoin Fear Returns, But Willy Woo Says The Bull Market Isn’t Over",
+     "link": "https://bitcoinist.com/bitcoin-fear-returns-but-willy-woo-says-the-bull-market-isnt-over/",
+     "source": "Bitcoinist",
+     "time": "2026-11-12T08:29:03+00:00",
+     "s": -1
+    },
+    {
+     "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
+     "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-12T08:06:48+00:00",
+     "s": 0
+    },
     {
      "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
      "link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
@@ -107,20 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-11T16:26:00+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin ‘ripe for a squeeze’ as options traders raise odds of sub-$70,000 Christmas",
-     "link": "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897",
-     "source": "The Block",
-     "time": "2026-11-11T14:44:31+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
-     "link": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-11T13:26:18+00:00",
-     "s": 0
     }
    ]
   },
@@ -216,10 +216,17 @@
    ]
   },
   "XRP": {
-   "pos": 1,
+   "pos": 2,
    "neg": 1,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "XRP Ledger Lending Proposal Gains Momentum As Validators Move Closer To Approval",
+     "link": "https://bitcoinist.com/xrp-ledger-lending-proposal-gains-momentum-as-validators-move-closer-to-approval/",
+     "source": "Bitcoinist",
+     "time": "2026-11-12T09:16:23+00:00",
+     "s": 1
+    },
     {
      "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
      "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
