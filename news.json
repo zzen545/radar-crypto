@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T23:15:23.864756+00:00",
+ "updated": "2026-11-12T00:09:06.415668+00:00",
  "window_hours": 48,
  "headlines": 125,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 9,
    "neg": 6,
-   "count": 30,
+   "count": 31,
    "items": [
+    {
+     "title": "Bitcoin whales stack coins while ETF investors dump millions daily",
+     "link": "https://cryptoslate.com/bitcoin-whales-stack-coins-while-etf-investors-dump-millions-daily/",
+     "source": "CryptoSlate",
+     "time": "2026-11-11T23:50:44+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin faces $70,000 test as $14.2 billion stablecoin contraction exposes demand weakness",
      "link": "https://cryptoslate.com/bitcoin-faces-70000-test-as-14-2-billion-stablecoin-contraction-exposes-demand-weakness/",
@@ -113,13 +120,6 @@
      "link": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
      "source": "CoinDesk",
      "time": "2026-11-11T12:21:24+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
-     "link": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
-     "source": "CoinDesk",
-     "time": "2026-11-11T12:19:30+00:00",
      "s": 1
     }
    ]
