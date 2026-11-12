@@ -1,22 +1,37 @@
 {
- "updated": "2026-11-12T12:19:05.579340+00:00",
+ "updated": "2026-11-12T13:42:29.287683+00:00",
  "window_hours": 48,
- "headlines": 125,
+ "headlines": 106,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
   "Bitcoinist"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "The Block": "HTTP Error 504: Gateway Timeout"
+ },
  "coins": {
   "BTC": {
    "pos": 8,
-   "neg": 10,
-   "count": 33,
+   "neg": 9,
+   "count": 30,
    "items": [
+    {
+     "title": "Strategy spent more than twice as much on preferred-share buybacks as Bitcoin. Now comes its MSCI exit",
+     "link": "https://cryptoslate.com/strategy-spent-more-than-twice-as-much-on-preferred-share-buybacks-as-bitcoin-now-comes-its-msci-exit/",
+     "source": "CryptoSlate",
+     "time": "2026-11-12T12:45:58+00:00",
+     "s": 0
+    },
+    {
+     "title": "Barclays Boosts Bitcoin ETF Holdings By 48% — Can BTC Reclaim $80,000?",
+     "link": "https://bitcoinist.com/barclays-boosts-bitcoin-etf-holdings-by-48-can-btc-reclaim-80000/",
+     "source": "Bitcoinist",
+     "time": "2026-11-12T12:24:33+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin weakness erases September's bullish signal",
      "link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
@@ -60,7 +75,7 @@
      "s": -1
     },
     {
-     "title": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
+     "title": "Live updates: Bitcoin slumps below $73,000 as Nvidia's Huang issues hit AI sector",
      "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
      "source": "CoinDesk",
      "time": "2026-11-12T09:15:04+00:00",
@@ -95,24 +110,10 @@
      "s": 0
     },
     {
-     "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
-     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
-     "source": "The Block",
-     "time": "2026-11-12T04:55:00+00:00",
-     "s": -1
-    },
-    {
      "title": "Bitcoin whales stack coins while ETF investors dump millions daily",
      "link": "https://cryptoslate.com/bitcoin-whales-stack-coins-while-etf-investors-dump-millions-daily/",
      "source": "CryptoSlate",
      "time": "2026-11-11T23:50:44+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin faces $70,000 test as $14.2 billion stablecoin contraction exposes demand weakness",
-     "link": "https://cryptoslate.com/bitcoin-faces-70000-test-as-14-2-billion-stablecoin-contraction-exposes-demand-weakness/",
-     "source": "CryptoSlate",
-     "time": "2026-11-11T22:50:27+00:00",
      "s": 0
     },
     {
@@ -125,10 +126,17 @@
    ]
   },
   "ETH": {
-   "pos": 1,
+   "pos": 0,
    "neg": 2,
-   "count": 7,
+   "count": 5,
    "items": [
+    {
+     "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
+     "link": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-12T13:30:00+00:00",
+     "s": 0
+    },
     {
      "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
      "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
@@ -144,20 +152,6 @@
      "s": 0
     },
     {
-     "title": "Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH",
-     "link": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386",
-     "source": "The Block",
-     "time": "2026-11-12T10:30:00+00:00",
-     "s": 1
-    },
-    {
-     "title": "Ethlabs proposes advancing Ethereum’s post-quantum to 2027, citing AI acceleration",
-     "link": "https://www.theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494",
-     "source": "The Block",
-     "time": "2026-11-12T07:27:24+00:00",
-     "s": 0
-    },
-    {
      "title": "BitMine posts $2.8B quarterly profit driven by Ethereum gains, but yearly net loss surpasses $6B",
      "link": "https://cryptoslate.com/bitmine-posts-2-8b-quarterly-profit-but-yearly-net-loss-surpasses-6b/",
      "source": "CryptoSlate",
@@ -170,27 +164,20 @@
      "source": "Cointelegraph",
      "time": "2026-11-11T09:58:15+00:00",
      "s": -1
-    },
-    {
-     "title": "Morning Minute: Vitalik Recasts ETH as a Store of Value",
-     "link": "https://decrypt.co/382931/morning-minute-vitalik-recasts-eth-as-a-store-of-value",
-     "source": "Decrypt",
-     "time": "2026-11-10T13:24:51+00:00",
-     "s": 0
     }
    ]
   },
   "SOL": {
-   "pos": 2,
+   "pos": 1,
    "neg": 0,
    "count": 5,
    "items": [
     {
-     "title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
-     "link": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
-     "source": "The Block",
-     "time": "2026-11-12T02:25:14+00:00",
-     "s": 1
+     "title": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
+     "link": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
+     "source": "Decrypt",
+     "time": "2026-11-12T13:25:47+00:00",
+     "s": 0
     },
     {
      "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
@@ -223,18 +210,10 @@
    ]
   },
   "BNB": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Nomura’s Laser Digital helps launch Saudi SME credit vault targeting $100 million on BNB Chain",
-     "link": "https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824",
-     "source": "The Block",
-     "time": "2026-11-11T13:35:02+00:00",
-     "s": 1
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "XRP": {
    "pos": 2,
@@ -260,16 +239,8 @@
   "DOGE": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "DogeOS ‘very, very close’ to launching DeFi features, app layer for Dogecoin: CEO",
-     "link": "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392",
-     "source": "The Block",
-     "time": "2026-11-11T20:32:19+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "TAO": {
    "pos": 0,
@@ -279,17 +250,9 @@
   },
   "HYPE": {
    "pos": 0,
-   "neg": 1,
-   "count": 1,
-   "items": [
-    {
-     "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
-     "link": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
-     "source": "The Block",
-     "time": "2026-11-12T02:23:45+00:00",
-     "s": -1
-    }
-   ]
+   "neg": 0,
+   "count": 0,
+   "items": []
   },
   "ASTER": {
    "pos": 0,
