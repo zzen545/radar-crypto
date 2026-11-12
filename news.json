@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T16:49:18.852070+00:00",
+ "updated": "2026-11-12T17:42:25.584304+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 127,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 10,
-   "count": 28,
+   "neg": 11,
+   "count": 29,
    "items": [
+    {
+     "title": "Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets",
+     "link": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
+     "source": "The Block",
+     "time": "2026-11-12T17:40:00+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
      "link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -114,13 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-12T08:06:48+00:00",
      "s": 0
-    },
-    {
-     "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
-     "link": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
-     "source": "CoinDesk",
-     "time": "2026-11-12T07:41:18+00:00",
-     "s": -1
     }
    ]
   },
@@ -259,16 +259,8 @@
   "DOGE": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "DogeOS ‘very, very close’ to launching DeFi features, app layer for Dogecoin: CEO",
-     "link": "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392",
-     "source": "The Block",
-     "time": "2026-11-11T20:32:19+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "TAO": {
    "pos": 0,
