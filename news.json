@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T20:37:55.868060+00:00",
+ "updated": "2026-11-12T21:36:17.387029+00:00",
  "window_hours": 48,
- "headlines": 127,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 5,
+   "pos": 3,
    "neg": 12,
-   "count": 28,
+   "count": 26,
    "items": [
     {
      "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
