@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T13:38:35.809948+00:00",
+ "updated": "2026-11-13T14:42:23.426789+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 7,
    "neg": 15,
-   "count": 35,
+   "count": 34,
    "items": [
+    {
+     "title": "The cost of a $70,000 Bitcoin hedge more than doubled in a day",
+     "link": "https://cryptoslate.com/bitcoin-hedge-cost-more-than-doubled/",
+     "source": "CryptoSlate",
+     "time": "2026-11-13T14:30:05+00:00",
+     "s": 0
+    },
     {
      "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
      "link": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698",
@@ -114,21 +121,21 @@
      "source": "Bitcoinist",
      "time": "2026-11-13T09:04:03+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin Analyst Reveals 5 Reasons He’s Buying BTC As Price Drops Below $69,000",
-     "link": "https://bitcoinist.com/bitcoin-analyst-reveals-5-reasons-hes-buying-btc-as-price-drops-below-69000/",
-     "source": "Bitcoinist",
-     "time": "2026-11-13T08:16:18+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 0,
    "neg": 3,
-   "count": 6,
+   "count": 7,
    "items": [
+    {
+     "title": "Ethereum and Layer 1s Explained",
+     "link": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
+     "source": "The Block",
+     "time": "2026-11-13T14:12:23+00:00",
+     "s": 0
+    },
     {
      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
      "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
@@ -176,7 +183,7 @@
   "SOL": {
    "pos": 1,
    "neg": 0,
-   "count": 7,
+   "count": 6,
    "items": [
     {
      "title": "Solana Moves Closer To Wall Street As DTCC Reveals Tokenization Plans",
@@ -218,13 +225,6 @@
      "link": "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
      "source": "Decrypt",
      "time": "2026-11-11T17:09:18+00:00",
-     "s": 0
-    },
-    {
-     "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
-     "link": "https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix",
-     "source": "Decrypt",
-     "time": "2026-11-11T14:02:55+00:00",
      "s": 0
     }
    ]
