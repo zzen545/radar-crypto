@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T11:20:30.761940+00:00",
+ "updated": "2026-11-13T12:18:18.433821+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 127,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,37 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 14,
-   "count": 31,
+   "neg": 15,
+   "count": 33,
    "items": [
+    {
+     "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
+     "link": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
+     "source": "CoinDesk",
+     "time": "2026-11-13T12:14:22+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin falls below $70,000 as $870 million in bullish bets are liquidated",
+     "link": "https://cryptoslate.com/bitcoin-falls-below-70000-as-870-million-in-bullish-bets-are-liquidated/",
+     "source": "CryptoSlate",
+     "time": "2026-11-13T11:58:35+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+     "source": "CoinDesk",
+     "time": "2026-11-13T11:52:25+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
+     "link": "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand",
+     "source": "Decrypt",
+     "time": "2026-11-13T11:20:44+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin Enters The AI Economy As Lightning Labs Launches Payments For Autonomous Agents",
      "link": "https://bitcoinist.com/bitcoin-enters-the-ai-economy-as-lightning-labs-launches-payments-for-autonomous-agents/",
@@ -93,41 +121,13 @@
      "source": "CoinDesk",
      "time": "2026-11-13T06:03:41+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
-     "link": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-13T06:00:15+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
-     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
-     "source": "CoinDesk",
-     "time": "2026-11-13T05:45:26+00:00",
-     "s": -1
-    },
-    {
-     "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
-     "link": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
-     "source": "CoinDesk",
-     "time": "2026-11-13T05:08:59+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
-     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
-     "source": "The Block",
-     "time": "2026-11-13T04:20:00+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 0,
-   "neg": 4,
-   "count": 7,
+   "neg": 3,
+   "count": 6,
    "items": [
     {
      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
@@ -142,13 +142,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-13T06:20:37+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin and Ethereum sink to 3-month lows, but a bigger crypto selloff may be ahead",
-     "link": "https://cryptoslate.com/bitcoin-and-ethereum-sink-to-3-month-lows-but-a-bigger-crypto-selloff-may-be-ahead/",
-     "source": "CryptoSlate",
-     "time": "2026-11-12T19:20:12+00:00",
-     "s": -1
     },
     {
      "title": "Ethereum Researchers Drop Faster Block Plan to Prioritize Quantum Security",
@@ -186,17 +179,17 @@
    "count": 9,
    "items": [
     {
+     "title": "Solana Moves Closer To Wall Street As DTCC Reveals Tokenization Plans",
+     "link": "https://bitcoinist.com/solana-moves-closer-to-wall-street-as-dtcc-reveals-tokenization-plans/",
+     "source": "Bitcoinist",
+     "time": "2026-11-13T11:39:08+00:00",
+     "s": 0
+    },
+    {
      "title": "Solana treasury Forward Industries flashes a 30% SOL discount, with a catch",
      "link": "https://cryptoslate.com/solana-treasury-forward-industries-flashes-a-30-sol-discount-with-a-catch/",
      "source": "CryptoSlate",
      "time": "2026-11-12T22:50:29+00:00",
-     "s": 0
-    },
-    {
-     "title": "Helius encrypts Solana transfers without removing operator trust",
-     "link": "https://cryptoslate.com/helius-encrypts-solana-transfers-without-removing-operator-trust/",
-     "source": "CryptoSlate",
-     "time": "2026-11-12T20:10:03+00:00",
      "s": 0
     },
     {
