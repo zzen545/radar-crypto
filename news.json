@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T16:41:22.890637+00:00",
+ "updated": "2026-11-13T17:39:12.515161+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 125,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 8,
-   "neg": 17,
+   "neg": 18,
    "count": 38,
    "items": [
+    {
+     "title": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
+     "link": "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally",
+     "source": "Decrypt",
+     "time": "2026-11-13T17:22:54+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
+     "link": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-13T16:39:11+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
@@ -107,27 +121,13 @@
      "source": "The Block",
      "time": "2026-11-13T09:59:16+00:00",
      "s": 1
-    },
-    {
-     "title": "US Moves To Recover $1.2 Billion In Stolen Crypto — Could It Impact Bitcoin?",
-     "link": "https://bitcoinist.com/us-moves-to-recover-1-2-billion-in-stolen-crypto-could-it-impact-bitcoin/",
-     "source": "Bitcoinist",
-     "time": "2026-11-13T09:49:37+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-     "link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-13T09:39:05+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 0,
-   "neg": 3,
-   "count": 5,
+   "neg": 2,
+   "count": 4,
    "items": [
     {
      "title": "Ethereum and Layer 1s Explained",
@@ -141,13 +141,6 @@
      "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
      "source": "CoinDesk",
      "time": "2026-11-13T07:05:29+00:00",
-     "s": -1
-    },
-    {
-     "title": "Ethereum Researchers Drop Faster Block Plan to Prioritize Quantum Security",
-     "link": "https://bitcoinist.com/ethereum-researchers-drop-faster-block-plan-to-prioritize-quantum-security/",
-     "source": "Bitcoinist",
-     "time": "2026-11-12T16:12:07+00:00",
      "s": -1
     },
     {
@@ -169,7 +162,7 @@
   "SOL": {
    "pos": 1,
    "neg": 0,
-   "count": 6,
+   "count": 5,
    "items": [
     {
      "title": "Solana Moves Closer To Wall Street As DTCC Reveals Tokenization Plans",
@@ -204,13 +197,6 @@
      "link": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
      "source": "Decrypt",
      "time": "2026-11-12T13:25:47+00:00",
-     "s": 0
-    },
-    {
-     "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
-     "link": "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
-     "source": "Decrypt",
-     "time": "2026-11-11T17:09:18+00:00",
      "s": 0
     }
    ]
