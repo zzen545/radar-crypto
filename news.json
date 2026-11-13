@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T09:23:48.694556+00:00",
+ "updated": "2026-11-13T10:25:07.870484+00:00",
  "window_hours": 48,
- "headlines": 127,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,38 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 4,
-   "neg": 14,
-   "count": 28,
+   "pos": 5,
+   "neg": 15,
+   "count": 31,
    "items": [
+    {
+     "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock’s bitcoin ETF",
+     "link": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
+     "source": "The Block",
+     "time": "2026-11-13T09:59:16+00:00",
+     "s": 1
+    },
+    {
+     "title": "US Moves To Recover $1.2 Billion In Stolen Crypto — Could It Impact Bitcoin?",
+     "link": "https://bitcoinist.com/us-moves-to-recover-1-2-billion-in-stolen-crypto-could-it-impact-bitcoin/",
+     "source": "Bitcoinist",
+     "time": "2026-11-13T09:49:37+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
+     "link": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-13T09:39:05+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin could face a cash squeeze without another Fed rate hike",
+     "link": "https://cryptoslate.com/bitcoin-could-face-a-cash-squeeze-without-another-fed-rate-hike/",
+     "source": "CryptoSlate",
+     "time": "2026-11-13T09:30:12+00:00",
+     "s": 0
+    },
     {
      "title": "Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets",
      "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
@@ -93,34 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-11-13T03:37:00+00:00",
      "s": 1
-    },
-    {
-     "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
-     "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-12T21:52:04+00:00",
-     "s": -1
-    },
-    {
-     "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
-     "link": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
-     "source": "Decrypt",
-     "time": "2026-11-12T20:36:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin and Ethereum sink to 3-month lows, but a bigger crypto selloff may be ahead",
-     "link": "https://cryptoslate.com/bitcoin-and-ethereum-sink-to-3-month-lows-but-a-bigger-crypto-selloff-may-be-ahead/",
-     "source": "CryptoSlate",
-     "time": "2026-11-12T19:20:12+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets",
-     "link": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
-     "source": "The Block",
-     "time": "2026-11-12T17:40:00+00:00",
-     "s": -1
     }
    ]
   },
