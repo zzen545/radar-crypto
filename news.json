@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T20:41:12.622674+00:00",
+ "updated": "2026-11-13T21:36:53.630005+00:00",
  "window_hours": 48,
- "headlines": 125,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 8,
-   "neg": 17,
-   "count": 40,
+   "neg": 16,
+   "count": 38,
    "items": [
     {
      "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
@@ -209,9 +209,17 @@
   },
   "XRP": {
    "pos": 0,
-   "neg": 0,
-   "count": 0,
-   "items": []
+   "neg": 1,
+   "count": 1,
+   "items": [
+    {
+     "title": "XRP loans trigger 883 liquidations, and $53M remains at risk",
+     "link": "https://cryptoslate.com/xrp-loans-trigger-883-liquidations-and-53m-remains-at-risk/",
+     "source": "CryptoSlate",
+     "time": "2026-11-13T20:50:08+00:00",
+     "s": -1
+    }
+   ]
   },
   "DOGE": {
    "pos": 0,
