@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T04:46:03.868090+00:00",
+ "updated": "2026-11-13T05:47:56.625674+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -14,9 +14,30 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 11,
-   "count": 22,
+   "neg": 13,
+   "count": 25,
    "items": [
+    {
+     "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+     "source": "CoinDesk",
+     "time": "2026-11-13T05:45:26+00:00",
+     "s": -1
+    },
+    {
+     "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+     "link": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+     "source": "CoinDesk",
+     "time": "2026-11-13T05:08:59+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
+     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
+     "source": "The Block",
+     "time": "2026-11-13T04:20:00+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
@@ -100,34 +121,13 @@
      "source": "Decrypt",
      "time": "2026-11-12T11:24:19+00:00",
      "s": -1
-    },
-    {
-     "title": "Strategy Faces $2.8 Billion Selling Risk As MSCI Removes Bitcoin Giant From Indexes",
-     "link": "https://bitcoinist.com/strategy-faces-2-8-billion-selling-risk-as-msci-removes-bitcoin-giant-from-indexes/",
-     "source": "Bitcoinist",
-     "time": "2026-11-12T09:56:25+00:00",
-     "s": -1
-    },
-    {
-     "title": "Live updates: Bitcoin slumps below $72,000 as Nvidia's Huang resigns, interest rates surge",
-     "link": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
-     "source": "CoinDesk",
-     "time": "2026-11-12T09:15:04+00:00",
-     "s": 0
-    },
-    {
-     "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
-     "link": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-12T08:06:48+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 1,
+   "pos": 0,
    "neg": 3,
-   "count": 8,
+   "count": 6,
    "items": [
     {
      "title": "Bitcoin and Ethereum sink to 3-month lows, but a bigger crypto selloff may be ahead",
@@ -169,20 +169,6 @@
      "link": "https://bitcoinist.com/ethereum-draws-wall-street-attention-as-blackrock-and-jpmorgan-join-london-forum/",
      "source": "Bitcoinist",
      "time": "2026-11-12T11:13:37+00:00",
-     "s": 0
-    },
-    {
-     "title": "Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH",
-     "link": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386",
-     "source": "The Block",
-     "time": "2026-11-12T10:30:00+00:00",
-     "s": 1
-    },
-    {
-     "title": "Ethlabs proposes advancing Ethereum’s post-quantum to 2027, citing AI acceleration",
-     "link": "https://www.theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494",
-     "source": "The Block",
-     "time": "2026-11-12T07:27:24+00:00",
      "s": 0
     }
    ]
@@ -264,9 +250,9 @@
    "items": []
   },
   "XRP": {
-   "pos": 1,
+   "pos": 0,
    "neg": 1,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "XRP proposed lending vaults lock deposits and expose holders to risk",
@@ -274,13 +260,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-12T18:50:20+00:00",
      "s": -1
-    },
-    {
-     "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
-     "link": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
-     "source": "CoinDesk",
-     "time": "2026-11-12T05:18:43+00:00",
-     "s": 1
     }
    ]
   },
