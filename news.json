@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:37:23.111605+00:00",
+ "updated": "2026-11-13T03:40:23.027670+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -17,6 +17,13 @@
    "neg": 12,
    "count": 22,
    "items": [
+    {
+     "title": "Bitcoin dips below $70,000 as selloff gathers pace",
+     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+     "source": "CoinDesk",
+     "time": "2026-11-13T03:37:00+00:00",
+     "s": -1
+    },
     {
      "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
      "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -57,13 +64,6 @@
      "link": "https://cryptoslate.com/bitcoin-spot-demand-futures-slump/",
      "source": "CryptoSlate",
      "time": "2026-11-12T15:45:21+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin plunges to $71k as Jensen Huang abruptly resigns sending Nvidia into $2 trillion wipeout",
-     "link": "https://cryptoslate.com/bitcoin-plunges-to-71k-as-jensen-huang-abruptly-resigns-sending-nvidia-into-2-trillion-wipeout/",
-     "source": "CryptoSlate",
-     "time": "2026-11-12T15:04:58+00:00",
      "s": -1
     },
     {
