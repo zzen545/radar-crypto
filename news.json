@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T12:18:18.433821+00:00",
+ "updated": "2026-11-13T13:38:35.809948+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
+   "pos": 7,
    "neg": 15,
-   "count": 33,
+   "count": 35,
    "items": [
+    {
+     "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
+     "link": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698",
+     "source": "The Block",
+     "time": "2026-11-13T13:34:46+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin’s futures pile has a problem: less cash to fuel a rebound",
+     "link": "https://cryptoslate.com/bitcoins-futures-pile-has-a-problem-less-cash-to-fuel-a-rebound/",
+     "source": "CryptoSlate",
+     "time": "2026-11-13T13:30:48+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
      "link": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
@@ -81,7 +95,7 @@
      "s": 0
     },
     {
-     "title": "Live news: Bitcoin briefly drops below 200-week moving average",
+     "title": "Live news: Bitcoin plunges back towards bear market lows, wiping out late summer rally",
      "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
      "source": "CoinDesk",
      "time": "2026-11-13T09:16:58+00:00",
@@ -106,20 +120,6 @@
      "link": "https://bitcoinist.com/bitcoin-analyst-reveals-5-reasons-hes-buying-btc-as-price-drops-below-69000/",
      "source": "Bitcoinist",
      "time": "2026-11-13T08:16:18+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
-     "link": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
-     "source": "The Block",
-     "time": "2026-11-13T06:23:43+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
-     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
-     "source": "CoinDesk",
-     "time": "2026-11-13T06:03:41+00:00",
      "s": 0
     }
    ]
@@ -176,20 +176,13 @@
   "SOL": {
    "pos": 1,
    "neg": 0,
-   "count": 9,
+   "count": 7,
    "items": [
     {
      "title": "Solana Moves Closer To Wall Street As DTCC Reveals Tokenization Plans",
      "link": "https://bitcoinist.com/solana-moves-closer-to-wall-street-as-dtcc-reveals-tokenization-plans/",
      "source": "Bitcoinist",
      "time": "2026-11-13T11:39:08+00:00",
-     "s": 0
-    },
-    {
-     "title": "Solana treasury Forward Industries flashes a 30% SOL discount, with a catch",
-     "link": "https://cryptoslate.com/solana-treasury-forward-industries-flashes-a-30-sol-discount-with-a-catch/",
-     "source": "CryptoSlate",
-     "time": "2026-11-12T22:50:29+00:00",
      "s": 0
     },
     {
@@ -211,13 +204,6 @@
      "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
      "source": "CoinDesk",
      "time": "2026-11-12T14:45:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "DTCC plans to bring tokenized securities to Solana in second half of 2027",
-     "link": "https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559",
-     "source": "The Block",
-     "time": "2026-11-12T14:23:11+00:00",
      "s": 0
     },
     {
