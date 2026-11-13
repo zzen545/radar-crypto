@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T19:42:02.283177+00:00",
+ "updated": "2026-11-13T20:41:12.622674+00:00",
  "window_hours": 48,
  "headlines": 125,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 8,
    "neg": 17,
-   "count": 39,
+   "count": 40,
    "items": [
+    {
+     "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
+     "link": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
+     "source": "Decrypt",
+     "time": "2026-11-13T20:16:03+00:00",
+     "s": 0
+    },
     {
      "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
      "link": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-11-13T12:14:22+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin falls below $70,000 as $870 million in bullish bets are liquidated",
-     "link": "https://cryptoslate.com/bitcoin-falls-below-70000-as-870-million-in-bullish-bets-are-liquidated/",
-     "source": "CryptoSlate",
-     "time": "2026-11-13T11:58:35+00:00",
-     "s": -1
     }
    ]
   },
