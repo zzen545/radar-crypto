@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T15:36:22.117210+00:00",
+ "updated": "2026-11-13T16:41:22.890637+00:00",
  "window_hours": 48,
- "headlines": 127,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 8,
-   "neg": 16,
-   "count": 37,
+   "neg": 17,
+   "count": 38,
    "items": [
+    {
+     "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
+     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+     "source": "CoinDesk",
+     "time": "2026-11-13T16:01:27+00:00",
+     "s": -1
+    },
     {
      "title": "New US report reveals yen rescue used euros, not dollars. That matters for Bitcoin",
      "link": "https://cryptoslate.com/yen-intervention-euros-bitcoin-liquidity/",
@@ -114,20 +121,13 @@
      "source": "Cointelegraph",
      "time": "2026-11-13T09:39:05+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin could face a cash squeeze without another Fed rate hike",
-     "link": "https://cryptoslate.com/bitcoin-could-face-a-cash-squeeze-without-another-fed-rate-hike/",
-     "source": "CryptoSlate",
-     "time": "2026-11-13T09:30:12+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 0,
    "neg": 3,
-   "count": 6,
+   "count": 5,
    "items": [
     {
      "title": "Ethereum and Layer 1s Explained",
@@ -142,13 +142,6 @@
      "source": "CoinDesk",
      "time": "2026-11-13T07:05:29+00:00",
      "s": -1
-    },
-    {
-     "title": "Ethereum unveils quantum-safe accounts, with a costly catch",
-     "link": "https://cryptoslate.com/ethereum-unveils-quantum-safe-accounts-with-a-costly-catch/",
-     "source": "CryptoSlate",
-     "time": "2026-11-13T06:20:37+00:00",
-     "s": 0
     },
     {
      "title": "Ethereum Researchers Drop Faster Block Plan to Prioritize Quantum Security",
@@ -249,8 +242,16 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%",
+     "link": "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053",
+     "source": "The Block",
+     "time": "2026-11-13T16:37:26+00:00",
+     "s": 0
+    }
+   ]
   },
   "ASTER": {
    "pos": 0,
