@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13T18:37:35.281134+00:00",
+ "updated": "2026-11-13T19:42:02.283177+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 125,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 8,
-   "neg": 18,
-   "count": 38,
+   "neg": 17,
+   "count": 39,
    "items": [
+    {
+     "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
+     "link": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
+     "source": "Decrypt",
+     "time": "2026-11-13T19:36:03+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+     "source": "CoinDesk",
+     "time": "2026-11-13T18:39:58+00:00",
+     "s": -1
+    },
     {
      "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
      "link": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
@@ -106,20 +120,6 @@
      "link": "https://cryptoslate.com/bitcoin-falls-below-70000-as-870-million-in-bullish-bets-are-liquidated/",
      "source": "CryptoSlate",
      "time": "2026-11-13T11:58:35+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
-     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
-     "source": "CoinDesk",
-     "time": "2026-11-13T11:52:25+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
-     "link": "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand",
-     "source": "Decrypt",
-     "time": "2026-11-13T11:20:44+00:00",
      "s": -1
     }
    ]
