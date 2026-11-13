@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T05:47:56.625674+00:00",
+ "updated": "2026-11-13T06:52:56.131525+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -14,9 +14,30 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 13,
+   "neg": 14,
    "count": 25,
    "items": [
+    {
+     "title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
+     "link": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
+     "source": "The Block",
+     "time": "2026-11-13T06:23:43+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+     "source": "CoinDesk",
+     "time": "2026-11-13T06:03:41+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+     "link": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-13T06:00:15+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
@@ -81,13 +102,6 @@
      "s": -1
     },
     {
-     "title": "Bitcoin’s spot-demand signal is improving. A bigger futures slump is drowning it out",
-     "link": "https://cryptoslate.com/bitcoin-spot-demand-futures-slump/",
-     "source": "CryptoSlate",
-     "time": "2026-11-12T15:45:21+00:00",
-     "s": -1
-    },
-    {
      "title": "Bitcoin Falls Alongside Nvidia as ETF Outflows Reach $1.44 Billion",
      "link": "https://bitcoinist.com/bitcoin-falls-alongside-nvidia-as-etf-outflows-reach-1-44-billion/",
      "source": "Bitcoinist",
@@ -107,28 +121,21 @@
      "source": "CoinDesk",
      "time": "2026-11-12T12:15:00+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
-     "link": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
-     "source": "CoinDesk",
-     "time": "2026-11-12T11:30:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
-     "link": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
-     "source": "Decrypt",
-     "time": "2026-11-12T11:24:19+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 0,
    "neg": 3,
-   "count": 6,
+   "count": 7,
    "items": [
+    {
+     "title": "Ethereum unveils quantum-safe accounts, with a costly catch",
+     "link": "https://cryptoslate.com/ethereum-unveils-quantum-safe-accounts-with-a-costly-catch/",
+     "source": "CryptoSlate",
+     "time": "2026-11-13T06:20:37+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin and Ethereum sink to 3-month lows, but a bigger crypto selloff may be ahead",
      "link": "https://cryptoslate.com/bitcoin-and-ethereum-sink-to-3-month-lows-but-a-bigger-crypto-selloff-may-be-ahead/",
