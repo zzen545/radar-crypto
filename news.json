@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T14:42:23.426789+00:00",
+ "updated": "2026-11-13T15:36:22.117210+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
-   "neg": 15,
-   "count": 34,
+   "pos": 8,
+   "neg": 16,
+   "count": 37,
    "items": [
+    {
+     "title": "New US report reveals yen rescue used euros, not dollars. That matters for Bitcoin",
+     "link": "https://cryptoslate.com/yen-intervention-euros-bitcoin-liquidity/",
+     "source": "CryptoSlate",
+     "time": "2026-11-13T15:30:50+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Price Crashes Below $70K as Liquidations Top $1.6 Billion",
+     "link": "https://bitcoinist.com/bitcoin-price-crashes-below-70k-as-liquidations-top-1-6-billion/",
+     "source": "Bitcoinist",
+     "time": "2026-11-13T14:51:38+00:00",
+     "s": -1
+    },
+    {
+     "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
+     "link": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
+     "source": "The Block",
+     "time": "2026-11-13T14:50:49+00:00",
+     "s": 1
+    },
     {
      "title": "The cost of a $70,000 Bitcoin hedge more than doubled in a day",
      "link": "https://cryptoslate.com/bitcoin-hedge-cost-more-than-doubled/",
@@ -100,34 +121,13 @@
      "source": "CryptoSlate",
      "time": "2026-11-13T09:30:12+00:00",
      "s": 0
-    },
-    {
-     "title": "Live news: Bitcoin plunges back towards bear market lows, wiping out late summer rally",
-     "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
-     "source": "CoinDesk",
-     "time": "2026-11-13T09:16:58+00:00",
-     "s": -1
-    },
-    {
-     "title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
-     "link": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-13T09:05:10+00:00",
-     "s": 1
-    },
-    {
-     "title": "Tesla And SpaceX Merger Could Unite 30,221 Bitcoin — What Does It Mean For BTC Price?",
-     "link": "https://bitcoinist.com/tesla-and-spacex-merger-could-unite-30221-bitcoin-what-does-it-mean-for-btc-price/",
-     "source": "Bitcoinist",
-     "time": "2026-11-13T09:04:03+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 0,
    "neg": 3,
-   "count": 7,
+   "count": 6,
    "items": [
     {
      "title": "Ethereum and Layer 1s Explained",
@@ -156,13 +156,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-12T16:12:07+00:00",
      "s": -1
-    },
-    {
-     "title": "Unocoin ‘login suspension’ continues as exchange flags outgoing BitGo ETH transactions",
-     "link": "https://www.theblock.co/news/ecosystems/2026-11-12-unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transactions-438654",
-     "source": "The Block",
-     "time": "2026-11-12T15:36:17+00:00",
-     "s": 0
     },
     {
      "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
@@ -280,20 +273,13 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "Tether Gold Gets Clean KPMG Audit Confirming $2.2B in Physical Gold Backing",
      "link": "https://decrypt.co/383137/tether-gold-gets-clean-kpmg-audit-confirming-2-2b-in-physical-gold-backing",
      "source": "Decrypt",
      "time": "2026-11-12T15:55:38+00:00",
-     "s": 0
-    },
-    {
-     "title": "Tether Gold issuer follows USDT to complete Big Four audit",
-     "link": "https://www.theblock.co/news/business/2026-11-12-tether-gold-issuer-follows-usdt-to-complete-big-four-audit-438849",
-     "source": "The Block",
-     "time": "2026-11-12T15:23:26+00:00",
      "s": 0
     }
    ]
