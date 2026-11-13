@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T03:40:23.027670+00:00",
+ "updated": "2026-11-13T04:46:03.868090+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -13,16 +13,16 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 2,
-   "neg": 12,
+   "pos": 3,
+   "neg": 11,
    "count": 22,
    "items": [
     {
-     "title": "Bitcoin dips below $70,000 as selloff gathers pace",
+     "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
      "source": "CoinDesk",
      "time": "2026-11-13T03:37:00+00:00",
-     "s": -1
+     "s": 1
     },
     {
      "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
