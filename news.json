@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T08:08:44.359525+00:00",
+ "updated": "2026-11-13T09:23:48.694556+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -13,10 +13,38 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 3,
+   "pos": 4,
    "neg": 14,
-   "count": 25,
+   "count": 28,
    "items": [
+    {
+     "title": "Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets",
+     "link": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
+     "source": "CoinDesk",
+     "time": "2026-11-13T09:16:58+00:00",
+     "s": -1
+    },
+    {
+     "title": "Jane Street boosts Fidelity Bitcoin ETF holdings nearly 8x, trims IBIT",
+     "link": "https://cointelegraph.com/news/jane-street-add-fidelity-bitcoin-etf-ibit-cut-q3-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-13T09:05:10+00:00",
+     "s": 1
+    },
+    {
+     "title": "Tesla And SpaceX Merger Could Unite 30,221 Bitcoin — What Does It Mean For BTC Price?",
+     "link": "https://bitcoinist.com/tesla-and-spacex-merger-could-unite-30221-bitcoin-what-does-it-mean-for-btc-price/",
+     "source": "Bitcoinist",
+     "time": "2026-11-13T09:04:03+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Analyst Reveals 5 Reasons He’s Buying BTC As Price Drops Below $69,000",
+     "link": "https://bitcoinist.com/bitcoin-analyst-reveals-5-reasons-hes-buying-btc-as-price-drops-below-69000/",
+     "source": "Bitcoinist",
+     "time": "2026-11-13T08:16:18+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
      "link": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
@@ -93,41 +121,13 @@
      "source": "The Block",
      "time": "2026-11-12T17:40:00+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
-     "link": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-12T15:46:06+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin Falls Alongside Nvidia as ETF Outflows Reach $1.44 Billion",
-     "link": "https://bitcoinist.com/bitcoin-falls-alongside-nvidia-as-etf-outflows-reach-1-44-billion/",
-     "source": "Bitcoinist",
-     "time": "2026-11-12T14:34:18+00:00",
-     "s": -1
-    },
-    {
-     "title": "Barclays Boosts Bitcoin ETF Holdings By 48% — Can BTC Reclaim $80,000?",
-     "link": "https://bitcoinist.com/barclays-boosts-bitcoin-etf-holdings-by-48-can-btc-reclaim-80000/",
-     "source": "Bitcoinist",
-     "time": "2026-11-12T12:24:33+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin weakness erases September's bullish signal",
-     "link": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
-     "source": "CoinDesk",
-     "time": "2026-11-12T12:15:00+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
    "pos": 0,
    "neg": 4,
-   "count": 8,
+   "count": 7,
    "items": [
     {
      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
@@ -177,13 +177,6 @@
      "source": "CoinDesk",
      "time": "2026-11-12T11:43:41+00:00",
      "s": -1
-    },
-    {
-     "title": "Ethereum Draws Wall Street Attention As BlackRock And JPMorgan Join London Forum",
-     "link": "https://bitcoinist.com/ethereum-draws-wall-street-attention-as-blackrock-and-jpmorgan-join-london-forum/",
-     "source": "Bitcoinist",
-     "time": "2026-11-12T11:13:37+00:00",
-     "s": 0
     }
    ]
   },
