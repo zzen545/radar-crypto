@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T00:13:22.046807+00:00",
+ "updated": "2026-11-13T01:37:46.418746+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 3,
+   "pos": 2,
    "neg": 12,
-   "count": 23,
+   "count": 22,
    "items": [
     {
      "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
