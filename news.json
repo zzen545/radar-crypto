@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T06:52:56.131525+00:00",
+ "updated": "2026-11-13T08:08:44.359525+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -126,9 +126,16 @@
   },
   "ETH": {
    "pos": 0,
-   "neg": 3,
-   "count": 7,
+   "neg": 4,
+   "count": 8,
    "items": [
+    {
+     "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+     "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+     "source": "CoinDesk",
+     "time": "2026-11-13T07:05:29+00:00",
+     "s": -1
+    },
     {
      "title": "Ethereum unveils quantum-safe accounts, with a costly catch",
      "link": "https://cryptoslate.com/ethereum-unveils-quantum-safe-accounts-with-a-costly-catch/",
