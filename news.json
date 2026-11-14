@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T20:25:07.856100+00:00",
+ "updated": "2026-11-14T21:01:30.940566+00:00",
  "window_hours": 48,
- "headlines": 110,
+ "headlines": 108,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 7,
-   "neg": 15,
+   "neg": 16,
    "count": 38,
    "items": [
+    {
+     "title": "Crypto ETFs Bleed $1.5B as Bitcoin Funds Extend Losses",
+     "link": "https://bitcoinist.com/crypto-etfs-bleed-1-5b-as-bitcoin-funds-extend-losses/",
+     "source": "Bitcoinist",
+     "time": "2026-11-14T20:42:38+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
      "link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
@@ -114,13 +121,6 @@
      "source": "Decrypt",
      "time": "2026-11-13T19:36:03+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
-     "source": "CoinDesk",
-     "time": "2026-11-13T18:39:58+00:00",
-     "s": -1
     }
    ]
   },
@@ -179,10 +179,18 @@
    "items": []
   },
   "XRP": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Evernorth’s $35 million fundraising could buy 35 million XRP, but there’s a catch",
+     "link": "https://cryptoslate.com/evernorths-35-million-fundraising-could-buy-35-million-xrp-but-theres-a-catch/",
+     "source": "CryptoSlate",
+     "time": "2026-11-14T20:40:16+00:00",
+     "s": 1
+    }
+   ]
   },
   "DOGE": {
    "pos": 0,
