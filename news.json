@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:29:27.098632+00:00",
+ "updated": "2026-11-14T00:05:21.461577+00:00",
  "window_hours": 48,
  "headlines": 125,
  "feeds_ok": [
@@ -17,6 +17,13 @@
    "neg": 16,
    "count": 38,
    "items": [
+    {
+     "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+     "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+     "source": "CoinDesk",
+     "time": "2026-11-13T23:30:00+00:00",
+     "s": 0
+    },
     {
      "title": "Diesel prices plunge 8%, yet Bitcoin traders face a squeeze",
      "link": "https://cryptoslate.com/diesel-prices-plunge-8-yet-bitcoin-traders-face-a-squeeze/",
@@ -113,13 +120,6 @@
      "link": "https://cryptoslate.com/bitcoin-hedge-cost-more-than-doubled/",
      "source": "CryptoSlate",
      "time": "2026-11-13T14:30:05+00:00",
-     "s": 0
-    },
-    {
-     "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
-     "link": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698",
-     "source": "The Block",
-     "time": "2026-11-13T13:34:46+00:00",
      "s": 0
     }
    ]
