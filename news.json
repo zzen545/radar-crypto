@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T17:03:44.735007+00:00",
+ "updated": "2026-11-14T17:58:18.275857+00:00",
  "window_hours": 48,
- "headlines": 114,
+ "headlines": 112,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 7,
    "neg": 16,
-   "count": 38,
+   "count": 39,
    "items": [
+    {
+     "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+     "link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+     "source": "The Block",
+     "time": "2026-11-14T17:50:41+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
      "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
@@ -114,13 +121,6 @@
      "source": "Decrypt",
      "time": "2026-11-13T19:36:03+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
-     "source": "CoinDesk",
-     "time": "2026-11-13T18:39:58+00:00",
-     "s": -1
     }
    ]
   },
@@ -188,17 +188,9 @@
   },
   "XRP": {
    "pos": 0,
-   "neg": 1,
-   "count": 1,
-   "items": [
-    {
-     "title": "XRP loans trigger 883 liquidations, and $53M remains at risk",
-     "link": "https://cryptoslate.com/xrp-loans-trigger-883-liquidations-and-53m-remains-at-risk/",
-     "source": "CryptoSlate",
-     "time": "2026-11-13T20:50:08+00:00",
-     "s": -1
-    }
-   ]
+   "neg": 0,
+   "count": 0,
+   "items": []
   },
   "DOGE": {
    "pos": 0,
