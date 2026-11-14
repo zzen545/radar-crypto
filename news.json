@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:49:32.955302+00:00",
+ "updated": "2026-11-14T08:38:30.184284+00:00",
  "window_hours": 48,
  "headlines": 125,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 8,
    "neg": 17,
-   "count": 38,
+   "count": 37,
    "items": [
     {
      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
@@ -109,18 +109,18 @@
      "s": -1
     },
     {
-     "title": "New US report reveals yen rescue used euros, not dollars. That matters for Bitcoin",
-     "link": "https://cryptoslate.com/yen-intervention-euros-bitcoin-liquidity/",
-     "source": "CryptoSlate",
-     "time": "2026-11-13T15:30:50+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin Price Crashes Below $70K as Liquidations Top $1.6 Billion",
      "link": "https://bitcoinist.com/bitcoin-price-crashes-below-70k-as-liquidations-top-1-6-billion/",
      "source": "Bitcoinist",
      "time": "2026-11-13T14:51:38+00:00",
      "s": -1
+    },
+    {
+     "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
+     "link": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
+     "source": "The Block",
+     "time": "2026-11-13T14:50:49+00:00",
+     "s": 1
     }
    ]
   },
