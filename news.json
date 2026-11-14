@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T21:01:30.940566+00:00",
+ "updated": "2026-11-14T21:59:58.621600+00:00",
  "window_hours": 48,
- "headlines": 108,
+ "headlines": 105,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 7,
-   "neg": 16,
-   "count": 38,
+   "neg": 15,
+   "count": 37,
    "items": [
     {
      "title": "Crypto ETFs Bleed $1.5B as Bitcoin Funds Extend Losses",
