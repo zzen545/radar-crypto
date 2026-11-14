@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T03:37:11.061656+00:00",
+ "updated": "2026-11-14T04:39:51.120891+00:00",
  "window_hours": 48,
  "headlines": 125,
  "feeds_ok": [
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 8,
-   "neg": 16,
+   "neg": 17,
    "count": 37,
    "items": [
+    {
+     "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+     "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+     "source": "CoinDesk",
+     "time": "2026-11-14T04:30:00+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
      "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
@@ -114,20 +121,13 @@
      "source": "The Block",
      "time": "2026-11-13T14:50:49+00:00",
      "s": 1
-    },
-    {
-     "title": "The cost of a $70,000 Bitcoin hedge more than doubled in a day",
-     "link": "https://cryptoslate.com/bitcoin-hedge-cost-more-than-doubled/",
-     "source": "CryptoSlate",
-     "time": "2026-11-13T14:30:05+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 0,
-   "neg": 2,
-   "count": 3,
+   "neg": 1,
+   "count": 2,
    "items": [
     {
      "title": "Ethereum and Layer 1s Explained",
@@ -141,13 +141,6 @@
      "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
      "source": "CoinDesk",
      "time": "2026-11-13T07:05:29+00:00",
-     "s": -1
-    },
-    {
-     "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
-     "link": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
-     "source": "CoinDesk",
-     "time": "2026-11-12T11:43:41+00:00",
      "s": -1
     }
    ]
