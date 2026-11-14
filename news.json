@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T18:32:59.655122+00:00",
+ "updated": "2026-11-14T19:31:46.312871+00:00",
  "window_hours": 48,
- "headlines": 112,
+ "headlines": 111,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 7,
-   "neg": 16,
-   "count": 39,
+   "neg": 15,
+   "count": 38,
    "items": [
     {
      "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
@@ -95,13 +95,6 @@
      "s": 0
     },
     {
-     "title": "Diesel prices plunge 8%, yet Bitcoin traders face a squeeze",
-     "link": "https://cryptoslate.com/diesel-prices-plunge-8-yet-bitcoin-traders-face-a-squeeze/",
-     "source": "CryptoSlate",
-     "time": "2026-11-13T22:20:46+00:00",
-     "s": -1
-    },
-    {
      "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
      "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -121,6 +114,13 @@
      "source": "Decrypt",
      "time": "2026-11-13T19:36:03+00:00",
      "s": 0
+    },
+    {
+     "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+     "source": "CoinDesk",
+     "time": "2026-11-13T18:39:58+00:00",
+     "s": -1
     }
    ]
   },
