@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T23:24:04.871462+00:00",
+ "updated": "2026-11-14T23:57:47.813641+00:00",
  "window_hours": 48,
  "headlines": 98,
  "feeds_ok": [
@@ -17,6 +17,13 @@
    "neg": 15,
    "count": 37,
    "items": [
+    {
+     "title": "Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend",
+     "link": "https://cryptoslate.com/bitcoin-drops-below-66000-as-bullish-bets-get-wiped-out/",
+     "source": "CryptoSlate",
+     "time": "2026-11-14T23:40:35+00:00",
+     "s": 0
+    },
     {
      "title": "Peter Schiff argues Bitcoin may fall below $16,500 by year-end if $50,000 breaks next",
      "link": "https://cryptoslate.com/peter-schiff-argues-bitcoin-may-fall-below-16500-by-year-end-if-50000-breaks-next/",
@@ -64,13 +71,6 @@
      "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
      "source": "CoinDesk",
      "time": "2026-11-14T12:57:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "50,000 people installed this Bitcoin browser extension. Now control of it is up for sale",
-     "link": "https://cryptoslate.com/50000-people-installed-this-bitcoin-browser-extension-now-control-of-it-is-up-for-sale/",
-     "source": "CryptoSlate",
-     "time": "2026-11-14T11:34:23+00:00",
      "s": 0
     },
     {
