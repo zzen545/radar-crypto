@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T11:11:09.497669+00:00",
+ "updated": "2026-11-14T12:02:17.304443+00:00",
  "window_hours": 48,
- "headlines": 124,
+ "headlines": 123,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
-   "neg": 17,
-   "count": 36,
+   "pos": 8,
+   "neg": 16,
+   "count": 37,
    "items": [
+    {
+     "title": "50,000 people installed this Bitcoin browser extension. Now control of it is up for sale",
+     "link": "https://cryptoslate.com/50000-people-installed-this-bitcoin-browser-extension-now-control-of-it-is-up-for-sale/",
+     "source": "CryptoSlate",
+     "time": "2026-11-14T11:34:23+00:00",
+     "s": 0
+    },
+    {
+     "title": "Jane Street Nearly Doubled Its Bitcoin ETF Book In Q3: What The Filing Really Shows",
+     "link": "https://bitcoinist.com/jane-street-nearly-doubled-its-bitcoin-etf-book-in-q3-what-the-filing-really-shows/",
+     "source": "Bitcoinist",
+     "time": "2026-11-14T11:30:01+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin Dips To $68,000 As Anthropic IPO Pulls Cash, But History Points To A Buying Window",
      "link": "https://bitcoinist.com/bitcoin-dips-to-68000-as-anthropic-ipo-pulls-cash-but-history-points-to-a-buying-window/",
@@ -107,20 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-13T16:39:11+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
-     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
-     "source": "CoinDesk",
-     "time": "2026-11-13T16:01:27+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin Price Crashes Below $70K as Liquidations Top $1.6 Billion",
-     "link": "https://bitcoinist.com/bitcoin-price-crashes-below-70k-as-liquidations-top-1-6-billion/",
-     "source": "Bitcoinist",
-     "time": "2026-11-13T14:51:38+00:00",
-     "s": -1
     }
    ]
   },
@@ -148,15 +148,8 @@
   "SOL": {
    "pos": 1,
    "neg": 0,
-   "count": 5,
+   "count": 4,
    "items": [
-    {
-     "title": "Solana Moves Closer To Wall Street As DTCC Reveals Tokenization Plans",
-     "link": "https://bitcoinist.com/solana-moves-closer-to-wall-street-as-dtcc-reveals-tokenization-plans/",
-     "source": "Bitcoinist",
-     "time": "2026-11-13T11:39:08+00:00",
-     "s": 0
-    },
     {
      "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
      "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
