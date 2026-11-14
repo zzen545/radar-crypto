@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T13:22:08.534034+00:00",
+ "updated": "2026-11-14T14:11:39.137919+00:00",
  "window_hours": 48,
- "headlines": 121,
+ "headlines": 118,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -155,7 +155,7 @@
   "SOL": {
    "pos": 1,
    "neg": 0,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
@@ -176,13 +176,6 @@
      "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
      "source": "CoinDesk",
      "time": "2026-11-12T14:45:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
-     "link": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
-     "source": "Decrypt",
-     "time": "2026-11-12T13:25:47+00:00",
      "s": 0
     }
    ]
