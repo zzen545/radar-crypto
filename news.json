@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T19:31:46.312871+00:00",
+ "updated": "2026-11-14T20:25:07.856100+00:00",
  "window_hours": 48,
- "headlines": 111,
+ "headlines": 110,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -167,18 +167,10 @@
    ]
   },
   "SOL": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
-     "link": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-12T20:07:41+00:00",
-     "s": 1
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "BNB": {
    "pos": 0,
