@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T01:32:02.008795+00:00",
+ "updated": "2026-11-14T02:37:53.254779+00:00",
  "window_hours": 48,
  "headlines": 125,
  "feeds_ok": [
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
+   "pos": 8,
    "neg": 16,
-   "count": 38,
+   "count": 37,
    "items": [
     {
      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
