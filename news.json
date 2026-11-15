@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T18:35:22.675119+00:00",
+ "updated": "2026-11-15T19:33:37.571432+00:00",
  "window_hours": 48,
- "headlines": 61,
+ "headlines": 57,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 2,
-   "neg": 6,
-   "count": 21,
+   "neg": 5,
+   "count": 19,
    "items": [
     {
      "title": "Bitcoin now looks cheap by one measure after $1 billion in ETF outflows",
