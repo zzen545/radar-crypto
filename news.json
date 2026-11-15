@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T13:23:39.996439+00:00",
+ "updated": "2026-11-15T14:14:16.998667+00:00",
  "window_hours": 48,
- "headlines": 72,
+ "headlines": 68,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 8,
+   "neg": 9,
    "count": 27,
    "items": [
+    {
+     "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+     "link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+     "source": "Decrypt",
+     "time": "2026-11-15T14:01:02+00:00",
+     "s": -1
+    },
+    {
+     "title": "Britain to spend £4 billion on grid bottlenecks. Can Bitcoin use the wasted wind?",
+     "link": "https://cryptoslate.com/can-bitcoin-use-britains-wasted-wind/",
+     "source": "CryptoSlate",
+     "time": "2026-11-15T13:45:30+00:00",
+     "s": 0
+    },
     {
      "title": "The Fed could rescue bond markets and still make life harder for Bitcoin",
      "link": "https://cryptoslate.com/fed-bond-market-rescue-could-still-hurt-bitcoin/",
@@ -67,13 +81,6 @@
      "s": 0
     },
     {
-     "title": "Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend",
-     "link": "https://cryptoslate.com/bitcoin-drops-below-66000-as-bullish-bets-get-wiped-out/",
-     "source": "CryptoSlate",
-     "time": "2026-11-14T23:40:35+00:00",
-     "s": 0
-    },
-    {
      "title": "Crypto ETFs Bleed $1.5B as Bitcoin Funds Extend Losses",
      "link": "https://bitcoinist.com/crypto-etfs-bleed-1-5b-as-bitcoin-funds-extend-losses/",
      "source": "Bitcoinist",
@@ -114,20 +121,13 @@
      "source": "Cointelegraph",
      "time": "2026-11-14T06:33:13+00:00",
      "s": 0
-    },
-    {
-     "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-     "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
-     "source": "CoinDesk",
-     "time": "2026-11-14T04:30:00+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 5,
+   "count": 4,
    "items": [
     {
      "title": "Is Ethereum the “worst asset of all time,” amid estimated $8.83 billion BitMine loss ?",
@@ -155,13 +155,6 @@
      "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
      "source": "CoinDesk",
      "time": "2026-11-14T12:57:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Ethereum and Layer 1s Explained",
-     "link": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
-     "source": "The Block",
-     "time": "2026-11-13T14:12:23+00:00",
      "s": 0
     }
    ]
