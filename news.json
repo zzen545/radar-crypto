@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T02:40:25.435846+00:00",
+ "updated": "2026-11-15T03:40:05.133982+00:00",
  "window_hours": 48,
  "headlines": 95,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
-   "neg": 15,
-   "count": 38,
+   "pos": 6,
+   "neg": 14,
+   "count": 37,
    "items": [
+    {
+     "title": "A forced Bitcoin Lightning exit can be cheap and still leave you waiting days",
+     "link": "https://cryptoslate.com/a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days/",
+     "source": "CryptoSlate",
+     "time": "2026-11-15T02:40:32+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin’s oil relief has a catch: more oil at sea, less on land",
      "link": "https://cryptoslate.com/bitcoins-oil-relief-has-a-catch-more-oil-at-sea-less-on-land/",
@@ -57,13 +64,6 @@
      "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
      "source": "CoinDesk",
      "time": "2026-11-14T16:33:29+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin’s $67,000 crash puts $57 billion holder cluster at risk as ETF investors flee",
-     "link": "https://cryptoslate.com/bitcoins-67000-crash-puts-57-billion-holder-cluster-at-risk-as-etf-investors-flee/",
-     "source": "CryptoSlate",
-     "time": "2026-11-14T16:20:11+00:00",
      "s": -1
     },
     {
@@ -180,9 +180,16 @@
   },
   "XRP": {
    "pos": 1,
-   "neg": 0,
-   "count": 1,
+   "neg": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+     "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+     "source": "CoinDesk",
+     "time": "2026-11-15T02:50:57+00:00",
+     "s": -1
+    },
     {
      "title": "Evernorth’s $35 million fundraising could buy 35 million XRP, but there’s a catch",
      "link": "https://cryptoslate.com/evernorths-35-million-fundraising-could-buy-35-million-xrp-but-theres-a-catch/",
