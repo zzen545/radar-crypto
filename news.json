@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T20:27:27.377292+00:00",
+ "updated": "2026-11-15T21:05:54.205662+00:00",
  "window_hours": 48,
- "headlines": 55,
+ "headlines": 52,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 2,
-   "neg": 5,
+   "neg": 4,
    "count": 17,
    "items": [
+    {
+     "title": "Bitcoin Breaks Below $63K as Market Panic Intensifies",
+     "link": "https://bitcoinist.com/bitcoin-breaks-below-63k-as-market-panic-intensifies/",
+     "source": "Bitcoinist",
+     "time": "2026-11-15T20:48:44+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin now looks cheap by one measure after $1 billion in ETF outflows",
      "link": "https://cryptoslate.com/bitcoins-new-value-alert-still-needs-proof-that-buyers-can-absorb-supply/",
@@ -74,13 +81,6 @@
      "s": 0
     },
     {
-     "title": "Crypto ETFs Bleed $1.5B as Bitcoin Funds Extend Losses",
-     "link": "https://bitcoinist.com/crypto-etfs-bleed-1-5b-as-bitcoin-funds-extend-losses/",
-     "source": "Bitcoinist",
-     "time": "2026-11-14T20:42:38+00:00",
-     "s": -1
-    },
-    {
      "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
      "link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
      "source": "The Block",
@@ -125,9 +125,9 @@
    ]
   },
   "ETH": {
-   "pos": 1,
+   "pos": 0,
    "neg": 1,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "Is Ethereum the “worst asset of all time,” amid estimated $8.83 billion BitMine loss ?",
@@ -142,13 +142,6 @@
      "source": "CoinDesk",
      "time": "2026-11-14T16:33:23+00:00",
      "s": 0
-    },
-    {
-     "title": "Ethereum Staking Hits Record 36.3% Of Supply As ETH Holders Lock In",
-     "link": "https://bitcoinist.com/ethereum-staking-hits-record-36-3-of-supply-as-eth-holders-lock-in/",
-     "source": "Bitcoinist",
-     "time": "2026-11-14T14:16:57+00:00",
-     "s": 1
     },
     {
      "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
@@ -181,9 +174,16 @@
   },
   "XRP": {
    "pos": 0,
-   "neg": 1,
-   "count": 1,
+   "neg": 2,
+   "count": 2,
    "items": [
+    {
+     "title": "XRP Price Crashes Below $0.90 as Shrinking Stablecoin Supply Drain Crypto Market",
+     "link": "https://bitcoinist.com/xrp-price-crashes-below-0-90-as-shrinking-stablecoin-supply-drain-crypto-market/",
+     "source": "Bitcoinist",
+     "time": "2026-11-15T20:58:20+00:00",
+     "s": -1
+    },
     {
      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
      "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
