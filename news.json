@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T11:27:13.224234+00:00",
+ "updated": "2026-11-15T12:07:34.908027+00:00",
  "window_hours": 48,
- "headlines": 79,
+ "headlines": 77,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 10,
-   "count": 29,
+   "neg": 9,
+   "count": 28,
    "items": [
     {
      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
@@ -126,9 +126,16 @@
   },
   "ETH": {
    "pos": 1,
-   "neg": 0,
-   "count": 4,
+   "neg": 1,
+   "count": 5,
    "items": [
+    {
+     "title": "Is Ethereum the “worst asset of all time,” amid estimated $8.83 billion BitMine loss ?",
+     "link": "https://cryptoslate.com/is-ethereum-the-worst-asset-of-all-time-amid-estimated-8-83-billion-bitmine-loss/",
+     "source": "CryptoSlate",
+     "time": "2026-11-15T11:55:50+00:00",
+     "s": -1
+    },
     {
      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
      "link": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
