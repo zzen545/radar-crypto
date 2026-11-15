@@ -1,23 +1,29 @@
 {
- "updated": "2026-11-15T00:44:19.817195+00:00",
+ "updated": "2026-11-15T01:54:11.140007+00:00",
  "window_hours": 48,
- "headlines": 90,
+ "headlines": 96,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 5,
-   "neg": 14,
-   "count": 34,
+   "pos": 7,
+   "neg": 15,
+   "count": 38,
    "items": [
+    {
+     "title": "Bitcoin’s oil relief has a catch: more oil at sea, less on land",
+     "link": "https://cryptoslate.com/bitcoins-oil-relief-has-a-catch-more-oil-at-sea-less-on-land/",
+     "source": "CryptoSlate",
+     "time": "2026-11-15T01:40:52+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend",
      "link": "https://cryptoslate.com/bitcoin-drops-below-66000-as-bullish-bets-get-wiped-out/",
@@ -30,6 +36,13 @@
      "link": "https://cryptoslate.com/peter-schiff-argues-bitcoin-may-fall-below-16500-by-year-end-if-50000-breaks-next/",
      "source": "CryptoSlate",
      "time": "2026-11-14T22:40:39+00:00",
+     "s": -1
+    },
+    {
+     "title": "Crypto ETFs Bleed $1.5B as Bitcoin Funds Extend Losses",
+     "link": "https://bitcoinist.com/crypto-etfs-bleed-1-5b-as-bitcoin-funds-extend-losses/",
+     "source": "Bitcoinist",
+     "time": "2026-11-14T20:42:38+00:00",
      "s": -1
     },
     {
@@ -68,6 +81,20 @@
      "s": 0
     },
     {
+     "title": "Jane Street Nearly Doubled Its Bitcoin ETF Book In Q3: What The Filing Really Shows",
+     "link": "https://bitcoinist.com/jane-street-nearly-doubled-its-bitcoin-etf-book-in-q3-what-the-filing-really-shows/",
+     "source": "Bitcoinist",
+     "time": "2026-11-14T11:30:01+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin Dips To $68,000 As Anthropic IPO Pulls Cash, But History Points To A Buying Window",
+     "link": "https://bitcoinist.com/bitcoin-dips-to-68000-as-anthropic-ipo-pulls-cash-but-history-points-to-a-buying-window/",
+     "source": "Bitcoinist",
+     "time": "2026-11-14T09:54:44+00:00",
+     "s": 1
+    },
+    {
      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -94,41 +121,13 @@
      "source": "Cointelegraph",
      "time": "2026-11-13T21:49:27+00:00",
      "s": 1
-    },
-    {
-     "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
-     "link": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
-     "source": "Decrypt",
-     "time": "2026-11-13T20:16:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
-     "link": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
-     "source": "Decrypt",
-     "time": "2026-11-13T19:36:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
-     "source": "CoinDesk",
-     "time": "2026-11-13T18:39:58+00:00",
-     "s": -1
-    },
-    {
-     "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
-     "link": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
-     "source": "Decrypt",
-     "time": "2026-11-13T18:36:02+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 0,
+   "pos": 1,
    "neg": 1,
-   "count": 4,
+   "count": 5,
    "items": [
     {
      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
@@ -136,6 +135,13 @@
      "source": "CoinDesk",
      "time": "2026-11-14T16:33:23+00:00",
      "s": 0
+    },
+    {
+     "title": "Ethereum Staking Hits Record 36.3% Of Supply As ETH Holders Lock In",
+     "link": "https://bitcoinist.com/ethereum-staking-hits-record-36-3-of-supply-as-eth-holders-lock-in/",
+     "source": "Bitcoinist",
+     "time": "2026-11-14T14:16:57+00:00",
+     "s": 1
     },
     {
      "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
