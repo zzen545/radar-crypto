@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T21:05:54.205662+00:00",
+ "updated": "2026-11-15T22:00:18.713940+00:00",
  "window_hours": 48,
- "headlines": 52,
+ "headlines": 51,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 2,
-   "neg": 4,
+   "pos": 1,
+   "neg": 5,
    "count": 17,
    "items": [
+    {
+     "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+     "link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
+     "source": "The Block",
+     "time": "2026-11-15T21:57:53+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin Breaks Below $63K as Market Panic Intensifies",
      "link": "https://bitcoinist.com/bitcoin-breaks-below-63k-as-market-panic-intensifies/",
@@ -114,13 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-14T06:33:13+00:00",
      "s": 0
-    },
-    {
-     "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-     "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
-     "source": "CoinDesk",
-     "time": "2026-11-14T04:30:00+00:00",
-     "s": -1
     }
    ]
   },
