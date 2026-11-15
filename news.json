@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T01:54:11.140007+00:00",
+ "updated": "2026-11-15T02:40:25.435846+00:00",
  "window_hours": 48,
- "headlines": 96,
+ "headlines": 95,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -53,7 +53,7 @@
      "s": 0
     },
     {
-     "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+     "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
      "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
      "source": "CoinDesk",
      "time": "2026-11-14T16:33:29+00:00",
