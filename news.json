@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T17:05:27.895289+00:00",
+ "updated": "2026-11-15T17:58:21.741390+00:00",
  "window_hours": 48,
- "headlines": 65,
+ "headlines": 62,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 2,
-   "neg": 8,
-   "count": 23,
+   "neg": 7,
+   "count": 22,
    "items": [
     {
      "title": "Bitcoin now looks cheap by one measure after $1 billion in ETF outflows",
@@ -162,7 +162,7 @@
   "SOL": {
    "pos": 0,
    "neg": 1,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "Solana Staking Holds Near 69% Even As SOL Price Crashes To $67 On Breakpoint Day",
@@ -170,13 +170,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-15T08:55:16+00:00",
      "s": -1
-    },
-    {
-     "title": "Solana’s “retired” validators still vote with 15% of active stake",
-     "link": "https://cryptoslate.com/solanas-retired-validators-still-vote-with-15-of-active-stake/",
-     "source": "CryptoSlate",
-     "time": "2026-11-15T04:00:00+00:00",
-     "s": 0
     }
    ]
   },
@@ -239,8 +232,16 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Tether wants its gold token to rival ETFs",
+     "link": "https://cryptoslate.com/tether-wants-its-gold-token-to-rival-etfs/",
+     "source": "CryptoSlate",
+     "time": "2026-11-15T17:25:18+00:00",
+     "s": 0
+    }
+   ]
   }
  }
 }
