@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T12:07:34.908027+00:00",
+ "updated": "2026-11-15T13:23:39.996439+00:00",
  "window_hours": 48,
- "headlines": 77,
+ "headlines": 72,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 9,
-   "count": 28,
+   "neg": 8,
+   "count": 27,
    "items": [
+    {
+     "title": "The Fed could rescue bond markets and still make life harder for Bitcoin",
+     "link": "https://cryptoslate.com/fed-bond-market-rescue-could-still-hurt-bitcoin/",
+     "source": "CryptoSlate",
+     "time": "2026-11-15T12:50:56+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
      "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -65,13 +72,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-14T23:40:35+00:00",
      "s": 0
-    },
-    {
-     "title": "Peter Schiff argues Bitcoin may fall below $16,500 by year-end if $50,000 breaks next",
-     "link": "https://cryptoslate.com/peter-schiff-argues-bitcoin-may-fall-below-16500-by-year-end-if-50000-breaks-next/",
-     "source": "CryptoSlate",
-     "time": "2026-11-14T22:40:39+00:00",
-     "s": -1
     },
     {
      "title": "Crypto ETFs Bleed $1.5B as Bitcoin Funds Extend Losses",
