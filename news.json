@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:54:38.787948+00:00",
+ "updated": "2026-11-15T08:40:06.206633+00:00",
  "window_hours": 48,
  "headlines": 88,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 6,
    "neg": 11,
-   "count": 32,
+   "count": 33,
    "items": [
+    {
+     "title": "AI Cyberattacks And Outages Keep Breaking Centralized Systems, But Bitcoin Keeps Running",
+     "link": "https://bitcoinist.com/ai-cyberattacks-outages-keep-breaking-centralized-systems-but-bitcoin-keeps-running/",
+     "source": "Bitcoinist",
+     "time": "2026-11-15T08:24:47+00:00",
+     "s": 0
+    },
     {
      "title": "A forced Bitcoin Lightning exit can be cheap and still leave you waiting days",
      "link": "https://cryptoslate.com/a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days/",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-11-13T23:30:00+00:00",
      "s": 0
-    },
-    {
-     "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
-     "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-13T21:49:27+00:00",
-     "s": 1
     }
    ]
   },
@@ -180,9 +180,9 @@
    "items": []
   },
   "XRP": {
-   "pos": 1,
+   "pos": 0,
    "neg": 1,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
@@ -190,13 +190,6 @@
      "source": "CoinDesk",
      "time": "2026-11-15T02:50:57+00:00",
      "s": -1
-    },
-    {
-     "title": "Evernorth’s $35 million fundraising could buy 35 million XRP, but there’s a catch",
-     "link": "https://cryptoslate.com/evernorths-35-million-fundraising-could-buy-35-million-xrp-but-theres-a-catch/",
-     "source": "CryptoSlate",
-     "time": "2026-11-14T20:40:16+00:00",
-     "s": 1
     }
    ]
   },
