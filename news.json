@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T03:40:05.133982+00:00",
+ "updated": "2026-11-15T04:42:54.541905+00:00",
  "window_hours": 48,
  "headlines": 95,
  "feeds_ok": [
@@ -169,8 +169,16 @@
   "SOL": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Solana’s “retired” validators still vote with 15% of active stake",
+     "link": "https://cryptoslate.com/solanas-retired-validators-still-vote-with-15-of-active-stake/",
+     "source": "CryptoSlate",
+     "time": "2026-11-15T04:00:00+00:00",
+     "s": 0
+    }
+   ]
   },
   "BNB": {
    "pos": 0,
