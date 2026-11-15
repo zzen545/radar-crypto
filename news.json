@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T10:31:20.929159+00:00",
+ "updated": "2026-11-15T11:27:13.224234+00:00",
  "window_hours": 48,
- "headlines": 81,
+ "headlines": 79,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 11,
-   "count": 30,
+   "neg": 10,
+   "count": 29,
    "items": [
     {
      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
