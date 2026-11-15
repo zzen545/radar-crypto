@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T22:00:18.713940+00:00",
+ "updated": "2026-11-15T22:59:36.025280+00:00",
  "window_hours": 48,
- "headlines": 51,
+ "headlines": 50,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 1,
-   "neg": 5,
-   "count": 17,
+   "neg": 6,
+   "count": 18,
    "items": [
+    {
+     "title": "US sellers drive Bitcoin crash, Jensen plots comeback: Hodler’s Digest",
+     "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-15T22:50:59+00:00",
+     "s": -1
+    },
     {
      "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
      "link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
@@ -113,13 +120,6 @@
      "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
      "source": "CoinDesk",
      "time": "2026-11-14T12:57:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
-     "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-14T06:33:13+00:00",
      "s": 0
     }
    ]
