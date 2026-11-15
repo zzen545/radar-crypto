@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T22:59:36.025280+00:00",
+ "updated": "2026-11-15T23:40:01.892520+00:00",
  "window_hours": 48,
- "headlines": 50,
+ "headlines": 49,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 1,
    "neg": 6,
-   "count": 18,
+   "count": 17,
    "items": [
     {
      "title": "US sellers drive Bitcoin crash, Jensen plots comeback: Hodler’s Digest",
