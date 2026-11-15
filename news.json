@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T16:04:31.656342+00:00",
+ "updated": "2026-11-15T17:05:27.895289+00:00",
  "window_hours": 48,
- "headlines": 67,
+ "headlines": 65,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 2,
    "neg": 8,
-   "count": 25,
+   "count": 23,
    "items": [
     {
      "title": "Bitcoin now looks cheap by one measure after $1 billion in ETF outflows",
@@ -74,13 +74,6 @@
      "s": 0
     },
     {
-     "title": "A forced Bitcoin Lightning exit can be cheap and still leave you waiting days",
-     "link": "https://cryptoslate.com/a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days/",
-     "source": "CryptoSlate",
-     "time": "2026-11-15T02:40:32+00:00",
-     "s": 0
-    },
-    {
      "title": "Crypto ETFs Bleed $1.5B as Bitcoin Funds Extend Losses",
      "link": "https://bitcoinist.com/crypto-etfs-bleed-1-5b-as-bitcoin-funds-extend-losses/",
      "source": "Bitcoinist",
@@ -121,6 +114,13 @@
      "source": "Cointelegraph",
      "time": "2026-11-14T06:33:13+00:00",
      "s": 0
+    },
+    {
+     "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+     "link": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+     "source": "CoinDesk",
+     "time": "2026-11-14T04:30:00+00:00",
+     "s": -1
     }
    ]
   },
@@ -215,16 +215,8 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%",
-     "link": "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053",
-     "source": "The Block",
-     "time": "2026-11-13T16:37:26+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "ASTER": {
    "pos": 0,
