@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T06:44:45.732725+00:00",
+ "updated": "2026-11-15T07:54:38.787948+00:00",
  "window_hours": 48,
- "headlines": 89,
+ "headlines": 88,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -126,8 +126,8 @@
   },
   "ETH": {
    "pos": 1,
-   "neg": 1,
-   "count": 5,
+   "neg": 0,
+   "count": 4,
    "items": [
     {
      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
@@ -156,13 +156,6 @@
      "source": "The Block",
      "time": "2026-11-13T14:12:23+00:00",
      "s": 0
-    },
-    {
-     "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-     "link": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
-     "source": "CoinDesk",
-     "time": "2026-11-13T07:05:29+00:00",
-     "s": -1
     }
    ]
   },
