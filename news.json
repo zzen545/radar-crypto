@@ -1,23 +1,50 @@
 {
- "updated": "2026-11-15T09:34:52.934022+00:00",
+ "updated": "2026-11-15T10:31:20.929159+00:00",
  "window_hours": 48,
- "headlines": 76,
+ "headlines": 81,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "The read operation timed out"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 10,
-   "count": 27,
+   "neg": 11,
+   "count": 30,
    "items": [
+    {
+     "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+     "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-15T10:23:17+00:00",
+     "s": -1
+    },
+    {
+     "title": "Blockstream And Thales Launch Bitcoin Custody System",
+     "link": "https://bitcoinist.com/blockstream-and-thales-launch-bitcoin-custody-system/",
+     "source": "Bitcoinist",
+     "time": "2026-11-15T09:40:40+00:00",
+     "s": 1
+    },
+    {
+     "title": "Are Whales Selling Bitcoin For The Anthropic IPO? The SpaceX Playbook Hints A Bottom Is Near",
+     "link": "https://bitcoinist.com/are-whales-selling-bitcoin-for-the-anthropic-ipo/",
+     "source": "Bitcoinist",
+     "time": "2026-11-15T09:14:44+00:00",
+     "s": 0
+    },
+    {
+     "title": "AI Cyberattacks And Outages Keep Breaking Centralized Systems, But Bitcoin Keeps Running",
+     "link": "https://bitcoinist.com/ai-cyberattacks-outages-keep-breaking-centralized-systems-but-bitcoin-keeps-running/",
+     "source": "Bitcoinist",
+     "time": "2026-11-15T08:24:47+00:00",
+     "s": 0
+    },
     {
      "title": "A forced Bitcoin Lightning exit can be cheap and still leave you waiting days",
      "link": "https://cryptoslate.com/a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days/",
@@ -44,6 +71,13 @@
      "link": "https://cryptoslate.com/peter-schiff-argues-bitcoin-may-fall-below-16500-by-year-end-if-50000-breaks-next/",
      "source": "CryptoSlate",
      "time": "2026-11-14T22:40:39+00:00",
+     "s": -1
+    },
+    {
+     "title": "Crypto ETFs Bleed $1.5B as Bitcoin Funds Extend Losses",
+     "link": "https://bitcoinist.com/crypto-etfs-bleed-1-5b-as-bitcoin-funds-extend-losses/",
+     "source": "Bitcoinist",
+     "time": "2026-11-14T20:42:38+00:00",
      "s": -1
     },
     {
@@ -87,48 +121,13 @@
      "source": "CoinDesk",
      "time": "2026-11-14T04:30:00+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-     "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-     "source": "CoinDesk",
-     "time": "2026-11-13T23:30:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
-     "link": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-13T21:49:27+00:00",
-     "s": 1
-    },
-    {
-     "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
-     "link": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
-     "source": "Decrypt",
-     "time": "2026-11-13T20:16:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
-     "link": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
-     "source": "Decrypt",
-     "time": "2026-11-13T19:36:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-     "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
-     "source": "CoinDesk",
-     "time": "2026-11-13T18:39:58+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 3,
+   "count": 4,
    "items": [
     {
      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
@@ -136,6 +135,13 @@
      "source": "CoinDesk",
      "time": "2026-11-14T16:33:23+00:00",
      "s": 0
+    },
+    {
+     "title": "Ethereum Staking Hits Record 36.3% Of Supply As ETH Holders Lock In",
+     "link": "https://bitcoinist.com/ethereum-staking-hits-record-36-3-of-supply-as-eth-holders-lock-in/",
+     "source": "Bitcoinist",
+     "time": "2026-11-14T14:16:57+00:00",
+     "s": 1
     },
     {
      "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
@@ -155,9 +161,16 @@
   },
   "SOL": {
    "pos": 0,
-   "neg": 0,
-   "count": 1,
+   "neg": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Solana Staking Holds Near 69% Even As SOL Price Crashes To $67 On Breakpoint Day",
+     "link": "https://bitcoinist.com/solana-staking-holds-near-69-even-as-sol-price-crashes-to-67-on-breakpoint-day/",
+     "source": "Bitcoinist",
+     "time": "2026-11-15T08:55:16+00:00",
+     "s": -1
+    },
     {
      "title": "Solana’s “retired” validators still vote with 15% of active stake",
      "link": "https://cryptoslate.com/solanas-retired-validators-still-vote-with-15-of-active-stake/",
