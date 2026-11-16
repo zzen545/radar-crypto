@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T02:16:37.499637+00:00",
+ "updated": "2026-11-16T03:31:04.185254+00:00",
  "window_hours": 48,
- "headlines": 50,
+ "headlines": 51,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 1,
-   "neg": 6,
-   "count": 17,
+   "neg": 7,
+   "count": 18,
    "items": [
+    {
+     "title": "Luxor CEO warns of AI ‘dark forest’ after Bitcoin miner hijack",
+     "link": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-16T02:33:07+00:00",
+     "s": -1
+    },
     {
      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
      "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -113,13 +120,6 @@
      "link": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
      "source": "CoinDesk",
      "time": "2026-11-14T13:00:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-     "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
-     "source": "CoinDesk",
-     "time": "2026-11-14T12:57:00+00:00",
      "s": 0
     }
    ]
