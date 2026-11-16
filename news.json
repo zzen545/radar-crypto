@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T05:20:11.537360+00:00",
+ "updated": "2026-11-16T06:59:58.556309+00:00",
  "window_hours": 48,
- "headlines": 53,
+ "headlines": 54,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 1,
    "neg": 6,
-   "count": 18,
+   "count": 17,
    "items": [
     {
      "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
@@ -25,7 +25,7 @@
      "s": 0
     },
     {
-     "title": "Luxor CEO warns of AI ‘dark forest’ after Bitcoin miner hijack",
+     "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
      "link": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-16T02:33:07+00:00",
@@ -81,7 +81,7 @@
      "s": 0
     },
     {
-     "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+     "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
      "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-15T10:23:17+00:00",
@@ -213,9 +213,17 @@
   },
   "ASTER": {
    "pos": 0,
-   "neg": 0,
-   "count": 0,
-   "items": []
+   "neg": 1,
+   "count": 1,
+   "items": [
+    {
+     "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+     "link": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-16T05:28:40+00:00",
+     "s": -1
+    }
+   ]
   },
   "XPL": {
    "pos": 0,
