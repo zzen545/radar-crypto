@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T21:12:30.404883+00:00",
+ "updated": "2026-11-16T22:12:35.370677+00:00",
  "window_hours": 48,
- "headlines": 103,
+ "headlines": 105,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
-   "neg": 12,
-   "count": 30,
+   "pos": 4,
+   "neg": 13,
+   "count": 31,
    "items": [
+    {
+     "title": "Bitcoin Lightning developers patch bug that could make completed payments disappear",
+     "link": "https://cryptoslate.com/bitcoin-lightning-developers-patch-bug-that-could-make-completed-payments-disappear/",
+     "source": "CryptoSlate",
+     "time": "2026-11-16T22:10:43+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
+     "link": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
+     "source": "Decrypt",
+     "time": "2026-11-16T21:46:03+00:00",
+     "s": -1
+    },
+    {
+     "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
+     "link": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
+     "source": "Decrypt",
+     "time": "2026-11-16T21:16:03+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
@@ -60,13 +81,6 @@
      "s": -1
     },
     {
-     "title": "Michael Saylor says banks could ignite Bitcoin’s next rally as Strategy eyes $48 billion credit expansion",
-     "link": "https://cryptoslate.com/michael-saylor-says-banks-could-ignite-bitcoins-next-rally-as-strategy-eyes-48-billion-credit-expansion/",
-     "source": "CryptoSlate",
-     "time": "2026-11-16T15:40:42+00:00",
-     "s": 1
-    },
-    {
      "title": "Bitcoin Miners Hijacked as Attackers Redirect BTC Through Luxor Breach",
      "link": "https://bitcoinist.com/bitcoin-miners-hijacked-as-attackers-redirect-btc-through-luxor-breach/",
      "source": "Bitcoinist",
@@ -88,13 +102,6 @@
      "s": -1
     },
     {
-     "title": "Record hedge-fund leverage could soon spill over into Bitcoin",
-     "link": "https://cryptoslate.com/record-hedge-fund-leverage-could-soon-spill-over-into-bitcoin/",
-     "source": "CryptoSlate",
-     "time": "2026-11-16T14:30:20+00:00",
-     "s": 1
-    },
-    {
      "title": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
      "link": "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -113,13 +120,6 @@
      "link": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886",
      "source": "The Block",
      "time": "2026-11-16T13:13:14+00:00",
-     "s": 0
-    },
-    {
-     "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
-     "link": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-16T13:00:00+00:00",
      "s": 0
     }
    ]
@@ -321,8 +321,16 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
+     "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
+     "source": "CoinDesk",
+     "time": "2026-11-16T21:51:04+00:00",
+     "s": 0
+    }
+   ]
   },
   "ASTER": {
    "pos": 0,
