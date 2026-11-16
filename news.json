@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T17:00:23.938075+00:00",
+ "updated": "2026-11-16T18:17:06.247100+00:00",
  "window_hours": 48,
- "headlines": 89,
+ "headlines": 94,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 5,
-   "neg": 15,
-   "count": 32,
+   "pos": 6,
+   "neg": 13,
+   "count": 31,
    "items": [
+    {
+     "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
+     "link": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-16T18:07:49+00:00",
+     "s": 0
+    },
+    {
+     "title": "Saylor’s Strategy Keeps Buying Bitcoin, Adding 'A Little Orange' Through the Dip",
+     "link": "https://decrypt.co/383347/saylor-strategy-buying-bitcoin-adding-little-orange-dip",
+     "source": "Decrypt",
+     "time": "2026-11-16T17:20:26+00:00",
+     "s": 1
+    },
     {
      "title": "Boris Johnson backs tokenization months after likening bitcoin to a ‘Ponzi scheme’",
      "link": "https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368",
@@ -107,20 +121,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-16T12:44:05+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
-     "link": "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
-     "source": "CoinDesk",
-     "time": "2026-11-16T12:09:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin’s Biggest Options Bet Just Flipped — Is a Major Price Reversal Coming?",
-     "link": "https://bitcoinist.com/bitcoins-biggest-options-bet-just-flipped-is-a-major-price-reversal-coming/",
-     "source": "Bitcoinist",
-     "time": "2026-11-16T11:47:32+00:00",
-     "s": 0
     }
    ]
   },
@@ -181,10 +181,17 @@
    ]
   },
   "SOL": {
-   "pos": 0,
+   "pos": 1,
    "neg": 2,
-   "count": 9,
+   "count": 10,
    "items": [
+    {
+     "title": "Privacy on Solana is ‘non-negotiable’ for institutional adoption, Mert Mumtaz says",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-16-privacy-solana-non-negotiable-institutional-adoption-mert-mumtaz-says-441363",
+     "source": "The Block",
+     "time": "2026-11-16T17:22:19+00:00",
+     "s": 1
+    },
     {
      "title": "DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days",
      "link": "https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361",
