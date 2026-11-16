@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T11:06:55.241917+00:00",
+ "updated": "2026-11-16T12:38:45.761792+00:00",
  "window_hours": 48,
- "headlines": 71,
+ "headlines": 74,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -17,6 +17,20 @@
    "neg": 12,
    "count": 27,
    "items": [
+    {
+     "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
+     "link": "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
+     "source": "CoinDesk",
+     "time": "2026-11-16T12:09:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin’s Biggest Options Bet Just Flipped — Is a Major Price Reversal Coming?",
+     "link": "https://bitcoinist.com/bitcoins-biggest-options-bet-just-flipped-is-a-major-price-reversal-coming/",
+     "source": "Bitcoinist",
+     "time": "2026-11-16T11:47:32+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
@@ -107,20 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-15T22:50:59+00:00",
      "s": -1
-    },
-    {
-     "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
-     "link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
-     "source": "The Block",
-     "time": "2026-11-15T21:57:53+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin Breaks Below $63K as Market Panic Intensifies",
-     "link": "https://bitcoinist.com/bitcoin-breaks-below-63k-as-market-panic-intensifies/",
-     "source": "Bitcoinist",
-     "time": "2026-11-15T20:48:44+00:00",
-     "s": 0
     }
    ]
   },
@@ -175,22 +175,29 @@
   },
   "SOL": {
    "pos": 0,
-   "neg": 1,
-   "count": 2,
+   "neg": 0,
+   "count": 3,
    "items": [
+    {
+     "title": "Solana drops ‘mainnet beta’ label and adopts protocol version 1.0",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885",
+     "source": "The Block",
+     "time": "2026-11-16T12:30:35+00:00",
+     "s": 0
+    },
+    {
+     "title": "Solana’s stablecoin market shrinks $919 million as USDC grows",
+     "link": "https://cryptoslate.com/solanas-stablecoin-market-shrinks-919-million-as-usdc-grows/",
+     "source": "CryptoSlate",
+     "time": "2026-11-16T11:10:10+00:00",
+     "s": 0
+    },
     {
      "title": "CoW Swap goes live on Solana with intent-based trading",
      "link": "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840",
      "source": "The Block",
      "time": "2026-11-16T09:05:02+00:00",
      "s": 0
-    },
-    {
-     "title": "Solana Staking Holds Near 69% Even As SOL Price Crashes To $67 On Breakpoint Day",
-     "link": "https://bitcoinist.com/solana-staking-holds-near-69-even-as-sol-price-crashes-to-67-on-breakpoint-day/",
-     "source": "Bitcoinist",
-     "time": "2026-11-15T08:55:16+00:00",
-     "s": -1
     }
    ]
   },
