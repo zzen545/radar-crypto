@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T20:14:41.616273+00:00",
+ "updated": "2026-11-16T21:12:30.404883+00:00",
  "window_hours": 48,
- "headlines": 99,
+ "headlines": 103,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 6,
    "neg": 12,
-   "count": 31,
+   "count": 30,
    "items": [
+    {
+     "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+     "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+     "source": "CoinDesk",
+     "time": "2026-11-16T20:35:21+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin flashes false recovery warning as $64 billion futures frenzy masks weak demand",
      "link": "https://cryptoslate.com/bitcoin-flashes-false-recovery-warning-as-64-billion-futures-frenzy-masks-weak-demand/",
@@ -88,13 +95,6 @@
      "s": 1
     },
     {
-     "title": "Japan’s economy stalls, giving Bitcoin no automatic relief from yen funding costs",
-     "link": "https://cryptoslate.com/japans-economy-stalls-giving-bitcoin-no-automatic-relief-from-yen-funding-costs/",
-     "source": "CryptoSlate",
-     "time": "2026-11-16T13:30:20+00:00",
-     "s": 0
-    },
-    {
      "title": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
      "link": "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -125,10 +125,31 @@
    ]
   },
   "ETH": {
-   "pos": 3,
-   "neg": 0,
-   "count": 7,
+   "pos": 2,
+   "neg": 1,
+   "count": 9,
    "items": [
+    {
+     "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
+     "link": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-16T20:45:47+00:00",
+     "s": 0
+    },
+    {
+     "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+     "link": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
+     "source": "Decrypt",
+     "time": "2026-11-16T20:36:03+00:00",
+     "s": 0
+    },
+    {
+     "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
+     "link": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
+     "source": "The Block",
+     "time": "2026-11-16T20:30:37+00:00",
+     "s": -1
+    },
     {
      "title": "Vitalik Buterin Backs Faster Route to Quantum-Safe Ethereum With New Proposal",
      "link": "https://bitcoinist.com/vitalik-buterin-backs-faster-route-to-quantum-safe-ethereum-with-new-proposal/",
@@ -165,13 +186,6 @@
      "s": 0
     },
     {
-     "title": "Ethereum Price Eyes Recovery As Vitalik Buterin Backs Major Quantum-Safe Upgrade",
-     "link": "https://bitcoinist.com/ethereum-price-eyes-recovery-as-vitalik-buterin-backs-major-quantum-safe-upgrade/",
-     "source": "Bitcoinist",
-     "time": "2026-11-16T09:45:13+00:00",
-     "s": 1
-    },
-    {
      "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
      "link": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
      "source": "CoinDesk",
@@ -183,8 +197,15 @@
   "SOL": {
    "pos": 1,
    "neg": 2,
-   "count": 9,
+   "count": 10,
    "items": [
+    {
+     "title": "Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows",
+     "link": "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407",
+     "source": "The Block",
+     "time": "2026-11-16T20:27:32+00:00",
+     "s": 0
+    },
     {
      "title": "Privacy on Solana is ‘non-negotiable’ for institutional adoption, Mert Mumtaz says",
      "link": "https://www.theblock.co/news/ecosystems/2026-11-16-privacy-solana-non-negotiable-institutional-adoption-mert-mumtaz-says-441363",
