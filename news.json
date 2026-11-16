@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T09:35:32.776680+00:00",
+ "updated": "2026-11-16T11:06:55.241917+00:00",
  "window_hours": 48,
- "headlines": 65,
+ "headlines": 71,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,37 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 9,
-   "count": 24,
+   "neg": 12,
+   "count": 27,
    "items": [
+    {
+     "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
+     "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+     "source": "CoinDesk",
+     "time": "2026-11-16T11:03:14+00:00",
+     "s": -1
+    },
+    {
+     "title": "BTC price tags 18-week low into Nvidia earnings: Three things to know in Bitcoin this week",
+     "link": "https://cointelegraph.com/markets/btc-price-18-week-low-nvidia-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-16T10:39:05+00:00",
+     "s": -1
+    },
+    {
+     "title": "Jensen Huang Eyes Nvidia Comeback As Bitcoin Faces A Critical Market Test",
+     "link": "https://bitcoinist.com/jensen-huang-eyes-nvidia-comeback-as-bitcoin-faces-a-critical-market-test/",
+     "source": "Bitcoinist",
+     "time": "2026-11-16T10:29:39+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin’s mining difficulty falls 9%, easing pressure on miners",
+     "link": "https://cryptoslate.com/bitcoins-mining-difficulty-falls-9-easing-pressure-on-miners/",
+     "source": "CryptoSlate",
+     "time": "2026-11-16T10:25:08+00:00",
+     "s": -1
+    },
     {
      "title": "Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide",
      "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
@@ -39,7 +67,7 @@
      "s": 1
     },
     {
-     "title": "Bitcoin mining industry rocked by AI-linked breach as hackers divert 13 EH/s of computing power",
+     "title": "Bitcoin mining industry rocked by AI-linked breach as hackers divert up to 13 EH/s of computing power",
      "link": "https://cryptoslate.com/bitcoin-mining-industry-rocked-by-ai-linked-breach-as-hackers-divert-13-eh-s-of-computing-power/",
      "source": "CryptoSlate",
      "time": "2026-11-16T08:30:35+00:00",
@@ -93,55 +121,41 @@
      "source": "Bitcoinist",
      "time": "2026-11-15T20:48:44+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin now looks cheap by one measure after $1 billion in ETF outflows",
-     "link": "https://cryptoslate.com/bitcoins-new-value-alert-still-needs-proof-that-buyers-can-absorb-supply/",
-     "source": "CryptoSlate",
-     "time": "2026-11-15T15:35:58+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
-     "link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
-     "source": "Decrypt",
-     "time": "2026-11-15T14:01:02+00:00",
-     "s": -1
-    },
-    {
-     "title": "Britain to spend £4 billion on grid bottlenecks. Can Bitcoin use the wasted wind?",
-     "link": "https://cryptoslate.com/can-bitcoin-use-britains-wasted-wind/",
-     "source": "CryptoSlate",
-     "time": "2026-11-15T13:45:30+00:00",
-     "s": 0
-    },
-    {
-     "title": "The Fed could rescue bond markets and still make life harder for Bitcoin",
-     "link": "https://cryptoslate.com/fed-bond-market-rescue-could-still-hurt-bitcoin/",
-     "source": "CryptoSlate",
-     "time": "2026-11-15T12:50:56+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 0,
-   "neg": 1,
-   "count": 4,
+   "pos": 2,
+   "neg": 0,
+   "count": 6,
    "items": [
+    {
+     "title": "Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870",
+     "source": "The Block",
+     "time": "2026-11-16T10:29:30+00:00",
+     "s": 1
+    },
+    {
+     "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
+     "link": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
+     "source": "Decrypt",
+     "time": "2026-11-16T09:54:55+00:00",
+     "s": 0
+    },
+    {
+     "title": "Ethereum Price Eyes Recovery As Vitalik Buterin Backs Major Quantum-Safe Upgrade",
+     "link": "https://bitcoinist.com/ethereum-price-eyes-recovery-as-vitalik-buterin-backs-major-quantum-safe-upgrade/",
+     "source": "Bitcoinist",
+     "time": "2026-11-16T09:45:13+00:00",
+     "s": 1
+    },
     {
      "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
      "link": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
      "source": "CoinDesk",
      "time": "2026-11-16T08:18:03+00:00",
      "s": 0
-    },
-    {
-     "title": "Is Ethereum the “worst asset of all time,” amid estimated $8.83 billion BitMine loss ?",
-     "link": "https://cryptoslate.com/is-ethereum-the-worst-asset-of-all-time-amid-estimated-8-83-billion-bitmine-loss/",
-     "source": "CryptoSlate",
-     "time": "2026-11-15T11:55:50+00:00",
-     "s": -1
     },
     {
      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
