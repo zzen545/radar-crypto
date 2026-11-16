@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T06:59:58.556309+00:00",
+ "updated": "2026-11-16T09:35:32.776680+00:00",
  "window_hours": 48,
- "headlines": 54,
+ "headlines": 65,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,52 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 1,
-   "neg": 6,
-   "count": 17,
+   "pos": 3,
+   "neg": 9,
+   "count": 24,
    "items": [
+    {
+     "title": "Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide",
+     "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
+     "source": "CoinDesk",
+     "time": "2026-11-16T09:34:18+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin crashes near $62,000 over weekend as crypto liquidations topped $1.8 billion",
+     "link": "https://cryptoslate.com/bitcoin-crashes-near-62000-over-weekend-as-crypto-liquidations-topped-1-8-billion/",
+     "source": "CryptoSlate",
+     "time": "2026-11-16T09:10:06+00:00",
+     "s": -1
+    },
+    {
+     "title": "Michael Saylor Hints At Another Bitcoin Buy As BTC Tests Key Support",
+     "link": "https://bitcoinist.com/michael-saylor-hints-at-another-bitcoin-buy-as-btc-tests-key-support/",
+     "source": "Bitcoinist",
+     "time": "2026-11-16T08:42:53+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin mining industry rocked by AI-linked breach as hackers divert 13 EH/s of computing power",
+     "link": "https://cryptoslate.com/bitcoin-mining-industry-rocked-by-ai-linked-breach-as-hackers-divert-13-eh-s-of-computing-power/",
+     "source": "CryptoSlate",
+     "time": "2026-11-16T08:30:35+00:00",
+     "s": -1
+    },
+    {
+     "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
+     "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-16T08:27:39+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
+     "link": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
+     "source": "CoinDesk",
+     "time": "2026-11-16T07:51:15+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
@@ -79,56 +121,21 @@
      "source": "CryptoSlate",
      "time": "2026-11-15T12:50:56+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
-     "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-15T10:23:17+00:00",
-     "s": -1
-    },
-    {
-     "title": "Blockstream And Thales Launch Bitcoin Custody System",
-     "link": "https://bitcoinist.com/blockstream-and-thales-launch-bitcoin-custody-system/",
-     "source": "Bitcoinist",
-     "time": "2026-11-15T09:40:40+00:00",
-     "s": 1
-    },
-    {
-     "title": "Are Whales Selling Bitcoin For The Anthropic IPO? The SpaceX Playbook Hints A Bottom Is Near",
-     "link": "https://bitcoinist.com/are-whales-selling-bitcoin-for-the-anthropic-ipo/",
-     "source": "Bitcoinist",
-     "time": "2026-11-15T09:14:44+00:00",
-     "s": 0
-    },
-    {
-     "title": "AI Cyberattacks And Outages Keep Breaking Centralized Systems, But Bitcoin Keeps Running",
-     "link": "https://bitcoinist.com/ai-cyberattacks-outages-keep-breaking-centralized-systems-but-bitcoin-keeps-running/",
-     "source": "Bitcoinist",
-     "time": "2026-11-15T08:24:47+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
-     "link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
-     "source": "The Block",
-     "time": "2026-11-14T17:50:41+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
-     "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
-     "source": "CoinDesk",
-     "time": "2026-11-14T16:33:29+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 0,
    "neg": 1,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
+     "link": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
+     "source": "CoinDesk",
+     "time": "2026-11-16T08:18:03+00:00",
+     "s": 0
+    },
     {
      "title": "Is Ethereum the “worst asset of all time,” amid estimated $8.83 billion BitMine loss ?",
      "link": "https://cryptoslate.com/is-ethereum-the-worst-asset-of-all-time-amid-estimated-8-83-billion-bitmine-loss/",
@@ -155,8 +162,15 @@
   "SOL": {
    "pos": 0,
    "neg": 1,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "CoW Swap goes live on Solana with intent-based trading",
+     "link": "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840",
+     "source": "The Block",
+     "time": "2026-11-16T09:05:02+00:00",
+     "s": 0
+    },
     {
      "title": "Solana Staking Holds Near 69% Even As SOL Price Crashes To $67 On Breakpoint Day",
      "link": "https://bitcoinist.com/solana-staking-holds-near-69-even-as-sol-price-crashes-to-67-on-breakpoint-day/",
