@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T18:17:06.247100+00:00",
+ "updated": "2026-11-16T19:25:18.181959+00:00",
  "window_hours": 48,
- "headlines": 94,
+ "headlines": 97,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 6,
    "neg": 13,
-   "count": 31,
+   "count": 32,
    "items": [
+    {
+     "title": "Bitcoin flashes false recovery warning as $64 billion futures frenzy masks weak demand",
+     "link": "https://cryptoslate.com/bitcoin-flashes-false-recovery-warning-as-64-billion-futures-frenzy-masks-weak-demand/",
+     "source": "CryptoSlate",
+     "time": "2026-11-16T19:10:29+00:00",
+     "s": 0
+    },
     {
      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
      "link": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -113,13 +120,6 @@
      "link": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-16T13:00:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin’s 1,000-Day Halving Pattern Returns",
-     "link": "https://bitcoinist.com/bitcoins-1000-day-halving-pattern-returns/",
-     "source": "Bitcoinist",
-     "time": "2026-11-16T12:44:05+00:00",
      "s": 0
     }
    ]
