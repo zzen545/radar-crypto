@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T12:38:45.761792+00:00",
+ "updated": "2026-11-16T15:45:15.468694+00:00",
  "window_hours": 48,
- "headlines": 74,
+ "headlines": 84,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,87 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 3,
-   "neg": 12,
-   "count": 27,
+   "pos": 4,
+   "neg": 15,
+   "count": 31,
    "items": [
+    {
+     "title": "Michael Saylor says banks could ignite Bitcoin’s next rally as Strategy eyes $48 billion credit expansion",
+     "link": "https://cryptoslate.com/michael-saylor-says-banks-could-ignite-bitcoins-next-rally-as-strategy-eyes-48-billion-credit-expansion/",
+     "source": "CryptoSlate",
+     "time": "2026-11-16T15:40:42+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin Miners Hijacked as Attackers Redirect BTC Through Luxor Breach",
+     "link": "https://bitcoinist.com/bitcoin-miners-hijacked-as-attackers-redirect-btc-through-luxor-breach/",
+     "source": "Bitcoinist",
+     "time": "2026-11-16T15:33:37+00:00",
+     "s": -1
+    },
+    {
+     "title": "'Nobody Knows Who's in Charge': Boris Johnson Stands by Bitcoin Skepticism at Breakpoint",
+     "link": "https://decrypt.co/383307/nobody-knows-whos-in-charge-boris-johnson-stands-by-bitcoin-skepticism-at-breakpoint",
+     "source": "Decrypt",
+     "time": "2026-11-16T15:04:56+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitwise CIO says bitcoin may fall further in the near term but still calls it the best risk-adjusted trade of the next decade",
+     "link": "https://www.theblock.co/news/markets/2026-11-16-bitwise-cio-says-bitcoin-may-fall-further-in-the-near-term-but-still-calls-it-the-best-risk-adjusted-trade-of-the-next-decade-440901",
+     "source": "The Block",
+     "time": "2026-11-16T14:52:43+00:00",
+     "s": -1
+    },
+    {
+     "title": "Record hedge-fund leverage could soon spill over into Bitcoin",
+     "link": "https://cryptoslate.com/record-hedge-fund-leverage-could-soon-spill-over-into-bitcoin/",
+     "source": "CryptoSlate",
+     "time": "2026-11-16T14:30:20+00:00",
+     "s": 1
+    },
+    {
+     "title": "Japan’s economy stalls, giving Bitcoin no automatic relief from yen funding costs",
+     "link": "https://cryptoslate.com/japans-economy-stalls-giving-bitcoin-no-automatic-relief-from-yen-funding-costs/",
+     "source": "CryptoSlate",
+     "time": "2026-11-16T13:30:20+00:00",
+     "s": 0
+    },
+    {
+     "title": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
+     "link": "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-16T13:29:11+00:00",
+     "s": 1
+    },
+    {
+     "title": "Morning Minute: Crypto Hits Extreme Fear as Bitcoin Plunges",
+     "link": "https://decrypt.co/383301/morning-minute-crypto-hits-extreme-fear-as-bitcoin-plunges",
+     "source": "Decrypt",
+     "time": "2026-11-16T13:23:17+00:00",
+     "s": -1
+    },
+    {
+     "title": "‘This dip could use a little orange’: Michael Saylor’s Strategy buys another 485 BTC for $33 million as bitcoin tumbles",
+     "link": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886",
+     "source": "The Block",
+     "time": "2026-11-16T13:13:14+00:00",
+     "s": 0
+    },
+    {
+     "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
+     "link": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-16T13:00:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin’s 1,000-Day Halving Pattern Returns",
+     "link": "https://bitcoinist.com/bitcoins-1000-day-halving-pattern-returns/",
+     "source": "Bitcoinist",
+     "time": "2026-11-16T12:44:05+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
      "link": "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
@@ -44,91 +121,35 @@
      "source": "Cointelegraph",
      "time": "2026-11-16T10:39:05+00:00",
      "s": -1
-    },
-    {
-     "title": "Jensen Huang Eyes Nvidia Comeback As Bitcoin Faces A Critical Market Test",
-     "link": "https://bitcoinist.com/jensen-huang-eyes-nvidia-comeback-as-bitcoin-faces-a-critical-market-test/",
-     "source": "Bitcoinist",
-     "time": "2026-11-16T10:29:39+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin’s mining difficulty falls 9%, easing pressure on miners",
-     "link": "https://cryptoslate.com/bitcoins-mining-difficulty-falls-9-easing-pressure-on-miners/",
-     "source": "CryptoSlate",
-     "time": "2026-11-16T10:25:08+00:00",
-     "s": -1
-    },
-    {
-     "title": "Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide",
-     "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
-     "source": "CoinDesk",
-     "time": "2026-11-16T09:34:18+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin crashes near $62,000 over weekend as crypto liquidations topped $1.8 billion",
-     "link": "https://cryptoslate.com/bitcoin-crashes-near-62000-over-weekend-as-crypto-liquidations-topped-1-8-billion/",
-     "source": "CryptoSlate",
-     "time": "2026-11-16T09:10:06+00:00",
-     "s": -1
-    },
-    {
-     "title": "Michael Saylor Hints At Another Bitcoin Buy As BTC Tests Key Support",
-     "link": "https://bitcoinist.com/michael-saylor-hints-at-another-bitcoin-buy-as-btc-tests-key-support/",
-     "source": "Bitcoinist",
-     "time": "2026-11-16T08:42:53+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin mining industry rocked by AI-linked breach as hackers divert up to 13 EH/s of computing power",
-     "link": "https://cryptoslate.com/bitcoin-mining-industry-rocked-by-ai-linked-breach-as-hackers-divert-13-eh-s-of-computing-power/",
-     "source": "CryptoSlate",
-     "time": "2026-11-16T08:30:35+00:00",
-     "s": -1
-    },
-    {
-     "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
-     "link": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-16T08:27:39+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
-     "link": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
-     "source": "CoinDesk",
-     "time": "2026-11-16T07:51:15+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
-     "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
-     "source": "CoinDesk",
-     "time": "2026-11-16T05:01:17+00:00",
-     "s": 0
-    },
-    {
-     "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
-     "link": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-16T02:33:07+00:00",
-     "s": -1
-    },
-    {
-     "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
-     "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-15T22:50:59+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
-   "pos": 2,
+   "pos": 3,
    "neg": 0,
-   "count": 6,
+   "count": 8,
    "items": [
+    {
+     "title": "Vitalik Buterin Backs Faster Route to Quantum-Safe Ethereum With New Proposal",
+     "link": "https://bitcoinist.com/vitalik-buterin-backs-faster-route-to-quantum-safe-ethereum-with-new-proposal/",
+     "source": "Bitcoinist",
+     "time": "2026-11-16T15:24:16+00:00",
+     "s": 1
+    },
+    {
+     "title": "Tom Lee says Ethereum’s ‘waterfall decline in price’ defies fundamentals as Bitmine adds 7,653 ETH",
+     "link": "https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904",
+     "source": "The Block",
+     "time": "2026-11-16T15:00:18+00:00",
+     "s": 0
+    },
+    {
+     "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
+     "link": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-16T13:00:00+00:00",
+     "s": 0
+    },
     {
      "title": "Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale",
      "link": "https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870",
@@ -163,21 +184,42 @@
      "source": "CoinDesk",
      "time": "2026-11-14T16:33:23+00:00",
      "s": 0
-    },
-    {
-     "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-     "link": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
-     "source": "CoinDesk",
-     "time": "2026-11-14T12:57:00+00:00",
-     "s": 0
     }
    ]
   },
   "SOL": {
    "pos": 0,
-   "neg": 0,
-   "count": 3,
+   "neg": 1,
+   "count": 7,
    "items": [
+    {
+     "title": "Solana Officially Exits Beta After Six Years With New Network Versioning System",
+     "link": "https://bitcoinist.com/solana-officially-exits-beta-after-six-years-with-new-network-versioning-system/",
+     "source": "Bitcoinist",
+     "time": "2026-11-16T15:14:30+00:00",
+     "s": 0
+    },
+    {
+     "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+     "link": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-16T14:55:46+00:00",
+     "s": 0
+    },
+    {
+     "title": "Ledger Brings Clear Signing to Solana, Ending 'Blind' Signing for Jupiter Swaps",
+     "link": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
+     "source": "Decrypt",
+     "time": "2026-11-16T13:12:08+00:00",
+     "s": 0
+    },
+    {
+     "title": "Solana drops ‘beta’ label after more than six years",
+     "link": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
+     "source": "CoinDesk",
+     "time": "2026-11-16T13:03:16+00:00",
+     "s": -1
+    },
     {
      "title": "Solana drops ‘mainnet beta’ label and adopts protocol version 1.0",
      "link": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885",
@@ -204,21 +246,22 @@
   "BNB": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
+     "link": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-16T13:00:00+00:00",
+     "s": 0
+    }
+   ]
   },
   "XRP": {
    "pos": 0,
-   "neg": 2,
-   "count": 2,
+   "neg": 1,
+   "count": 1,
    "items": [
-    {
-     "title": "XRP Price Crashes Below $0.90 as Shrinking Stablecoin Supply Drain Crypto Market",
-     "link": "https://bitcoinist.com/xrp-price-crashes-below-0-90-as-shrinking-stablecoin-supply-drain-crypto-market/",
-     "source": "Bitcoinist",
-     "time": "2026-11-15T20:58:20+00:00",
-     "s": -1
-    },
     {
      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
      "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
