@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T19:25:18.181959+00:00",
+ "updated": "2026-11-16T20:14:41.616273+00:00",
  "window_hours": 48,
- "headlines": 97,
+ "headlines": 99,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 13,
-   "count": 32,
+   "neg": 12,
+   "count": 31,
    "items": [
     {
      "title": "Bitcoin flashes false recovery warning as $64 billion futures frenzy masks weak demand",
@@ -183,7 +183,7 @@
   "SOL": {
    "pos": 1,
    "neg": 2,
-   "count": 10,
+   "count": 9,
    "items": [
     {
      "title": "Privacy on Solana is ‘non-negotiable’ for institutional adoption, Mert Mumtaz says",
@@ -242,13 +242,6 @@
      "s": 0
     },
     {
-     "title": "Solana’s stablecoin market shrinks $919 million as USDC grows",
-     "link": "https://cryptoslate.com/solanas-stablecoin-market-shrinks-919-million-as-usdc-grows/",
-     "source": "CryptoSlate",
-     "time": "2026-11-16T11:10:10+00:00",
-     "s": 0
-    },
-    {
      "title": "CoW Swap goes live on Solana with intent-based trading",
      "link": "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840",
      "source": "The Block",
@@ -272,10 +265,17 @@
    ]
   },
   "XRP": {
-   "pos": 0,
+   "pos": 1,
    "neg": 1,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "XRP’s proposed upgrade could improve trading without boosting token demand",
+     "link": "https://cryptoslate.com/xrps-proposed-upgrade-could-improve-trading-without-boosting-token-demand/",
+     "source": "CryptoSlate",
+     "time": "2026-11-16T20:10:19+00:00",
+     "s": 1
+    },
     {
      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
      "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
