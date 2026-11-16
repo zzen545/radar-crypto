@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T15:45:15.468694+00:00",
+ "updated": "2026-11-16T17:00:23.938075+00:00",
  "window_hours": 48,
- "headlines": 84,
+ "headlines": 89,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 4,
+   "pos": 5,
    "neg": 15,
-   "count": 31,
+   "count": 32,
    "items": [
+    {
+     "title": "Boris Johnson backs tokenization months after likening bitcoin to a ‘Ponzi scheme’",
+     "link": "https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368",
+     "source": "The Block",
+     "time": "2026-11-16T16:49:23+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-16T16:26:52+00:00",
+     "s": -1
+    },
     {
      "title": "Michael Saylor says banks could ignite Bitcoin’s next rally as Strategy eyes $48 billion credit expansion",
      "link": "https://cryptoslate.com/michael-saylor-says-banks-could-ignite-bitcoins-next-rally-as-strategy-eyes-48-billion-credit-expansion/",
@@ -107,27 +121,13 @@
      "source": "Bitcoinist",
      "time": "2026-11-16T11:47:32+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
-     "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
-     "source": "CoinDesk",
-     "time": "2026-11-16T11:03:14+00:00",
-     "s": -1
-    },
-    {
-     "title": "BTC price tags 18-week low into Nvidia earnings: Three things to know in Bitcoin this week",
-     "link": "https://cointelegraph.com/markets/btc-price-18-week-low-nvidia-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-16T10:39:05+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 3,
    "neg": 0,
-   "count": 8,
+   "count": 7,
    "items": [
     {
      "title": "Vitalik Buterin Backs Faster Route to Quantum-Safe Ethereum With New Proposal",
@@ -177,21 +177,28 @@
      "source": "CoinDesk",
      "time": "2026-11-16T08:18:03+00:00",
      "s": 0
-    },
-    {
-     "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-     "link": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-     "source": "CoinDesk",
-     "time": "2026-11-14T16:33:23+00:00",
-     "s": 0
     }
    ]
   },
   "SOL": {
    "pos": 0,
-   "neg": 1,
-   "count": 7,
+   "neg": 2,
+   "count": 9,
    "items": [
+    {
+     "title": "DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days",
+     "link": "https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361",
+     "source": "The Block",
+     "time": "2026-11-16T16:16:17+00:00",
+     "s": 0
+    },
+    {
+     "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
+     "link": "https://decrypt.co/383322/solana-drops-mainnet-beta-after-six-years",
+     "source": "Decrypt",
+     "time": "2026-11-16T16:14:22+00:00",
+     "s": -1
+    },
     {
      "title": "Solana Officially Exits Beta After Six Years With New Network Versioning System",
      "link": "https://bitcoinist.com/solana-officially-exits-beta-after-six-years-with-new-network-versioning-system/",
@@ -318,16 +325,8 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Tether wants its gold token to rival ETFs",
-     "link": "https://cryptoslate.com/tether-wants-its-gold-token-to-rival-etfs/",
-     "source": "CryptoSlate",
-     "time": "2026-11-15T17:25:18+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   }
  }
 }
