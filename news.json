@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T22:12:35.370677+00:00",
+ "updated": "2026-11-16T23:10:05.952713+00:00",
  "window_hours": 48,
- "headlines": 105,
+ "headlines": 111,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 4,
    "neg": 13,
-   "count": 31,
+   "count": 32,
    "items": [
+    {
+     "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
+     "link": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
+     "source": "Decrypt",
+     "time": "2026-11-16T22:18:03+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Lightning developers patch bug that could make completed payments disappear",
      "link": "https://cryptoslate.com/bitcoin-lightning-developers-patch-bug-that-could-make-completed-payments-disappear/",
@@ -114,13 +121,6 @@
      "source": "Decrypt",
      "time": "2026-11-16T13:23:17+00:00",
      "s": -1
-    },
-    {
-     "title": "‘This dip could use a little orange’: Michael Saylor’s Strategy buys another 485 BTC for $33 million as bitcoin tumbles",
-     "link": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886",
-     "source": "The Block",
-     "time": "2026-11-16T13:13:14+00:00",
-     "s": 0
     }
    ]
   },
