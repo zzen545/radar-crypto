@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T19:54:25.882963+00:00",
+ "updated": "2026-11-17T20:41:35.652123+00:00",
  "window_hours": 48,
- "headlines": 124,
+ "headlines": 125,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,22 @@
   "BTC": {
    "pos": 3,
    "neg": 12,
-   "count": 27,
+   "count": 29,
    "items": [
+    {
+     "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
+     "link": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
+     "source": "Decrypt",
+     "time": "2026-11-17T20:36:03+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin developer verifies 164 million unspent coins in just 72 seconds",
+     "link": "https://cryptoslate.com/bitcoin-developer-verifies-164-million-unspent-coins-in-just-72-seconds/",
+     "source": "CryptoSlate",
+     "time": "2026-11-17T20:00:40+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Lightning developers needed two patches to stop a potentially costly attack",
      "link": "https://cryptoslate.com/bitcoin-lightning-developers-needed-two-patches-to-stop-a-potentially-costly-attack/",
@@ -106,20 +120,6 @@
      "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-17T11:14:05+00:00",
-     "s": -1
-    },
-    {
-     "title": "Live updates: Bitcoin and stocks continue slump as Huang signals interest in returning to Nvidia",
-     "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
-     "source": "CoinDesk",
-     "time": "2026-11-17T10:33:26+00:00",
-     "s": -1
-    },
-    {
-     "title": "Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000",
-     "link": "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
-     "source": "The Block",
-     "time": "2026-11-17T07:39:17+00:00",
      "s": -1
     }
    ]
@@ -292,17 +292,10 @@
    "items": []
   },
   "XRP": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
-    {
-     "title": "XRP volume surges 99% to $62M, yet small sellers lose out",
-     "link": "https://cryptoslate.com/xrp-volume-surges-99-to-62m-yet-small-sellers-lose-out/",
-     "source": "CryptoSlate",
-     "time": "2026-11-17T08:20:03+00:00",
-     "s": 1
-    },
     {
      "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
      "link": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
