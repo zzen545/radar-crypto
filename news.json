@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T13:41:16.733252+00:00",
+ "updated": "2026-11-17T14:46:42.387048+00:00",
  "window_hours": 48,
- "headlines": 120,
+ "headlines": 119,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 5,
-   "neg": 11,
-   "count": 26,
+   "pos": 4,
+   "neg": 10,
+   "count": 25,
    "items": [
+    {
+     "title": "Bernstein sees upside for bitcoin miners Riot and TeraWulf, citing discounts to implied AI data center values",
+     "link": "https://www.theblock.co/news/markets/2026-11-17-bernstein-sees-upside-for-bitcoin-miners-riot-and-terawulf-citing-discounts-to-implied-ai-data-center-values-442125",
+     "source": "The Block",
+     "time": "2026-11-17T13:56:18+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
      "link": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -60,7 +67,7 @@
      "s": -1
     },
     {
-     "title": "Live updates: Bitcoin holds near $65,000 as tech bounces ahead of Nvidia earnings",
+     "title": "Live updates: Bitcoin holds near $65,000 as tech flattens out ahead of Nvidia earnings",
      "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
      "source": "CoinDesk",
      "time": "2026-11-17T10:33:26+00:00",
@@ -114,13 +121,6 @@
      "source": "Decrypt",
      "time": "2026-11-16T21:16:03+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto selloff",
-     "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
-     "source": "CoinDesk",
-     "time": "2026-11-16T20:35:21+00:00",
-     "s": -1
     }
    ]
   },
@@ -216,10 +216,17 @@
    ]
   },
   "SOL": {
-   "pos": 2,
+   "pos": 3,
    "neg": 2,
-   "count": 13,
+   "count": 12,
    "items": [
+    {
+     "title": "Solana’s Trump memecoin launch tested infrastructure ahead of institutional push, Lily Liu says",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
+     "source": "The Block",
+     "time": "2026-11-17T14:27:35+00:00",
+     "s": 1
+    },
     {
      "title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
      "link": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents",
@@ -270,25 +277,11 @@
      "s": 1
     },
     {
-     "title": "DeFi Development Corp. adds 9,482 SOL as CHAD dividend streak hits 31 days",
-     "link": "https://www.theblock.co/news/markets/2026-11-16-defi-development-solana-treasury-2-62-million-sol-441361",
-     "source": "The Block",
-     "time": "2026-11-16T16:16:17+00:00",
-     "s": 0
-    },
-    {
      "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
      "link": "https://decrypt.co/383322/solana-drops-mainnet-beta-after-six-years",
      "source": "Decrypt",
      "time": "2026-11-16T16:14:22+00:00",
      "s": -1
-    },
-    {
-     "title": "Solana Officially Exits Beta After Six Years With New Network Versioning System",
-     "link": "https://bitcoinist.com/solana-officially-exits-beta-after-six-years-with-new-network-versioning-system/",
-     "source": "Bitcoinist",
-     "time": "2026-11-16T15:14:30+00:00",
-     "s": 0
     },
     {
      "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
