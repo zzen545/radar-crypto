@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T21:40:39.938879+00:00",
+ "updated": "2026-11-17T22:42:02.989319+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 129,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -204,7 +204,7 @@
   "SOL": {
    "pos": 2,
    "neg": 1,
-   "count": 11,
+   "count": 10,
    "items": [
     {
      "title": "Solana Foundation Takes Majority Stake in CoinGecko in Major Push Into Crypto Data",
@@ -270,13 +270,6 @@
      "s": -1
     },
     {
-     "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
-     "link": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-16T14:55:46+00:00",
-     "s": 0
-    },
-    {
      "title": "Ledger Brings Clear Signing to Solana, Ending 'Blind' Signing for Jupiter Swaps",
      "link": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
      "source": "Decrypt",
@@ -294,8 +287,15 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Three wallets hoard $52.7M on XRP’s sidechain, and nobody is trading it",
+     "link": "https://cryptoslate.com/three-wallets-hoard-52-7m-on-xrps-sidechain-and-nobody-is-trading-it/",
+     "source": "CryptoSlate",
+     "time": "2026-11-17T22:40:31+00:00",
+     "s": 0
+    },
     {
      "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
      "link": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
