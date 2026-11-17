@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T09:27:57.031513+00:00",
+ "updated": "2026-11-17T10:30:05.884165+00:00",
  "window_hours": 48,
- "headlines": 115,
+ "headlines": 117,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,16 +14,9 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 15,
-   "count": 31,
+   "neg": 13,
+   "count": 28,
    "items": [
-    {
-     "title": "Nvidia Stock Slides 4% Before Earnings – Could Bitcoin Benefit From A Tech Market Reset?",
-     "link": "https://bitcoinist.com/nvidia-stock-slides-4-before-earnings-could-bitcoin-benefit-from-a-tech-market-reset/",
-     "source": "Bitcoinist",
-     "time": "2026-11-17T08:36:32+00:00",
-     "s": -1
-    },
     {
      "title": "Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000",
      "link": "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
@@ -121,14 +114,35 @@
      "source": "Bitcoinist",
      "time": "2026-11-16T15:33:37+00:00",
      "s": -1
+    },
+    {
+     "title": "'Nobody Knows Who's in Charge': Boris Johnson Stands by Bitcoin Skepticism at Breakpoint",
+     "link": "https://decrypt.co/383307/nobody-knows-whos-in-charge-boris-johnson-stands-by-bitcoin-skepticism-at-breakpoint",
+     "source": "Decrypt",
+     "time": "2026-11-16T15:04:56+00:00",
+     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 2,
    "neg": 1,
-   "count": 11,
+   "count": 13,
    "items": [
+    {
+     "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+     "link": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-17T09:30:05+00:00",
+     "s": 0
+    },
+    {
+     "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
+     "link": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+     "source": "Decrypt",
+     "time": "2026-11-17T09:27:29+00:00",
+     "s": 0
+    },
     {
      "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
      "link": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
@@ -211,7 +225,7 @@
   "SOL": {
    "pos": 2,
    "neg": 2,
-   "count": 12,
+   "count": 11,
    "items": [
     {
      "title": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
@@ -289,13 +303,6 @@
      "source": "CoinDesk",
      "time": "2026-11-16T13:03:16+00:00",
      "s": -1
-    },
-    {
-     "title": "Solana drops ‘mainnet beta’ label and adopts protocol version 1.0",
-     "link": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885",
-     "source": "The Block",
-     "time": "2026-11-16T12:30:35+00:00",
-     "s": 0
     }
    ]
   },
