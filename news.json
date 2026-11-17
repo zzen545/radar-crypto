@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T23:10:05.952713+00:00",
+ "updated": "2026-11-17T00:04:31.867621+00:00",
  "window_hours": 48,
- "headlines": 111,
+ "headlines": 112,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -197,7 +197,7 @@
   "SOL": {
    "pos": 1,
    "neg": 2,
-   "count": 10,
+   "count": 9,
    "items": [
     {
      "title": "Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows",
@@ -260,13 +260,6 @@
      "link": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885",
      "source": "The Block",
      "time": "2026-11-16T12:30:35+00:00",
-     "s": 0
-    },
-    {
-     "title": "CoW Swap goes live on Solana with intent-based trading",
-     "link": "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840",
-     "source": "The Block",
-     "time": "2026-11-16T09:05:02+00:00",
      "s": 0
     }
    ]
