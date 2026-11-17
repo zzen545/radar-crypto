@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T02:42:50.525287+00:00",
+ "updated": "2026-11-17T03:42:46.138532+00:00",
  "window_hours": 48,
- "headlines": 112,
+ "headlines": 111,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 4,
    "neg": 13,
-   "count": 32,
+   "count": 31,
    "items": [
     {
      "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
@@ -51,13 +51,6 @@
      "source": "CoinDesk",
      "time": "2026-11-16T20:35:21+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin flashes false recovery warning as $64 billion futures frenzy masks weak demand",
-     "link": "https://cryptoslate.com/bitcoin-flashes-false-recovery-warning-as-64-billion-futures-frenzy-masks-weak-demand/",
-     "source": "CryptoSlate",
-     "time": "2026-11-16T19:10:29+00:00",
-     "s": 0
     },
     {
      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
@@ -121,6 +114,13 @@
      "source": "Decrypt",
      "time": "2026-11-16T13:23:17+00:00",
      "s": -1
+    },
+    {
+     "title": "‘This dip could use a little orange’: Michael Saylor’s Strategy buys another 485 BTC for $33 million as bitcoin tumbles",
+     "link": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886",
+     "source": "The Block",
+     "time": "2026-11-16T13:13:14+00:00",
+     "s": 0
     }
    ]
   },
@@ -287,8 +287,8 @@
   },
   "XRP": {
    "pos": 1,
-   "neg": 1,
-   "count": 2,
+   "neg": 0,
+   "count": 1,
    "items": [
     {
      "title": "XRP’s proposed upgrade could improve trading without boosting token demand",
@@ -296,13 +296,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-16T20:10:19+00:00",
      "s": 1
-    },
-    {
-     "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-     "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
-     "source": "CoinDesk",
-     "time": "2026-11-15T02:50:57+00:00",
-     "s": -1
     }
    ]
   },
