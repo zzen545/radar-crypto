@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T18:44:53.902632+00:00",
+ "updated": "2026-11-17T19:54:25.882963+00:00",
  "window_hours": 48,
- "headlines": 122,
+ "headlines": 124,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -125,10 +125,17 @@
    ]
   },
   "ETH": {
-   "pos": 1,
-   "neg": 2,
+   "pos": 2,
+   "neg": 1,
    "count": 10,
    "items": [
+    {
+     "title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
+     "link": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
+     "source": "Decrypt",
+     "time": "2026-11-17T19:26:02+00:00",
+     "s": 1
+    },
     {
      "title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
      "link": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks",
@@ -184,13 +191,6 @@
      "source": "Decrypt",
      "time": "2026-11-16T20:36:03+00:00",
      "s": 0
-    },
-    {
-     "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
-     "link": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
-     "source": "The Block",
-     "time": "2026-11-16T20:30:37+00:00",
-     "s": -1
     },
     {
      "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
