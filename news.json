@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T11:22:17.044607+00:00",
+ "updated": "2026-11-17T12:14:56.801567+00:00",
  "window_hours": 48,
  "headlines": 118,
  "feeds_ok": [
@@ -14,9 +14,30 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 14,
+   "neg": 15,
    "count": 28,
    "items": [
+    {
+     "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
+     "link": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+     "source": "CoinDesk",
+     "time": "2026-11-17T12:00:55+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
+     "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+     "source": "CoinDesk",
+     "time": "2026-11-17T11:36:07+00:00",
+     "s": 0
+    },
+    {
+     "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
+     "link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-17T11:18:18+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
      "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -67,13 +88,6 @@
      "s": 0
     },
     {
-     "title": "Bitcoin Lightning developers patch bug that could make completed payments disappear",
-     "link": "https://cryptoslate.com/bitcoin-lightning-developers-patch-bug-that-could-make-completed-payments-disappear/",
-     "source": "CryptoSlate",
-     "time": "2026-11-16T22:10:43+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
      "link": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
      "source": "Decrypt",
@@ -107,27 +121,13 @@
      "source": "Decrypt",
      "time": "2026-11-16T17:20:26+00:00",
      "s": 1
-    },
-    {
-     "title": "Boris Johnson backs tokenization months after likening bitcoin to a ‘Ponzi scheme’",
-     "link": "https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368",
-     "source": "The Block",
-     "time": "2026-11-16T16:49:23+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
-     "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-16T16:26:52+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 2,
    "neg": 1,
-   "count": 13,
+   "count": 12,
    "items": [
     {
      "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
@@ -212,21 +212,21 @@
      "source": "Decrypt",
      "time": "2026-11-16T09:54:55+00:00",
      "s": 0
-    },
-    {
-     "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
-     "link": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
-     "source": "CoinDesk",
-     "time": "2026-11-16T08:18:03+00:00",
-     "s": 0
     }
    ]
   },
   "SOL": {
    "pos": 2,
    "neg": 2,
-   "count": 11,
+   "count": 12,
    "items": [
+    {
+     "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
+     "link": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+     "source": "CoinDesk",
+     "time": "2026-11-17T11:29:51+00:00",
+     "s": 0
+    },
     {
      "title": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
      "link": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
@@ -355,9 +355,16 @@
   },
   "HYPE": {
    "pos": 0,
-   "neg": 0,
-   "count": 2,
+   "neg": 1,
+   "count": 3,
    "items": [
+    {
+     "title": "Lighter’s exploit raises uncomfortable questions for Hyperliquid’s $5.7 billion market",
+     "link": "https://cryptoslate.com/lighters-exploit-raises-uncomfortable-questions-for-hyperliquids-5-7-billion-market/",
+     "source": "CryptoSlate",
+     "time": "2026-11-17T12:00:11+00:00",
+     "s": -1
+    },
     {
      "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
      "link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -376,17 +383,9 @@
   },
   "ASTER": {
    "pos": 0,
-   "neg": 1,
-   "count": 1,
-   "items": [
-    {
-     "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
-     "link": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-16T05:28:40+00:00",
-     "s": -1
-    }
-   ]
+   "neg": 0,
+   "count": 0,
+   "items": []
   },
   "XPL": {
    "pos": 0,
