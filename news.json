@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T16:51:11.488811+00:00",
+ "updated": "2026-11-17T17:52:02.477123+00:00",
  "window_hours": 48,
- "headlines": 120,
+ "headlines": 121,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 4,
-   "neg": 11,
-   "count": 28,
+   "neg": 12,
+   "count": 27,
    "items": [
     {
      "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
@@ -102,11 +102,11 @@
      "s": -1
     },
     {
-     "title": "Live updates: Bitcoin and stocks continue slump, but Nvidia boosted as Huang signals possible return",
+     "title": "Live updates: Bitcoin and stocks continue slump as Huang signals interest in returning to Nvidia",
      "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
      "source": "CoinDesk",
      "time": "2026-11-17T10:33:26+00:00",
-     "s": 0
+     "s": -1
     },
     {
      "title": "Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000",
@@ -126,9 +126,16 @@
   },
   "ETH": {
    "pos": 1,
-   "neg": 1,
+   "neg": 2,
    "count": 10,
    "items": [
+    {
+     "title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
+     "link": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks",
+     "source": "Decrypt",
+     "time": "2026-11-17T17:18:41+00:00",
+     "s": -1
+    },
     {
      "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
      "link": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
@@ -186,13 +193,6 @@
      "s": -1
     },
     {
-     "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
-     "link": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-16T13:00:00+00:00",
-     "s": 0
-    },
-    {
      "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
      "link": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
      "source": "Decrypt",
@@ -203,8 +203,8 @@
   },
   "SOL": {
    "pos": 2,
-   "neg": 2,
-   "count": 13,
+   "neg": 1,
+   "count": 12,
    "items": [
     {
      "title": "Solana Foundation Takes Majority Stake in CoinGecko in Major Push Into Crypto Data",
@@ -289,29 +289,14 @@
      "source": "Decrypt",
      "time": "2026-11-16T13:12:08+00:00",
      "s": 0
-    },
-    {
-     "title": "Solana drops ‘beta’ label after more than six years",
-     "link": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
-     "source": "CoinDesk",
-     "time": "2026-11-16T13:03:16+00:00",
-     "s": -1
     }
    ]
   },
   "BNB": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
-     "link": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-16T13:00:00+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "XRP": {
    "pos": 1,
