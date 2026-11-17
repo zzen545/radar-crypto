@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T05:48:48.269575+00:00",
+ "updated": "2026-11-17T06:55:13.426956+00:00",
  "window_hours": 48,
- "headlines": 113,
+ "headlines": 114,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 5,
-   "neg": 13,
-   "count": 32,
+   "pos": 6,
+   "neg": 12,
+   "count": 30,
    "items": [
+    {
+     "title": "Wells Fargo Doubles Bitcoin ETF Holdings To $2.35 Billion As Wall Street Expands Exposure",
+     "link": "https://bitcoinist.com/wells-fargo-doubles-bitcoin-etf-holdings-to-2-35-billion-as-wall-street-expands-exposure/",
+     "source": "Bitcoinist",
+     "time": "2026-11-17T05:58:19+00:00",
+     "s": 1
+    },
     {
      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
      "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
@@ -114,20 +121,13 @@
      "source": "Cointelegraph",
      "time": "2026-11-16T13:29:11+00:00",
      "s": 1
-    },
-    {
-     "title": "Morning Minute: Crypto Hits Extreme Fear as Bitcoin Plunges",
-     "link": "https://decrypt.co/383301/morning-minute-crypto-hits-extreme-fear-as-bitcoin-plunges",
-     "source": "Decrypt",
-     "time": "2026-11-16T13:23:17+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
-   "pos": 2,
+   "pos": 1,
    "neg": 1,
-   "count": 10,
+   "count": 9,
    "items": [
     {
      "title": "Ethereum test exposes flaw that lets transactions skip payments",
@@ -179,13 +179,6 @@
      "s": 0
     },
     {
-     "title": "Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale",
-     "link": "https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870",
-     "source": "The Block",
-     "time": "2026-11-16T10:29:30+00:00",
-     "s": 1
-    },
-    {
      "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
      "link": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
      "source": "Decrypt",
@@ -204,8 +197,15 @@
   "SOL": {
    "pos": 1,
    "neg": 2,
-   "count": 9,
+   "count": 10,
    "items": [
+    {
+     "title": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
+     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584",
+     "source": "The Block",
+     "time": "2026-11-17T05:45:00+00:00",
+     "s": 0
+    },
     {
      "title": "Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows",
      "link": "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407",
@@ -286,9 +286,9 @@
    ]
   },
   "XRP": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
@@ -296,13 +296,6 @@
      "source": "CoinDesk",
      "time": "2026-11-17T05:02:05+00:00",
      "s": 0
-    },
-    {
-     "title": "XRP’s proposed upgrade could improve trading without boosting token demand",
-     "link": "https://cryptoslate.com/xrps-proposed-upgrade-could-improve-trading-without-boosting-token-demand/",
-     "source": "CryptoSlate",
-     "time": "2026-11-16T20:10:19+00:00",
-     "s": 1
     }
    ]
   },
@@ -321,8 +314,15 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
+     "link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-17T06:35:19+00:00",
+     "s": 0
+    },
     {
      "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
      "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
