@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T14:46:42.387048+00:00",
+ "updated": "2026-11-17T15:42:56.745137+00:00",
  "window_hours": 48,
- "headlines": 119,
+ "headlines": 120,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -17,6 +17,20 @@
    "neg": 10,
    "count": 25,
    "items": [
+    {
+     "title": "BlackRock Bitcoin ETF Ends Outflow Streak as Extreme Fear Grips Crypto Market",
+     "link": "https://bitcoinist.com/blackrock-bitcoin-etf-ends-outflow-streak-as-extreme-fear-grips-crypto-market/",
+     "source": "Bitcoinist",
+     "time": "2026-11-17T15:15:58+00:00",
+     "s": -1
+    },
+    {
+     "title": "NVIDIA Earnings: Could Tonight’s Results Trigger the Next Move in Bitcoin?",
+     "link": "https://bitcoinist.com/nvidia-earnings-could-tonights-results-trigger-the-next-move-in-bitcoin/",
+     "source": "Bitcoinist",
+     "time": "2026-11-17T14:55:41+00:00",
+     "s": 0
+    },
     {
      "title": "Bernstein sees upside for bitcoin miners Riot and TeraWulf, citing discounts to implied AI data center values",
      "link": "https://www.theblock.co/news/markets/2026-11-17-bernstein-sees-upside-for-bitcoin-miners-riot-and-terawulf-citing-discounts-to-implied-ai-data-center-values-442125",
@@ -107,27 +121,13 @@
      "source": "Decrypt",
      "time": "2026-11-16T22:18:03+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
-     "link": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
-     "source": "Decrypt",
-     "time": "2026-11-16T21:46:03+00:00",
-     "s": -1
-    },
-    {
-     "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
-     "link": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
-     "source": "Decrypt",
-     "time": "2026-11-16T21:16:03+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 2,
+   "pos": 1,
    "neg": 1,
-   "count": 12,
+   "count": 10,
    "items": [
     {
      "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
@@ -165,13 +165,6 @@
      "s": 1
     },
     {
-     "title": "Ethereum test exposes flaw that lets transactions skip payments",
-     "link": "https://cryptoslate.com/ethereum-test-exposes-flaw-that-lets-transactions-skip-payments/",
-     "source": "CryptoSlate",
-     "time": "2026-11-17T02:10:39+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
      "link": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -193,13 +186,6 @@
      "s": -1
     },
     {
-     "title": "Vitalik Buterin Backs Faster Route to Quantum-Safe Ethereum With New Proposal",
-     "link": "https://bitcoinist.com/vitalik-buterin-backs-faster-route-to-quantum-safe-ethereum-with-new-proposal/",
-     "source": "Bitcoinist",
-     "time": "2026-11-16T15:24:16+00:00",
-     "s": 1
-    },
-    {
      "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
      "link": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -218,8 +204,15 @@
   "SOL": {
    "pos": 3,
    "neg": 2,
-   "count": 12,
+   "count": 13,
    "items": [
+    {
+     "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+     "link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-17T14:45:49+00:00",
+     "s": 0
+    },
     {
      "title": "Solana’s Trump memecoin launch tested infrastructure ahead of institutional push, Lily Liu says",
      "link": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
@@ -356,8 +349,15 @@
   "HYPE": {
    "pos": 0,
    "neg": 1,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "Hyperliquid’s $3.4 billion HYPE burn machine faces new test as USDC reserves shrink",
+     "link": "https://cryptoslate.com/hyperliquids-3-4-billion-hype-burn-machine-faces-new-test-as-usdc-reserves-shrink/",
+     "source": "CryptoSlate",
+     "time": "2026-11-17T15:10:21+00:00",
+     "s": 0
+    },
     {
      "title": "Lighter’s exploit raises uncomfortable questions for Hyperliquid’s $5.7 billion market",
      "link": "https://cryptoslate.com/lighters-exploit-raises-uncomfortable-questions-for-hyperliquids-5-7-billion-market/",
