@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T17:52:02.477123+00:00",
+ "updated": "2026-11-17T18:44:53.902632+00:00",
  "window_hours": 48,
- "headlines": 121,
+ "headlines": 122,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 4,
+   "pos": 3,
    "neg": 12,
    "count": 27,
    "items": [
+    {
+     "title": "Bitcoin Lightning developers needed two patches to stop a potentially costly attack",
+     "link": "https://cryptoslate.com/bitcoin-lightning-developers-needed-two-patches-to-stop-a-potentially-costly-attack/",
+     "source": "CryptoSlate",
+     "time": "2026-11-17T18:40:30+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
      "link": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -114,13 +121,6 @@
      "source": "The Block",
      "time": "2026-11-17T07:39:17+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
-     "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
-     "source": "CoinDesk",
-     "time": "2026-11-17T07:38:07+00:00",
-     "s": -1
     }
    ]
   },
@@ -204,7 +204,7 @@
   "SOL": {
    "pos": 2,
    "neg": 1,
-   "count": 12,
+   "count": 11,
    "items": [
     {
      "title": "Solana Foundation Takes Majority Stake in CoinGecko in Major Push Into Crypto Data",
@@ -260,13 +260,6 @@
      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584",
      "source": "The Block",
      "time": "2026-11-17T05:45:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows",
-     "link": "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407",
-     "source": "The Block",
-     "time": "2026-11-16T20:27:32+00:00",
      "s": 0
     },
     {
