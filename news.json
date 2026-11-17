@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T04:46:55.969017+00:00",
+ "updated": "2026-11-17T05:48:48.269575+00:00",
  "window_hours": 48,
- "headlines": 111,
+ "headlines": 113,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 4,
+   "pos": 5,
    "neg": 13,
-   "count": 31,
+   "count": 32,
    "items": [
+    {
+     "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+     "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+     "source": "CoinDesk",
+     "time": "2026-11-17T05:37:23+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
      "link": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
@@ -114,13 +121,6 @@
      "source": "Decrypt",
      "time": "2026-11-16T13:23:17+00:00",
      "s": -1
-    },
-    {
-     "title": "‘This dip could use a little orange’: Michael Saylor’s Strategy buys another 485 BTC for $33 million as bitcoin tumbles",
-     "link": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886",
-     "source": "The Block",
-     "time": "2026-11-16T13:13:14+00:00",
-     "s": 0
     }
    ]
   },
@@ -288,8 +288,15 @@
   "XRP": {
    "pos": 1,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
+     "link": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
+     "source": "CoinDesk",
+     "time": "2026-11-17T05:02:05+00:00",
+     "s": 0
+    },
     {
      "title": "XRP’s proposed upgrade could improve trading without boosting token demand",
      "link": "https://cryptoslate.com/xrps-proposed-upgrade-could-improve-trading-without-boosting-token-demand/",
