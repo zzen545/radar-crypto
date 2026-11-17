@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T10:30:05.884165+00:00",
+ "updated": "2026-11-17T11:22:17.044607+00:00",
  "window_hours": 48,
- "headlines": 117,
+ "headlines": 118,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 13,
+   "neg": 14,
    "count": 28,
    "items": [
+    {
+     "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
+     "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-17T11:14:05+00:00",
+     "s": -1
+    },
+    {
+     "title": "Live updates: Bitcoin holds near $64,000 as tech slides ahead of Nvidia earnings",
+     "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
+     "source": "CoinDesk",
+     "time": "2026-11-17T10:33:26+00:00",
+     "s": -1
+    },
     {
      "title": "Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000",
      "link": "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
@@ -107,20 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-16T16:26:52+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin Miners Hijacked as Attackers Redirect BTC Through Luxor Breach",
-     "link": "https://bitcoinist.com/bitcoin-miners-hijacked-as-attackers-redirect-btc-through-luxor-breach/",
-     "source": "Bitcoinist",
-     "time": "2026-11-16T15:33:37+00:00",
-     "s": -1
-    },
-    {
-     "title": "'Nobody Knows Who's in Charge': Boris Johnson Stands by Bitcoin Skepticism at Breakpoint",
-     "link": "https://decrypt.co/383307/nobody-knows-whos-in-charge-boris-johnson-stands-by-bitcoin-skepticism-at-breakpoint",
-     "source": "Decrypt",
-     "time": "2026-11-16T15:04:56+00:00",
-     "s": 0
     }
    ]
   },
