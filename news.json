@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-18T08:08:17.112404+00:00",
+ "updated": "2026-11-18T09:27:39.478331+00:00",
  "window_hours": 48,
- "headlines": 130,
+ "headlines": 129,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 2,
    "neg": 11,
-   "count": 27,
+   "count": 25,
    "items": [
+    {
+     "title": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase",
+     "link": "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-18T08:09:23+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin Buyers Add 66,000 BTC During Market Sell-Off — Is A Major Reversal Coming?",
      "link": "https://bitcoinist.com/bitcoin-buyers-add-66000-btc-during-market-sell-off-is-a-major-reversal-coming/",
@@ -64,13 +71,6 @@
      "link": "https://cryptoslate.com/bitcoin-developer-verifies-164-million-unspent-coins-in-just-72-seconds/",
      "source": "CryptoSlate",
      "time": "2026-11-17T20:00:40+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Lightning developers needed two patches to stop a potentially costly attack",
-     "link": "https://cryptoslate.com/bitcoin-lightning-developers-needed-two-patches-to-stop-a-potentially-costly-attack/",
-     "source": "CryptoSlate",
-     "time": "2026-11-17T18:40:30+00:00",
      "s": 0
     },
     {
@@ -211,8 +211,15 @@
   "SOL": {
    "pos": 2,
    "neg": 1,
-   "count": 9,
+   "count": 10,
    "items": [
+    {
+     "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
+     "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-18T08:41:16+00:00",
+     "s": 0
+    },
     {
      "title": "CoinGecko secures Solana Foundation backing and eyes crypto trading",
      "link": "https://cryptoslate.com/coingecko-secures-solana-foundation-backing-and-eyes-crypto-trading/",
