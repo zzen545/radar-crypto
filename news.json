@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:28:54.957133+00:00",
+ "updated": "2026-11-18T06:31:05.783695+00:00",
  "window_hours": 48,
  "headlines": 130,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 2,
    "neg": 10,
-   "count": 26,
+   "count": 25,
    "items": [
     {
      "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
@@ -58,13 +58,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-17T16:39:43+00:00",
      "s": -1
-    },
-    {
-     "title": "BlackRock single-handedly ends Bitcoin ETFs’ $1.9 billion exodus as seven rivals keep bleeding",
-     "link": "https://cryptoslate.com/blackrock-single-handedly-ends-bitcoin-etfs-1-9-billion-exodus-as-seven-rivals-keep-bleeding/",
-     "source": "CryptoSlate",
-     "time": "2026-11-17T16:20:52+00:00",
-     "s": 0
     },
     {
      "title": "Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin",
@@ -121,14 +114,28 @@
      "source": "Cointelegraph",
      "time": "2026-11-17T11:18:18+00:00",
      "s": -1
+    },
+    {
+     "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
+     "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-17T11:14:05+00:00",
+     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 2,
-   "neg": 1,
-   "count": 10,
+   "neg": 2,
+   "count": 11,
    "items": [
+    {
+     "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
+     "link": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+     "source": "CoinDesk",
+     "time": "2026-11-18T05:30:10+00:00",
+     "s": -1
+    },
     {
      "title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
      "link": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
@@ -280,7 +287,7 @@
   "XRP": {
    "pos": 0,
    "neg": 1,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
@@ -294,13 +301,6 @@
      "link": "https://cryptoslate.com/three-wallets-hoard-52-7m-on-xrps-sidechain-and-nobody-is-trading-it/",
      "source": "CryptoSlate",
      "time": "2026-11-17T22:40:31+00:00",
-     "s": 0
-    },
-    {
-     "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
-     "link": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
-     "source": "CoinDesk",
-     "time": "2026-11-17T05:02:05+00:00",
      "s": 0
     }
    ]
