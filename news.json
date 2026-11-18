@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-18T22:40:46.143399+00:00",
+ "updated": "2026-11-18T23:39:23.664764+00:00",
  "window_hours": 48,
- "headlines": 127,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 2,
    "neg": 10,
-   "count": 28,
+   "count": 27,
    "items": [
     {
      "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
@@ -259,8 +259,15 @@
   "XRP": {
    "pos": 0,
    "neg": 2,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Bitwise offloads 23.7M XRP while silently stacking 126M more",
+     "link": "https://cryptoslate.com/bitwise-offloads-23-7m-xrp-while-silently-stacking-126m-more/",
+     "source": "CryptoSlate",
+     "time": "2026-11-18T23:30:47+00:00",
+     "s": 0
+    },
     {
      "title": "XRP Whales Move $270M During Sell-Off, but Exchange Deposits Tell a Different Story",
      "link": "https://bitcoinist.com/xrp-whales-move-270m-during-sell-off-but-exchange-deposits-tell-a-different-story/",
