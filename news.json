@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:41:50.806675+00:00",
+ "updated": "2026-11-18T22:40:46.143399+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 2,
    "neg": 10,
-   "count": 30,
+   "count": 28,
    "items": [
+    {
+     "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
+     "link": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
+     "source": "Decrypt",
+     "time": "2026-11-18T22:16:02+00:00",
+     "s": -1
+    },
     {
      "title": "Germany moves to freeze Bitcoin for up to 180 days, even without access to private keys",
      "link": "https://cryptoslate.com/germany-moves-to-freeze-bitcoin-for-up-to-180-days-even-without-access-to-private-keys/",
@@ -114,20 +121,13 @@
      "source": "The Block",
      "time": "2026-11-18T14:01:54+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin buyers pile 66,000 BTC into critical $62,000 support zone",
-     "link": "https://cryptoslate.com/bitcoin-buyers-pile-66000-btc-into-critical-62000-support-zone/",
-     "source": "CryptoSlate",
-     "time": "2026-11-18T13:00:15+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 2,
    "neg": 3,
-   "count": 10,
+   "count": 9,
    "items": [
     {
      "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
@@ -184,13 +184,6 @@
      "source": "Decrypt",
      "time": "2026-11-17T17:18:41+00:00",
      "s": -1
-    },
-    {
-     "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
-     "link": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
-     "source": "CoinDesk",
-     "time": "2026-11-17T13:02:56+00:00",
-     "s": 0
     },
     {
      "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
@@ -266,7 +259,7 @@
   "XRP": {
    "pos": 0,
    "neg": 2,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "XRP Whales Move $270M During Sell-Off, but Exchange Deposits Tell a Different Story",
@@ -274,13 +267,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-18T16:00:47+00:00",
      "s": -1
-    },
-    {
-     "title": "Ripple’s 126.8 million XRP valued at $0 in Evernorth filing as $505 million write-down emerges",
-     "link": "https://cryptoslate.com/ripples-126-8-million-xrp-valued-at-0-in-evernorth-filing-as-505-million-write-down-emerges/",
-     "source": "CryptoSlate",
-     "time": "2026-11-18T11:10:04+00:00",
-     "s": 0
     },
     {
      "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
