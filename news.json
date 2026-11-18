@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-18T17:47:14.275757+00:00",
+ "updated": "2026-11-18T18:41:06.118891+00:00",
  "window_hours": 48,
- "headlines": 127,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 3,
    "neg": 12,
-   "count": 30,
+   "count": 31,
    "items": [
+    {
+     "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
+     "link": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-18T18:27:52+00:00",
+     "s": 0
+    },
     {
      "title": "CryptoQuant says bitcoin is back in a bearish phase but has reached a ‘value zone’",
      "link": "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471",
@@ -114,13 +121,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-18T12:00:26+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
-     "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
-     "source": "CoinDesk",
-     "time": "2026-11-18T11:42:52+00:00",
-     "s": -1
     }
    ]
   },
