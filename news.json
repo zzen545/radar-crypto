@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T14:42:54.810233+00:00",
+ "updated": "2026-11-18T15:46:13.036100+00:00",
  "window_hours": 48,
  "headlines": 129,
  "feeds_ok": [
@@ -17,6 +17,27 @@
    "neg": 12,
    "count": 30,
    "items": [
+    {
+     "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
+     "link": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
+     "source": "CoinDesk",
+     "time": "2026-11-18T15:38:38+00:00",
+     "s": 0
+    },
+    {
+     "title": "Nvidia Earnings Surge as Board Rejects Huang’s Return and Bitcoin Eyes $60K",
+     "link": "https://bitcoinist.com/nvidia-earnings-surge-as-board-rejects-huangs-return-and-bitcoin-eyes-60k/",
+     "source": "Bitcoinist",
+     "time": "2026-11-18T15:20:21+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin faces a new threat as US prices surge at fastest pace in 38 years",
+     "link": "https://cryptoslate.com/bitcoin-faces-a-new-threat-as-us-prices-surge-at-fastest-pace-in-38-years/",
+     "source": "CryptoSlate",
+     "time": "2026-11-18T14:50:59+00:00",
+     "s": 1
+    },
     {
      "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire",
      "link": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
@@ -99,27 +120,6 @@
      "link": "https://cryptoslate.com/bitcoins-failed-nvidia-earnings-rally-puts-62000-support-back-in-the-spotlight/",
      "source": "CryptoSlate",
      "time": "2026-11-18T10:20:39+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase",
-     "link": "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-18T08:09:23+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin Buyers Add 66,000 BTC During Market Sell-Off — Is A Major Reversal Coming?",
-     "link": "https://bitcoinist.com/bitcoin-buyers-add-66000-btc-during-market-sell-off-is-a-major-reversal-coming/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T08:06:46+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin power-law models predict a rebound without real proof",
-     "link": "https://cryptoslate.com/bitcoin-power-law-models-predict-a-rebound-without-real-proof/",
-     "source": "CryptoSlate",
-     "time": "2026-11-18T07:40:44+00:00",
      "s": 1
     }
    ]
