@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T06:31:05.783695+00:00",
+ "updated": "2026-11-18T08:08:17.112404+00:00",
  "window_hours": 48,
  "headlines": 130,
  "feeds_ok": [
@@ -14,9 +14,30 @@
  "coins": {
   "BTC": {
    "pos": 2,
-   "neg": 10,
-   "count": 25,
+   "neg": 11,
+   "count": 27,
    "items": [
+    {
+     "title": "Bitcoin Buyers Add 66,000 BTC During Market Sell-Off — Is A Major Reversal Coming?",
+     "link": "https://bitcoinist.com/bitcoin-buyers-add-66000-btc-during-market-sell-off-is-a-major-reversal-coming/",
+     "source": "Bitcoinist",
+     "time": "2026-11-18T08:06:46+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin power-law models predict a rebound without real proof",
+     "link": "https://cryptoslate.com/bitcoin-power-law-models-predict-a-rebound-without-real-proof/",
+     "source": "CryptoSlate",
+     "time": "2026-11-18T07:40:44+00:00",
+     "s": 1
+    },
+    {
+     "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
+     "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+     "source": "CoinDesk",
+     "time": "2026-11-18T07:27:48+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
@@ -99,27 +120,6 @@
      "link": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
      "source": "CoinDesk",
      "time": "2026-11-17T12:00:55+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
-     "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
-     "source": "CoinDesk",
-     "time": "2026-11-17T11:36:07+00:00",
-     "s": 0
-    },
-    {
-     "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
-     "link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-17T11:18:18+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
-     "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-17T11:14:05+00:00",
      "s": -1
     }
    ]
