@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:42:18.939004+00:00",
+ "updated": "2026-11-18T21:41:50.806675+00:00",
  "window_hours": 48,
  "headlines": 127,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 3,
+   "pos": 2,
    "neg": 10,
-   "count": 31,
+   "count": 30,
    "items": [
+    {
+     "title": "Germany moves to freeze Bitcoin for up to 180 days, even without access to private keys",
+     "link": "https://cryptoslate.com/germany-moves-to-freeze-bitcoin-for-up-to-180-days-even-without-access-to-private-keys/",
+     "source": "CryptoSlate",
+     "time": "2026-11-18T20:40:02+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
      "link": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
@@ -113,13 +120,6 @@
      "link": "https://cryptoslate.com/bitcoin-buyers-pile-66000-btc-into-critical-62000-support-zone/",
      "source": "CryptoSlate",
      "time": "2026-11-18T13:00:15+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
-     "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
-     "source": "CoinDesk",
-     "time": "2026-11-18T12:53:34+00:00",
      "s": 0
     }
    ]
