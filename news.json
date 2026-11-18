@@ -1,22 +1,37 @@
 {
- "updated": "2026-11-18T10:28:18.386242+00:00",
+ "updated": "2026-11-18T11:24:46.767125+00:00",
  "window_hours": 48,
- "headlines": 128,
+ "headlines": 120,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 11,
+   "neg": 10,
    "count": 24,
    "items": [
+    {
+     "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
+     "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
+     "source": "CoinDesk",
+     "time": "2026-11-18T10:58:36+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out",
+     "link": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-18T10:31:20+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin’s failed Nvidia earnings rally puts $62,000 support back in the spotlight",
      "link": "https://cryptoslate.com/bitcoins-failed-nvidia-earnings-rally-puts-62000-support-back-in-the-spotlight/",
@@ -29,13 +44,6 @@
      "link": "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-18T08:09:23+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin Buyers Add 66,000 BTC During Market Sell-Off — Is A Major Reversal Coming?",
-     "link": "https://bitcoinist.com/bitcoin-buyers-add-66000-btc-during-market-sell-off-is-a-major-reversal-coming/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T08:06:46+00:00",
      "s": -1
     },
     {
@@ -88,13 +96,6 @@
      "s": 0
     },
     {
-     "title": "BlackRock Bitcoin ETF Ends Outflow Streak as Extreme Fear Grips Crypto Market",
-     "link": "https://bitcoinist.com/blackrock-bitcoin-etf-ends-outflow-streak-as-extreme-fear-grips-crypto-market/",
-     "source": "Bitcoinist",
-     "time": "2026-11-17T15:15:58+00:00",
-     "s": -1
-    },
-    {
      "title": "Bernstein sees upside for bitcoin miners Riot and TeraWulf, citing discounts to implied AI data center values",
      "link": "https://www.theblock.co/news/markets/2026-11-17-bernstein-sees-upside-for-bitcoin-miners-riot-and-terawulf-citing-discounts-to-implied-ai-data-center-values-442125",
      "source": "The Block",
@@ -125,10 +126,17 @@
    ]
   },
   "ETH": {
-   "pos": 2,
+   "pos": 3,
    "neg": 2,
    "count": 9,
    "items": [
+    {
+     "title": "TD Cowen tempers ether outlook, maintains Buy rating on Sharplink",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-18-td-cowen-maintains-buy-rating-sharplink-442987",
+     "source": "The Block",
+     "time": "2026-11-18T11:08:27+00:00",
+     "s": 1
+    },
     {
      "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
      "link": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
@@ -179,13 +187,6 @@
      "s": 1
     },
     {
-     "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
-     "link": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-16T20:45:47+00:00",
-     "s": 0
-    },
-    {
      "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
      "link": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
      "source": "Decrypt",
@@ -195,17 +196,10 @@
    ]
   },
   "SOL": {
-   "pos": 3,
+   "pos": 2,
    "neg": 1,
-   "count": 11,
+   "count": 9,
    "items": [
-    {
-     "title": "Solana Price Rebounds Toward $80 As Buyers Return — Can SOL Break Its Downtrend?",
-     "link": "https://bitcoinist.com/solana-price-rebounds-toward-80-as-buyers-return-can-sol-break-its-downtrend/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T09:48:49+00:00",
-     "s": 1
-    },
     {
      "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
      "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -218,13 +212,6 @@
      "link": "https://cryptoslate.com/coingecko-secures-solana-foundation-backing-and-eyes-crypto-trading/",
      "source": "CryptoSlate",
      "time": "2026-11-18T03:10:56+00:00",
-     "s": 0
-    },
-    {
-     "title": "Solana Foundation Takes Majority Stake in CoinGecko in Major Push Into Crypto Data",
-     "link": "https://bitcoinist.com/solana-foundation-takes-majority-stake-in-coingecko-in-major-push-into-crypto-data/",
-     "source": "Bitcoinist",
-     "time": "2026-11-17T15:40:11+00:00",
      "s": 0
     },
     {
@@ -290,18 +277,18 @@
    "count": 2,
    "items": [
     {
+     "title": "Ripple’s 126.8 million XRP valued at $0 in Evernorth filing as $505 million write-down emerges",
+     "link": "https://cryptoslate.com/ripples-126-8-million-xrp-valued-at-0-in-evernorth-filing-as-505-million-write-down-emerges/",
+     "source": "CryptoSlate",
+     "time": "2026-11-18T11:10:04+00:00",
+     "s": 0
+    },
+    {
      "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
      "link": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
      "source": "CoinDesk",
      "time": "2026-11-18T04:28:37+00:00",
      "s": -1
-    },
-    {
-     "title": "Three wallets hoard $52.7M on XRP’s sidechain, and nobody is trading it",
-     "link": "https://cryptoslate.com/three-wallets-hoard-52-7m-on-xrps-sidechain-and-nobody-is-trading-it/",
-     "source": "CryptoSlate",
-     "time": "2026-11-17T22:40:31+00:00",
-     "s": 0
     }
    ]
   },
@@ -351,9 +338,17 @@
   },
   "XAU": {
    "pos": 0,
-   "neg": 0,
-   "count": 0,
-   "items": []
+   "neg": 1,
+   "count": 1,
+   "items": [
+    {
+     "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
+     "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
+     "source": "CoinDesk",
+     "time": "2026-11-18T10:58:36+00:00",
+     "s": -1
+    }
+   ]
   }
  }
 }
