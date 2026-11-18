@@ -1,22 +1,37 @@
 {
- "updated": "2026-11-18T12:18:18.003402+00:00",
+ "updated": "2026-11-18T13:43:07.196619+00:00",
  "window_hours": 48,
- "headlines": 129,
+ "headlines": 121,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
-   "pos": 3,
-   "neg": 12,
-   "count": 27,
+   "pos": 4,
+   "neg": 10,
+   "count": 26,
    "items": [
+    {
+     "title": "Bitcoin buyers pile 66,000 BTC into critical $62,000 support zone",
+     "link": "https://cryptoslate.com/bitcoin-buyers-pile-66000-btc-into-critical-62000-support-zone/",
+     "source": "CryptoSlate",
+     "time": "2026-11-18T13:00:15+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+     "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+     "source": "CoinDesk",
+     "time": "2026-11-18T12:53:34+00:00",
+     "s": 0
+    },
     {
      "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
      "link": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
@@ -37,13 +52,6 @@
      "source": "CoinDesk",
      "time": "2026-11-18T11:42:52+00:00",
      "s": -1
-    },
-    {
-     "title": "Michael Saylor Says Banks Are Bringing Bitcoin To Clients — But Who Really Owns The $2.35 Billion?",
-     "link": "https://bitcoinist.com/michael-saylor-says-banks-are-bringing-bitcoin-to-clients-but-who-really-owns-the-2-35-billion/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T11:26:46+00:00",
-     "s": 0
     },
     {
      "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
@@ -74,13 +82,6 @@
      "s": -1
     },
     {
-     "title": "Bitcoin Buyers Add 66,000 BTC During Market Sell-Off — Is A Major Reversal Coming?",
-     "link": "https://bitcoinist.com/bitcoin-buyers-add-66000-btc-during-market-sell-off-is-a-major-reversal-coming/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T08:06:46+00:00",
-     "s": -1
-    },
-    {
      "title": "Bitcoin power-law models predict a rebound without real proof",
      "link": "https://cryptoslate.com/bitcoin-power-law-models-predict-a-rebound-without-real-proof/",
      "source": "CryptoSlate",
@@ -88,14 +89,14 @@
      "s": 1
     },
     {
-     "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
+     "title": "Live updates: Bitcoin lower even as Nasdaq rises on Nvidia relief",
      "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
      "source": "CoinDesk",
      "time": "2026-11-18T07:27:48+00:00",
-     "s": 0
+     "s": 1
     },
     {
-     "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
+     "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months",
      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
      "source": "CoinDesk",
      "time": "2026-11-18T04:34:21+00:00",
@@ -195,17 +196,10 @@
    ]
   },
   "SOL": {
-   "pos": 3,
+   "pos": 2,
    "neg": 1,
-   "count": 11,
+   "count": 7,
    "items": [
-    {
-     "title": "Solana Price Rebounds Toward $80 As Buyers Return — Can SOL Break Its Downtrend?",
-     "link": "https://bitcoinist.com/solana-price-rebounds-toward-80-as-buyers-return-can-sol-break-its-downtrend/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T09:48:49+00:00",
-     "s": 1
-    },
     {
      "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
      "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -218,13 +212,6 @@
      "link": "https://cryptoslate.com/coingecko-secures-solana-foundation-backing-and-eyes-crypto-trading/",
      "source": "CryptoSlate",
      "time": "2026-11-18T03:10:56+00:00",
-     "s": 0
-    },
-    {
-     "title": "Solana Foundation Takes Majority Stake in CoinGecko in Major Push Into Crypto Data",
-     "link": "https://bitcoinist.com/solana-foundation-takes-majority-stake-in-coingecko-in-major-push-into-crypto-data/",
-     "source": "Bitcoinist",
-     "time": "2026-11-17T15:40:11+00:00",
      "s": 0
     },
     {
@@ -249,13 +236,6 @@
      "s": 0
     },
     {
-     "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
-     "link": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
-     "source": "CoinDesk",
-     "time": "2026-11-17T11:29:51+00:00",
-     "s": 0
-    },
-    {
      "title": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
      "link": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
      "source": "Decrypt",
@@ -268,13 +248,6 @@
      "source": "Decrypt",
      "time": "2026-11-16T16:14:22+00:00",
      "s": -1
-    },
-    {
-     "title": "Ledger Brings Clear Signing to Solana, Ending 'Blind' Signing for Jupiter Swaps",
-     "link": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
-     "source": "Decrypt",
-     "time": "2026-11-16T13:12:08+00:00",
-     "s": 0
     }
    ]
   },
