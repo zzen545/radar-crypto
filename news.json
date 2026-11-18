@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:25:30.703400+00:00",
+ "updated": "2026-11-18T05:28:54.957133+00:00",
  "window_hours": 48,
  "headlines": 130,
  "feeds_ok": [
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 2,
-   "neg": 11,
-   "count": 27,
+   "neg": 10,
+   "count": 26,
    "items": [
+    {
+     "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
+     "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
+     "source": "CoinDesk",
+     "time": "2026-11-18T04:34:21+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin faces a liquidity drain as Anthropic IPO unlocks millions",
      "link": "https://cryptoslate.com/bitcoin-faces-a-liquidity-drain-as-anthropic-ipo-unlocks-millions/",
@@ -113,13 +120,6 @@
      "link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-17T11:18:18+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
-     "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-17T11:14:05+00:00",
      "s": -1
     }
    ]
@@ -279,9 +279,16 @@
   },
   "XRP": {
    "pos": 0,
-   "neg": 0,
-   "count": 2,
+   "neg": 1,
+   "count": 3,
    "items": [
+    {
+     "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
+     "link": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
+     "source": "CoinDesk",
+     "time": "2026-11-18T04:28:37+00:00",
+     "s": -1
+    },
     {
      "title": "Three wallets hoard $52.7M on XRP’s sidechain, and nobody is trading it",
      "link": "https://cryptoslate.com/three-wallets-hoard-52-7m-on-xrps-sidechain-and-nobody-is-trading-it/",
@@ -313,27 +320,13 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 3,
+   "count": 1,
    "items": [
-    {
-     "title": "Hyperliquid’s $3.4 billion HYPE burn machine faces new test as USDC reserves shrink",
-     "link": "https://cryptoslate.com/hyperliquids-3-4-billion-hype-burn-machine-faces-new-test-as-usdc-reserves-shrink/",
-     "source": "CryptoSlate",
-     "time": "2026-11-17T15:10:21+00:00",
-     "s": 0
-    },
     {
      "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
      "link": "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-17T06:35:19+00:00",
-     "s": 0
-    },
-    {
-     "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
-     "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
-     "source": "CoinDesk",
-     "time": "2026-11-16T21:51:04+00:00",
      "s": 0
     }
    ]
