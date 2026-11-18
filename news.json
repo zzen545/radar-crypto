@@ -1,22 +1,37 @@
 {
- "updated": "2026-11-18T18:41:06.118891+00:00",
+ "updated": "2026-11-18T19:48:10.045534+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 119,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
-   "pos": 3,
+   "pos": 2,
    "neg": 12,
-   "count": 31,
+   "count": 30,
    "items": [
+    {
+     "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
+     "link": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
+     "source": "Decrypt",
+     "time": "2026-11-18T19:16:02+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
+     "link": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom",
+     "source": "Decrypt",
+     "time": "2026-11-18T18:46:03+00:00",
+     "s": 0
+    },
     {
      "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
      "link": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -46,24 +61,10 @@
      "s": 0
     },
     {
-     "title": "Bitcoin Gains Ground on Gold as Fed Rate-Hike Bets Pressure Both Assets",
-     "link": "https://bitcoinist.com/bitcoin-gains-ground-on-gold-as-fed-rate-hike-bets-pressure-both-assets/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T16:30:39+00:00",
-     "s": 1
-    },
-    {
      "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
      "link": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
      "source": "CoinDesk",
      "time": "2026-11-18T15:38:38+00:00",
-     "s": 0
-    },
-    {
-     "title": "Nvidia Earnings Surge as Board Rejects Huang’s Return and Bitcoin Eyes $60K",
-     "link": "https://bitcoinist.com/nvidia-earnings-surge-as-board-rejects-huangs-return-and-bitcoin-eyes-60k/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T15:20:21+00:00",
      "s": 0
     },
     {
@@ -126,22 +127,22 @@
   },
   "ETH": {
    "pos": 2,
-   "neg": 3,
+   "neg": 2,
    "count": 10,
    "items": [
+    {
+     "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
+     "link": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
+     "source": "Decrypt",
+     "time": "2026-11-18T19:46:02+00:00",
+     "s": 0
+    },
     {
      "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
      "link": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-18T17:05:04+00:00",
      "s": 0
-    },
-    {
-     "title": "Judge Clears MIT Brothers in $25M Ethereum MEV Case, Citing Lack of Fraud",
-     "link": "https://bitcoinist.com/judge-clears-mit-brothers-in-25m-ethereum-mev-case-citing-lack-of-fraud/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T16:15:19+00:00",
-     "s": -1
     },
     {
      "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
@@ -202,23 +203,23 @@
    ]
   },
   "SOL": {
-   "pos": 2,
+   "pos": 1,
    "neg": 0,
    "count": 6,
    "items": [
+    {
+     "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
+     "link": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
+     "source": "Decrypt",
+     "time": "2026-11-18T19:46:02+00:00",
+     "s": 0
+    },
     {
      "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
      "link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-18T13:42:37+00:00",
      "s": 0
-    },
-    {
-     "title": "Solana Price Rebounds Toward $80 As Buyers Return — Can SOL Break Its Downtrend?",
-     "link": "https://bitcoinist.com/solana-price-rebounds-toward-80-as-buyers-return-can-sol-break-its-downtrend/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T09:48:49+00:00",
-     "s": 1
     },
     {
      "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
@@ -258,16 +259,9 @@
   },
   "XRP": {
    "pos": 0,
-   "neg": 2,
-   "count": 3,
+   "neg": 1,
+   "count": 2,
    "items": [
-    {
-     "title": "XRP Whales Move $270M During Sell-Off, but Exchange Deposits Tell a Different Story",
-     "link": "https://bitcoinist.com/xrp-whales-move-270m-during-sell-off-but-exchange-deposits-tell-a-different-story/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T16:00:47+00:00",
-     "s": -1
-    },
     {
      "title": "Ripple’s 126.8 million XRP valued at $0 in Evernorth filing as $505 million write-down emerges",
      "link": "https://cryptoslate.com/ripples-126-8-million-xrp-valued-at-0-in-evernorth-filing-as-505-million-write-down-emerges/",
@@ -329,17 +323,10 @@
    "items": []
   },
   "XAU": {
-   "pos": 1,
+   "pos": 0,
    "neg": 1,
-   "count": 2,
+   "count": 1,
    "items": [
-    {
-     "title": "Bitcoin Gains Ground on Gold as Fed Rate-Hike Bets Pressure Both Assets",
-     "link": "https://bitcoinist.com/bitcoin-gains-ground-on-gold-as-fed-rate-hike-bets-pressure-both-assets/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T16:30:39+00:00",
-     "s": 1
-    },
     {
      "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
