@@ -1,23 +1,43 @@
 {
- "updated": "2026-11-18T13:43:07.196619+00:00",
+ "updated": "2026-11-18T14:42:54.810233+00:00",
  "window_hours": 48,
- "headlines": 121,
+ "headlines": 129,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
    "pos": 4,
-   "neg": 10,
-   "count": 26,
+   "neg": 12,
+   "count": 30,
    "items": [
+    {
+     "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire",
+     "link": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
+     "source": "Decrypt",
+     "time": "2026-11-18T14:20:52+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
+     "link": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-18T14:04:50+00:00",
+     "s": 0
+    },
+    {
+     "title": "‘Gift from the market’: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says",
+     "link": "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017",
+     "source": "The Block",
+     "time": "2026-11-18T14:01:54+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin buyers pile 66,000 BTC into critical $62,000 support zone",
      "link": "https://cryptoslate.com/bitcoin-buyers-pile-66000-btc-into-critical-62000-support-zone/",
@@ -54,6 +74,13 @@
      "s": -1
     },
     {
+     "title": "Michael Saylor Says Banks Are Bringing Bitcoin To Clients — But Who Really Owns The $2.35 Billion?",
+     "link": "https://bitcoinist.com/michael-saylor-says-banks-are-bringing-bitcoin-to-clients-but-who-really-owns-the-2-35-billion/",
+     "source": "Bitcoinist",
+     "time": "2026-11-18T11:26:46+00:00",
+     "s": 0
+    },
+    {
      "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
      "source": "CoinDesk",
@@ -82,54 +109,33 @@
      "s": -1
     },
     {
+     "title": "Bitcoin Buyers Add 66,000 BTC During Market Sell-Off — Is A Major Reversal Coming?",
+     "link": "https://bitcoinist.com/bitcoin-buyers-add-66000-btc-during-market-sell-off-is-a-major-reversal-coming/",
+     "source": "Bitcoinist",
+     "time": "2026-11-18T08:06:46+00:00",
+     "s": -1
+    },
+    {
      "title": "Bitcoin power-law models predict a rebound without real proof",
      "link": "https://cryptoslate.com/bitcoin-power-law-models-predict-a-rebound-without-real-proof/",
      "source": "CryptoSlate",
      "time": "2026-11-18T07:40:44+00:00",
      "s": 1
-    },
-    {
-     "title": "Live updates: Bitcoin lower even as Nasdaq rises on Nvidia relief",
-     "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
-     "source": "CoinDesk",
-     "time": "2026-11-18T07:27:48+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months",
-     "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
-     "source": "CoinDesk",
-     "time": "2026-11-18T04:34:21+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
-     "link": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
-     "source": "Decrypt",
-     "time": "2026-11-17T20:36:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
-     "link": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-17T16:39:43+00:00",
-     "s": -1
-    },
-    {
-     "title": "Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin",
-     "link": "https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568",
-     "source": "The Block",
-     "time": "2026-11-17T15:53:25+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 3,
    "neg": 2,
-   "count": 9,
+   "count": 10,
    "items": [
+    {
+     "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
+     "link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-18T13:42:37+00:00",
+     "s": 0
+    },
     {
      "title": "TD Cowen tempers ether outlook, maintains Buy rating on Sharplink",
      "link": "https://www.theblock.co/news/ecosystems/2026-11-18-td-cowen-maintains-buy-rating-sharplink-442987",
@@ -196,22 +202,29 @@
    ]
   },
   "SOL": {
-   "pos": 2,
+   "pos": 3,
    "neg": 1,
-   "count": 7,
+   "count": 8,
    "items": [
+    {
+     "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
+     "link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-18T13:42:37+00:00",
+     "s": 0
+    },
+    {
+     "title": "Solana Price Rebounds Toward $80 As Buyers Return — Can SOL Break Its Downtrend?",
+     "link": "https://bitcoinist.com/solana-price-rebounds-toward-80-as-buyers-return-can-sol-break-its-downtrend/",
+     "source": "Bitcoinist",
+     "time": "2026-11-18T09:48:49+00:00",
+     "s": 1
+    },
     {
      "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
      "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-18T08:41:16+00:00",
-     "s": 0
-    },
-    {
-     "title": "CoinGecko secures Solana Foundation backing and eyes crypto trading",
-     "link": "https://cryptoslate.com/coingecko-secures-solana-foundation-backing-and-eyes-crypto-trading/",
-     "source": "CryptoSlate",
-     "time": "2026-11-18T03:10:56+00:00",
      "s": 0
     },
     {
