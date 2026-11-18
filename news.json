@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T00:46:52.824399+00:00",
+ "updated": "2026-11-18T02:06:27.045955+00:00",
  "window_hours": 48,
  "headlines": 130,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 2,
    "neg": 11,
-   "count": 28,
+   "count": 27,
    "items": [
     {
      "title": "Bitcoin faces a liquidity drain as Anthropic IPO unlocks millions",
@@ -95,13 +95,6 @@
      "s": 0
     },
     {
-     "title": "How Bitcoin still competes with a 2.92% Treasury yield after inflation",
-     "link": "https://cryptoslate.com/how-bitcoin-still-competes-with-a-2-92-treasury-yield-after-inflation/",
-     "source": "CryptoSlate",
-     "time": "2026-11-17T13:18:44+00:00",
-     "s": 0
-    },
-    {
      "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
      "link": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
      "source": "CoinDesk",
@@ -120,6 +113,13 @@
      "link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-17T11:18:18+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
+     "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-17T11:14:05+00:00",
      "s": -1
     }
    ]
