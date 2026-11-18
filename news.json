@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T23:39:11.635000+00:00",
+ "updated": "2026-11-18T00:46:52.824399+00:00",
  "window_hours": 48,
  "headlines": 130,
  "feeds_ok": [
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 2,
-   "neg": 12,
+   "neg": 11,
    "count": 28,
    "items": [
+    {
+     "title": "Bitcoin faces a liquidity drain as Anthropic IPO unlocks millions",
+     "link": "https://cryptoslate.com/bitcoin-faces-a-liquidity-drain-as-anthropic-ipo-unlocks-millions/",
+     "source": "CryptoSlate",
+     "time": "2026-11-18T00:10:37+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
      "link": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
@@ -114,13 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-17T11:18:18+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
-     "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-17T11:14:05+00:00",
-     "s": -1
     }
    ]
   },
@@ -204,7 +204,7 @@
   "SOL": {
    "pos": 2,
    "neg": 1,
-   "count": 10,
+   "count": 9,
    "items": [
     {
      "title": "Solana Foundation Takes Majority Stake in CoinGecko in Major Push Into Crypto Data",
@@ -247,13 +247,6 @@
      "source": "Decrypt",
      "time": "2026-11-17T09:01:03+00:00",
      "s": 1
-    },
-    {
-     "title": "Wall Street Stocks Enter Solana DeFi As Jupiter Unveils New Lending Market",
-     "link": "https://bitcoinist.com/wall-street-stocks-enter-solana-defi-as-jupiter-unveils-new-lending-market/",
-     "source": "Bitcoinist",
-     "time": "2026-11-17T07:48:26+00:00",
-     "s": 0
     },
     {
      "title": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
@@ -319,8 +312,8 @@
   },
   "HYPE": {
    "pos": 0,
-   "neg": 1,
-   "count": 4,
+   "neg": 0,
+   "count": 3,
    "items": [
     {
      "title": "Hyperliquid’s $3.4 billion HYPE burn machine faces new test as USDC reserves shrink",
@@ -328,13 +321,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-17T15:10:21+00:00",
      "s": 0
-    },
-    {
-     "title": "Lighter’s exploit raises uncomfortable questions for Hyperliquid’s $5.7 billion market",
-     "link": "https://cryptoslate.com/lighters-exploit-raises-uncomfortable-questions-for-hyperliquids-5-7-billion-market/",
-     "source": "CryptoSlate",
-     "time": "2026-11-17T12:00:11+00:00",
-     "s": -1
     },
     {
      "title": "Ex-Robinhood engineer pleads guilty to $125K Hyperliquid trading scheme",
