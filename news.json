@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T22:15:23.450569+00:00",
+ "updated": "2026-11-19T23:11:37.470966+00:00",
  "window_hours": 48,
- "headlines": 125,
+ "headlines": 124,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
+   "pos": 7,
    "neg": 7,
    "count": 32,
    "items": [
+    {
+     "title": "A Bitcoin trade that doesn’t need prices to rise could beat Treasury bills in 2027",
+     "link": "https://cryptoslate.com/a-bitcoin-trade-that-doesnt-need-prices-to-rise-could-beat-treasury-bills-in-2027/",
+     "source": "CryptoSlate",
+     "time": "2026-11-19T23:10:33+00:00",
+     "s": 1
+    },
     {
      "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
      "link": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
@@ -114,13 +121,6 @@
      "source": "CoinDesk",
      "time": "2026-11-19T12:08:06+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin Could Soon Outperform US Treasury Bills Without A Price Rally — Here’s How",
-     "link": "https://bitcoinist.com/bitcoin-could-soon-outperform-us-treasury-bills-without-a-price-rally-heres-how/",
-     "source": "Bitcoinist",
-     "time": "2026-11-19T11:57:28+00:00",
-     "s": 1
     }
    ]
   },
