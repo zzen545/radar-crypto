@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T21:15:28.981214+00:00",
+ "updated": "2026-11-19T22:15:23.450569+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 125,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 6,
    "neg": 7,
-   "count": 33,
+   "count": 32,
    "items": [
     {
      "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
@@ -95,13 +95,6 @@
      "s": 0
     },
     {
-     "title": "Bitcoin flashes a signal seen at four previous market bottoms as $62,000 comes under pressure",
-     "link": "https://cryptoslate.com/bitcoin-flashes-a-signal-seen-at-four-previous-market-bottoms-as-62000-comes-under-pressure/",
-     "source": "CryptoSlate",
-     "time": "2026-11-19T13:20:33+00:00",
-     "s": 0
-    },
-    {
      "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
      "link": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
      "source": "CoinDesk",
@@ -121,6 +114,13 @@
      "source": "CoinDesk",
      "time": "2026-11-19T12:08:06+00:00",
      "s": 0
+    },
+    {
+     "title": "Bitcoin Could Soon Outperform US Treasury Bills Without A Price Rally — Here’s How",
+     "link": "https://bitcoinist.com/bitcoin-could-soon-outperform-us-treasury-bills-without-a-price-rally-heres-how/",
+     "source": "Bitcoinist",
+     "time": "2026-11-19T11:57:28+00:00",
+     "s": 1
     }
    ]
   },
