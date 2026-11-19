@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:24:36.895595+00:00",
+ "updated": "2026-11-19T21:15:28.981214+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 6,
    "neg": 7,
-   "count": 34,
+   "count": 33,
    "items": [
+    {
+     "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
+     "link": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
+     "source": "Decrypt",
+     "time": "2026-11-19T20:46:02+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
      "link": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
@@ -114,20 +121,13 @@
      "source": "CoinDesk",
      "time": "2026-11-19T12:08:06+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin Could Soon Outperform US Treasury Bills Without A Price Rally — Here’s How",
-     "link": "https://bitcoinist.com/bitcoin-could-soon-outperform-us-treasury-bills-without-a-price-rally-heres-how/",
-     "source": "Bitcoinist",
-     "time": "2026-11-19T11:57:28+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
    "pos": 1,
    "neg": 1,
-   "count": 7,
+   "count": 6,
    "items": [
     {
      "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
@@ -170,20 +170,13 @@
      "source": "Cointelegraph",
      "time": "2026-11-18T17:05:04+00:00",
      "s": 0
-    },
-    {
-     "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
-     "link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-18T13:42:37+00:00",
-     "s": 0
     }
    ]
   },
   "SOL": {
    "pos": 0,
    "neg": 1,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
@@ -197,13 +190,6 @@
      "link": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
      "source": "Decrypt",
      "time": "2026-11-18T19:46:02+00:00",
-     "s": 0
-    },
-    {
-     "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
-     "link": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-18T13:42:37+00:00",
      "s": 0
     }
    ]
@@ -268,6 +254,13 @@
    "count": 5,
    "items": [
     {
+     "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
+     "link": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-19T20:33:24+00:00",
+     "s": 0
+    },
+    {
      "title": "CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US",
      "link": "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106",
      "source": "The Block",
@@ -279,13 +272,6 @@
      "link": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-19T12:44:06+00:00",
-     "s": 0
-    },
-    {
-     "title": "NYSE owner targets Hyperliquid’s $5 billion trading boom, but the liquidity may not follow",
-     "link": "https://cryptoslate.com/nyse-owner-targets-hyperliquids-5-billion-trading-boom-but-the-liquidity-may-not-follow/",
-     "source": "CryptoSlate",
-     "time": "2026-11-19T12:20:23+00:00",
      "s": 0
     },
     {
