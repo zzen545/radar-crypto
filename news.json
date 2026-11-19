@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T08:14:30.975421+00:00",
+ "updated": "2026-11-19T09:31:17.931427+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 124,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 5,
-   "neg": 10,
-   "count": 30,
+   "neg": 11,
+   "count": 31,
    "items": [
+    {
+     "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
+     "link": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-19T08:26:19+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin Staking Could Be Replaced By A New Lending Model — Here’s What It Means For BTC",
+     "link": "https://bitcoinist.com/bitcoin-staking-could-be-replaced-by-a-new-lending-model-heres-what-it-means-for-btc/",
+     "source": "Bitcoinist",
+     "time": "2026-11-19T08:21:39+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
      "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -107,27 +121,13 @@
      "source": "The Block",
      "time": "2026-11-18T17:13:37+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
-     "link": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-18T16:34:20+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Gains Ground on Gold as Fed Rate-Hike Bets Pressure Both Assets",
-     "link": "https://bitcoinist.com/bitcoin-gains-ground-on-gold-as-fed-rate-hike-bets-pressure-both-assets/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T16:30:39+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
    "pos": 2,
    "neg": 4,
-   "count": 10,
+   "count": 9,
    "items": [
     {
      "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
@@ -191,21 +191,21 @@
      "source": "Decrypt",
      "time": "2026-11-17T17:18:41+00:00",
      "s": -1
-    },
-    {
-     "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
-     "link": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
-     "source": "Decrypt",
-     "time": "2026-11-17T09:27:29+00:00",
-     "s": 0
     }
    ]
   },
   "SOL": {
-   "pos": 2,
+   "pos": 0,
    "neg": 0,
-   "count": 6,
+   "count": 5,
    "items": [
+    {
+     "title": "Zelle Moves $1.25 Million On Solana — Could This Be A Turning Point For SOL?",
+     "link": "https://bitcoinist.com/zelle-moves-1-25-million-on-solana-could-this-be-a-turning-point-for-sol/",
+     "source": "Bitcoinist",
+     "time": "2026-11-19T09:09:44+00:00",
+     "s": 0
+    },
     {
      "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
      "link": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
@@ -221,13 +221,6 @@
      "s": 0
     },
     {
-     "title": "Solana Price Rebounds Toward $80 As Buyers Return — Can SOL Break Its Downtrend?",
-     "link": "https://bitcoinist.com/solana-price-rebounds-toward-80-as-buyers-return-can-sol-break-its-downtrend/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T09:48:49+00:00",
-     "s": 1
-    },
-    {
      "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
      "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -240,13 +233,6 @@
      "source": "Decrypt",
      "time": "2026-11-17T12:50:55+00:00",
      "s": 0
-    },
-    {
-     "title": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
-     "link": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
-     "source": "Decrypt",
-     "time": "2026-11-17T09:01:03+00:00",
-     "s": 1
     }
    ]
   },
