@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T04:27:16.674977+00:00",
+ "updated": "2026-11-19T05:30:33.179400+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 3,
-   "neg": 10,
-   "count": 27,
+   "neg": 11,
+   "count": 28,
    "items": [
+    {
+     "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
+     "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
+     "source": "CoinDesk",
+     "time": "2026-11-19T04:46:10+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin launches Testnet5 and gives miners a real trial of four proposed fixes",
      "link": "https://cryptoslate.com/bitcoin-launches-testnet5-and-gives-miners-a-real-trial-of-four-proposed-fixes/",
@@ -113,13 +120,6 @@
      "link": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
      "source": "Decrypt",
      "time": "2026-11-18T14:20:52+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
-     "link": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-18T14:04:50+00:00",
      "s": 0
     }
    ]
