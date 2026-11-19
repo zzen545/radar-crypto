@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:10:58.931682+00:00",
+ "updated": "2026-11-19T15:22:23.334647+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -13,10 +13,45 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
+   "pos": 6,
    "neg": 7,
-   "count": 35,
+   "count": 36,
    "items": [
+    {
+     "title": "Over 7 million Bitcoin could face a quantum security reckoning after new discovery",
+     "link": "https://cryptoslate.com/over-7-million-bitcoin-could-face-a-quantum-security-reckoning-after-new-discovery/",
+     "source": "CryptoSlate",
+     "time": "2026-11-19T15:20:54+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Mining Company Dumps Final BTC as $75M AI Funding Gap Looms",
+     "link": "https://bitcoinist.com/bitcoin-mining-company-dumps-final-btc-as-75m-ai-funding-gap-looms/",
+     "source": "Bitcoinist",
+     "time": "2026-11-19T15:20:36+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin Reclaims $64K as Anthropic IPO Sparks Tech Market Recovery",
+     "link": "https://bitcoinist.com/bitcoin-reclaims-64k-as-anthropic-ipo-sparks-tech-market-recovery/",
+     "source": "Bitcoinist",
+     "time": "2026-11-19T14:46:38+00:00",
+     "s": 1
+    },
+    {
+     "title": "Anthropic’s crypto futures traded 25% above its $81 billion IPO price as Bitcoin slumped 22%",
+     "link": "https://cryptoslate.com/bitcoins-22-slump-fails-to-dampen-crypto-traders-bullish-bets-on-anthropics-81-billion-ipo/",
+     "source": "CryptoSlate",
+     "time": "2026-11-19T14:45:19+00:00",
+     "s": 0
+    },
+    {
+     "title": "Anthropic’s IPO Deal Surpasses SpaceX as Bitcoin and Tech Stocks Rebound",
+     "link": "https://bitcoinist.com/anthropics-ipo-deal-surpasses-spacex-as-bitcoin-and-tech-stocks-rebound/",
+     "source": "Bitcoinist",
+     "time": "2026-11-19T14:35:07+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin finance protocol Hashi goes live on Sui mainnet",
      "link": "https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608",
@@ -86,48 +121,13 @@
      "source": "Decrypt",
      "time": "2026-11-19T10:25:05+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
-     "link": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-19T08:26:19+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin Staking Could Be Replaced By A New Lending Model — Here’s What It Means For BTC",
-     "link": "https://bitcoinist.com/bitcoin-staking-could-be-replaced-by-a-new-lending-model-heres-what-it-means-for-btc/",
-     "source": "Bitcoinist",
-     "time": "2026-11-19T08:21:39+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
-     "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-19T07:55:56+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
-     "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-19T06:00:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers",
-     "link": "https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547",
-     "source": "The Block",
-     "time": "2026-11-19T06:00:00+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
    "pos": 1,
-   "neg": 4,
-   "count": 10,
+   "neg": 3,
+   "count": 9,
    "items": [
     {
      "title": "Ethereum’s new DeFi security tool raises questions over censorship",
@@ -170,13 +170,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-18T17:05:04+00:00",
      "s": 0
-    },
-    {
-     "title": "Judge Clears MIT Brothers in $25M Ethereum MEV Case, Citing Lack of Fraud",
-     "link": "https://bitcoinist.com/judge-clears-mit-brothers-in-25m-ethereum-mev-case-citing-lack-of-fraud/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T16:15:19+00:00",
-     "s": -1
     },
     {
      "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
@@ -259,8 +252,8 @@
   },
   "XRP": {
    "pos": 1,
-   "neg": 2,
-   "count": 3,
+   "neg": 1,
+   "count": 2,
    "items": [
     {
      "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
@@ -275,13 +268,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-19T09:54:39+00:00",
      "s": 1
-    },
-    {
-     "title": "XRP Whales Move $270M During Sell-Off, but Exchange Deposits Tell a Different Story",
-     "link": "https://bitcoinist.com/xrp-whales-move-270m-during-sell-off-but-exchange-deposits-tell-a-different-story/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T16:00:47+00:00",
-     "s": -1
     }
    ]
   },
@@ -351,18 +337,10 @@
    "items": []
   },
   "XAU": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Bitcoin Gains Ground on Gold as Fed Rate-Hike Bets Pressure Both Assets",
-     "link": "https://bitcoinist.com/bitcoin-gains-ground-on-gold-as-fed-rate-hike-bets-pressure-both-assets/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T16:30:39+00:00",
-     "s": 1
-    }
-   ]
+   "count": 0,
+   "items": []
   }
  }
 }
