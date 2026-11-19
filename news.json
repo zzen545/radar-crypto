@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:22:23.334647+00:00",
+ "updated": "2026-11-19T16:27:55.007867+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 6,
-   "neg": 7,
-   "count": 36,
+   "neg": 5,
+   "count": 33,
    "items": [
     {
      "title": "Over 7 million Bitcoin could face a quantum security reckoning after new discovery",
@@ -109,7 +109,7 @@
      "s": 0
     },
     {
-     "title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
+     "title": "Live updates: Bitcoin gives up early gains alongside soft action in stocks",
      "link": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
      "source": "CoinDesk",
      "time": "2026-11-19T10:48:26+00:00",
