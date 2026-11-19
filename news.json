@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T18:15:52.521998+00:00",
+ "updated": "2026-11-19T19:28:20.733343+00:00",
  "window_hours": 48,
- "headlines": 127,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 5,
+   "pos": 6,
    "neg": 7,
-   "count": 34,
+   "count": 36,
    "items": [
+    {
+     "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
+     "link": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
+     "source": "Decrypt",
+     "time": "2026-11-19T19:08:24+00:00",
+     "s": 0
+    },
+    {
+     "title": "Why higher rates could slow Bitcoin buying at treasury firms",
+     "link": "https://cointelegraph.com/news/why-higher-rates-could-slow-bitcoin-buying-at-treasury-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-19T18:09:32+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
      "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -107,28 +121,21 @@
      "source": "Bitcoinist",
      "time": "2026-11-19T11:57:28+00:00",
      "s": 1
-    },
-    {
-     "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
-     "link": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-19T11:19:58+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin faces fresh $60,000 threat as Fed minutes reveal overwhelming support for more rate hikes",
-     "link": "https://cryptoslate.com/bitcoin-faces-fresh-60000-threat-as-fed-minutes-reveal-overwhelming-support-for-more-rate-hikes/",
-     "source": "CryptoSlate",
-     "time": "2026-11-19T11:00:43+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
-   "neg": 2,
-   "count": 8,
+   "neg": 1,
+   "count": 7,
    "items": [
+    {
+     "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
+     "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-19T18:20:49+00:00",
+     "s": 1
+    },
     {
      "title": "Ethereum’s new DeFi security tool raises questions over censorship",
      "link": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -142,13 +149,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-19T12:54:42+00:00",
      "s": 0
-    },
-    {
-     "title": "CoinShares unloads $19.3M in ETH and SOL, yet keeps crypto risk",
-     "link": "https://cryptoslate.com/coinshares-unloads-19-3m-in-eth-and-sol-yet-keeps-crypto-risk/",
-     "source": "CryptoSlate",
-     "time": "2026-11-19T09:40:29+00:00",
-     "s": -1
     },
     {
      "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
@@ -177,33 +177,19 @@
      "source": "Cointelegraph",
      "time": "2026-11-18T13:42:37+00:00",
      "s": 0
-    },
-    {
-     "title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
-     "link": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
-     "source": "Decrypt",
-     "time": "2026-11-17T19:26:02+00:00",
-     "s": 1
     }
    ]
   },
   "SOL": {
    "pos": 0,
-   "neg": 2,
-   "count": 4,
+   "neg": 1,
+   "count": 3,
    "items": [
     {
      "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
      "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
      "source": "CoinDesk",
      "time": "2026-11-19T10:22:12+00:00",
-     "s": -1
-    },
-    {
-     "title": "CoinShares unloads $19.3M in ETH and SOL, yet keeps crypto risk",
-     "link": "https://cryptoslate.com/coinshares-unloads-19-3m-in-eth-and-sol-yet-keeps-crypto-risk/",
-     "source": "CryptoSlate",
-     "time": "2026-11-19T09:40:29+00:00",
      "s": -1
     },
     {
@@ -237,10 +223,17 @@
    ]
   },
   "XRP": {
-   "pos": 1,
+   "pos": 2,
    "neg": 1,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
+     "link": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
+     "source": "The Block",
+     "time": "2026-11-19T18:47:30+00:00",
+     "s": 1
+    },
     {
      "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
      "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
