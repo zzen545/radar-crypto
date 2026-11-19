@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:30:33.179400+00:00",
+ "updated": "2026-11-19T06:55:04.370919+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -13,10 +13,31 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 3,
-   "neg": 11,
-   "count": 28,
+   "pos": 4,
+   "neg": 10,
+   "count": 29,
    "items": [
+    {
+     "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+     "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-19T06:00:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers",
+     "link": "https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547",
+     "source": "The Block",
+     "time": "2026-11-19T06:00:00+00:00",
+     "s": 1
+    },
+    {
+     "title": "Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a ‘value zone’, and more",
+     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-19-binance-gets-6-5-billion-freezing-order-cryptoquant-says-bitcoin-is-in-a-value-zone-and-more-443511",
+     "source": "The Block",
+     "time": "2026-11-19T06:00:00+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
      "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
@@ -81,13 +102,6 @@
      "s": -1
     },
     {
-     "title": "Bitcoin options flash warning as downside premiums surge ahead of Fed minutes",
-     "link": "https://cryptoslate.com/bitcoin-options-flash-warning-as-downside-premiums-surge-ahead-of-fed-minutes/",
-     "source": "CryptoSlate",
-     "time": "2026-11-18T16:55:14+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
      "link": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -107,28 +121,21 @@
      "source": "CoinDesk",
      "time": "2026-11-18T15:38:38+00:00",
      "s": 0
-    },
-    {
-     "title": "Nvidia Earnings Surge as Board Rejects Huang’s Return and Bitcoin Eyes $60K",
-     "link": "https://bitcoinist.com/nvidia-earnings-surge-as-board-rejects-huangs-return-and-bitcoin-eyes-60k/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T15:20:21+00:00",
-     "s": 0
-    },
-    {
-     "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire",
-     "link": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
-     "source": "Decrypt",
-     "time": "2026-11-18T14:20:52+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 2,
-   "neg": 3,
-   "count": 9,
+   "neg": 4,
+   "count": 10,
    "items": [
+    {
+     "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+     "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+     "source": "CoinDesk",
+     "time": "2026-11-19T05:39:06+00:00",
+     "s": -1
+    },
     {
      "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
      "link": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
@@ -197,7 +204,7 @@
   "SOL": {
    "pos": 2,
    "neg": 0,
-   "count": 7,
+   "count": 6,
    "items": [
     {
      "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
@@ -225,13 +232,6 @@
      "link": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-18T08:41:16+00:00",
-     "s": 0
-    },
-    {
-     "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
-     "link": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-17T14:45:49+00:00",
      "s": 0
     },
     {
