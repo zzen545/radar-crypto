@@ -1,35 +1,43 @@
 {
- "updated": "2026-11-19T09:31:17.931427+00:00",
+ "updated": "2026-11-19T10:49:19.272526+00:00",
  "window_hours": 48,
- "headlines": 124,
+ "headlines": 116,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
    "pos": 5,
    "neg": 11,
-   "count": 31,
+   "count": 29,
    "items": [
+    {
+     "title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
+     "link": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
+     "source": "CoinDesk",
+     "time": "2026-11-19T10:48:26+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+     "link": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
+     "source": "Decrypt",
+     "time": "2026-11-19T10:25:05+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
      "link": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-19T08:26:19+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin Staking Could Be Replaced By A New Lending Model — Here’s What It Means For BTC",
-     "link": "https://bitcoinist.com/bitcoin-staking-could-be-replaced-by-a-new-lending-model-heres-what-it-means-for-btc/",
-     "source": "Bitcoinist",
-     "time": "2026-11-19T08:21:39+00:00",
-     "s": 0
     },
     {
      "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
@@ -88,13 +96,6 @@
      "s": -1
     },
     {
-     "title": "Germany moves to freeze Bitcoin for up to 180 days, even without access to private keys",
-     "link": "https://cryptoslate.com/germany-moves-to-freeze-bitcoin-for-up-to-180-days-even-without-access-to-private-keys/",
-     "source": "CryptoSlate",
-     "time": "2026-11-18T20:40:02+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
      "link": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
      "source": "Decrypt",
@@ -130,6 +131,13 @@
    "count": 9,
    "items": [
     {
+     "title": "CoinShares unloads $19.3M in ETH and SOL, yet keeps crypto risk",
+     "link": "https://cryptoslate.com/coinshares-unloads-19-3m-in-eth-and-sol-yet-keeps-crypto-risk/",
+     "source": "CryptoSlate",
+     "time": "2026-11-19T09:40:29+00:00",
+     "s": -1
+    },
+    {
      "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
      "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
      "source": "CoinDesk",
@@ -149,13 +157,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-18T17:05:04+00:00",
      "s": 0
-    },
-    {
-     "title": "Judge Clears MIT Brothers in $25M Ethereum MEV Case, Citing Lack of Fraud",
-     "link": "https://bitcoinist.com/judge-clears-mit-brothers-in-25m-ethereum-mev-case-citing-lack-of-fraud/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T16:15:19+00:00",
-     "s": -1
     },
     {
      "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
@@ -196,15 +197,22 @@
   },
   "SOL": {
    "pos": 0,
-   "neg": 0,
-   "count": 5,
+   "neg": 2,
+   "count": 6,
    "items": [
     {
-     "title": "Zelle Moves $1.25 Million On Solana — Could This Be A Turning Point For SOL?",
-     "link": "https://bitcoinist.com/zelle-moves-1-25-million-on-solana-could-this-be-a-turning-point-for-sol/",
-     "source": "Bitcoinist",
-     "time": "2026-11-19T09:09:44+00:00",
-     "s": 0
+     "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
+     "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+     "source": "CoinDesk",
+     "time": "2026-11-19T10:22:12+00:00",
+     "s": -1
+    },
+    {
+     "title": "CoinShares unloads $19.3M in ETH and SOL, yet keeps crypto risk",
+     "link": "https://cryptoslate.com/coinshares-unloads-19-3m-in-eth-and-sol-yet-keeps-crypto-risk/",
+     "source": "CryptoSlate",
+     "time": "2026-11-19T09:40:29+00:00",
+     "s": -1
     },
     {
      "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
@@ -252,29 +260,22 @@
   },
   "XRP": {
    "pos": 0,
-   "neg": 2,
-   "count": 3,
+   "neg": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
+     "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+     "source": "CoinDesk",
+     "time": "2026-11-19T10:22:12+00:00",
+     "s": -1
+    },
     {
      "title": "Bitwise offloads 23.7M XRP while silently stacking 126M more",
      "link": "https://cryptoslate.com/bitwise-offloads-23-7m-xrp-while-silently-stacking-126m-more/",
      "source": "CryptoSlate",
      "time": "2026-11-18T23:30:47+00:00",
      "s": 0
-    },
-    {
-     "title": "XRP Whales Move $270M During Sell-Off, but Exchange Deposits Tell a Different Story",
-     "link": "https://bitcoinist.com/xrp-whales-move-270m-during-sell-off-but-exchange-deposits-tell-a-different-story/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T16:00:47+00:00",
-     "s": -1
-    },
-    {
-     "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
-     "link": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
-     "source": "CoinDesk",
-     "time": "2026-11-18T04:28:37+00:00",
-     "s": -1
     }
    ]
   },
@@ -323,17 +324,10 @@
    "items": []
   },
   "XAU": {
-   "pos": 1,
+   "pos": 0,
    "neg": 1,
-   "count": 2,
+   "count": 1,
    "items": [
-    {
-     "title": "Bitcoin Gains Ground on Gold as Fed Rate-Hike Bets Pressure Both Assets",
-     "link": "https://bitcoinist.com/bitcoin-gains-ground-on-gold-as-fed-rate-hike-bets-pressure-both-assets/",
-     "source": "Bitcoinist",
-     "time": "2026-11-18T16:30:39+00:00",
-     "s": 1
-    },
     {
      "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
      "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
