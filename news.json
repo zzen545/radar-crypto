@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T17:25:43.390893+00:00",
+ "updated": "2026-11-19T18:15:52.521998+00:00",
  "window_hours": 48,
- "headlines": 125,
+ "headlines": 127,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,23 @@
  "coins": {
   "BTC": {
    "pos": 5,
-   "neg": 6,
-   "count": 32,
+   "neg": 7,
+   "count": 34,
    "items": [
+    {
+     "title": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-ignores-anthropic-debut-ant-share-price-dips-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-19T18:06:50+00:00",
+     "s": 0
+    },
+    {
+     "title": "Threshold’s 11-day Bitcoin redemption freeze exposes a hidden risk in BTC-backed tokens",
+     "link": "https://cryptoslate.com/thresholds-11-day-bitcoin-redemption-freeze-exposes-a-hidden-risk-in-btc-backed-tokens/",
+     "source": "CryptoSlate",
+     "time": "2026-11-19T18:00:46+00:00",
+     "s": -1
+    },
     {
      "title": "Over 7 million Bitcoin could face a quantum security reckoning after new discovery",
      "link": "https://cryptoslate.com/over-7-million-bitcoin-could-face-a-quantum-security-reckoning-after-new-discovery/",
@@ -106,20 +120,6 @@
      "link": "https://cryptoslate.com/bitcoin-faces-fresh-60000-threat-as-fed-minutes-reveal-overwhelming-support-for-more-rate-hikes/",
      "source": "CryptoSlate",
      "time": "2026-11-19T11:00:43+00:00",
-     "s": 0
-    },
-    {
-     "title": "Live updates: Bitcoin falls as strong Anthropic opening fails to lift animal spirits",
-     "link": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
-     "source": "CoinDesk",
-     "time": "2026-11-19T10:48:26+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
-     "link": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
-     "source": "Decrypt",
-     "time": "2026-11-19T10:25:05+00:00",
      "s": 0
     }
    ]
@@ -272,8 +272,15 @@
   "HYPE": {
    "pos": 1,
    "neg": 0,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US",
+     "link": "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106",
+     "source": "The Block",
+     "time": "2026-11-19T18:04:15+00:00",
+     "s": 0
+    },
     {
      "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
      "link": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
