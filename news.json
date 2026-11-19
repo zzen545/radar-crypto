@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T06:55:04.370919+00:00",
+ "updated": "2026-11-19T08:14:30.975421+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 4,
+   "pos": 5,
    "neg": 10,
-   "count": 29,
+   "count": 30,
    "items": [
+    {
+     "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
+     "link": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-19T07:55:56+00:00",
+     "s": 1
+    },
     {
      "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
      "link": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -114,13 +121,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-18T16:30:39+00:00",
      "s": 1
-    },
-    {
-     "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
-     "link": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
-     "source": "CoinDesk",
-     "time": "2026-11-18T15:38:38+00:00",
-     "s": 0
     }
    ]
   },
