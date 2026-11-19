@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:47:56.046481+00:00",
+ "updated": "2026-11-19T02:05:01.797543+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 2,
+   "pos": 3,
    "neg": 10,
    "count": 27,
    "items": [
+    {
+     "title": "Japan bond yields surge to 3.75%, hiding a quiet Bitcoin trap",
+     "link": "https://cryptoslate.com/japan-bond-yields-surge-to-3-75-hiding-a-quiet-bitcoin-trap/",
+     "source": "CryptoSlate",
+     "time": "2026-11-19T00:50:37+00:00",
+     "s": 1
+    },
     {
      "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
      "link": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
@@ -114,13 +121,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-18T14:04:50+00:00",
      "s": 0
-    },
-    {
-     "title": "‘Gift from the market’: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says",
-     "link": "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017",
-     "source": "The Block",
-     "time": "2026-11-18T14:01:54+00:00",
-     "s": -1
     }
    ]
   },
