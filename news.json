@@ -1,42 +1,29 @@
 {
- "updated": "2026-11-19T02:05:01.797543+00:00",
+ "updated": "2026-11-19T03:17:39.323321+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 116,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
-  "CryptoSlate",
   "The Block",
   "Bitcoinist"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "CryptoSlate": "The read operation timed out"
+ },
  "coins": {
   "BTC": {
-   "pos": 3,
+   "pos": 1,
    "neg": 10,
-   "count": 27,
+   "count": 23,
    "items": [
-    {
-     "title": "Japan bond yields surge to 3.75%, hiding a quiet Bitcoin trap",
-     "link": "https://cryptoslate.com/japan-bond-yields-surge-to-3-75-hiding-a-quiet-bitcoin-trap/",
-     "source": "CryptoSlate",
-     "time": "2026-11-19T00:50:37+00:00",
-     "s": 1
-    },
     {
      "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
      "link": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
      "source": "Decrypt",
      "time": "2026-11-18T22:16:02+00:00",
      "s": -1
-    },
-    {
-     "title": "Germany moves to freeze Bitcoin for up to 180 days, even without access to private keys",
-     "link": "https://cryptoslate.com/germany-moves-to-freeze-bitcoin-for-up-to-180-days-even-without-access-to-private-keys/",
-     "source": "CryptoSlate",
-     "time": "2026-11-18T20:40:02+00:00",
-     "s": 0
     },
     {
      "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
@@ -67,13 +54,6 @@
      "s": -1
     },
     {
-     "title": "Bitcoin options flash warning as downside premiums surge ahead of Fed minutes",
-     "link": "https://cryptoslate.com/bitcoin-options-flash-warning-as-downside-premiums-surge-ahead-of-fed-minutes/",
-     "source": "CryptoSlate",
-     "time": "2026-11-18T16:55:14+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin, stocks wobble as Fed’s Waller talks of ‘shock’ 50-point rate hike",
      "link": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -102,13 +82,6 @@
      "s": 0
     },
     {
-     "title": "Bitcoin faces a new threat as US prices surge at fastest pace in 38 years",
-     "link": "https://cryptoslate.com/bitcoin-faces-a-new-threat-as-us-prices-surge-at-fastest-pace-in-38-years/",
-     "source": "CryptoSlate",
-     "time": "2026-11-18T14:50:59+00:00",
-     "s": 1
-    },
-    {
      "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire",
      "link": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
      "source": "Decrypt",
@@ -121,6 +94,34 @@
      "source": "Cointelegraph",
      "time": "2026-11-18T14:04:50+00:00",
      "s": 0
+    },
+    {
+     "title": "‘Gift from the market’: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says",
+     "link": "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017",
+     "source": "The Block",
+     "time": "2026-11-18T14:01:54+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+     "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+     "source": "CoinDesk",
+     "time": "2026-11-18T12:53:34+00:00",
+     "s": 0
+    },
+    {
+     "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
+     "link": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
+     "source": "CoinDesk",
+     "time": "2026-11-18T12:15:00+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
+     "link": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
+     "source": "CoinDesk",
+     "time": "2026-11-18T11:42:52+00:00",
+     "s": -1
     }
    ]
   },
@@ -259,15 +260,8 @@
   "XRP": {
    "pos": 0,
    "neg": 2,
-   "count": 3,
+   "count": 2,
    "items": [
-    {
-     "title": "Bitwise offloads 23.7M XRP while silently stacking 126M more",
-     "link": "https://cryptoslate.com/bitwise-offloads-23-7m-xrp-while-silently-stacking-126m-more/",
-     "source": "CryptoSlate",
-     "time": "2026-11-18T23:30:47+00:00",
-     "s": 0
-    },
     {
      "title": "XRP Whales Move $270M During Sell-Off, but Exchange Deposits Tell a Different Story",
      "link": "https://bitcoinist.com/xrp-whales-move-270m-during-sell-off-but-exchange-deposits-tell-a-different-story/",
