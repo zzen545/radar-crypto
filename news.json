@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T16:27:55.007867+00:00",
+ "updated": "2026-11-19T17:25:43.390893+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 125,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
-   "neg": 5,
-   "count": 33,
+   "pos": 5,
+   "neg": 6,
+   "count": 32,
    "items": [
     {
      "title": "Over 7 million Bitcoin could face a quantum security reckoning after new discovery",
@@ -109,11 +109,11 @@
      "s": 0
     },
     {
-     "title": "Live updates: Bitcoin gives up early gains alongside soft action in stocks",
+     "title": "Live updates: Bitcoin falls as strong Anthropic opening fails to lift animal spirits",
      "link": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
      "source": "CoinDesk",
      "time": "2026-11-19T10:48:26+00:00",
-     "s": 1
+     "s": -1
     },
     {
      "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
@@ -126,8 +126,8 @@
   },
   "ETH": {
    "pos": 1,
-   "neg": 3,
-   "count": 9,
+   "neg": 2,
+   "count": 8,
    "items": [
     {
      "title": "Ethereum’s new DeFi security tool raises questions over censorship",
@@ -184,20 +184,13 @@
      "source": "Decrypt",
      "time": "2026-11-17T19:26:02+00:00",
      "s": 1
-    },
-    {
-     "title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
-     "link": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks",
-     "source": "Decrypt",
-     "time": "2026-11-17T17:18:41+00:00",
-     "s": -1
     }
    ]
   },
   "SOL": {
    "pos": 0,
    "neg": 2,
-   "count": 5,
+   "count": 4,
    "items": [
     {
      "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
@@ -212,13 +205,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-19T09:40:29+00:00",
      "s": -1
-    },
-    {
-     "title": "Zelle Moves $1.25 Million On Solana — Could This Be A Turning Point For SOL?",
-     "link": "https://bitcoinist.com/zelle-moves-1-25-million-on-solana-could-this-be-a-turning-point-for-sol/",
-     "source": "Bitcoinist",
-     "time": "2026-11-19T09:09:44+00:00",
-     "s": 0
     },
     {
      "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
