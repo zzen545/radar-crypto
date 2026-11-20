@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:52:24.495912+00:00",
+ "updated": "2026-11-20T06:54:32.295543+00:00",
  "window_hours": 48,
  "headlines": 123,
  "feeds_ok": [
@@ -14,9 +14,16 @@
  "coins": {
   "BTC": {
    "pos": 7,
-   "neg": 9,
-   "count": 34,
+   "neg": 7,
+   "count": 32,
    "items": [
+    {
+     "title": "Here's what's crashing gold and likely weighing on bitcoin too",
+     "link": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
+     "source": "CoinDesk",
+     "time": "2026-11-20T06:12:15+00:00",
+     "s": 0
+    },
     {
      "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
      "link": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
@@ -88,13 +95,6 @@
      "s": 0
     },
     {
-     "title": "Threshold’s 11-day Bitcoin redemption freeze exposes a hidden risk in BTC-backed tokens",
-     "link": "https://cryptoslate.com/thresholds-11-day-bitcoin-redemption-freeze-exposes-a-hidden-risk-in-btc-backed-tokens/",
-     "source": "CryptoSlate",
-     "time": "2026-11-19T18:00:46+00:00",
-     "s": -1
-    },
-    {
      "title": "Bitcoin Mining Company Dumps Final BTC as $75M AI Funding Gap Looms",
      "link": "https://bitcoinist.com/bitcoin-mining-company-dumps-final-btc-as-75m-ai-funding-gap-looms/",
      "source": "Bitcoinist",
@@ -127,7 +127,7 @@
   "ETH": {
    "pos": 2,
    "neg": 2,
-   "count": 8,
+   "count": 7,
    "items": [
     {
      "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
@@ -177,13 +177,6 @@
      "source": "Decrypt",
      "time": "2026-11-18T19:46:02+00:00",
      "s": 0
-    },
-    {
-     "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
-     "link": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-18T17:05:04+00:00",
-     "s": 0
     }
    ]
   },
@@ -218,22 +211,28 @@
   "BNB": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
-     "link": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
-     "source": "CoinDesk",
-     "time": "2026-11-19T03:40:48+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "XRP": {
    "pos": 2,
    "neg": 1,
-   "count": 3,
+   "count": 5,
    "items": [
+    {
+     "title": "A $2.8 million XRP yield trade is about to mature, but the next two markets are 44 times smaller",
+     "link": "https://cryptoslate.com/a-2-8-million-xrp-yield-trade-is-about-to-mature-but-the-next-two-markets-are-44-times-smaller/",
+     "source": "CryptoSlate",
+     "time": "2026-11-20T06:30:45+00:00",
+     "s": 0
+    },
+    {
+     "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
+     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
+     "source": "The Block",
+     "time": "2026-11-20T05:40:00+00:00",
+     "s": 0
+    },
     {
      "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
      "link": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
@@ -272,8 +271,15 @@
   "HYPE": {
    "pos": 1,
    "neg": 0,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
+     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
+     "source": "The Block",
+     "time": "2026-11-20T05:40:00+00:00",
+     "s": 0
+    },
     {
      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
      "link": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -325,8 +331,16 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Here's what's crashing gold and likely weighing on bitcoin too",
+     "link": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
+     "source": "CoinDesk",
+     "time": "2026-11-20T06:12:15+00:00",
+     "s": 0
+    }
+   ]
   }
  }
 }
