@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T10:28:35.927457+00:00",
+ "updated": "2026-11-20T11:25:32.049645+00:00",
  "window_hours": 48,
- "headlines": 123,
+ "headlines": 124,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 6,
+   "pos": 7,
    "neg": 6,
-   "count": 31,
+   "count": 33,
    "items": [
+    {
+     "title": "Bitcoin missed AI stocks’ 85% rally but could still face the fallout if the boom unravels",
+     "link": "https://cryptoslate.com/bitcoin-missed-ai-stocks-85-rally-but-could-still-face-the-fallout-if-the-boom-unravels/",
+     "source": "CryptoSlate",
+     "time": "2026-11-20T11:20:42+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
+     "link": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-20T10:29:10+00:00",
+     "s": 0
+    },
     {
      "title": "Fidelity Moves $435 Million In Bitcoin To New Wallets — What Is Happening Behind The Scenes?",
      "link": "https://bitcoinist.com/fidelity-moves-435-million-in-bitcoin-to-new-wallets-what-is-happening-behind-the-scenes/",
@@ -107,28 +121,21 @@
      "source": "Bitcoinist",
      "time": "2026-11-19T15:20:36+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin Reclaims $64K as Anthropic IPO Sparks Tech Market Recovery",
-     "link": "https://bitcoinist.com/bitcoin-reclaims-64k-as-anthropic-ipo-sparks-tech-market-recovery/",
-     "source": "Bitcoinist",
-     "time": "2026-11-19T14:46:38+00:00",
-     "s": 1
-    },
-    {
-     "title": "Anthropic’s IPO Deal Surpasses SpaceX as Bitcoin and Tech Stocks Rebound",
-     "link": "https://bitcoinist.com/anthropics-ipo-deal-surpasses-spacex-as-bitcoin-and-tech-stocks-rebound/",
-     "source": "Bitcoinist",
-     "time": "2026-11-19T14:35:07+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
-   "pos": 3,
+   "pos": 4,
    "neg": 1,
    "count": 7,
    "items": [
+    {
+     "title": "Ethereum targets December Glamsterdam test despite 200 findings that could delay upgrade",
+     "link": "https://cryptoslate.com/ethereum-targets-december-glamsterdam-test-despite-200-findings-that-could-delay-upgrade/",
+     "source": "CryptoSlate",
+     "time": "2026-11-20T10:30:41+00:00",
+     "s": 1
+    },
     {
      "title": "Ethereum’s Glamsterdam Upgrade Could Slip Into 2027 As 15,000 Smart Contracts Face Disruption",
      "link": "https://bitcoinist.com/ethereums-glamsterdam-upgrade-could-slip-into-2027-as-15000-smart-contracts-face-disruption/",
@@ -165,13 +172,6 @@
      "s": 0
     },
     {
-     "title": "Ethereum Processes $25.8 Trillion In Stablecoin Transfers — Is Wall Street Underestimating ETH?",
-     "link": "https://bitcoinist.com/ethereum-processes-25-8-trillion-in-stablecoin-transfers-is-wall-street-underestimating-eth/",
-     "source": "Bitcoinist",
-     "time": "2026-11-19T12:54:42+00:00",
-     "s": 0
-    },
-    {
      "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
      "link": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
      "source": "Decrypt",
@@ -182,21 +182,21 @@
   },
   "SOL": {
    "pos": 0,
-   "neg": 2,
+   "neg": 1,
    "count": 3,
    "items": [
+    {
+     "title": "Solana’s Next Upgrade Could Break Existing Apps As Developers Face New Warning",
+     "link": "https://bitcoinist.com/solanas-next-upgrade-could-break-existing-apps-as-developers-face-new-warning/",
+     "source": "Bitcoinist",
+     "time": "2026-11-20T10:27:11+00:00",
+     "s": 0
+    },
     {
      "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
      "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
      "source": "CoinDesk",
      "time": "2026-11-20T04:28:52+00:00",
-     "s": -1
-    },
-    {
-     "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
-     "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
-     "source": "CoinDesk",
-     "time": "2026-11-19T10:22:12+00:00",
      "s": -1
     },
     {
@@ -216,8 +216,8 @@
   },
   "XRP": {
    "pos": 1,
-   "neg": 1,
-   "count": 4,
+   "neg": 0,
+   "count": 3,
    "items": [
     {
      "title": "A $2.8 million XRP yield trade is about to mature, but the next two markets are 44 times smaller",
@@ -239,13 +239,6 @@
      "source": "The Block",
      "time": "2026-11-19T18:47:30+00:00",
      "s": 1
-    },
-    {
-     "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
-     "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
-     "source": "CoinDesk",
-     "time": "2026-11-19T10:22:12+00:00",
-     "s": -1
     }
    ]
   },
