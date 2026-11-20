@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T01:39:49.822165+00:00",
+ "updated": "2026-11-20T02:41:50.644742+00:00",
  "window_hours": 48,
  "headlines": 123,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 7,
    "neg": 7,
-   "count": 31,
+   "count": 30,
    "items": [
     {
      "title": "A Bitcoin trade that doesn’t need prices to rise could beat Treasury bills in 2027",
@@ -58,13 +58,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-19T18:00:46+00:00",
      "s": -1
-    },
-    {
-     "title": "Over 7 million Bitcoin could face a quantum security reckoning after new discovery",
-     "link": "https://cryptoslate.com/over-7-million-bitcoin-could-face-a-quantum-security-reckoning-after-new-discovery/",
-     "source": "CryptoSlate",
-     "time": "2026-11-19T15:20:54+00:00",
-     "s": 0
     },
     {
      "title": "Bitcoin Mining Company Dumps Final BTC as $75M AI Funding Gap Looms",
@@ -121,6 +114,13 @@
      "source": "Bitcoinist",
      "time": "2026-11-19T11:57:28+00:00",
      "s": 1
+    },
+    {
+     "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
+     "link": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-19T11:19:58+00:00",
+     "s": 0
     }
    ]
   },
