@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T09:28:04.272274+00:00",
+ "updated": "2026-11-20T10:28:35.927457+00:00",
  "window_hours": 48,
  "headlines": 123,
  "feeds_ok": [
@@ -13,9 +13,9 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 7,
+   "pos": 6,
    "neg": 6,
-   "count": 32,
+   "count": 31,
    "items": [
     {
      "title": "Fidelity Moves $435 Million In Bitcoin To New Wallets — What Is Happening Behind The Scenes?",
@@ -125,10 +125,17 @@
    ]
   },
   "ETH": {
-   "pos": 2,
-   "neg": 2,
+   "pos": 3,
+   "neg": 1,
    "count": 7,
    "items": [
+    {
+     "title": "Ethereum’s Glamsterdam Upgrade Could Slip Into 2027 As 15,000 Smart Contracts Face Disruption",
+     "link": "https://bitcoinist.com/ethereums-glamsterdam-upgrade-could-slip-into-2027-as-15000-smart-contracts-face-disruption/",
+     "source": "Bitcoinist",
+     "time": "2026-11-20T09:30:54+00:00",
+     "s": 1
+    },
     {
      "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
      "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
@@ -163,13 +170,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-19T12:54:42+00:00",
      "s": 0
-    },
-    {
-     "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
-     "link": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
-     "source": "CoinDesk",
-     "time": "2026-11-19T05:39:06+00:00",
-     "s": -1
     },
     {
      "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
@@ -264,8 +264,15 @@
   "HYPE": {
    "pos": 1,
    "neg": 0,
-   "count": 5,
+   "count": 6,
    "items": [
+    {
+     "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
+     "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
+     "source": "CoinDesk",
+     "time": "2026-11-20T10:02:03+00:00",
+     "s": 0
+    },
     {
      "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
