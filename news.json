@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T00:06:47.778486+00:00",
+ "updated": "2026-11-20T01:39:49.822165+00:00",
  "window_hours": 48,
  "headlines": 123,
  "feeds_ok": [
@@ -15,7 +15,7 @@
   "BTC": {
    "pos": 7,
    "neg": 7,
-   "count": 32,
+   "count": 31,
    "items": [
     {
      "title": "A Bitcoin trade that doesn’t need prices to rise could beat Treasury bills in 2027",
@@ -81,13 +81,6 @@
      "s": 1
     },
     {
-     "title": "Anthropic’s crypto futures traded 25% above its $81 billion IPO price as Bitcoin slumped 22%",
-     "link": "https://cryptoslate.com/bitcoins-22-slump-fails-to-dampen-crypto-traders-bullish-bets-on-anthropics-81-billion-ipo/",
-     "source": "CryptoSlate",
-     "time": "2026-11-19T14:45:19+00:00",
-     "s": 0
-    },
-    {
      "title": "Anthropic’s IPO Deal Surpasses SpaceX as Bitcoin and Tech Stocks Rebound",
      "link": "https://bitcoinist.com/anthropics-ipo-deal-surpasses-spacex-as-bitcoin-and-tech-stocks-rebound/",
      "source": "Bitcoinist",
@@ -121,6 +114,13 @@
      "source": "CoinDesk",
      "time": "2026-11-19T12:08:06+00:00",
      "s": 0
+    },
+    {
+     "title": "Bitcoin Could Soon Outperform US Treasury Bills Without A Price Rally — Here’s How",
+     "link": "https://bitcoinist.com/bitcoin-could-soon-outperform-us-treasury-bills-without-a-price-rally-heres-how/",
+     "source": "Bitcoinist",
+     "time": "2026-11-19T11:57:28+00:00",
+     "s": 1
     }
    ]
   },
