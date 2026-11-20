@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T08:10:43.332788+00:00",
+ "updated": "2026-11-20T09:28:04.272274+00:00",
  "window_hours": 48,
  "headlines": 123,
  "feeds_ok": [
@@ -15,8 +15,15 @@
   "BTC": {
    "pos": 7,
    "neg": 6,
-   "count": 31,
+   "count": 32,
    "items": [
+    {
+     "title": "Fidelity Moves $435 Million In Bitcoin To New Wallets — What Is Happening Behind The Scenes?",
+     "link": "https://bitcoinist.com/fidelity-moves-435-million-in-bitcoin-to-new-wallets-what-is-happening-behind-the-scenes/",
+     "source": "Bitcoinist",
+     "time": "2026-11-20T08:21:23+00:00",
+     "s": 0
+    },
     {
      "title": "Here's what's crashing gold and likely weighing on bitcoin too",
      "link": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
@@ -114,13 +121,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-19T14:35:07+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin finance protocol Hashi goes live on Sui mainnet",
-     "link": "https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608",
-     "source": "The Block",
-     "time": "2026-11-19T14:00:00+00:00",
-     "s": 0
     }
    ]
   },
@@ -215,9 +215,9 @@
    "items": []
   },
   "XRP": {
-   "pos": 2,
+   "pos": 1,
    "neg": 1,
-   "count": 5,
+   "count": 4,
    "items": [
     {
      "title": "A $2.8 million XRP yield trade is about to mature, but the next two markets are 44 times smaller",
@@ -246,13 +246,6 @@
      "source": "CoinDesk",
      "time": "2026-11-19T10:22:12+00:00",
      "s": -1
-    },
-    {
-     "title": "Ripple CEO Predicts Utility-Driven Crypto Will Win — Could XRP Be The Biggest Beneficiary?",
-     "link": "https://bitcoinist.com/ripple-ceo-predicts-utility-driven-crypto-will-win-could-xrp-be-the-biggest-beneficiary/",
-     "source": "Bitcoinist",
-     "time": "2026-11-19T09:54:39+00:00",
-     "s": 1
     }
    ]
   },
