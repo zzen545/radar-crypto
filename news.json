@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:42:02.204569+00:00",
+ "updated": "2026-11-20T04:48:26.521175+00:00",
  "window_hours": 48,
  "headlines": 123,
  "feeds_ok": [
@@ -13,16 +13,23 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
-   "neg": 8,
+   "pos": 7,
+   "neg": 9,
    "count": 32,
    "items": [
     {
-     "title": "Institutional Bitcoin ETF holdings clock record quarter after selling streak",
+     "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+     "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+     "source": "CoinDesk",
+     "time": "2026-11-20T04:28:52+00:00",
+     "s": -1
+    },
+    {
+     "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
      "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-20T03:33:22+00:00",
-     "s": 1
+     "s": 0
     },
     {
      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
@@ -114,21 +121,21 @@
      "source": "CoinDesk",
      "time": "2026-11-19T12:20:39+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin holds above $63,750 but Fed rate-hike threats loom large",
-     "link": "https://www.coindesk.com/markets/2026/11/19/bitcoin-holds-above-usd63-750-but-fed-rate-hike-threats-loom-large",
-     "source": "CoinDesk",
-     "time": "2026-11-19T12:08:06+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 1,
-   "neg": 1,
-   "count": 6,
+   "neg": 2,
+   "count": 7,
    "items": [
+    {
+     "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+     "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+     "source": "CoinDesk",
+     "time": "2026-11-20T04:28:52+00:00",
+     "s": -1
+    },
     {
      "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
      "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -175,9 +182,16 @@
   },
   "SOL": {
    "pos": 0,
-   "neg": 1,
-   "count": 2,
+   "neg": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+     "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+     "source": "CoinDesk",
+     "time": "2026-11-20T04:28:52+00:00",
+     "s": -1
+    },
     {
      "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
      "link": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
