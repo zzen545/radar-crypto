@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T06:54:32.295543+00:00",
+ "updated": "2026-11-20T08:10:43.332788+00:00",
  "window_hours": 48,
  "headlines": 123,
  "feeds_ok": [
@@ -14,8 +14,8 @@
  "coins": {
   "BTC": {
    "pos": 7,
-   "neg": 7,
-   "count": 32,
+   "neg": 6,
+   "count": 31,
    "items": [
     {
      "title": "Here's what's crashing gold and likely weighing on bitcoin too",
