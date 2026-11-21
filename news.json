@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T21:38:49.226145+00:00",
+ "updated": "2026-11-21T02:56:13.027250+00:00",
  "window_hours": 48,
- "headlines": 123,
+ "headlines": 121,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 4,
-   "neg": 14,
-   "count": 34,
+   "pos": 5,
+   "neg": 12,
+   "count": 32,
    "items": [
+    {
+     "title": "Bitcoin miners face a new profitability cliff as difficulty heads for an 8.5% jump",
+     "link": "https://cryptoslate.com/bitcoin-miners-face-shrinking-revenue-and-tighter-electricity-margins-as-a-projected-difficulty-increase-threatens-less-efficient-machines/",
+     "source": "CryptoSlate",
+     "time": "2026-11-20T22:50:55+00:00",
+     "s": 1
+    },
     {
      "title": "Just 2.5% of recent Bitcoin buyers’ exchange deposits were in profit",
      "link": "https://cryptoslate.com/just-2-5-of-recent-bitcoin-buyers-exchange-deposits-were-in-profit/",
@@ -81,24 +88,10 @@
      "s": -1
     },
     {
-     "title": "US spot Bitcoin ETFs are almost $1 billion short of a record monthly outflow at $3.5 billion",
-     "link": "https://cryptoslate.com/blackrock-leads-582-million-bitcoin-etf-exodus-as-november-withdrawals-approach-3-5-billion/",
-     "source": "CryptoSlate",
-     "time": "2026-11-20T16:30:38+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
      "link": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-20T15:52:06+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin hits four-month low as $820 million liquidated and $12.7 billion short squeeze risk builds",
-     "link": "https://cryptoslate.com/bitcoin-hits-four-month-low-as-820-million-liquidated-and-12-7-billion-short-squeeze-risk-builds/",
-     "source": "CryptoSlate",
-     "time": "2026-11-20T15:35:56+00:00",
      "s": -1
     },
     {
@@ -121,14 +114,28 @@
      "source": "The Block",
      "time": "2026-11-20T12:29:57+00:00",
      "s": -1
+    },
+    {
+     "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
+     "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
+     "source": "CoinDesk",
+     "time": "2026-11-20T12:15:08+00:00",
+     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 4,
-   "neg": 2,
-   "count": 9,
+   "neg": 3,
+   "count": 10,
    "items": [
+    {
+     "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+     "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+     "source": "CoinDesk",
+     "time": "2026-11-20T22:05:31+00:00",
+     "s": -1
+    },
     {
      "title": "Binance Hackers Move Nearly $600M in Ethereum Through THORChain",
      "link": "https://bitcoinist.com/binance-hackers-move-nearly-600m-in-ethereum-through-thorchain/",
@@ -229,10 +236,17 @@
    "items": []
   },
   "XRP": {
-   "pos": 1,
+   "pos": 2,
    "neg": 0,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Binance raises RLUSD yield to 6.37% as XRP rewards surge 54%",
+     "link": "https://cryptoslate.com/binance-raises-rlusd-yield-to-6-37-as-xrp-rewards-surge-54/",
+     "source": "CryptoSlate",
+     "time": "2026-11-20T23:40:12+00:00",
+     "s": 1
+    },
     {
      "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
