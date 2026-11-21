@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-21T10:34:55.651142+00:00",
+ "updated": "2026-11-21T17:50:43.571814+00:00",
  "window_hours": 48,
- "headlines": 120,
+ "headlines": 110,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,45 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 3,
-   "neg": 12,
+   "pos": 1,
+   "neg": 13,
    "count": 29,
    "items": [
+    {
+     "title": "A Bitcoin drop toward $53,000 could put $240 million in collateral at risk",
+     "link": "https://cryptoslate.com/a-bitcoin-drop-toward-53000-could-put-240-million-in-collateral-at-risk/",
+     "source": "CryptoSlate",
+     "time": "2026-11-21T16:35:27+00:00",
+     "s": -1
+    },
+    {
+     "title": "Crypto Liquidations Top $2.4B As Bitcoin Sinks Below $57,000, But Shorts Are Now Piling In",
+     "link": "https://bitcoinist.com/crypto-liquidations-top-billions-as-btc-sinks-below-57k/",
+     "source": "Bitcoinist",
+     "time": "2026-11-21T15:25:43+00:00",
+     "s": -1
+    },
+    {
+     "title": "One Bitcoin miner paid an $11.9M tariff bill four years after delivery",
+     "link": "https://cryptoslate.com/one-bitcoin-miner-paid-an-11-9m-tariff-bill-four-years-after-delivery/",
+     "source": "CryptoSlate",
+     "time": "2026-11-21T15:20:09+00:00",
+     "s": 0
+    },
+    {
+     "title": "Kraken says trades stand after Bitcoin sold at $24,250 Canadian",
+     "link": "https://cryptoslate.com/kraken-says-trades-stand-after-bitcoin-sold-at-24250-canadian/",
+     "source": "CryptoSlate",
+     "time": "2026-11-21T13:30:47+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Price Crashes To Two-Year Low Near $55,000, Analysts Say A Bottom Could Be Close",
+     "link": "https://bitcoinist.com/bitcoin-price-crashes-to-two-year-low-near-55000-analysts-say-a-bottom-could-be-close/",
+     "source": "Bitcoinist",
+     "time": "2026-11-21T12:41:07+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
@@ -36,20 +71,6 @@
      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
      "source": "CoinDesk",
      "time": "2026-11-21T04:10:07+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin miners face a new profitability cliff as difficulty heads for an 8.5% jump",
-     "link": "https://cryptoslate.com/bitcoin-miners-face-shrinking-revenue-and-tighter-electricity-margins-as-a-projected-difficulty-increase-threatens-less-efficient-machines/",
-     "source": "CryptoSlate",
-     "time": "2026-11-20T22:50:55+00:00",
-     "s": 1
-    },
-    {
-     "title": "Just 2.5% of recent Bitcoin buyers’ exchange deposits were in profit",
-     "link": "https://cryptoslate.com/just-2-5-of-recent-bitcoin-buyers-exchange-deposits-were-in-profit/",
-     "source": "CryptoSlate",
-     "time": "2026-11-20T21:30:25+00:00",
      "s": 0
     },
     {
@@ -100,35 +121,28 @@
      "source": "CoinDesk",
      "time": "2026-11-20T13:35:33+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
-     "link": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
-     "source": "CoinDesk",
-     "time": "2026-11-20T13:30:22+00:00",
-     "s": 0
-    },
-    {
-     "title": "US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
-     "link": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
-     "source": "The Block",
-     "time": "2026-11-20T12:29:57+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
-     "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
-     "source": "CoinDesk",
-     "time": "2026-11-20T12:15:08+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 4,
-   "neg": 3,
-   "count": 10,
+   "neg": 2,
+   "count": 8,
    "items": [
+    {
+     "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+     "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+     "source": "CoinDesk",
+     "time": "2026-11-21T12:30:00+00:00",
+     "s": -1
+    },
+    {
+     "title": "Ethereum’s Glamsterdam delay reveals a troubling pattern behind its biggest network upgrades",
+     "link": "https://cryptoslate.com/ethereums-glamsterdam-delay-reveals-a-troubling-pattern-behind-its-biggest-network-upgrades/",
+     "source": "CryptoSlate",
+     "time": "2026-11-21T12:00:31+00:00",
+     "s": 1
+    },
     {
      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
      "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
@@ -142,20 +156,6 @@
      "source": "Bitcoinist",
      "time": "2026-11-20T15:23:12+00:00",
      "s": 0
-    },
-    {
-     "title": "Ethereum’s New DeFi Security Tool Sparks Debate Over Censorship Risks",
-     "link": "https://bitcoinist.com/ethereums-new-defi-security-tool-sparks-debate-over-censorship-risks/",
-     "source": "Bitcoinist",
-     "time": "2026-11-20T15:03:48+00:00",
-     "s": -1
-    },
-    {
-     "title": "ARK Invest Buys $90M in Anthropic Shares While Trimming Ethereum ETF Holdings",
-     "link": "https://bitcoinist.com/ark-invest-buys-90m-in-anthropic-shares-while-trimming-ethereum-etf-holdings/",
-     "source": "Bitcoinist",
-     "time": "2026-11-20T14:33:47+00:00",
-     "s": 1
     },
     {
      "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
@@ -179,53 +179,32 @@
      "s": 1
     },
     {
-     "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-     "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-     "source": "CoinDesk",
-     "time": "2026-11-20T04:28:52+00:00",
-     "s": -1
-    },
-    {
      "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
      "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-19T18:20:49+00:00",
      "s": 1
-    },
-    {
-     "title": "Ethereum’s new DeFi security tool raises questions over censorship",
-     "link": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-19T13:30:00+00:00",
-     "s": 0
     }
    ]
   },
   "SOL": {
    "pos": 1,
-   "neg": 1,
-   "count": 3,
+   "neg": 0,
+   "count": 2,
    "items": [
+    {
+     "title": "Solana Is Building A Quantum Shield Without Giving Up Its Speed, Even As SOL Trades Near $69",
+     "link": "https://bitcoinist.com/solana-is-building-a-quantum-shield-without-giving-up-its-speed-even-as-sol-trades-near-69/",
+     "source": "Bitcoinist",
+     "time": "2026-11-21T13:13:43+00:00",
+     "s": 0
+    },
     {
      "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
      "link": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
      "source": "The Block",
      "time": "2026-11-20T12:12:29+00:00",
      "s": 1
-    },
-    {
-     "title": "Solana’s Next Upgrade Could Break Existing Apps As Developers Face New Warning",
-     "link": "https://bitcoinist.com/solanas-next-upgrade-could-break-existing-apps-as-developers-face-new-warning/",
-     "source": "Bitcoinist",
-     "time": "2026-11-20T10:27:11+00:00",
-     "s": 0
-    },
-    {
-     "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
-     "link": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
-     "source": "CoinDesk",
-     "time": "2026-11-20T04:28:52+00:00",
-     "s": -1
     }
    ]
   },
@@ -236,23 +215,23 @@
    "items": []
   },
   "XRP": {
-   "pos": 2,
-   "neg": 0,
+   "pos": 1,
+   "neg": 1,
    "count": 4,
    "items": [
+    {
+     "title": "XRP Price Crashes to $0.87 as ETF Assets Fall Below $1 Billion",
+     "link": "https://bitcoinist.com/xrp-price-crashes-to-0-87-as-etf-assets-fall-below-1-billion/",
+     "source": "Bitcoinist",
+     "time": "2026-11-21T16:04:23+00:00",
+     "s": -1
+    },
     {
      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
      "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
      "source": "CoinDesk",
      "time": "2026-11-21T05:59:19+00:00",
      "s": 0
-    },
-    {
-     "title": "Binance raises RLUSD yield to 6.37% as XRP rewards surge 54%",
-     "link": "https://cryptoslate.com/binance-raises-rlusd-yield-to-6-37-as-xrp-rewards-surge-54/",
-     "source": "CryptoSlate",
-     "time": "2026-11-20T23:40:12+00:00",
-     "s": 1
     },
     {
      "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
@@ -285,7 +264,7 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 5,
+   "count": 4,
    "items": [
     {
      "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
@@ -313,13 +292,6 @@
      "link": "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106",
      "source": "The Block",
      "time": "2026-11-19T18:04:15+00:00",
-     "s": 0
-    },
-    {
-     "title": "Hong Kong adds Hyperliquid to list of ‘suspicious’ crypto platforms",
-     "link": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-19T12:44:06+00:00",
      "s": 0
     }
    ]
