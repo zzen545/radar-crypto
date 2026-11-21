@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-21T17:50:43.571814+00:00",
+ "updated": "2026-11-21T22:38:31.117655+00:00",
  "window_hours": 48,
- "headlines": 110,
+ "headlines": 97,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -15,8 +15,22 @@
   "BTC": {
    "pos": 1,
    "neg": 13,
-   "count": 29,
+   "count": 27,
    "items": [
+    {
+     "title": "Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch",
+     "link": "https://cryptoslate.com/russia-bitcoin-trading-rules-moscow-exchange/",
+     "source": "CryptoSlate",
+     "time": "2026-11-21T19:40:03+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+     "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+     "source": "CoinDesk",
+     "time": "2026-11-21T17:50:00+00:00",
+     "s": 0
+    },
     {
      "title": "A Bitcoin drop toward $53,000 could put $240 million in collateral at risk",
      "link": "https://cryptoslate.com/a-bitcoin-drop-toward-53000-could-put-240-million-in-collateral-at-risk/",
@@ -107,27 +121,13 @@
      "source": "Decrypt",
      "time": "2026-11-20T16:35:59+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
-     "link": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-20T15:52:06+00:00",
-     "s": -1
-    },
-    {
-     "title": "Live news: Bitcoin slips to fresh lows below $59,000 as Anthropic slides after Nasdaq debut",
-     "link": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
-     "source": "CoinDesk",
-     "time": "2026-11-20T13:35:33+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
-   "pos": 4,
+   "pos": 2,
    "neg": 2,
-   "count": 8,
+   "count": 6,
    "items": [
     {
      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
@@ -170,20 +170,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-20T11:31:41+00:00",
      "s": 0
-    },
-    {
-     "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
-     "link": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
-     "source": "CoinDesk",
-     "time": "2026-11-20T04:58:08+00:00",
-     "s": 1
-    },
-    {
-     "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
-     "link": "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-19T18:20:49+00:00",
-     "s": 1
     }
    ]
   },
@@ -215,9 +201,9 @@
    "items": []
   },
   "XRP": {
-   "pos": 1,
+   "pos": 0,
    "neg": 1,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "XRP Price Crashes to $0.87 as ETF Assets Fall Below $1 Billion",
@@ -239,13 +225,6 @@
      "source": "The Block",
      "time": "2026-11-20T05:40:00+00:00",
      "s": 0
-    },
-    {
-     "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
-     "link": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
-     "source": "The Block",
-     "time": "2026-11-19T18:47:30+00:00",
-     "s": 1
     }
    ]
   },
@@ -264,7 +243,7 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 4,
+   "count": 2,
    "items": [
     {
      "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
@@ -278,20 +257,6 @@
      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
      "source": "The Block",
      "time": "2026-11-20T05:40:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
-     "link": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-19T20:33:24+00:00",
-     "s": 0
-    },
-    {
-     "title": "CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US",
-     "link": "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106",
-     "source": "The Block",
-     "time": "2026-11-19T18:04:15+00:00",
      "s": 0
     }
    ]
