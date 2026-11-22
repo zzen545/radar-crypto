@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T10:33:54.450454+00:00",
+ "updated": "2026-11-22T18:10:13.989646+00:00",
  "window_hours": 48,
- "headlines": 82,
+ "headlines": 57,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,58 @@
  "coins": {
   "BTC": {
    "pos": 1,
-   "neg": 14,
-   "count": 24,
+   "neg": 6,
+   "count": 17,
    "items": [
+    {
+     "title": "UK to ban crypto exchanges from making markets on their own platforms as Bitcoin rules change",
+     "link": "https://cryptoslate.com/uk-to-ban-crypto-exchanges-from-making-markets-on-their-own-platforms-as-bitcoin-rules-change/",
+     "source": "CryptoSlate",
+     "time": "2026-11-22T18:05:49+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin Price Prediction: Rare Signal Seen Only 10 Times In 9.5 Years Points To $72K Bounce",
+     "link": "https://bitcoinist.com/bitcoin-price-prediction-rare-signal-seen-only-10-times-in-9-5-years-points-to-72k-bounce/",
+     "source": "Bitcoinist",
+     "time": "2026-11-22T15:34:33+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin reclaims $61,000 before giving back a third of the weekend rally",
+     "link": "https://cryptoslate.com/bitcoin-reclaims-61000-before-giving-back-a-third-of-that-rally/",
+     "source": "CryptoSlate",
+     "time": "2026-11-22T14:30:34+00:00",
+     "s": 1
+    },
+    {
+     "title": "Deribit outage hit Bitcoin hedgers on Coinbase",
+     "link": "https://cryptoslate.com/deribit-outage-hit-bitcoin-hedgers-on-coinbase/",
+     "source": "CryptoSlate",
+     "time": "2026-11-22T14:00:44+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+     "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+     "source": "CoinDesk",
+     "time": "2026-11-22T14:00:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin’s next big threat could come from two oil tankers in the Middle East",
+     "link": "https://cryptoslate.com/two-hormuz-tanker-strikes-threaten-a-potential-source-of-relief-for-bitcoin/",
+     "source": "CryptoSlate",
+     "time": "2026-11-22T13:00:09+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin’s $60,000 breakdown puts December Fed decision under the spotlight",
+     "link": "https://cryptoslate.com/bitcoin-below-60000-fed-half-point-cpi/",
+     "source": "CryptoSlate",
+     "time": "2026-11-22T12:00:04+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
      "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -39,45 +88,10 @@
      "s": -1
     },
     {
-     "title": "Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch",
-     "link": "https://cryptoslate.com/russia-bitcoin-trading-rules-moscow-exchange/",
-     "source": "CryptoSlate",
-     "time": "2026-11-21T19:40:03+00:00",
-     "s": 1
-    },
-    {
      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
      "source": "CoinDesk",
      "time": "2026-11-21T17:50:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "A Bitcoin drop toward $53,000 could put $240 million in collateral at risk",
-     "link": "https://cryptoslate.com/a-bitcoin-drop-toward-53000-could-put-240-million-in-collateral-at-risk/",
-     "source": "CryptoSlate",
-     "time": "2026-11-21T16:35:27+00:00",
-     "s": -1
-    },
-    {
-     "title": "Crypto Liquidations Top $2.4B As Bitcoin Sinks Below $57,000, But Shorts Are Now Piling In",
-     "link": "https://bitcoinist.com/crypto-liquidations-top-billions-as-btc-sinks-below-57k/",
-     "source": "Bitcoinist",
-     "time": "2026-11-21T15:25:43+00:00",
-     "s": -1
-    },
-    {
-     "title": "One Bitcoin miner paid an $11.9M tariff bill four years after delivery",
-     "link": "https://cryptoslate.com/one-bitcoin-miner-paid-an-11-9m-tariff-bill-four-years-after-delivery/",
-     "source": "CryptoSlate",
-     "time": "2026-11-21T15:20:09+00:00",
-     "s": 0
-    },
-    {
-     "title": "Kraken says trades stand after Bitcoin sold at $24,250 Canadian",
-     "link": "https://cryptoslate.com/kraken-says-trades-stand-after-bitcoin-sold-at-24250-canadian/",
-     "source": "CryptoSlate",
-     "time": "2026-11-21T13:30:47+00:00",
      "s": 0
     },
     {
@@ -107,28 +121,21 @@
      "source": "The Block",
      "time": "2026-11-20T18:22:39+00:00",
      "s": -1
-    },
-    {
-     "title": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
-     "link": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
-     "source": "The Block",
-     "time": "2026-11-20T18:17:39+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-     "link": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
-     "source": "CoinDesk",
-     "time": "2026-11-20T18:13:52+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
-   "pos": 2,
+   "pos": 0,
    "neg": 3,
-   "count": 6,
+   "count": 4,
    "items": [
+    {
+     "title": "Chainflip users face frozen withdrawals after $4.86 million vanishes from Ethereum vault",
+     "link": "https://cryptoslate.com/chainflip-users-face-frozen-withdrawals-after-4-86-million-vanishes-from-ethereum-vault/",
+     "source": "CryptoSlate",
+     "time": "2026-11-22T16:05:55+00:00",
+     "s": 0
+    },
     {
      "title": "BTCS Warned $54M Aave Loan Could Be Liquidated as Ethereum Slides",
      "link": "https://bitcoinist.com/btcs-warned-54m-aave-loan-could-be-liquidated-as-ethereum-slides/",
@@ -144,55 +151,19 @@
      "s": -1
     },
     {
-     "title": "Ethereum’s Glamsterdam delay reveals a troubling pattern behind its biggest network upgrades",
-     "link": "https://cryptoslate.com/ethereums-glamsterdam-delay-reveals-a-troubling-pattern-behind-its-biggest-network-upgrades/",
-     "source": "CryptoSlate",
-     "time": "2026-11-21T12:00:31+00:00",
-     "s": 1
-    },
-    {
      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
      "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
      "source": "CoinDesk",
      "time": "2026-11-20T22:05:31+00:00",
      "s": -1
-    },
-    {
-     "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
-     "link": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
-     "source": "The Block",
-     "time": "2026-11-20T12:12:29+00:00",
-     "s": 1
-    },
-    {
-     "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
-     "link": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-20T11:31:41+00:00",
-     "s": 0
     }
    ]
   },
   "SOL": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 2,
-   "items": [
-    {
-     "title": "Solana Is Building A Quantum Shield Without Giving Up Its Speed, Even As SOL Trades Near $69",
-     "link": "https://bitcoinist.com/solana-is-building-a-quantum-shield-without-giving-up-its-speed-even-as-sol-trades-near-69/",
-     "source": "Bitcoinist",
-     "time": "2026-11-21T13:13:43+00:00",
-     "s": 0
-    },
-    {
-     "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
-     "link": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
-     "source": "The Block",
-     "time": "2026-11-20T12:12:29+00:00",
-     "s": 1
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "BNB": {
    "pos": 0,
@@ -201,10 +172,17 @@
    "items": []
   },
   "XRP": {
-   "pos": 0,
+   "pos": 1,
    "neg": 1,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "XRP’s institutional adoption story has a catch that investors may be overlooking",
+     "link": "https://cryptoslate.com/xrps-institutional-adoption-story-has-a-catch-that-investors-may-be-overlooking/",
+     "source": "CryptoSlate",
+     "time": "2026-11-22T17:05:07+00:00",
+     "s": 1
+    },
     {
      "title": "XRP Price Crashes to $0.87 as ETF Assets Fall Below $1 Billion",
      "link": "https://bitcoinist.com/xrp-price-crashes-to-0-87-as-etf-assets-fall-below-1-billion/",
@@ -222,10 +200,18 @@
    ]
   },
   "DOGE": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Dogecoin Price Retests Support That Sparked 184% And 760% Rallies, Is A Rebound Next?",
+     "link": "https://bitcoinist.com/dogecoin-price-retests-support-that-sparked-184-and-760-rallies-is-a-rebound-next/",
+     "source": "Bitcoinist",
+     "time": "2026-11-22T14:27:13+00:00",
+     "s": 1
+    }
+   ]
   },
   "TAO": {
    "pos": 0,
@@ -260,16 +246,8 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
-     "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
-     "source": "CoinDesk",
-     "time": "2026-11-20T12:15:08+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   }
  }
 }
