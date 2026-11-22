@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T02:45:54.016553+00:00",
+ "updated": "2026-11-22T10:33:54.450454+00:00",
  "window_hours": 48,
- "headlines": 96,
+ "headlines": 82,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,9 +14,30 @@
  "coins": {
   "BTC": {
    "pos": 1,
-   "neg": 13,
-   "count": 27,
+   "neg": 14,
+   "count": 24,
    "items": [
+    {
+     "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+     "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-22T09:33:06+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin shorts collapsed 79% in five weeks, then the market turned lower",
+     "link": "https://cryptoslate.com/bitcoin-shorts-collapsed-79-in-five-weeks-then-the-market-turned-lower/",
+     "source": "CryptoSlate",
+     "time": "2026-11-22T09:30:45+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Reclaims $60,000 After 9% Bounce From Two-Year Low",
+     "link": "https://bitcoinist.com/bitcoin-reclaims-60000-after-9-bounce-from-two-year-low/",
+     "source": "Bitcoinist",
+     "time": "2026-11-22T07:56:46+00:00",
+     "s": -1
+    },
     {
      "title": "Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch",
      "link": "https://cryptoslate.com/russia-bitcoin-trading-rules-moscow-exchange/",
@@ -60,13 +81,6 @@
      "s": 0
     },
     {
-     "title": "Bitcoin Price Crashes To Two-Year Low Near $55,000, Analysts Say A Bottom Could Be Close",
-     "link": "https://bitcoinist.com/bitcoin-price-crashes-to-two-year-low-near-55000-analysts-say-a-bottom-could-be-close/",
-     "source": "Bitcoinist",
-     "time": "2026-11-21T12:41:07+00:00",
-     "s": -1
-    },
-    {
      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
      "source": "CoinDesk",
@@ -107,28 +121,21 @@
      "source": "CoinDesk",
      "time": "2026-11-20T18:13:52+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
-     "link": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-20T16:55:51+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
-     "link": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
-     "source": "Decrypt",
-     "time": "2026-11-20T16:35:59+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 2,
-   "neg": 2,
+   "neg": 3,
    "count": 6,
    "items": [
+    {
+     "title": "BTCS Warned $54M Aave Loan Could Be Liquidated as Ethereum Slides",
+     "link": "https://bitcoinist.com/btcs-warned-54m-aave-loan-could-be-liquidated-as-ethereum-slides/",
+     "source": "Bitcoinist",
+     "time": "2026-11-22T08:15:23+00:00",
+     "s": -1
+    },
     {
      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
      "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
@@ -149,13 +156,6 @@
      "source": "CoinDesk",
      "time": "2026-11-20T22:05:31+00:00",
      "s": -1
-    },
-    {
-     "title": "Binance Hackers Move Nearly $600M in Ethereum Through THORChain",
-     "link": "https://bitcoinist.com/binance-hackers-move-nearly-600m-in-ethereum-through-thorchain/",
-     "source": "Bitcoinist",
-     "time": "2026-11-20T15:23:12+00:00",
-     "s": 0
     },
     {
      "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
@@ -203,7 +203,7 @@
   "XRP": {
    "pos": 0,
    "neg": 1,
-   "count": 3,
+   "count": 2,
    "items": [
     {
      "title": "XRP Price Crashes to $0.87 as ETF Assets Fall Below $1 Billion",
@@ -217,13 +217,6 @@
      "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
      "source": "CoinDesk",
      "time": "2026-11-21T05:59:19+00:00",
-     "s": 0
-    },
-    {
-     "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
-     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
-     "source": "The Block",
-     "time": "2026-11-20T05:40:00+00:00",
      "s": 0
     }
    ]
@@ -243,23 +236,8 @@
   "HYPE": {
    "pos": 0,
    "neg": 0,
-   "count": 2,
-   "items": [
-    {
-     "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
-     "link": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
-     "source": "CoinDesk",
-     "time": "2026-11-20T10:02:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
-     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
-     "source": "The Block",
-     "time": "2026-11-20T05:40:00+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "ASTER": {
    "pos": 0,
@@ -282,20 +260,13 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
      "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
      "source": "CoinDesk",
      "time": "2026-11-20T12:15:08+00:00",
-     "s": 0
-    },
-    {
-     "title": "Here's what's crashing gold and likely weighing on bitcoin too",
-     "link": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
-     "source": "CoinDesk",
-     "time": "2026-11-20T06:12:15+00:00",
      "s": 0
     }
    ]
