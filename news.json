@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T18:10:13.989646+00:00",
+ "updated": "2026-11-22T23:42:26.383630+00:00",
  "window_hours": 48,
- "headlines": 57,
+ "headlines": 48,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 1,
-   "neg": 6,
-   "count": 17,
+   "pos": 2,
+   "neg": 4,
+   "count": 12,
    "items": [
+    {
+     "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+     "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-22T22:47:09+00:00",
+     "s": 1
+    },
+    {
+     "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+     "link": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+     "source": "The Block",
+     "time": "2026-11-22T18:58:57+00:00",
+     "s": 0
+    },
     {
      "title": "UK to ban crypto exchanges from making markets on their own platforms as Bitcoin rules change",
      "link": "https://cryptoslate.com/uk-to-ban-crypto-exchanges-from-making-markets-on-their-own-platforms-as-bitcoin-rules-change/",
@@ -39,31 +53,10 @@
      "s": 1
     },
     {
-     "title": "Deribit outage hit Bitcoin hedgers on Coinbase",
-     "link": "https://cryptoslate.com/deribit-outage-hit-bitcoin-hedgers-on-coinbase/",
-     "source": "CryptoSlate",
-     "time": "2026-11-22T14:00:44+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
      "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
      "source": "CoinDesk",
      "time": "2026-11-22T14:00:00+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin’s next big threat could come from two oil tankers in the Middle East",
-     "link": "https://cryptoslate.com/two-hormuz-tanker-strikes-threaten-a-potential-source-of-relief-for-bitcoin/",
-     "source": "CryptoSlate",
-     "time": "2026-11-22T13:00:09+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin’s $60,000 breakdown puts December Fed decision under the spotlight",
-     "link": "https://cryptoslate.com/bitcoin-below-60000-fed-half-point-cpi/",
-     "source": "CryptoSlate",
-     "time": "2026-11-22T12:00:04+00:00",
      "s": 0
     },
     {
@@ -72,13 +65,6 @@
      "source": "Cointelegraph",
      "time": "2026-11-22T09:33:06+00:00",
      "s": -1
-    },
-    {
-     "title": "Bitcoin shorts collapsed 79% in five weeks, then the market turned lower",
-     "link": "https://cryptoslate.com/bitcoin-shorts-collapsed-79-in-five-weeks-then-the-market-turned-lower/",
-     "source": "CryptoSlate",
-     "time": "2026-11-22T09:30:45+00:00",
-     "s": 0
     },
     {
      "title": "Bitcoin Reclaims $60,000 After 9% Bounce From Two-Year Low",
@@ -114,20 +100,13 @@
      "source": "CoinDesk",
      "time": "2026-11-21T04:10:07+00:00",
      "s": 0
-    },
-    {
-     "title": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
-     "link": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
-     "source": "The Block",
-     "time": "2026-11-20T18:22:39+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
    "pos": 0,
-   "neg": 3,
-   "count": 4,
+   "neg": 2,
+   "count": 3,
    "items": [
     {
      "title": "Chainflip users face frozen withdrawals after $4.86 million vanishes from Ethereum vault",
@@ -149,13 +128,6 @@
      "source": "CoinDesk",
      "time": "2026-11-21T12:30:00+00:00",
      "s": -1
-    },
-    {
-     "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-     "link": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-     "source": "CoinDesk",
-     "time": "2026-11-20T22:05:31+00:00",
-     "s": -1
     }
    ]
   },
@@ -174,8 +146,15 @@
   "XRP": {
    "pos": 1,
    "neg": 1,
-   "count": 3,
+   "count": 4,
    "items": [
+    {
+     "title": "XRP Ledger trial settled 213,000 paid AI requests in 6,324 transactions",
+     "link": "https://cryptoslate.com/xrp-ledger-trial-settled-213000-paid-ai-requests-in-6324-transactions/",
+     "source": "CryptoSlate",
+     "time": "2026-11-22T21:05:16+00:00",
+     "s": 0
+    },
     {
      "title": "XRP’s institutional adoption story has a catch that investors may be overlooking",
      "link": "https://cryptoslate.com/xrps-institutional-adoption-story-has-a-catch-that-investors-may-be-overlooking/",
