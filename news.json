@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T04:58:20.300699+00:00",
+ "updated": "2026-11-23T15:43:46.197561+00:00",
  "window_hours": 48,
- "headlines": 50,
+ "headlines": 88,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,114 +13,177 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 1,
-   "neg": 2,
-   "count": 10,
+   "pos": 14,
+   "neg": 4,
+   "count": 36,
    "items": [
     {
-     "title": "Bitquery counted 400 fewer BTC in Maple’s disclosed wallets than Maple reported",
-     "link": "https://cryptoslate.com/bitquery-counted-400-fewer-btc-in-maples-disclosed-wallets-than-maple-reported/",
+     "title": "Why Bitcoin surged toward $64,000 before pulling back as trading slows 54% into Thanksgiving",
+     "link": "https://cryptoslate.com/bitcoin-steadies-above-61000-as-trading-slows-before-thanksgiving/",
      "source": "CryptoSlate",
-     "time": "2026-11-23T04:05:33+00:00",
-     "s": 0
-    },
-    {
-     "title": "Repaying a Bitcoin-backed loan on Sui can leave you waiting to withdraw native BTC",
-     "link": "https://cryptoslate.com/repaying-a-bitcoin-backed-loan-on-sui-can-leave-you-waiting-to-withdraw-native-btc/",
-     "source": "CryptoSlate",
-     "time": "2026-11-23T02:05:39+00:00",
-     "s": 0
-    },
-    {
-     "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
-     "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-22T22:47:09+00:00",
+     "time": "2026-11-23T15:30:30+00:00",
      "s": 1
     },
     {
-     "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
-     "link": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+     "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
+     "link": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
+     "source": "CoinDesk",
+     "time": "2026-11-23T15:02:32+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin, crypto and tech stocks rally as Nvidia reinstates Jensen Huang as CEO; NVDA jumps 30%",
+     "link": "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952",
      "source": "The Block",
-     "time": "2026-11-22T18:58:57+00:00",
+     "time": "2026-11-23T15:02:21+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin rockets above $64,000 as Nvidia reinstates Jensen Huang, wiping out $372 million in shorts",
+     "link": "https://cryptoslate.com/bitcoin-rockets-above-64000-as-nvidia-reinstates-jensen-huang-wiping-out-372-million-in-shorts/",
+     "source": "CryptoSlate",
+     "time": "2026-11-23T15:00:38+00:00",
      "s": 0
     },
     {
-     "title": "Bitcoin Price Prediction: Rare Signal Seen Only 10 Times In 9.5 Years Points To $72K Bounce",
-     "link": "https://bitcoinist.com/bitcoin-price-prediction-rare-signal-seen-only-10-times-in-9-5-years-points-to-72k-bounce/",
-     "source": "Bitcoinist",
-     "time": "2026-11-22T15:34:33+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
-     "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+     "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
+     "link": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
      "source": "CoinDesk",
-     "time": "2026-11-22T14:00:00+00:00",
+     "time": "2026-11-23T14:43:18+00:00",
      "s": 0
     },
     {
-     "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
-     "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "title": "Trump-linked American Bitcoin secures $150M credit line from FalconX",
+     "link": "https://cointelegraph.com/news/trumps-american-bitcoin-rises-150m-credit-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
-     "time": "2026-11-22T09:33:06+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin Reclaims $60,000 After 9% Bounce From Two-Year Low",
-     "link": "https://bitcoinist.com/bitcoin-reclaims-60000-after-9-bounce-from-two-year-low/",
-     "source": "Bitcoinist",
-     "time": "2026-11-22T07:56:46+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
-     "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
-     "source": "CoinDesk",
-     "time": "2026-11-21T17:50:00+00:00",
+     "time": "2026-11-23T13:44:16+00:00",
      "s": 0
     },
     {
-     "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-     "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+     "title": "Solo bitcoin miner beats the odds to win $191,000 block reward",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919",
+     "source": "The Block",
+     "time": "2026-11-23T13:37:02+00:00",
+     "s": 1
+    },
+    {
+     "title": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
+     "link": "https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-23T13:31:01+00:00",
+     "s": 1
+    },
+    {
+     "title": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
+     "link": "https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot",
+     "source": "Decrypt",
+     "time": "2026-11-23T13:25:35+00:00",
+     "s": 1
+    },
+    {
+     "title": "‘The dots aren’t done,’ Michael Saylor says as Strategy buys another 457 BTC for $30 million",
+     "link": "https://www.theblock.co/news/business/2026-11-23-the-dots-arent-done-michael-saylor-bitcoin-444907",
+     "source": "The Block",
+     "time": "2026-11-23T13:10:25+00:00",
+     "s": 1
+    },
+    {
+     "title": "Live updates: Bitcoin climbs above $63,000 as Nasdaq soars 6% on Huang return",
+     "link": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
      "source": "CoinDesk",
-     "time": "2026-11-21T06:16:42+00:00",
+     "time": "2026-11-23T13:01:20+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
+     "link": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside",
+     "source": "CoinDesk",
+     "time": "2026-11-23T12:30:25+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin hedges could expire an hour before ETF trading resumes on Black Friday",
+     "link": "https://cryptoslate.com/bitcoin-hedges-could-expire-an-hour-before-etf-trading-resumes-on-black-friday/",
+     "source": "CryptoSlate",
+     "time": "2026-11-23T12:20:26+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin rebounds from 2-year low as Wall Street futures recover",
+     "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebounds-from-2-year-low-as-wall-street-futures-recover",
+     "source": "CoinDesk",
+     "time": "2026-11-23T11:51:09+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin Miners Are Turning Into AI Giants — What Happens To Bitcoin Next?",
+     "link": "https://bitcoinist.com/bitcoin-miners-are-turning-into-ai-giants-what-happens-to-bitcoin-next/",
+     "source": "Bitcoinist",
+     "time": "2026-11-23T11:42:38+00:00",
      "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 0,
-   "neg": 2,
-   "count": 2,
+   "pos": 2,
+   "neg": 0,
+   "count": 4,
    "items": [
     {
-     "title": "BTCS Warned $54M Aave Loan Could Be Liquidated as Ethereum Slides",
-     "link": "https://bitcoinist.com/btcs-warned-54m-aave-loan-could-be-liquidated-as-ethereum-slides/",
-     "source": "Bitcoinist",
-     "time": "2026-11-22T08:15:23+00:00",
-     "s": -1
+     "title": "Bitmine adds 7,819 ETH as Tom Lee makes the ‘hard money’ case",
+     "link": "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948",
+     "source": "The Block",
+     "time": "2026-11-23T15:02:41+00:00",
+     "s": 0
     },
     {
-     "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
-     "link": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+     "title": "Ethereum wallets holding $72 billion ETH are under threat of a future quantum attack",
+     "link": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack",
      "source": "CoinDesk",
-     "time": "2026-11-21T12:30:00+00:00",
-     "s": -1
+     "time": "2026-11-23T12:13:35+00:00",
+     "s": 0
+    },
+    {
+     "title": "Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings",
+     "link": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
+     "source": "The Block",
+     "time": "2026-11-23T07:12:52+00:00",
+     "s": 1
+    },
+    {
+     "title": "BlackRock’s staked Ethereum ETF can delay redemptions if unstaked ETH runs short",
+     "link": "https://cryptoslate.com/blackrocks-staked-ethereum-etf-redemptions/",
+     "source": "CryptoSlate",
+     "time": "2026-11-23T06:05:20+00:00",
+     "s": 1
     }
    ]
   },
   "SOL": {
-   "pos": 0,
+   "pos": 2,
    "neg": 0,
-   "count": 1,
+   "count": 3,
    "items": [
     {
-     "title": "Solana’s new memory checks could make some older app transactions fail",
-     "link": "https://cryptoslate.com/solanas-new-memory-checks-could-make-some-older-app-transactions-fail/",
-     "source": "CryptoSlate",
-     "time": "2026-11-23T03:05:58+00:00",
+     "title": "DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million",
+     "link": "https://www.theblock.co/news/markets/2026-11-23-defi-development-dfdv-solana-treasury-11-consecutive-weeks-444950",
+     "source": "The Block",
+     "time": "2026-11-23T15:34:51+00:00",
+     "s": 1
+    },
+    {
+     "title": "Solana Meme Coin for Fiona the Hippo Raises $100K for Cincinnati Zoo Charity",
+     "link": "https://decrypt.co/383762/solana-meme-coin-for-fiona-the-hippo-sends-100k-to-cincinnati-zoo-charity",
+     "source": "Decrypt",
+     "time": "2026-11-23T12:43:30+00:00",
      "s": 0
+    },
+    {
+     "title": "Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings",
+     "link": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
+     "source": "The Block",
+     "time": "2026-11-23T07:12:52+00:00",
+     "s": 1
     }
    ]
   },
@@ -132,28 +195,14 @@
   },
   "XRP": {
    "pos": 0,
-   "neg": 1,
-   "count": 3,
+   "neg": 0,
+   "count": 1,
    "items": [
     {
-     "title": "XRP Ledger trial settled 213,000 paid AI requests in 6,324 transactions",
-     "link": "https://cryptoslate.com/xrp-ledger-trial-settled-213000-paid-ai-requests-in-6324-transactions/",
-     "source": "CryptoSlate",
-     "time": "2026-11-22T21:05:16+00:00",
-     "s": 0
-    },
-    {
-     "title": "XRP Price Crashes to $0.87 as ETF Assets Fall Below $1 Billion",
-     "link": "https://bitcoinist.com/xrp-price-crashes-to-0-87-as-etf-assets-fall-below-1-billion/",
+     "title": "XRP Ledger Takes Another Step Toward Institutional Lending — Could This Change XRP’s Future?",
+     "link": "https://bitcoinist.com/xrp-ledger-takes-another-step-toward-institutional-lending-could-this-change-xrps-future/",
      "source": "Bitcoinist",
-     "time": "2026-11-21T16:04:23+00:00",
-     "s": -1
-    },
-    {
-     "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-     "link": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
-     "source": "CoinDesk",
-     "time": "2026-11-21T05:59:19+00:00",
+     "time": "2026-11-23T10:49:29+00:00",
      "s": 0
     }
    ]
