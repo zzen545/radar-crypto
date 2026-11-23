@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T23:42:26.383630+00:00",
+ "updated": "2026-11-23T04:58:20.300699+00:00",
  "window_hours": 48,
- "headlines": 48,
+ "headlines": 50,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,24 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 2,
-   "neg": 4,
-   "count": 12,
+   "pos": 1,
+   "neg": 2,
+   "count": 10,
    "items": [
+    {
+     "title": "Bitquery counted 400 fewer BTC in Maple’s disclosed wallets than Maple reported",
+     "link": "https://cryptoslate.com/bitquery-counted-400-fewer-btc-in-maples-disclosed-wallets-than-maple-reported/",
+     "source": "CryptoSlate",
+     "time": "2026-11-23T04:05:33+00:00",
+     "s": 0
+    },
+    {
+     "title": "Repaying a Bitcoin-backed loan on Sui can leave you waiting to withdraw native BTC",
+     "link": "https://cryptoslate.com/repaying-a-bitcoin-backed-loan-on-sui-can-leave-you-waiting-to-withdraw-native-btc/",
+     "source": "CryptoSlate",
+     "time": "2026-11-23T02:05:39+00:00",
+     "s": 0
+    },
     {
      "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
      "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -32,25 +46,11 @@
      "s": 0
     },
     {
-     "title": "UK to ban crypto exchanges from making markets on their own platforms as Bitcoin rules change",
-     "link": "https://cryptoslate.com/uk-to-ban-crypto-exchanges-from-making-markets-on-their-own-platforms-as-bitcoin-rules-change/",
-     "source": "CryptoSlate",
-     "time": "2026-11-22T18:05:49+00:00",
-     "s": -1
-    },
-    {
      "title": "Bitcoin Price Prediction: Rare Signal Seen Only 10 Times In 9.5 Years Points To $72K Bounce",
      "link": "https://bitcoinist.com/bitcoin-price-prediction-rare-signal-seen-only-10-times-in-9-5-years-points-to-72k-bounce/",
      "source": "Bitcoinist",
      "time": "2026-11-22T15:34:33+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin reclaims $61,000 before giving back a third of the weekend rally",
-     "link": "https://cryptoslate.com/bitcoin-reclaims-61000-before-giving-back-a-third-of-that-rally/",
-     "source": "CryptoSlate",
-     "time": "2026-11-22T14:30:34+00:00",
-     "s": 1
     },
     {
      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
@@ -86,35 +86,14 @@
      "source": "CoinDesk",
      "time": "2026-11-21T06:16:42+00:00",
      "s": 0
-    },
-    {
-     "title": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
-     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
-     "source": "The Block",
-     "time": "2026-11-21T04:30:00+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-     "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-     "source": "CoinDesk",
-     "time": "2026-11-21T04:10:07+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 0,
    "neg": 2,
-   "count": 3,
+   "count": 2,
    "items": [
-    {
-     "title": "Chainflip users face frozen withdrawals after $4.86 million vanishes from Ethereum vault",
-     "link": "https://cryptoslate.com/chainflip-users-face-frozen-withdrawals-after-4-86-million-vanishes-from-ethereum-vault/",
-     "source": "CryptoSlate",
-     "time": "2026-11-22T16:05:55+00:00",
-     "s": 0
-    },
     {
      "title": "BTCS Warned $54M Aave Loan Could Be Liquidated as Ethereum Slides",
      "link": "https://bitcoinist.com/btcs-warned-54m-aave-loan-could-be-liquidated-as-ethereum-slides/",
@@ -134,8 +113,16 @@
   "SOL": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Solana’s new memory checks could make some older app transactions fail",
+     "link": "https://cryptoslate.com/solanas-new-memory-checks-could-make-some-older-app-transactions-fail/",
+     "source": "CryptoSlate",
+     "time": "2026-11-23T03:05:58+00:00",
+     "s": 0
+    }
+   ]
   },
   "BNB": {
    "pos": 0,
@@ -144,9 +131,9 @@
    "items": []
   },
   "XRP": {
-   "pos": 1,
+   "pos": 0,
    "neg": 1,
-   "count": 4,
+   "count": 3,
    "items": [
     {
      "title": "XRP Ledger trial settled 213,000 paid AI requests in 6,324 transactions",
@@ -154,13 +141,6 @@
      "source": "CryptoSlate",
      "time": "2026-11-22T21:05:16+00:00",
      "s": 0
-    },
-    {
-     "title": "XRP’s institutional adoption story has a catch that investors may be overlooking",
-     "link": "https://cryptoslate.com/xrps-institutional-adoption-story-has-a-catch-that-investors-may-be-overlooking/",
-     "source": "CryptoSlate",
-     "time": "2026-11-22T17:05:07+00:00",
-     "s": 1
     },
     {
      "title": "XRP Price Crashes to $0.87 as ETF Assets Fall Below $1 Billion",
