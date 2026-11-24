@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T15:43:46.197561+00:00",
+ "updated": "2026-11-24T02:42:00.335760+00:00",
  "window_hours": 48,
- "headlines": 88,
+ "headlines": 110,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -14,14 +14,98 @@
  "coins": {
   "BTC": {
    "pos": 14,
-   "neg": 4,
+   "neg": 6,
    "count": 36,
    "items": [
     {
-     "title": "Why Bitcoin surged toward $64,000 before pulling back as trading slows 54% into Thanksgiving",
-     "link": "https://cryptoslate.com/bitcoin-steadies-above-61000-as-trading-slows-before-thanksgiving/",
+     "title": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses",
+     "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+     "source": "The Block",
+     "time": "2026-11-24T00:33:22+00:00",
+     "s": 0
+    },
+    {
+     "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+     "link": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-23T23:43:34+00:00",
+     "s": 0
+    },
+    {
+     "title": "Grayscale says bitcoin and major altcoins look ‘oversold’ as AI risks cloud near-term outlook",
+     "link": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418",
+     "source": "The Block",
+     "time": "2026-11-23T22:18:02+00:00",
+     "s": -1
+    },
+    {
+     "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+     "link": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
+     "source": "Decrypt",
+     "time": "2026-11-23T20:36:02+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin’s supply squeeze narrative faces scrutiny after 11,000 BTC moves to Kraken",
+     "link": "https://cryptoslate.com/bitcoins-supply-squeeze-narrative-faces-scrutiny-after-11000-btc-moves-to-kraken/",
      "source": "CryptoSlate",
-     "time": "2026-11-23T15:30:30+00:00",
+     "time": "2026-11-23T20:30:38+00:00",
+     "s": 0
+    },
+    {
+     "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
+     "link": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
+     "source": "Decrypt",
+     "time": "2026-11-23T18:16:25+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
+     "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank",
+     "source": "CoinDesk",
+     "time": "2026-11-23T17:31:27+00:00",
+     "s": 1
+    },
+    {
+     "title": "Trump-Linked American Bitcoin Secures $150M FalconX Credit Line Backed by BTC",
+     "link": "https://bitcoinist.com/trump-linked-american-bitcoin-secures-150m-falconx-credit-line-backed-by-btc/",
+     "source": "Bitcoinist",
+     "time": "2026-11-23T17:12:32+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
+     "link": "https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-23T16:51:17+00:00",
+     "s": 0
+    },
+    {
+     "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
+     "link": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
+     "source": "Decrypt",
+     "time": "2026-11-23T16:46:03+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
+     "link": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
+     "source": "Decrypt",
+     "time": "2026-11-23T16:32:04+00:00",
+     "s": 1
+    },
+    {
+     "title": "How market depth shapes the price of a weekend Bitcoin sale",
+     "link": "https://cointelegraph.com/news/how-market-depth-shapes-the-price-of-a-weekend-bitcoin-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-23T15:57:55+00:00",
+     "s": 0
+    },
+    {
+     "title": "Nvidia Reinstates Jensen Huang as Bitcoin Rally Sparks $372M Short Squeeze",
+     "link": "https://bitcoinist.com/nvidia-reinstates-jensen-huang-as-bitcoin-rally-sparks-372m-short-squeeze/",
+     "source": "Bitcoinist",
+     "time": "2026-11-23T15:48:01+00:00",
      "s": 1
     },
     {
@@ -37,98 +121,63 @@
      "source": "The Block",
      "time": "2026-11-23T15:02:21+00:00",
      "s": 1
-    },
-    {
-     "title": "Bitcoin rockets above $64,000 as Nvidia reinstates Jensen Huang, wiping out $372 million in shorts",
-     "link": "https://cryptoslate.com/bitcoin-rockets-above-64000-as-nvidia-reinstates-jensen-huang-wiping-out-372-million-in-shorts/",
-     "source": "CryptoSlate",
-     "time": "2026-11-23T15:00:38+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
-     "link": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
-     "source": "CoinDesk",
-     "time": "2026-11-23T14:43:18+00:00",
-     "s": 0
-    },
-    {
-     "title": "Trump-linked American Bitcoin secures $150M credit line from FalconX",
-     "link": "https://cointelegraph.com/news/trumps-american-bitcoin-rises-150m-credit-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-23T13:44:16+00:00",
-     "s": 0
-    },
-    {
-     "title": "Solo bitcoin miner beats the odds to win $191,000 block reward",
-     "link": "https://www.theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919",
-     "source": "The Block",
-     "time": "2026-11-23T13:37:02+00:00",
-     "s": 1
-    },
-    {
-     "title": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
-     "link": "https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-23T13:31:01+00:00",
-     "s": 1
-    },
-    {
-     "title": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
-     "link": "https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot",
-     "source": "Decrypt",
-     "time": "2026-11-23T13:25:35+00:00",
-     "s": 1
-    },
-    {
-     "title": "‘The dots aren’t done,’ Michael Saylor says as Strategy buys another 457 BTC for $30 million",
-     "link": "https://www.theblock.co/news/business/2026-11-23-the-dots-arent-done-michael-saylor-bitcoin-444907",
-     "source": "The Block",
-     "time": "2026-11-23T13:10:25+00:00",
-     "s": 1
-    },
-    {
-     "title": "Live updates: Bitcoin climbs above $63,000 as Nasdaq soars 6% on Huang return",
-     "link": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
-     "source": "CoinDesk",
-     "time": "2026-11-23T13:01:20+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
-     "link": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside",
-     "source": "CoinDesk",
-     "time": "2026-11-23T12:30:25+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin hedges could expire an hour before ETF trading resumes on Black Friday",
-     "link": "https://cryptoslate.com/bitcoin-hedges-could-expire-an-hour-before-etf-trading-resumes-on-black-friday/",
-     "source": "CryptoSlate",
-     "time": "2026-11-23T12:20:26+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin rebounds from 2-year low as Wall Street futures recover",
-     "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebounds-from-2-year-low-as-wall-street-futures-recover",
-     "source": "CoinDesk",
-     "time": "2026-11-23T11:51:09+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin Miners Are Turning Into AI Giants — What Happens To Bitcoin Next?",
-     "link": "https://bitcoinist.com/bitcoin-miners-are-turning-into-ai-giants-what-happens-to-bitcoin-next/",
-     "source": "Bitcoinist",
-     "time": "2026-11-23T11:42:38+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 2,
-   "neg": 0,
-   "count": 4,
+   "neg": 1,
+   "count": 10,
    "items": [
+    {
+     "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+     "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-24T00:36:26+00:00",
+     "s": 0
+    },
+    {
+     "title": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses",
+     "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+     "source": "The Block",
+     "time": "2026-11-24T00:33:22+00:00",
+     "s": 0
+    },
+    {
+     "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
+     "link": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-23T19:35:06+00:00",
+     "s": 0
+    },
+    {
+     "title": "Robinhood Chain pays Ethereum 70% more than Base despite collecting 64% less in fees",
+     "link": "https://cryptoslate.com/robinhood-chain-pays-ethereum-70-more-than-base-despite-collecting-64-less-in-fees/",
+     "source": "CryptoSlate",
+     "time": "2026-11-23T18:00:37+00:00",
+     "s": 0
+    },
+    {
+     "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
+     "link": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
+     "source": "Decrypt",
+     "time": "2026-11-23T16:46:03+00:00",
+     "s": 0
+    },
+    {
+     "title": "Researchers Warn $72B in ETH Faces Future Quantum Risk",
+     "link": "https://bitcoinist.com/researchers-warn-72b-in-eth-faces-future-quantum-risk/",
+     "source": "Bitcoinist",
+     "time": "2026-11-23T16:26:28+00:00",
+     "s": -1
+    },
+    {
+     "title": "Ethereum Reclaims $1700 After Rebound as ETF Outflows Weigh on Recovery",
+     "link": "https://bitcoinist.com/ethereum-reclaims-1700-after-rebound-as-etf-outflows-weigh-on-recovery/",
+     "source": "Bitcoinist",
+     "time": "2026-11-23T16:03:01+00:00",
+     "s": 1
+    },
     {
      "title": "Bitmine adds 7,819 ETH as Tom Lee makes the ‘hard money’ case",
      "link": "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948",
@@ -148,13 +197,6 @@
      "link": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
      "source": "The Block",
      "time": "2026-11-23T07:12:52+00:00",
-     "s": 1
-    },
-    {
-     "title": "BlackRock’s staked Ethereum ETF can delay redemptions if unstaked ETH runs short",
-     "link": "https://cryptoslate.com/blackrocks-staked-ethereum-etf-redemptions/",
-     "source": "CryptoSlate",
-     "time": "2026-11-23T06:05:20+00:00",
      "s": 1
     }
    ]
@@ -196,8 +238,15 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "XRP borrowers face a $207,500 tipping point as one vault dominates an $8 million market",
+     "link": "https://cryptoslate.com/xrp-borrowers-face-a-207500-tipping-point-as-one-vault-dominates-an-8-million-market/",
+     "source": "CryptoSlate",
+     "time": "2026-11-24T00:50:30+00:00",
+     "s": 0
+    },
     {
      "title": "XRP Ledger Takes Another Step Toward Institutional Lending — Could This Change XRP’s Future?",
      "link": "https://bitcoinist.com/xrp-ledger-takes-another-step-toward-institutional-lending-could-this-change-xrps-future/",
@@ -208,18 +257,10 @@
    ]
   },
   "DOGE": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Dogecoin Price Retests Support That Sparked 184% And 760% Rallies, Is A Rebound Next?",
-     "link": "https://bitcoinist.com/dogecoin-price-retests-support-that-sparked-184-and-760-rallies-is-a-rebound-next/",
-     "source": "Bitcoinist",
-     "time": "2026-11-22T14:27:13+00:00",
-     "s": 1
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "TAO": {
    "pos": 0,
