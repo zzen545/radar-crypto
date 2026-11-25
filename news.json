@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:33:26.572963+00:00",
+ "updated": "2026-11-25T16:34:09.849597+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -13,122 +13,164 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 14,
-   "neg": 10,
-   "count": 42,
+   "pos": 9,
+   "neg": 13,
+   "count": 41,
    "items": [
     {
-     "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
-     "link": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+     "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
+     "link": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
      "source": "CoinDesk",
-     "time": "2026-11-25T04:50:08+00:00",
-     "s": 1
+     "time": "2026-11-25T15:59:44+00:00",
+     "s": 0
     },
     {
-     "title": "The CFTC opens the door to Bitcoin reserves at US exchanges with a 20% catch",
-     "link": "https://cryptoslate.com/the-cftc-opens-the-door-to-bitcoin-reserves-at-us-exchanges-with-a-20-catch/",
+     "title": "Bitcoin’s selloff deepens as Trump tariffs and hot inflation revive market fears",
+     "link": "https://cryptoslate.com/bitcoins-selloff-deepens-as-trump-tariffs-and-hot-inflation-revive-market-fears/",
      "source": "CryptoSlate",
-     "time": "2026-11-25T02:50:52+00:00",
-     "s": 0
+     "time": "2026-11-25T15:49:19+00:00",
+     "s": -1
     },
     {
-     "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-     "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-25T01:40:59+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin faces a familiar macro threat as the US prepares another round of tariffs",
-     "link": "https://cryptoslate.com/bitcoin-threatened-us-tariff-report-names-china-and-the-eu-as-official-rates-remain-unknown/",
+     "title": "Bitcoin is struggling around $60,000 but exchange reserves are telling a different story",
+     "link": "https://cryptoslate.com/bitcoin-is-struggling-around-60000-but-exchange-reserves-are-telling-a-different-story/",
      "source": "CryptoSlate",
-     "time": "2026-11-24T23:50:36+00:00",
+     "time": "2026-11-25T14:00:05+00:00",
      "s": 0
     },
     {
-     "title": "Bitcoin’s $60,000 bear market is testing miners harder than the 2022 crypto winter",
-     "link": "https://cryptoslate.com/bitcoins-60000-bear-market-is-testing-miners-harder-than-the-2022-crypto-winter/",
+     "title": "Bitcoin’s crash protection could make its next selloff worse as US inflation data looms",
+     "link": "https://cryptoslate.com/bitcoins-crash-protection-could-make-its-next-selloff-worse-as-us-inflation-data-looms/",
      "source": "CryptoSlate",
-     "time": "2026-11-24T22:40:42+00:00",
-     "s": 0
+     "time": "2026-11-25T13:10:14+00:00",
+     "s": -1
     },
     {
-     "title": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
-     "link": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
+     "title": "UniCredit offers bitcoin exposure to Italian retail clients with capital protection at maturity",
+     "link": "https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-446150",
      "source": "The Block",
-     "time": "2026-11-24T22:10:45+00:00",
-     "s": -1
-    },
-    {
-     "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
-     "link": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
-     "source": "Decrypt",
-     "time": "2026-11-24T21:16:02+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
-     "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-24T19:44:23+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
-     "link": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
-     "source": "Decrypt",
-     "time": "2026-11-24T19:35:32+00:00",
-     "s": -1
-    },
-    {
-     "title": "Coldcard reveals how Bitcoin wallet flaw went undetected for over 5 years",
-     "link": "https://cointelegraph.com/news/coldcard-how-security-reviews-missed-bitcoin-wallet-flaw-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-24T19:04:26+00:00",
+     "time": "2026-11-25T12:24:32+00:00",
      "s": 0
     },
     {
-     "title": "Payward’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
-     "link": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498",
+     "title": "‘Don’t mess with X,’ Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
+     "link": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151",
      "source": "The Block",
-     "time": "2026-11-24T18:35:02+00:00",
-     "s": 1
+     "time": "2026-11-25T12:14:27+00:00",
+     "s": 0
     },
     {
-     "title": "Eric Trump’s Bitcoin miner surges 17% after $150 million deal to avoid selling BTC",
-     "link": "https://cryptoslate.com/eric-trumps-bitcoin-miner-surges-17-after-150-million-deal-to-avoid-selling-btc/",
+     "title": "VanEck is dropping Gemini from nearly $1 billion in Bitcoin, Ethereum and Solana ETFs",
+     "link": "https://cryptoslate.com/vaneck-is-dropping-gemini-from-nearly-1-billion-in-bitcoin-ethereum-and-solana-etfs/",
      "source": "CryptoSlate",
-     "time": "2026-11-24T18:00:31+00:00",
-     "s": 1
+     "time": "2026-11-25T12:00:24+00:00",
+     "s": 0
     },
     {
-     "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
-     "link": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-24T17:09:11+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin ETFs Lose $4.71B in November as BlackRock’s IBIT Shares Rebound",
-     "link": "https://bitcoinist.com/bitcoin-etfs-lose-4-71b-in-november-as-blackrocks-ibit-shares-rebound/",
-     "source": "Bitcoinist",
-     "time": "2026-11-24T16:19:49+00:00",
-     "s": 1
-    },
-    {
-     "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
-     "link": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
+     "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
+     "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
      "source": "CoinDesk",
-     "time": "2026-11-24T16:00:25+00:00",
+     "time": "2026-11-25T11:57:50+00:00",
+     "s": -1
+    },
+    {
+     "title": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
+     "link": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
+     "source": "CoinDesk",
+     "time": "2026-11-25T11:51:54+00:00",
      "s": 1
+    },
+    {
+     "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
+     "link": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
+     "source": "CoinDesk",
+     "time": "2026-11-25T11:30:32+00:00",
+     "s": 0
+    },
+    {
+     "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
+     "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
+     "source": "Decrypt",
+     "time": "2026-11-25T11:23:57+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
+     "link": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-25T11:12:26+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin price may fall below $53K if bear-market history repeats",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-25T11:09:38+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin ETFs gained 191 institutional holders but just 25 drove all the growth",
+     "link": "https://cryptoslate.com/bitcoin-etfs-gained-191-institutional-holders-but-just-25-drove-all-the-growth/",
+     "source": "CryptoSlate",
+     "time": "2026-11-25T10:50:46+00:00",
+     "s": 0
+    },
+    {
+     "title": "Live updates: Bitcoin tumbles to $58,000 alongside continuing tech rout",
+     "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
+     "source": "CoinDesk",
+     "time": "2026-11-25T08:35:47+00:00",
+     "s": -1
     }
    ]
   },
   "ETH": {
-   "pos": 0,
+   "pos": 2,
    "neg": 2,
-   "count": 8,
+   "count": 9,
    "items": [
+    {
+     "title": "Bit Digital repays $50 million to Galaxy after selling 29,825 ETH",
+     "link": "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164",
+     "source": "The Block",
+     "time": "2026-11-25T14:15:44+00:00",
+     "s": 0
+    },
+    {
+     "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
+     "link": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
+     "source": "Decrypt",
+     "time": "2026-11-25T13:41:38+00:00",
+     "s": 1
+    },
+    {
+     "title": "VanEck is dropping Gemini from nearly $1 billion in Bitcoin, Ethereum and Solana ETFs",
+     "link": "https://cryptoslate.com/vaneck-is-dropping-gemini-from-nearly-1-billion-in-bitcoin-ethereum-and-solana-etfs/",
+     "source": "CryptoSlate",
+     "time": "2026-11-25T12:00:24+00:00",
+     "s": 0
+    },
+    {
+     "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
+     "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+     "source": "CoinDesk",
+     "time": "2026-11-25T11:57:50+00:00",
+     "s": -1
+    },
+    {
+     "title": "Ethereum Foundation researchers pick one hash ‘to rule them all’ for post-quantum upgrade",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-25-ethereum-foundation-researchers-pick-one-hash-to-rule-them-all-for-post-quantum-upgrade-446125",
+     "source": "The Block",
+     "time": "2026-11-25T09:49:45+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+     "source": "The Block",
+     "time": "2026-11-25T05:15:00+00:00",
+     "s": 0
+    },
     {
      "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
      "link": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
@@ -137,46 +179,11 @@
      "s": 0
     },
     {
-     "title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
-     "link": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562",
-     "source": "The Block",
-     "time": "2026-11-24T15:27:50+00:00",
-     "s": 0
-    },
-    {
      "title": "BitMine’s Ethereum Loss Erases Nearly Three Years of Projected Staking Revenue",
      "link": "https://bitcoinist.com/bitmines-ethereum-loss-erases-nearly-three-years-of-projected-staking-revenue/",
      "source": "Bitcoinist",
      "time": "2026-11-24T14:53:07+00:00",
      "s": -1
-    },
-    {
-     "title": "Ethereum Foundation doubles protocol security team, calls AI a ‘more urgent risk’ than quantum",
-     "link": "https://www.theblock.co/news/ecosystems/2026-11-24-ethereum-foundation-doubles-protocol-security-team-calls-ai-a-more-urgent-risk-than-quantum-445497",
-     "source": "The Block",
-     "time": "2026-11-24T11:53:31+00:00",
-     "s": -1
-    },
-    {
-     "title": "BTCS sells more than half its ether to repay $43.8 million in Aave debt",
-     "link": "https://www.coindesk.com/business/2026/11/24/btcs-sells-more-than-half-its-ether-to-repay-usd43-8-million-in-aave-debt",
-     "source": "CoinDesk",
-     "time": "2026-11-24T10:55:30+00:00",
-     "s": 0
-    },
-    {
-     "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
-     "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-24T00:36:26+00:00",
-     "s": 0
-    },
-    {
-     "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
-     "link": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-23T19:35:06+00:00",
-     "s": 0
     },
     {
      "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
@@ -188,16 +195,44 @@
    ]
   },
   "SOL": {
-   "pos": 0,
-   "neg": 0,
-   "count": 1,
+   "pos": 2,
+   "neg": 1,
+   "count": 5,
    "items": [
     {
-     "title": "Solana Meme Coin for Fiona the Hippo Raises $100K for Cincinnati Zoo Charity",
-     "link": "https://decrypt.co/383762/solana-meme-coin-for-fiona-the-hippo-sends-100k-to-cincinnati-zoo-charity",
-     "source": "Decrypt",
-     "time": "2026-11-23T12:43:30+00:00",
+     "title": "VanEck is dropping Gemini from nearly $1 billion in Bitcoin, Ethereum and Solana ETFs",
+     "link": "https://cryptoslate.com/vaneck-is-dropping-gemini-from-nearly-1-billion-in-bitcoin-ethereum-and-solana-etfs/",
+     "source": "CryptoSlate",
+     "time": "2026-11-25T12:00:24+00:00",
      "s": 0
+    },
+    {
+     "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+     "link": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-25T11:49:54+00:00",
+     "s": 1
+    },
+    {
+     "title": "Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
+     "link": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
+     "source": "The Block",
+     "time": "2026-11-25T10:23:10+00:00",
+     "s": 1
+    },
+    {
+     "title": "Solana developers move to stop validators finishing work on blocks that already lost",
+     "link": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
+     "source": "CoinDesk",
+     "time": "2026-11-25T06:33:10+00:00",
+     "s": 0
+    },
+    {
+     "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
+     "link": "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-25T05:32:55+00:00",
+     "s": -1
     }
    ]
   },
@@ -210,20 +245,13 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
-     "title": "XRP’s shrinking exchange supply may be telling investors the wrong story",
-     "link": "https://cryptoslate.com/xrps-shrinking-exchange-supply-may-be-telling-investors-the-wrong-story/",
-     "source": "CryptoSlate",
-     "time": "2026-11-25T01:20:03+00:00",
-     "s": 0
-    },
-    {
-     "title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
-     "link": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
-     "source": "The Block",
-     "time": "2026-11-24T14:00:02+00:00",
+     "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
+     "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
+     "source": "CoinDesk",
+     "time": "2026-11-25T06:15:08+00:00",
      "s": 0
     }
    ]
@@ -242,9 +270,17 @@
   },
   "HYPE": {
    "pos": 0,
-   "neg": 0,
-   "count": 0,
-   "items": []
+   "neg": 1,
+   "count": 1,
+   "items": [
+    {
+     "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
+     "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
+     "source": "Decrypt",
+     "time": "2026-11-25T11:23:57+00:00",
+     "s": -1
+    }
+   ]
   },
   "ASTER": {
    "pos": 0,
@@ -266,22 +302,22 @@
   },
   "XAU": {
    "pos": 0,
-   "neg": 1,
+   "neg": 0,
    "count": 2,
    "items": [
+    {
+     "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
+     "link": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
+     "source": "CoinDesk",
+     "time": "2026-11-25T11:30:32+00:00",
+     "s": 0
+    },
     {
      "title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
      "link": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
      "source": "CoinDesk",
      "time": "2026-11-24T12:04:39+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s",
-     "link": "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-24T09:25:45+00:00",
-     "s": -1
     }
    ]
   }
