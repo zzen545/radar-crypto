@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T23:10:04.241794+00:00",
+ "updated": "2026-11-25T05:33:26.572963+00:00",
  "window_hours": 48,
- "headlines": 127,
+ "headlines": 126,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,38 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 18,
+   "pos": 14,
    "neg": 10,
-   "count": 45,
+   "count": 42,
    "items": [
+    {
+     "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+     "link": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+     "source": "CoinDesk",
+     "time": "2026-11-25T04:50:08+00:00",
+     "s": 1
+    },
+    {
+     "title": "The CFTC opens the door to Bitcoin reserves at US exchanges with a 20% catch",
+     "link": "https://cryptoslate.com/the-cftc-opens-the-door-to-bitcoin-reserves-at-us-exchanges-with-a-20-catch/",
+     "source": "CryptoSlate",
+     "time": "2026-11-25T02:50:52+00:00",
+     "s": 0
+    },
+    {
+     "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+     "link": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-25T01:40:59+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin faces a familiar macro threat as the US prepares another round of tariffs",
+     "link": "https://cryptoslate.com/bitcoin-threatened-us-tariff-report-names-china-and-the-eu-as-official-rates-remain-unknown/",
+     "source": "CryptoSlate",
+     "time": "2026-11-24T23:50:36+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin’s $60,000 bear market is testing miners harder than the 2022 crypto winter",
      "link": "https://cryptoslate.com/bitcoins-60000-bear-market-is-testing-miners-harder-than-the-2022-crypto-winter/",
@@ -88,39 +116,11 @@
      "s": 1
     },
     {
-     "title": "Bitcoin’s $5,000 price swing and Anthropic’s IPO decline expose cracks in AI-driven market rally",
-     "link": "https://cryptoslate.com/bitcoins-5000-price-swing-and-anthropics-ipo-decline-expose-cracks-in-ai-driven-market-rally/",
-     "source": "CryptoSlate",
-     "time": "2026-11-24T16:10:02+00:00",
-     "s": 1
-    },
-    {
      "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
      "link": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
      "source": "CoinDesk",
      "time": "2026-11-24T16:00:25+00:00",
      "s": 1
-    },
-    {
-     "title": "BlackRock drives Bitcoin ETFs to worst month on record as crypto fund withdrawals near $6 billion",
-     "link": "https://cryptoslate.com/blackrock-drives-bitcoin-etfs-to-worst-month-on-record-as-crypto-fund-withdrawals-near-6-billion/",
-     "source": "CryptoSlate",
-     "time": "2026-11-24T15:30:51+00:00",
-     "s": 1
-    },
-    {
-     "title": "Grayscale Says Bitcoin Is Oversold but AI Risks Could Delay Market Recovery",
-     "link": "https://bitcoinist.com/grayscale-says-bitcoin-is-oversold-but-ai-risks-could-delay-market-recovery/",
-     "source": "Bitcoinist",
-     "time": "2026-11-24T15:18:30+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin ETFs see another $570 million in net outflows as November total nears $5 billion and BTC dips below $60K",
-     "link": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548",
-     "source": "The Block",
-     "time": "2026-11-24T14:32:21+00:00",
-     "s": -1
     }
    ]
   },
@@ -210,8 +210,15 @@
   "XRP": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "XRP’s shrinking exchange supply may be telling investors the wrong story",
+     "link": "https://cryptoslate.com/xrps-shrinking-exchange-supply-may-be-telling-investors-the-wrong-story/",
+     "source": "CryptoSlate",
+     "time": "2026-11-25T01:20:03+00:00",
+     "s": 0
+    },
     {
      "title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
      "link": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
