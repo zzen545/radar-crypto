@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:47:25.457740+00:00",
+ "updated": "2026-11-26T09:03:53.869457+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -14,9 +14,79 @@
  "coins": {
   "BTC": {
    "pos": 10,
-   "neg": 12,
+   "neg": 11,
    "count": 39,
    "items": [
+    {
+     "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
+     "link": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814",
+     "source": "The Block",
+     "time": "2026-11-26T08:50:46+00:00",
+     "s": 1
+    },
+    {
+     "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+     "link": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+     "source": "CoinDesk",
+     "time": "2026-11-26T08:01:33+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin could double by 2032 and UniCredit investors would still make just 65%",
+     "link": "https://cryptoslate.com/bitcoin-could-double-by-2032-and-unicredit-investors-would-still-make-just-65/",
+     "source": "CryptoSlate",
+     "time": "2026-11-26T07:20:18+00:00",
+     "s": 0
+    },
+    {
+     "title": "Europe’s only spot bitcoin ETF starts trading in Switzerland, BIT says",
+     "link": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
+     "source": "The Block",
+     "time": "2026-11-26T06:30:00+00:00",
+     "s": 1
+    },
+    {
+     "title": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
+     "link": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
+     "source": "CoinDesk",
+     "time": "2026-11-26T06:19:09+00:00",
+     "s": 0
+    },
+    {
+     "title": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
+     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-26-fidelity-chainlink-etf-musk-x-ruling-alleged-bitcoin-content-farm-case-more-crypto-news-446755",
+     "source": "The Block",
+     "time": "2026-11-26T05:45:00+00:00",
+     "s": 1
+    },
+    {
+     "title": "Galaxy walks back bitcoin’s June-bottom call, warns of deeper losses below $58,525",
+     "link": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
+     "source": "The Block",
+     "time": "2026-11-26T05:16:11+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+     "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
+     "source": "CoinDesk",
+     "time": "2026-11-26T04:46:01+00:00",
+     "s": 0
+    },
+    {
+     "title": "Switzerland’s Crypto Tax Data Deal Could Make Bitcoin Holdings Less Private",
+     "link": "https://bitcoinist.com/switzerland-crypto-tax-data-sharing/",
+     "source": "Bitcoinist",
+     "time": "2026-11-26T04:38:47+00:00",
+     "s": 0
+    },
+    {
+     "title": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
+     "link": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
+     "source": "The Block",
+     "time": "2026-11-26T03:03:01+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Lightning operators could recover stuck payments even after losing channel data",
      "link": "https://cryptoslate.com/bitcoin-lightning-operators-could-recover-stuck-payments-even-after-losing-channel-data/",
@@ -51,84 +121,21 @@
      "source": "The Block",
      "time": "2026-11-25T19:37:10+00:00",
      "s": 0
-    },
-    {
-     "title": "CleanSpark is selling Bitcoin to fund its AI expansion as annual losses approach $1 billion",
-     "link": "https://cryptoslate.com/cleanspark-is-selling-bitcoin-to-fund-its-ai-expansion-as-annual-losses-approach-1-billion/",
-     "source": "CryptoSlate",
-     "time": "2026-11-25T19:00:01+00:00",
-     "s": 0
-    },
-    {
-     "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
-     "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
-     "source": "CoinDesk",
-     "time": "2026-11-25T17:38:33+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
-     "link": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-25T17:33:22+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin falls below $58,000 as CoinShares’ Butterfill sees ‘tail end of the bear market’",
-     "link": "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678",
-     "source": "The Block",
-     "time": "2026-11-25T17:26:55+00:00",
-     "s": -1
-    },
-    {
-     "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
-     "link": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
-     "source": "Decrypt",
-     "time": "2026-11-25T17:16:02+00:00",
-     "s": 1
-    },
-    {
-     "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
-     "link": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
-     "source": "The Block",
-     "time": "2026-11-25T16:54:15+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
-     "link": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
-     "source": "Decrypt",
-     "time": "2026-11-25T16:52:50+00:00",
-     "s": -1
-    },
-    {
-     "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
-     "link": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
-     "source": "CoinDesk",
-     "time": "2026-11-25T15:59:44+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin’s selloff deepens as Trump tariffs and hot inflation revive market fears",
-     "link": "https://cryptoslate.com/bitcoins-selloff-deepens-as-trump-tariffs-and-hot-inflation-revive-market-fears/",
-     "source": "CryptoSlate",
-     "time": "2026-11-25T15:49:19+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin is struggling around $60,000 but exchange reserves are telling a different story",
-     "link": "https://cryptoslate.com/bitcoin-is-struggling-around-60000-but-exchange-reserves-are-telling-a-different-story/",
-     "source": "CryptoSlate",
-     "time": "2026-11-25T14:00:05+00:00",
-     "s": 0
     }
    ]
   },
   "ETH": {
    "pos": 4,
    "neg": 2,
-   "count": 9,
+   "count": 8,
    "items": [
+    {
+     "title": "Lido tightens Ethereum staking penalties as operators gain access to larger validators",
+     "link": "https://cryptoslate.com/lido-tightens-ethereum-staking-penalties-as-operators-gain-access-to-larger-validators/",
+     "source": "CryptoSlate",
+     "time": "2026-11-26T01:50:48+00:00",
+     "s": 1
+    },
     {
      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
      "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -165,20 +172,6 @@
      "s": -1
     },
     {
-     "title": "Ethereum Foundation researchers pick one hash ‘to rule them all’ for post-quantum upgrade",
-     "link": "https://www.theblock.co/news/ecosystems/2026-11-25-ethereum-foundation-researchers-pick-one-hash-to-rule-them-all-for-post-quantum-upgrade-446125",
-     "source": "The Block",
-     "time": "2026-11-25T09:49:45+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
-     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
-     "source": "The Block",
-     "time": "2026-11-25T05:15:00+00:00",
-     "s": 0
-    },
-    {
      "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
      "link": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
      "source": "Decrypt",
@@ -197,8 +190,15 @@
   "SOL": {
    "pos": 2,
    "neg": 1,
-   "count": 4,
+   "count": 5,
    "items": [
+    {
+     "title": "SBI brings Japanese stocks to Solana but investors face a five-day wait to cash out",
+     "link": "https://cryptoslate.com/sbi-brings-japanese-stocks-to-solana-but-investors-face-a-five-day-wait-to-cash-out/",
+     "source": "CryptoSlate",
+     "time": "2026-11-26T04:30:59+00:00",
+     "s": 0
+    },
     {
      "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
      "link": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -237,9 +237,16 @@
   },
   "XRP": {
    "pos": 1,
-   "neg": 0,
-   "count": 2,
+   "neg": 1,
+   "count": 3,
    "items": [
+    {
+     "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
+     "link": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
+     "source": "CoinDesk",
+     "time": "2026-11-26T05:30:38+00:00",
+     "s": -1
+    },
     {
      "title": "Ripple’s latest banking partnership opens another route to XRP adoption in Turkey",
      "link": "https://cryptoslate.com/ripples-latest-banking-partnership-opens-another-route-to-xrp-adoption-in-turkey/",
@@ -310,20 +317,13 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
      "link": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
      "source": "CoinDesk",
      "time": "2026-11-25T11:30:32+00:00",
-     "s": 0
-    },
-    {
-     "title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
-     "link": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
-     "source": "CoinDesk",
-     "time": "2026-11-24T12:04:39+00:00",
      "s": 0
     }
    ]
