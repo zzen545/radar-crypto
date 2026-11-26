@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:34:09.849597+00:00",
+ "updated": "2026-11-26T00:47:25.457740+00:00",
  "window_hours": 48,
  "headlines": 126,
  "feeds_ok": [
@@ -13,10 +13,94 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 9,
-   "neg": 13,
-   "count": 41,
+   "pos": 10,
+   "neg": 12,
+   "count": 39,
    "items": [
+    {
+     "title": "Bitcoin Lightning operators could recover stuck payments even after losing channel data",
+     "link": "https://cryptoslate.com/bitcoin-lightning-operators-could-recover-stuck-payments-even-after-losing-channel-data/",
+     "source": "CryptoSlate",
+     "time": "2026-11-26T00:20:15+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin has fallen so far that its original Rainbow Chart has run out of colors",
+     "link": "https://cryptoslate.com/bitcoin-has-fallen-so-far-that-its-original-rainbow-chart-has-run-out-of-colors/",
+     "source": "CryptoSlate",
+     "time": "2026-11-25T22:40:35+00:00",
+     "s": 0
+    },
+    {
+     "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+     "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-25T21:22:19+00:00",
+     "s": -1
+    },
+    {
+     "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+     "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+     "source": "Decrypt",
+     "time": "2026-11-25T20:36:03+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+     "source": "The Block",
+     "time": "2026-11-25T19:37:10+00:00",
+     "s": 0
+    },
+    {
+     "title": "CleanSpark is selling Bitcoin to fund its AI expansion as annual losses approach $1 billion",
+     "link": "https://cryptoslate.com/cleanspark-is-selling-bitcoin-to-fund-its-ai-expansion-as-annual-losses-approach-1-billion/",
+     "source": "CryptoSlate",
+     "time": "2026-11-25T19:00:01+00:00",
+     "s": 0
+    },
+    {
+     "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+     "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+     "source": "CoinDesk",
+     "time": "2026-11-25T17:38:33+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+     "link": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-25T17:33:22+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin falls below $58,000 as CoinShares’ Butterfill sees ‘tail end of the bear market’",
+     "link": "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678",
+     "source": "The Block",
+     "time": "2026-11-25T17:26:55+00:00",
+     "s": -1
+    },
+    {
+     "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+     "link": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
+     "source": "Decrypt",
+     "time": "2026-11-25T17:16:02+00:00",
+     "s": 1
+    },
+    {
+     "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
+     "link": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
+     "source": "The Block",
+     "time": "2026-11-25T16:54:15+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
+     "link": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
+     "source": "Decrypt",
+     "time": "2026-11-25T16:52:50+00:00",
+     "s": -1
+    },
     {
      "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
      "link": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
@@ -37,98 +121,28 @@
      "source": "CryptoSlate",
      "time": "2026-11-25T14:00:05+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin’s crash protection could make its next selloff worse as US inflation data looms",
-     "link": "https://cryptoslate.com/bitcoins-crash-protection-could-make-its-next-selloff-worse-as-us-inflation-data-looms/",
-     "source": "CryptoSlate",
-     "time": "2026-11-25T13:10:14+00:00",
-     "s": -1
-    },
-    {
-     "title": "UniCredit offers bitcoin exposure to Italian retail clients with capital protection at maturity",
-     "link": "https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-446150",
-     "source": "The Block",
-     "time": "2026-11-25T12:24:32+00:00",
-     "s": 0
-    },
-    {
-     "title": "‘Don’t mess with X,’ Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
-     "link": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151",
-     "source": "The Block",
-     "time": "2026-11-25T12:14:27+00:00",
-     "s": 0
-    },
-    {
-     "title": "VanEck is dropping Gemini from nearly $1 billion in Bitcoin, Ethereum and Solana ETFs",
-     "link": "https://cryptoslate.com/vaneck-is-dropping-gemini-from-nearly-1-billion-in-bitcoin-ethereum-and-solana-etfs/",
-     "source": "CryptoSlate",
-     "time": "2026-11-25T12:00:24+00:00",
-     "s": 0
-    },
-    {
-     "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
-     "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
-     "source": "CoinDesk",
-     "time": "2026-11-25T11:57:50+00:00",
-     "s": -1
-    },
-    {
-     "title": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
-     "link": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
-     "source": "CoinDesk",
-     "time": "2026-11-25T11:51:54+00:00",
-     "s": 1
-    },
-    {
-     "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
-     "link": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
-     "source": "CoinDesk",
-     "time": "2026-11-25T11:30:32+00:00",
-     "s": 0
-    },
-    {
-     "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
-     "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
-     "source": "Decrypt",
-     "time": "2026-11-25T11:23:57+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
-     "link": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-25T11:12:26+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin price may fall below $53K if bear-market history repeats",
-     "link": "https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-25T11:09:38+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin ETFs gained 191 institutional holders but just 25 drove all the growth",
-     "link": "https://cryptoslate.com/bitcoin-etfs-gained-191-institutional-holders-but-just-25-drove-all-the-growth/",
-     "source": "CryptoSlate",
-     "time": "2026-11-25T10:50:46+00:00",
-     "s": 0
-    },
-    {
-     "title": "Live updates: Bitcoin tumbles to $58,000 alongside continuing tech rout",
-     "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
-     "source": "CoinDesk",
-     "time": "2026-11-25T08:35:47+00:00",
-     "s": -1
     }
    ]
   },
   "ETH": {
-   "pos": 2,
+   "pos": 4,
    "neg": 2,
    "count": 9,
    "items": [
+    {
+     "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+     "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-25T18:54:51+00:00",
+     "s": 1
+    },
+    {
+     "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
+     "link": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
+     "source": "The Block",
+     "time": "2026-11-25T16:54:15+00:00",
+     "s": 1
+    },
     {
      "title": "Bit Digital repays $50 million to Galaxy after selling 29,825 ETH",
      "link": "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164",
@@ -142,13 +156,6 @@
      "source": "Decrypt",
      "time": "2026-11-25T13:41:38+00:00",
      "s": 1
-    },
-    {
-     "title": "VanEck is dropping Gemini from nearly $1 billion in Bitcoin, Ethereum and Solana ETFs",
-     "link": "https://cryptoslate.com/vaneck-is-dropping-gemini-from-nearly-1-billion-in-bitcoin-ethereum-and-solana-etfs/",
-     "source": "CryptoSlate",
-     "time": "2026-11-25T12:00:24+00:00",
-     "s": 0
     },
     {
      "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
@@ -184,28 +191,14 @@
      "source": "Bitcoinist",
      "time": "2026-11-24T14:53:07+00:00",
      "s": -1
-    },
-    {
-     "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
-     "link": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
-     "source": "Decrypt",
-     "time": "2026-11-23T16:46:03+00:00",
-     "s": 0
     }
    ]
   },
   "SOL": {
    "pos": 2,
    "neg": 1,
-   "count": 5,
+   "count": 4,
    "items": [
-    {
-     "title": "VanEck is dropping Gemini from nearly $1 billion in Bitcoin, Ethereum and Solana ETFs",
-     "link": "https://cryptoslate.com/vaneck-is-dropping-gemini-from-nearly-1-billion-in-bitcoin-ethereum-and-solana-etfs/",
-     "source": "CryptoSlate",
-     "time": "2026-11-25T12:00:24+00:00",
-     "s": 0
-    },
     {
      "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
      "link": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -243,10 +236,17 @@
    "items": []
   },
   "XRP": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Ripple’s latest banking partnership opens another route to XRP adoption in Turkey",
+     "link": "https://cryptoslate.com/ripples-latest-banking-partnership-opens-another-route-to-xrp-adoption-in-turkey/",
+     "source": "CryptoSlate",
+     "time": "2026-11-25T20:10:29+00:00",
+     "s": 1
+    },
     {
      "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
      "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
@@ -269,10 +269,17 @@
    "items": []
   },
   "HYPE": {
-   "pos": 0,
+   "pos": 1,
    "neg": 1,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
+     "link": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
+     "source": "The Block",
+     "time": "2026-11-25T16:54:15+00:00",
+     "s": 1
+    },
     {
      "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
      "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
