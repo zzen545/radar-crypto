@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-26T09:03:53.869457+00:00",
+ "updated": "2026-11-26T19:11:35.208141+00:00",
  "window_hours": 48,
- "headlines": 126,
+ "headlines": 122,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,129 +13,122 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 10,
+   "pos": 11,
    "neg": 11,
-   "count": 39,
+   "count": 40,
    "items": [
     {
-     "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
-     "link": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814",
-     "source": "The Block",
-     "time": "2026-11-26T08:50:46+00:00",
-     "s": 1
-    },
-    {
-     "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
-     "link": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
-     "source": "CoinDesk",
-     "time": "2026-11-26T08:01:33+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin could double by 2032 and UniCredit investors would still make just 65%",
-     "link": "https://cryptoslate.com/bitcoin-could-double-by-2032-and-unicredit-investors-would-still-make-just-65/",
-     "source": "CryptoSlate",
-     "time": "2026-11-26T07:20:18+00:00",
-     "s": 0
-    },
-    {
-     "title": "Europe’s only spot bitcoin ETF starts trading in Switzerland, BIT says",
-     "link": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
-     "source": "The Block",
-     "time": "2026-11-26T06:30:00+00:00",
-     "s": 1
-    },
-    {
-     "title": "Over 1,000 Bitcoin miners were tricked into working for a thief by a fake internet route",
-     "link": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes",
-     "source": "CoinDesk",
-     "time": "2026-11-26T06:19:09+00:00",
-     "s": 0
-    },
-    {
-     "title": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more",
-     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-26-fidelity-chainlink-etf-musk-x-ruling-alleged-bitcoin-content-farm-case-more-crypto-news-446755",
-     "source": "The Block",
-     "time": "2026-11-26T05:45:00+00:00",
-     "s": 1
-    },
-    {
-     "title": "Galaxy walks back bitcoin’s June-bottom call, warns of deeper losses below $58,525",
-     "link": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
-     "source": "The Block",
-     "time": "2026-11-26T05:16:11+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
-     "link": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
-     "source": "CoinDesk",
-     "time": "2026-11-26T04:46:01+00:00",
-     "s": 0
-    },
-    {
-     "title": "Switzerland’s Crypto Tax Data Deal Could Make Bitcoin Holdings Less Private",
-     "link": "https://bitcoinist.com/switzerland-crypto-tax-data-sharing/",
-     "source": "Bitcoinist",
-     "time": "2026-11-26T04:38:47+00:00",
-     "s": 0
-    },
-    {
-     "title": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
-     "link": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
-     "source": "The Block",
-     "time": "2026-11-26T03:03:01+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Lightning operators could recover stuck payments even after losing channel data",
-     "link": "https://cryptoslate.com/bitcoin-lightning-operators-could-recover-stuck-payments-even-after-losing-channel-data/",
-     "source": "CryptoSlate",
-     "time": "2026-11-26T00:20:15+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin has fallen so far that its original Rainbow Chart has run out of colors",
-     "link": "https://cryptoslate.com/bitcoin-has-fallen-so-far-that-its-original-rainbow-chart-has-run-out-of-colors/",
-     "source": "CryptoSlate",
-     "time": "2026-11-25T22:40:35+00:00",
-     "s": 0
-    },
-    {
-     "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
-     "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-25T21:22:19+00:00",
-     "s": -1
-    },
-    {
-     "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
-     "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+     "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+     "link": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
      "source": "Decrypt",
-     "time": "2026-11-25T20:36:03+00:00",
+     "time": "2026-11-26T18:15:29+00:00",
+     "s": 1
+    },
+    {
+     "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+     "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+     "source": "CoinDesk",
+     "time": "2026-11-26T17:30:00+00:00",
      "s": 0
     },
     {
-     "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
-     "link": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+     "title": "US Strategic Bitcoin Reserve Bill Would Block BTC Sales for 20 Years",
+     "link": "https://bitcoinist.com/us-strategic-bitcoin-reserve-20-year-lockup/",
+     "source": "Bitcoinist",
+     "time": "2026-11-26T17:20:43+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+     "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+     "source": "CoinDesk",
+     "time": "2026-11-26T16:50:23+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin’s recovery above $60,000 faces a threat from Japan while Wall Street sleeps",
+     "link": "https://cryptoslate.com/bitcoins-recovery-above-60000-faces-a-threat-from-japan-while-wall-street-sleeps/",
+     "source": "CryptoSlate",
+     "time": "2026-11-26T16:20:29+00:00",
+     "s": 1
+    },
+    {
+     "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
+     "link": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
      "source": "The Block",
-     "time": "2026-11-25T19:37:10+00:00",
+     "time": "2026-11-26T16:18:24+00:00",
+     "s": 0
+    },
+    {
+     "title": "US government could be barred from selling its strategic Bitcoin holdings for 20 years",
+     "link": "https://cryptoslate.com/us-government-could-be-barred-from-selling-its-strategic-bitcoin-holdings-for-20-years/",
+     "source": "CryptoSlate",
+     "time": "2026-11-26T13:40:29+00:00",
+     "s": 0
+    },
+    {
+     "title": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over",
+     "link": "https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over",
+     "source": "Decrypt",
+     "time": "2026-11-26T12:26:08+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin’s recovery hinges on a US economic slowdown without a recession",
+     "link": "https://cryptoslate.com/bitcoins-recovery-hinges-on-a-us-economic-slowdown-without-a-recession/",
+     "source": "CryptoSlate",
+     "time": "2026-11-26T12:20:13+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+     "link": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+     "source": "CoinDesk",
+     "time": "2026-11-26T12:14:46+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-26T11:22:59+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
+     "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
+     "source": "CoinDesk",
+     "time": "2026-11-26T11:17:22+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
+     "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-26T09:42:34+00:00",
+     "s": 0
+    },
+    {
+     "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
+     "link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-26T09:18:15+00:00",
+     "s": 1
+    },
+    {
+     "title": "$7 Billion Bitcoin Options Expiry Gives Bulls a $71,000 Reality Check",
+     "link": "https://bitcoinist.com/bitcoin-options-expiry-7-billion/",
+     "source": "Bitcoinist",
+     "time": "2026-11-26T09:12:15+00:00",
      "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 4,
-   "neg": 2,
-   "count": 8,
+   "pos": 3,
+   "neg": 1,
+   "count": 5,
    "items": [
-    {
-     "title": "Lido tightens Ethereum staking penalties as operators gain access to larger validators",
-     "link": "https://cryptoslate.com/lido-tightens-ethereum-staking-penalties-as-operators-gain-access-to-larger-validators/",
-     "source": "CryptoSlate",
-     "time": "2026-11-26T01:50:48+00:00",
-     "s": 1
-    },
     {
      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
      "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -149,13 +142,6 @@
      "source": "The Block",
      "time": "2026-11-25T16:54:15+00:00",
      "s": 1
-    },
-    {
-     "title": "Bit Digital repays $50 million to Galaxy after selling 29,825 ETH",
-     "link": "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164",
-     "source": "The Block",
-     "time": "2026-11-25T14:15:44+00:00",
-     "s": 0
     },
     {
      "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
@@ -177,68 +163,41 @@
      "source": "Decrypt",
      "time": "2026-11-24T20:36:02+00:00",
      "s": 0
-    },
-    {
-     "title": "BitMine’s Ethereum Loss Erases Nearly Three Years of Projected Staking Revenue",
-     "link": "https://bitcoinist.com/bitmines-ethereum-loss-erases-nearly-three-years-of-projected-staking-revenue/",
-     "source": "Bitcoinist",
-     "time": "2026-11-24T14:53:07+00:00",
-     "s": -1
     }
    ]
   },
   "SOL": {
-   "pos": 2,
-   "neg": 1,
-   "count": 5,
+   "pos": 1,
+   "neg": 0,
+   "count": 1,
    "items": [
-    {
-     "title": "SBI brings Japanese stocks to Solana but investors face a five-day wait to cash out",
-     "link": "https://cryptoslate.com/sbi-brings-japanese-stocks-to-solana-but-investors-face-a-five-day-wait-to-cash-out/",
-     "source": "CryptoSlate",
-     "time": "2026-11-26T04:30:59+00:00",
-     "s": 0
-    },
     {
      "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
      "link": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
      "time": "2026-11-25T11:49:54+00:00",
      "s": 1
-    },
-    {
-     "title": "Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
-     "link": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
-     "source": "The Block",
-     "time": "2026-11-25T10:23:10+00:00",
-     "s": 1
-    },
-    {
-     "title": "Solana developers move to stop validators finishing work on blocks that already lost",
-     "link": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
-     "source": "CoinDesk",
-     "time": "2026-11-25T06:33:10+00:00",
-     "s": 0
-    },
-    {
-     "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
-     "link": "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-25T05:32:55+00:00",
-     "s": -1
     }
    ]
   },
   "BNB": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "BNB Chain’s New Blockchain Hides Who Is Trading, But Not What They Trade",
+     "link": "https://bitcoinist.com/bnb-chain-new-blockchain-private-defi/",
+     "source": "Bitcoinist",
+     "time": "2026-11-26T14:55:42+00:00",
+     "s": 0
+    }
+   ]
   },
   "XRP": {
-   "pos": 1,
+   "pos": 0,
    "neg": 1,
-   "count": 3,
+   "count": 1,
    "items": [
     {
      "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
@@ -246,20 +205,6 @@
      "source": "CoinDesk",
      "time": "2026-11-26T05:30:38+00:00",
      "s": -1
-    },
-    {
-     "title": "Ripple’s latest banking partnership opens another route to XRP adoption in Turkey",
-     "link": "https://cryptoslate.com/ripples-latest-banking-partnership-opens-another-route-to-xrp-adoption-in-turkey/",
-     "source": "CryptoSlate",
-     "time": "2026-11-25T20:10:29+00:00",
-     "s": 1
-    },
-    {
-     "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
-     "link": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
-     "source": "CoinDesk",
-     "time": "2026-11-25T06:15:08+00:00",
-     "s": 0
     }
    ]
   },
