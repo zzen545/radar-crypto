@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-26T19:11:35.208141+00:00",
+ "updated": "2026-11-27T02:19:56.147393+00:00",
  "window_hours": 48,
- "headlines": 122,
+ "headlines": 119,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
@@ -13,10 +13,17 @@
  "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 11,
-   "neg": 11,
-   "count": 40,
+   "pos": 10,
+   "neg": 8,
+   "count": 36,
    "items": [
+    {
+     "title": "Bitcoin’s $60,000 recovery masks a growing threat that could push its price as low as $29,000",
+     "link": "https://cryptoslate.com/bitcoins-60000-recovery-masks-a-growing-threat-that-could-push-its-price-as-low-as-29000/",
+     "source": "CryptoSlate",
+     "time": "2026-11-26T19:30:23+00:00",
+     "s": 0
+    },
     {
      "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
      "link": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
@@ -60,25 +67,11 @@
      "s": 0
     },
     {
-     "title": "US government could be barred from selling its strategic Bitcoin holdings for 20 years",
-     "link": "https://cryptoslate.com/us-government-could-be-barred-from-selling-its-strategic-bitcoin-holdings-for-20-years/",
-     "source": "CryptoSlate",
-     "time": "2026-11-26T13:40:29+00:00",
-     "s": 0
-    },
-    {
      "title": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over",
      "link": "https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over",
      "source": "Decrypt",
      "time": "2026-11-26T12:26:08+00:00",
      "s": 0
-    },
-    {
-     "title": "Bitcoin’s recovery hinges on a US economic slowdown without a recession",
-     "link": "https://cryptoslate.com/bitcoins-recovery-hinges-on-a-us-economic-slowdown-without-a-recession/",
-     "source": "CryptoSlate",
-     "time": "2026-11-26T12:20:13+00:00",
-     "s": 1
     },
     {
      "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
@@ -121,13 +114,20 @@
      "source": "Bitcoinist",
      "time": "2026-11-26T09:12:15+00:00",
      "s": 0
+    },
+    {
+     "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
+     "link": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814",
+     "source": "The Block",
+     "time": "2026-11-26T08:50:46+00:00",
+     "s": 1
     }
    ]
   },
   "ETH": {
    "pos": 3,
    "neg": 1,
-   "count": 5,
+   "count": 4,
    "items": [
     {
      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
@@ -156,35 +156,27 @@
      "source": "CoinDesk",
      "time": "2026-11-25T11:57:50+00:00",
      "s": -1
-    },
-    {
-     "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
-     "link": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
-     "source": "Decrypt",
-     "time": "2026-11-24T20:36:02+00:00",
-     "s": 0
     }
    ]
   },
   "SOL": {
-   "pos": 1,
+   "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
-     "link": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-25T11:49:54+00:00",
-     "s": 1
-    }
-   ]
+   "count": 0,
+   "items": []
   },
   "BNB": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+     "link": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-26T21:42:43+00:00",
+     "s": 0
+    },
     {
      "title": "BNB Chain’s New Blockchain Hides Who Is Trading, But Not What They Trade",
      "link": "https://bitcoinist.com/bnb-chain-new-blockchain-private-defi/",
@@ -195,10 +187,17 @@
    ]
   },
   "XRP": {
-   "pos": 0,
+   "pos": 1,
    "neg": 1,
-   "count": 1,
+   "count": 2,
    "items": [
+    {
+     "title": "XRP sellers could lose an extra $3,146 on a large trade if five accounts pull their buy orders",
+     "link": "https://cryptoslate.com/xrp-sellers-could-lose-an-extra-3146-on-a-large-trade-if-five-accounts-pull-their-buy-orders/",
+     "source": "CryptoSlate",
+     "time": "2026-11-26T23:10:43+00:00",
+     "s": 1
+    },
     {
      "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
      "link": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
