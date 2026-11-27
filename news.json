@@ -1,22 +1,51 @@
 {
- "updated": "2026-11-27T02:19:56.147393+00:00",
+ "updated": "2026-11-27T11:06:39.366829+00:00",
  "window_hours": 48,
- "headlines": 119,
+ "headlines": 113,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block",
-  "Bitcoinist"
+  "The Block"
  ],
- "feeds_failed": {},
+ "feeds_failed": {
+  "Bitcoinist": "mismatched tag: line 93, column 2"
+ },
  "coins": {
   "BTC": {
-   "pos": 10,
+   "pos": 8,
    "neg": 8,
-   "count": 36,
+   "count": 30,
    "items": [
+    {
+     "title": "Switzerland is bringing Bitcoin self-custody into a global crypto tax reporting network",
+     "link": "https://cryptoslate.com/switzerland-is-bringing-bitcoin-self-custody-into-a-global-crypto-tax-reporting-network/",
+     "source": "CryptoSlate",
+     "time": "2026-11-27T10:00:49+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
+     "link": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
+     "source": "CoinDesk",
+     "time": "2026-11-27T09:49:55+00:00",
+     "s": 1
+    },
+    {
+     "title": "Bitcoin’s crash fears fade ahead of $7.5 billion options expiry, but December tells a different story",
+     "link": "https://cryptoslate.com/bitcoins-crash-fears-fade-ahead-of-7-5-billion-options-expiry-but-december-tells-a-different-story/",
+     "source": "CryptoSlate",
+     "time": "2026-11-27T08:40:14+00:00",
+     "s": -1
+    },
+    {
+     "title": "JPMorgan flags bitcoin ‘capitulation,’ Democrats push back on SEC’s crypto plans, and more",
+     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
+     "source": "The Block",
+     "time": "2026-11-27T02:20:00+00:00",
+     "s": -1
+    },
     {
      "title": "Bitcoin’s $60,000 recovery masks a growing threat that could push its price as low as $29,000",
      "link": "https://cryptoslate.com/bitcoins-60000-recovery-masks-a-growing-threat-that-could-push-its-price-as-low-as-29000/",
@@ -39,24 +68,10 @@
      "s": 0
     },
     {
-     "title": "US Strategic Bitcoin Reserve Bill Would Block BTC Sales for 20 Years",
-     "link": "https://bitcoinist.com/us-strategic-bitcoin-reserve-20-year-lockup/",
-     "source": "Bitcoinist",
-     "time": "2026-11-26T17:20:43+00:00",
-     "s": 0
-    },
-    {
      "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
      "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
      "source": "CoinDesk",
      "time": "2026-11-26T16:50:23+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin’s recovery above $60,000 faces a threat from Japan while Wall Street sleeps",
-     "link": "https://cryptoslate.com/bitcoins-recovery-above-60000-faces-a-threat-from-japan-while-wall-street-sleeps/",
-     "source": "CryptoSlate",
-     "time": "2026-11-26T16:20:29+00:00",
      "s": 1
     },
     {
@@ -107,40 +122,47 @@
      "source": "Cointelegraph",
      "time": "2026-11-26T09:18:15+00:00",
      "s": 1
-    },
-    {
-     "title": "$7 Billion Bitcoin Options Expiry Gives Bulls a $71,000 Reality Check",
-     "link": "https://bitcoinist.com/bitcoin-options-expiry-7-billion/",
-     "source": "Bitcoinist",
-     "time": "2026-11-26T09:12:15+00:00",
-     "s": 0
-    },
-    {
-     "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
-     "link": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814",
-     "source": "The Block",
-     "time": "2026-11-26T08:50:46+00:00",
-     "s": 1
     }
    ]
   },
   "ETH": {
-   "pos": 3,
-   "neg": 1,
-   "count": 4,
+   "pos": 5,
+   "neg": 0,
+   "count": 6,
    "items": [
     {
-     "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
-     "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-25T18:54:51+00:00",
+     "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+     "link": "https://decrypt.co/384104/ethereum-sets-december-15-date-for-delayed-glamsterdam-testnet-upgrade",
+     "source": "Decrypt",
+     "time": "2026-11-27T10:15:51+00:00",
      "s": 1
     },
     {
-     "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
-     "link": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
+     "title": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051",
      "source": "The Block",
-     "time": "2026-11-25T16:54:15+00:00",
+     "time": "2026-11-27T07:51:14+00:00",
+     "s": 1
+    },
+    {
+     "title": "Ethereum’s quantum defense plans could delay a major upgrade to stop transaction censorship",
+     "link": "https://cryptoslate.com/ethereums-quantum-defense-plans-could-delay-a-major-upgrade-to-stop-transaction-censorship/",
+     "source": "CryptoSlate",
+     "time": "2026-11-27T06:40:09+00:00",
+     "s": 1
+    },
+    {
+     "title": "Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays",
+     "link": "https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-27T04:47:36+00:00",
+     "s": 0
+    },
+    {
+     "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+     "link": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+     "source": "CoinDesk",
+     "time": "2026-11-27T04:29:47+00:00",
      "s": 1
     },
     {
@@ -149,13 +171,6 @@
      "source": "Decrypt",
      "time": "2026-11-25T13:41:38+00:00",
      "s": 1
-    },
-    {
-     "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
-     "link": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
-     "source": "CoinDesk",
-     "time": "2026-11-25T11:57:50+00:00",
-     "s": -1
     }
    ]
   },
@@ -168,7 +183,7 @@
   "BNB": {
    "pos": 0,
    "neg": 0,
-   "count": 2,
+   "count": 1,
    "items": [
     {
      "title": "BNB Chain details new layer-1 for trading, private finance and AI",
@@ -176,21 +191,21 @@
      "source": "Cointelegraph",
      "time": "2026-11-26T21:42:43+00:00",
      "s": 0
-    },
-    {
-     "title": "BNB Chain’s New Blockchain Hides Who Is Trading, But Not What They Trade",
-     "link": "https://bitcoinist.com/bnb-chain-new-blockchain-private-defi/",
-     "source": "Bitcoinist",
-     "time": "2026-11-26T14:55:42+00:00",
-     "s": 0
     }
    ]
   },
   "XRP": {
    "pos": 1,
    "neg": 1,
-   "count": 2,
+   "count": 3,
    "items": [
+    {
+     "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+     "link": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+     "source": "CoinDesk",
+     "time": "2026-11-27T05:06:32+00:00",
+     "s": 0
+    },
     {
      "title": "XRP sellers could lose an extra $3,146 on a large trade if five accounts pull their buy orders",
      "link": "https://cryptoslate.com/xrp-sellers-could-lose-an-extra-3146-on-a-large-trade-if-five-accounts-pull-their-buy-orders/",
@@ -220,17 +235,10 @@
    "items": []
   },
   "HYPE": {
-   "pos": 1,
+   "pos": 0,
    "neg": 1,
-   "count": 2,
+   "count": 1,
    "items": [
-    {
-     "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
-     "link": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
-     "source": "The Block",
-     "time": "2026-11-25T16:54:15+00:00",
-     "s": 1
-    },
     {
      "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
      "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
@@ -261,16 +269,8 @@
   "XAU": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
-   "items": [
-    {
-     "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
-     "link": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
-     "source": "CoinDesk",
-     "time": "2026-11-25T11:30:32+00:00",
-     "s": 0
-    }
-   ]
+   "count": 0,
+   "items": []
   }
  }
 }
