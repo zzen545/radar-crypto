@@ -1,135 +1,148 @@
 {
- "updated": "2026-11-27T11:06:39.366829+00:00",
+ "updated": "2026-11-27T20:07:09.584745+00:00",
  "window_hours": 48,
- "headlines": 113,
+ "headlines": 116,
  "feeds_ok": [
   "CoinDesk",
   "Cointelegraph",
   "Decrypt",
   "CryptoSlate",
-  "The Block"
+  "The Block",
+  "Bitcoinist"
  ],
- "feeds_failed": {
-  "Bitcoinist": "mismatched tag: line 93, column 2"
- },
+ "feeds_failed": {},
  "coins": {
   "BTC": {
-   "pos": 8,
-   "neg": 8,
-   "count": 30,
+   "pos": 10,
+   "neg": 7,
+   "count": 37,
    "items": [
     {
-     "title": "Switzerland is bringing Bitcoin self-custody into a global crypto tax reporting network",
-     "link": "https://cryptoslate.com/switzerland-is-bringing-bitcoin-self-custody-into-a-global-crypto-tax-reporting-network/",
-     "source": "CryptoSlate",
-     "time": "2026-11-27T10:00:49+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
-     "link": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
-     "source": "CoinDesk",
-     "time": "2026-11-27T09:49:55+00:00",
-     "s": 1
-    },
-    {
-     "title": "Bitcoin’s crash fears fade ahead of $7.5 billion options expiry, but December tells a different story",
-     "link": "https://cryptoslate.com/bitcoins-crash-fears-fade-ahead-of-7-5-billion-options-expiry-but-december-tells-a-different-story/",
-     "source": "CryptoSlate",
-     "time": "2026-11-27T08:40:14+00:00",
-     "s": -1
-    },
-    {
-     "title": "JPMorgan flags bitcoin ‘capitulation,’ Democrats push back on SEC’s crypto plans, and more",
-     "link": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
-     "source": "The Block",
-     "time": "2026-11-27T02:20:00+00:00",
-     "s": -1
-    },
-    {
-     "title": "Bitcoin’s $60,000 recovery masks a growing threat that could push its price as low as $29,000",
-     "link": "https://cryptoslate.com/bitcoins-60000-recovery-masks-a-growing-threat-that-could-push-its-price-as-low-as-29000/",
-     "source": "CryptoSlate",
-     "time": "2026-11-26T19:30:23+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
-     "link": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+     "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+     "link": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
      "source": "Decrypt",
-     "time": "2026-11-26T18:15:29+00:00",
-     "s": 1
-    },
-    {
-     "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
-     "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
-     "source": "CoinDesk",
-     "time": "2026-11-26T17:30:00+00:00",
+     "time": "2026-11-27T19:46:02+00:00",
      "s": 0
     },
     {
-     "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
-     "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
-     "source": "CoinDesk",
-     "time": "2026-11-26T16:50:23+00:00",
-     "s": 1
-    },
-    {
-     "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
-     "link": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
-     "source": "The Block",
-     "time": "2026-11-26T16:18:24+00:00",
-     "s": 0
-    },
-    {
-     "title": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over",
-     "link": "https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over",
-     "source": "Decrypt",
-     "time": "2026-11-26T12:26:08+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
-     "link": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
-     "source": "CoinDesk",
-     "time": "2026-11-26T12:14:46+00:00",
-     "s": 0
-    },
-    {
-     "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
-     "link": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+     "link": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
-     "time": "2026-11-26T11:22:59+00:00",
+     "time": "2026-11-27T19:23:00+00:00",
+     "s": 0
+    },
+    {
+     "title": "How Coldcard’s $112 million Bitcoin exploit slipped past 15 security reviews",
+     "link": "https://cryptoslate.com/how-coldcards-112-million-bitcoin-exploit-slipped-past-15-security-reviews/",
+     "source": "CryptoSlate",
+     "time": "2026-11-27T19:00:40+00:00",
      "s": -1
     },
     {
-     "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
-     "link": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
-     "source": "CoinDesk",
-     "time": "2026-11-26T11:17:22+00:00",
+     "title": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
+     "link": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
+     "source": "Decrypt",
+     "time": "2026-11-27T18:16:03+00:00",
      "s": 0
     },
     {
-     "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
-     "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-26T09:42:34+00:00",
-     "s": 0
-    },
-    {
-     "title": "Switzerland’s first spot Bitcoin ETF ticks up 0.6% in opening hour",
-     "link": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "source": "Cointelegraph",
-     "time": "2026-11-26T09:18:15+00:00",
+     "title": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+     "link": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
+     "source": "The Block",
+     "time": "2026-11-27T18:13:45+00:00",
      "s": 1
+    },
+    {
+     "title": "Will Bitcoin Recover? New Whale Data Offers Hope After 29.5% Price Drop",
+     "link": "https://bitcoinist.com/will-bitcoin-recover/",
+     "source": "Bitcoinist",
+     "time": "2026-11-27T17:50:15+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+     "link": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "source": "Cointelegraph",
+     "time": "2026-11-27T16:48:51+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin dodged one risk from Japan and now faces a Monday reckoning",
+     "link": "https://cryptoslate.com/a-weaker-yen-eased-one-cost-for-bitcoin-traders-who-borrowed-in-yen/",
+     "source": "CryptoSlate",
+     "time": "2026-11-27T16:40:25+00:00",
+     "s": -1
+    },
+    {
+     "title": "AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+     "link": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
+     "source": "The Block",
+     "time": "2026-11-27T14:24:21+00:00",
+     "s": -1
+    },
+    {
+     "title": "Bitcoin’s turbulent week has created a $16 billion opportunity for a short squeeze",
+     "link": "https://cryptoslate.com/bitcoins-turbulent-week-has-created-a-16-billion-opportunity-for-a-short-squeeze/",
+     "source": "CryptoSlate",
+     "time": "2026-11-27T14:10:23+00:00",
+     "s": 0
+    },
+    {
+     "title": "Japan weighs safeguards for Bitcoin holders who keep their own keys",
+     "link": "https://cryptoslate.com/japan-weighs-safeguards-for-bitcoin-holders-who-keep-their-own-keys/",
+     "source": "CryptoSlate",
+     "time": "2026-11-27T13:40:56+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+     "link": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
+     "source": "CoinDesk",
+     "time": "2026-11-27T12:16:07+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+     "link": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
+     "source": "CoinDesk",
+     "time": "2026-11-27T11:45:47+00:00",
+     "s": 1
+    },
+    {
+     "title": "Live updates: Bitcoin's Thanksgiving gains prove fleeting",
+     "link": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
+     "source": "CoinDesk",
+     "time": "2026-11-27T11:34:37+00:00",
+     "s": 1
+    },
+    {
+     "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+     "link": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+     "source": "CoinDesk",
+     "time": "2026-11-27T11:22:42+00:00",
+     "s": 0
     }
    ]
   },
   "ETH": {
-   "pos": 5,
+   "pos": 3,
    "neg": 0,
    "count": 6,
    "items": [
+    {
+     "title": "What's on the Ethereum Roadmap: Glamsterdam, Hegotá and Beyond",
+     "link": "https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond",
+     "source": "Decrypt",
+     "time": "2026-11-27T13:50:04+00:00",
+     "s": 0
+    },
+    {
+     "title": "Bit Digital borrowed against Ethereum to fund AI, and now its crypto treasury is paying the price",
+     "link": "https://cryptoslate.com/bit-digital-borrowed-against-ethereum-to-fund-ai-and-now-its-crypto-treasury-is-paying-the-price/",
+     "source": "CryptoSlate",
+     "time": "2026-11-27T12:40:54+00:00",
+     "s": 0
+    },
     {
      "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
      "link": "https://decrypt.co/384104/ethereum-sets-december-15-date-for-delayed-glamsterdam-testnet-upgrade",
@@ -145,13 +158,6 @@
      "s": 1
     },
     {
-     "title": "Ethereum’s quantum defense plans could delay a major upgrade to stop transaction censorship",
-     "link": "https://cryptoslate.com/ethereums-quantum-defense-plans-could-delay-a-major-upgrade-to-stop-transaction-censorship/",
-     "source": "CryptoSlate",
-     "time": "2026-11-27T06:40:09+00:00",
-     "s": 1
-    },
-    {
      "title": "Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays",
      "link": "https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "source": "Cointelegraph",
@@ -163,13 +169,6 @@
      "link": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
      "source": "CoinDesk",
      "time": "2026-11-27T04:29:47+00:00",
-     "s": 1
-    },
-    {
-     "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
-     "link": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
-     "source": "Decrypt",
-     "time": "2026-11-25T13:41:38+00:00",
      "s": 1
     }
    ]
@@ -183,7 +182,7 @@
   "BNB": {
    "pos": 0,
    "neg": 0,
-   "count": 1,
+   "count": 2,
    "items": [
     {
      "title": "BNB Chain details new layer-1 for trading, private finance and AI",
@@ -191,13 +190,20 @@
      "source": "Cointelegraph",
      "time": "2026-11-26T21:42:43+00:00",
      "s": 0
+    },
+    {
+     "title": "BNB Chain’s New Blockchain Hides Who Is Trading, But Not What They Trade",
+     "link": "https://bitcoinist.com/bnb-chain-new-blockchain-private-defi/",
+     "source": "Bitcoinist",
+     "time": "2026-11-26T14:55:42+00:00",
+     "s": 0
     }
    ]
   },
   "XRP": {
-   "pos": 1,
-   "neg": 1,
-   "count": 3,
+   "pos": 0,
+   "neg": 0,
+   "count": 2,
    "items": [
     {
      "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
@@ -207,26 +213,27 @@
      "s": 0
     },
     {
-     "title": "XRP sellers could lose an extra $3,146 on a large trade if five accounts pull their buy orders",
-     "link": "https://cryptoslate.com/xrp-sellers-could-lose-an-extra-3146-on-a-large-trade-if-five-accounts-pull-their-buy-orders/",
-     "source": "CryptoSlate",
-     "time": "2026-11-26T23:10:43+00:00",
-     "s": 1
-    },
-    {
-     "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
-     "link": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
-     "source": "CoinDesk",
-     "time": "2026-11-26T05:30:38+00:00",
-     "s": -1
+     "title": "XRP Price Below $1: Can a $25 Million Options Expiry Change the Market?",
+     "link": "https://bitcoinist.com/xrp-price-25-million-options-expiry/",
+     "source": "Bitcoinist",
+     "time": "2026-11-27T04:55:23+00:00",
+     "s": 0
     }
    ]
   },
   "DOGE": {
    "pos": 0,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "Dogecoin Price Down Nearly 25% in November: Here’s What History Says About December.",
+     "link": "https://bitcoinist.com/dogecoin-price-november-loss-december-outlook/",
+     "source": "Bitcoinist",
+     "time": "2026-11-27T10:06:53+00:00",
+     "s": 0
+    }
+   ]
   },
   "TAO": {
    "pos": 0,
@@ -235,16 +242,16 @@
    "items": []
   },
   "HYPE": {
-   "pos": 0,
-   "neg": 1,
+   "pos": 1,
+   "neg": 0,
    "count": 1,
    "items": [
     {
-     "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
-     "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
-     "source": "Decrypt",
-     "time": "2026-11-25T11:23:57+00:00",
-     "s": -1
+     "title": "Hyperliquid (HYPE) Surges Nearly 9% Despite $120 Million In Whale Shorts",
+     "link": "https://bitcoinist.com/hyperliquid-price-surge-whale-shorts/",
+     "source": "Bitcoinist",
+     "time": "2026-11-27T13:52:28+00:00",
+     "s": 1
     }
    ]
   },
@@ -267,10 +274,18 @@
    "items": []
   },
   "XAU": {
-   "pos": 0,
+   "pos": 1,
    "neg": 0,
-   "count": 0,
-   "items": []
+   "count": 1,
+   "items": [
+    {
+     "title": "MEXC Launches Golden Gratitude Gala With a 10M USDT Prize Pool, Including a Gold Bar and BTC",
+     "link": "https://bitcoinist.com/mexc-launches-golden-gratitude-gala-with-a-10m-usdt-prize-pool-including-a-gold-bar-and-btc/",
+     "source": "Bitcoinist",
+     "time": "2026-11-27T10:06:08+00:00",
+     "s": 1
+    }
+   ]
   }
  }
 }
